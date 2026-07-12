@@ -1,5 +1,24 @@
 // 20VC Decoded — compiled from RSS-feed metadata (all 1,481 episodes, Jan 2015–Jul 2026)
-// and 9 real yt-dlp transcript reads spanning 2022–2026. See methodology section on page.
+// and 17 real transcript reads spanning 2015–2026 (9 via YouTube captions 2022+,
+// 8 via local Whisper transcription of the original RSS-feed audio for 2015-2021,
+// since YouTube has no captions and 20VC never published transcripts pre-2022).
+// See methodology section on page.
+
+// Assertiveness Index by year — averaged from each year's read transcript(s), 1-10 editorial scale
+export const ASSERTIVENESS_BY_YEAR = [
+  { year: "2015", score: 1 },
+  { year: "2016", score: 2.5 },
+  { year: "2017", score: 4 },
+  { year: "2018", score: 3 },
+  { year: "2019", score: 2.5 },
+  { year: "2020", score: 4.5 },
+  { year: "2021", score: 5 },
+  { year: "2022", score: 4 },
+  { year: "2023", score: 6 },
+  { year: "2024", score: 6 },
+  { year: "2025", score: 8 },
+  { year: "2026", score: 7.5 },
+];
 
 export const SHOW = {
   totalEpisodes: 1481,
@@ -114,6 +133,142 @@ export type CaseStudy = {
 };
 
 export const CASE_STUDIES: CaseStudy[] = [
+  {
+    guest: "Guy Kawasaki",
+    role: "Founding Partner, Garage Technology Ventures",
+    date: "Jan 2015",
+    era: "2015",
+    color: "#fbbf24",
+    style: "Episode #1. Terse, single-line questions with almost no framing or follow-up — pure Q&A, no elaboration.",
+    tone: "Nervous, deferential, apologetic (\"sorry, this is slightly off topic\") — visibly new to interviewing.",
+    depth: "Surface-level; accepts short answers without probing, no cross-referencing (there was nothing to reference yet).",
+    assertiveness: 1,
+    quote: "When you think of success, who's the first person that comes to mind?",
+    learnings: [
+      "Product matters more than team — a great product with a weak team can still find a new team.",
+      "Forecasts are almost always over-optimistic, never under.",
+      "Persuasion and social psychology are core entrepreneurial skills.",
+    ],
+  },
+  {
+    guest: "Logan Bartlett",
+    role: "Investor, Battery Ventures",
+    date: "Apr 2016",
+    era: "2016",
+    color: "#f59e0b",
+    style: "Questions grow into full paragraphs with flattery and context, but still zero pushback — pure interview, not dialogue.",
+    tone: "Enthusiastic, heavily sponsor-read-laden (mattress and accounting-software ads bookend the episode).",
+    depth: "Genuinely probes fund mechanics (reserves, deal sourcing, Series A crunch) with real follow-ups.",
+    assertiveness: 3,
+    quote: "How have you gone about trying to build your own personal brand and identity?",
+    learnings: [
+      "Career pattern-recognition is built by reading company histories, not just observing deals.",
+      "Series A crunch is intensified by \"me-too\" competitors emerging faster than ever.",
+      "Companies staying private longer helps innovation pace but can inflate valuations.",
+    ],
+  },
+  {
+    guest: "Alexis Ohanian",
+    role: "Co-founder, Reddit & Initialized Capital",
+    date: "Dec 2016",
+    era: "2016",
+    color: "#f59e0b",
+    style: "Long, effusive setup questions, some relayed from a third-party contributor — entirely receiving, no contesting.",
+    tone: "Fannish (\"I've wanted to have him on for a long, long time\"), warm, personal topics welcomed.",
+    depth: "Digs into operator-to-investor transition and portfolio-support infrastructure with genuine follow-ups.",
+    assertiveness: 3,
+    quote: "What were the biggest surprises about the move into VC?",
+    learnings: [
+      "The best seed investors run monthly office hours drilling into one key metric, not scattershot advice.",
+      "Kindness is a long-term investment strategy, not weakness, in venture.",
+      "Rejecting founders with specific, honest feedback builds reputation and repeat access.",
+    ],
+  },
+  {
+    guest: "Alex Mittal",
+    role: "Founder & CEO, FundersClub",
+    date: "Mar 2017",
+    era: "2017",
+    color: "#f59e0b",
+    style: "Noticeably sharper than 2015-16 — directly challenges the guest's thesis (\"is that a feasible avenue... or not?\") rather than just receiving.",
+    tone: "Casual, references \"stalking\" the guest's Twitter — early sign of pre-interview research as a bit.",
+    depth: "Pushes on real mechanics: on-demand unit economics, AI-hype skepticism, API-layer thesis.",
+    assertiveness: 4,
+    quote: "Is this a bubble, or is this the new reality? Where are we at?",
+    learnings: [
+      "On-demand businesses need both real defensibility and sane unit economics, not just consumer demand.",
+      "2017-era AI (deep learning) was pattern-matching, not reasoning — calibrate hype accordingly.",
+      "Brand-driven consumer companies can justify VC backing only if brand itself is defensible.",
+    ],
+  },
+  {
+    guest: "Elad Gil",
+    role: "Founder, Color Genomics (2nd appearance)",
+    date: "Jul 2018",
+    era: "2018",
+    color: "#fb923c",
+    style: "Explicitly framed as \"round two.\" Announces thematic chapters upfront (CEO-ship, VC trends, founder trends) — a structural sophistication not seen in 2015-17. Zero pushback; pure long-form receiving.",
+    tone: "Reverent (\"if you buy one book this year, it has to be this\"), but substantively deeper than earlier eras.",
+    depth: "Genuinely sophisticated — synthesizes the guest's own book, other guests' takes (Jason Lemkin, Hunter Walk), real data points.",
+    assertiveness: 3,
+    quote: "For those that maybe missed round one of our interview...",
+    learnings: [
+      "CEO role concentrates into 4-5 functions as companies scale: hiring, resource allocation, strategy, external face, fundraising.",
+      "Preemptive funding rounds are driven by bigger funds, fewer great companies, and bigger outcomes.",
+      "Distribution, not just product, becomes the real moat once a company has scale.",
+    ],
+  },
+  {
+    guest: "Josh Kopelman",
+    role: "Founder & Partner, First Round Capital",
+    date: "Jan 2019",
+    era: "2019",
+    color: "#fb923c",
+    style: "Treats the guest as a bucket-list name (\"one of three people I most wanted on the show\") — reverent, long, well-prepared questions, no contesting.",
+    tone: "Star-struck, self-improvement framing (\"I ruthlessly use it for my own self-improvement\").",
+    depth: "Strong practitioner-level follow-ups on price sensitivity, reserves, and board mechanics.",
+    assertiveness: 3,
+    quote: "How do you think about your own price sensitivity as a seed investor?",
+    learnings: [
+      "Ownership is built on the first check — later-round dollars are more cash-on-cash than multiple-driving.",
+      "The best board members ask questions rather than supply answers.",
+      "\"Picking\" is an underrated skill — most founders rush it, spending weeks on an idea they'll execute for years.",
+    ],
+  },
+  {
+    guest: "Elad Gil",
+    role: "Angel Investor (3rd appearance)",
+    date: "May 2020",
+    era: "2020",
+    color: "#fb923c",
+    style: "Explicitly references \"over three years since our last episode.\" First real sign of triangulating the guest against other guests' opposing views (cites Bill Gurley) rather than pure reception.",
+    tone: "Still warm, but noticeably more analytical and less fannish than 2018.",
+    depth: "Genuinely sharp on COVID-era stress-testing, layoffs strategy, and structure/liquidation terms.",
+    assertiveness: 4.5,
+    quote: "Do you buy the \"open for business\" messaging, or is it VC marketing?",
+    learnings: [
+      "Companies need 2-3 years of runway in a downturn — model both customer-level and revenue-level stress tests.",
+      "\"Never waste a good recession\" — repositioning and M&A opportunities emerge for well-capitalized companies.",
+      "Layoffs should be deep, fast, and single-event — repeated rounds destroy morale far worse than one large cut.",
+    ],
+  },
+  {
+    guest: "Byron Deeter",
+    role: "Partner, Bessemer Venture Partners",
+    date: "May 2021",
+    era: "2021",
+    color: "#f97316",
+    style: "Most assertive of the pre-2022 sample — blunt, direct challenges (\"is the rise of preemptive rounds... making life really fucking hard\") delivered repeatedly, not just once.",
+    tone: "Warm and joking (\"my favorite self-made British VC, baby\") but willing to press hard and use profanity.",
+    depth: "Deeply technical on SaaS/cloud investing mechanics — reserve strategy, incumbent-disadvantage theory, platform economics.",
+    assertiveness: 5,
+    quote: "Are you worried about the market... shitting the bed?",
+    learnings: [
+      "\"Incumbent advantage\" is often actually incumbent disadvantage — focused startups usually beat slow incumbents.",
+      "Platform graduation risk (customers building in-house once they scale) is far rarer than feared if the product keeps improving.",
+      "Raise a half-round ahead of need, not a full round — over-raising just adds dilution without proportional benefit.",
+    ],
+  },
   {
     guest: "Frank Slootman",
     role: "CEO, Snowflake",
@@ -270,6 +425,13 @@ export const CASE_STUDIES: CaseStudy[] = [
 ];
 
 export const REPEAT_GUESTS = [
+  {
+    guest: "Elad Gil",
+    role: "Angel Investor / Founder, Color Genomics",
+    first: { date: "Jul 2018", note: "\"Round two\" appearance — High Growth Handbook, CEO scaling" },
+    second: { date: "May 2020", note: "\"Round three\" — COVID-era offense/defense playbook" },
+    callback: "\"It's been over three years since our last episode... for those that maybe missed round one of our interview...\"",
+  },
   {
     guest: "Nikesh Arora",
     role: "CEO, Palo Alto Networks",
