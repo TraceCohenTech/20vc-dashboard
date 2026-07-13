@@ -1,5 +1,4 @@
 "use client";
-import { useRef } from "react";
 import {
   Mic,
   Clock,
@@ -11,13 +10,6 @@ import {
   Sparkles,
   RotateCcw,
   ShieldAlert,
-  ChevronLeft,
-  ChevronRight,
-  Quote,
-  Flame,
-  Heart,
-  ThumbsDown,
-  Laugh,
 } from "lucide-react";
 import {
   Area,
@@ -41,18 +33,17 @@ import { Funnel } from "@/components/Funnel";
 import { AssertivenessGauge } from "@/components/AssertivenessGauge";
 
 export default function Page() {
-  const caseRef = useRef<HTMLDivElement>(null);
   return (
-    <div id="top" className="min-h-screen text-white">
+    <div id="top" className="min-h-screen text-slate-900">
       <Nav />
 
       {/* HERO */}
-      <header className="relative overflow-hidden bg-black text-white pt-24 sm:pt-28 pb-16 sm:pb-24">
+      <header className="relative overflow-hidden bg-slate-950 text-white pt-24 sm:pt-28 pb-16 sm:pb-24">
         <div className="mesh-bg" aria-hidden>
           <div className="mesh-blob-3" />
         </div>
         <div className="absolute inset-0 grid-pattern opacity-60" />
-        <div className="relative mx-auto max-w-[1200px] px-4 sm:px-6">
+        <div className="relative mx-auto max-w-[1600px] px-4 sm:px-6">
           <Reveal>
             <div className="flex flex-wrap items-center gap-3 mb-5">
               <span className="inline-flex items-center gap-2 rounded-full bg-emerald-500/15 border border-emerald-400/30 px-3 py-1 text-xs font-semibold text-emerald-300">
@@ -101,10 +92,10 @@ export default function Page() {
         </div>
       </header>
 
-      <section className="border-y border-[#262626] bg-[#141414]">
-        <div className="mx-auto max-w-[1200px]">
+      <section className="border-y border-slate-200 bg-white">
+        <div className="mx-auto max-w-[1600px]">
           <div className="px-4 sm:px-6 pt-6">
-            <div className="text-xs uppercase tracking-[0.2em] text-neutral-400 font-semibold">
+            <div className="text-xs uppercase tracking-[0.2em] text-slate-500 font-semibold">
               A sample of the guests behind the data
             </div>
           </div>
@@ -112,41 +103,31 @@ export default function Page() {
         </div>
       </section>
 
-      <main className="mx-auto max-w-[1200px] px-4 sm:px-6 py-12 sm:py-20 space-y-16 sm:space-y-24">
+      <main className="mx-auto max-w-[1600px] px-4 sm:px-6 py-12 sm:py-20 space-y-16 sm:space-y-24">
         {/* BENTO KPI GRID */}
         <Reveal>
           <section>
             <SectionTitle eyebrow="At a glance" title="The show, by the numbers" />
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3 sm:gap-4 auto-rows-[120px] sm:auto-rows-[140px]">
-              <div className="col-span-2 row-span-2 rounded-2xl bg-[#141414] border border-[#262626] p-5 sm:p-6 text-white flex flex-col overflow-hidden relative">
-                <div className="flex items-center gap-2">
-                  <Clock className="h-4 w-4 text-neutral-400" aria-hidden />
-                  <span className="text-xs uppercase tracking-wider text-neutral-400">Avg episode length</span>
+              <div className="col-span-2 row-span-2 rounded-2xl bg-gradient-to-br from-blue-600 via-blue-700 to-cyan-600 p-5 sm:p-6 text-white flex flex-col justify-between overflow-hidden relative">
+                <div className="absolute -right-10 -bottom-10 h-48 w-48 rounded-full bg-white/10 blur-2xl" />
+                <div className="flex items-center gap-2 relative">
+                  <Clock className="h-4 w-4" aria-hidden />
+                  <span className="text-xs uppercase tracking-wider opacity-80">Avg episode length</span>
                 </div>
-                <div className="flex items-baseline gap-3 mt-1">
-                  <div className="text-4xl sm:text-6xl font-black tracking-tight">
-                    <CountUp to={72.6} decimals={1} /><span className="text-2xl sm:text-3xl text-neutral-400">min</span>
+                <div className="relative">
+                  <div className="text-3xl sm:text-5xl font-bold">
+                    <CountUp to={72.6} decimals={1} />min
                   </div>
-                  <div className="text-xs sm:text-sm text-emerald-400 font-semibold">2.9x longer than 2015</div>
-                </div>
-                <div className="flex-1 mt-2 -mx-2" role="img" aria-label="Sparkline of average episode length rising from 25 minutes in 2015 to 72.6 in 2026">
-                  <ResponsiveContainer width="100%" height="100%">
-                    <AreaChart data={YEARLY} margin={{ top: 4, right: 8, left: 8, bottom: 0 }}>
-                      <defs>
-                        <linearGradient id="sparkGrad" x1="0" y1="0" x2="0" y2="1">
-                          <stop offset="0%" stopColor="#22d3ee" stopOpacity={0.5} />
-                          <stop offset="100%" stopColor="#22d3ee" stopOpacity={0.02} />
-                        </linearGradient>
-                      </defs>
-                      <Area type="monotone" dataKey="avgMin" stroke="#22d3ee" strokeWidth={2.5} fill="url(#sparkGrad)" dot={false} />
-                    </AreaChart>
-                  </ResponsiveContainer>
+                  <div className="text-xs sm:text-sm text-blue-100 mt-1">
+                    Up from 25.0min in 2015 · nearly <CountUp to={2.9} decimals={1} />x longer
+                  </div>
                 </div>
               </div>
-              <BentoStat icon={Layers} label="Episodes/yr, peak" value={<CountUp to={156} />} color="text-emerald-400" iconBg="bg-emerald-500/15" />
-              <BentoStat icon={TrendingUp} label="Title clauses 2026" value={<><CountUp to={3.89} decimals={2} />x</>} color="text-amber-400" iconBg="bg-amber-500/15" />
-              <BentoStat icon={Users} label="Repeat guests tracked" value={<CountUp to={3} />} color="text-sky-400" iconBg="bg-sky-500/15" />
-              <BentoStat icon={MessageSquareQuote} label="Verified quotes" value={<CountUp to={5} />} color="text-cyan-400" iconBg="bg-cyan-500/15" />
+              <BentoStat icon={Layers} label="Episodes/yr, peak" value={<CountUp to={156} />} color="text-emerald-700" iconBg="bg-emerald-100" />
+              <BentoStat icon={TrendingUp} label="Title clauses 2026" value={<><CountUp to={3.89} decimals={2} />x</>} color="text-amber-700" iconBg="bg-amber-100" />
+              <BentoStat icon={Users} label="Repeat guests tracked" value={<CountUp to={3} />} color="text-sky-700" iconBg="bg-sky-100" />
+              <BentoStat icon={MessageSquareQuote} label="Verified quotes" value={<CountUp to={5} />} color="text-cyan-700" iconBg="bg-cyan-100" />
             </div>
           </section>
         </Reveal>
@@ -166,12 +147,12 @@ export default function Page() {
                 <Card>
                   <div className="flex items-start justify-between mb-3">
                     <div>
-                      <h3 className="text-lg font-bold text-white">Average episode length</h3>
-                      <p className="text-xs text-neutral-400">Minutes per episode, by year</p>
+                      <h3 className="text-lg font-bold text-slate-900">Average episode length</h3>
+                      <p className="text-xs text-slate-500">Minutes per episode, by year</p>
                     </div>
                     <div className="text-right">
-                      <div className="text-xs text-neutral-400">2015 → 2026</div>
-                      <div className="text-2xl font-bold text-emerald-400">+190%</div>
+                      <div className="text-xs text-slate-500">2015 → 2026</div>
+                      <div className="text-2xl font-bold text-emerald-600">+190%</div>
                     </div>
                   </div>
                   <div className="h-[280px] sm:h-[340px]" role="img" aria-label="Area chart showing average 20VC episode length climbing from 25 minutes in 2015 to 72.6 minutes in 2026">
@@ -183,9 +164,9 @@ export default function Page() {
                             <stop offset="100%" stopColor="#3b82f6" stopOpacity={0.05} />
                           </linearGradient>
                         </defs>
-                        <CartesianGrid strokeDasharray="3 3" stroke="#262626" />
-                        <XAxis dataKey="year" tick={{ fill: "#a3a3a3", fontSize: 11 }} />
-                        <YAxis tick={{ fill: "#a3a3a3", fontSize: 12 }} tickFormatter={(v) => `${v}m`} />
+                        <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
+                        <XAxis dataKey="year" tick={{ fill: "#475569", fontSize: 11 }} />
+                        <YAxis tick={{ fill: "#475569", fontSize: 12 }} tickFormatter={(v) => `${v}m`} />
                         <Tooltip
                           contentStyle={{ background: "#0f172a", border: "none", borderRadius: 8, color: "#fff" }}
                           formatter={(v: number) => [`${v} min`, "Avg length"]}
@@ -200,9 +181,9 @@ export default function Page() {
             </Reveal>
             <Reveal delay={200}>
               <Card className="h-full flex flex-col">
-                <div className="text-xs uppercase tracking-wider text-neutral-400 font-semibold mb-1">Format shift</div>
-                <h3 className="font-bold text-white mb-3">Title complexity by era</h3>
-                <p className="text-xs text-neutral-400 mb-4">Avg. topics stacked per title — flat until 2022, then breaks upward</p>
+                <div className="text-xs uppercase tracking-wider text-blue-600 font-semibold mb-1">Format shift</div>
+                <h3 className="font-bold text-slate-900 mb-3">Title complexity by era</h3>
+                <p className="text-xs text-slate-500 mb-4">Avg. topics stacked per title — flat until 2022, then breaks upward</p>
                 <div role="img" aria-label="Bar comparison of title clause density: roughly 1x from 2015-2021, 1.5x in 2022-23, 2.5x in 2024, and 3.9x by 2025-26">
                 <Funnel
                   stages={[
@@ -213,7 +194,7 @@ export default function Page() {
                   ]}
                 />
                 </div>
-                <div className="mt-4 text-xs text-neutral-400 leading-relaxed">
+                <div className="mt-4 text-xs text-slate-500 leading-relaxed">
                   By 2026 a typical title carries 4 distinct claims (&ldquo;Why X | How Y | The Bottleneck Is Z&rdquo;) instead of one clean hook — each episode is packaged as standalone, quotable arguments.
                 </div>
               </Card>
@@ -224,8 +205,8 @@ export default function Page() {
             <div className="mt-4 sm:mt-6">
               <Card>
                 <div className="flex items-center justify-between mb-3">
-                  <h3 className="font-bold text-white">Episodes per year</h3>
-                  <span className="text-xs text-neutral-400">Volume held steady even as length tripled</span>
+                  <h3 className="font-bold text-slate-900">Episodes per year</h3>
+                  <span className="text-xs text-slate-500">Volume held steady even as length tripled</span>
                 </div>
                 <div className="h-[220px] sm:h-[260px]" role="img" aria-label="Bar chart of 20VC episode count per year, ranging from 82 to 156 episodes annually">
                   <ResponsiveContainer width="100%" height="100%">
@@ -236,9 +217,9 @@ export default function Page() {
                           <stop offset="100%" stopColor="#0891b2" />
                         </linearGradient>
                       </defs>
-                      <CartesianGrid strokeDasharray="3 3" stroke="#262626" />
-                      <XAxis dataKey="year" tick={{ fill: "#a3a3a3", fontSize: 11 }} />
-                      <YAxis tick={{ fill: "#a3a3a3", fontSize: 11 }} />
+                      <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
+                      <XAxis dataKey="year" tick={{ fill: "#475569", fontSize: 11 }} />
+                      <YAxis tick={{ fill: "#475569", fontSize: 11 }} />
                       <Tooltip contentStyle={{ background: "#0f172a", border: "none", borderRadius: 8, color: "#fff" }} labelStyle={{ color: "#94a3b8" }} />
                       <Bar dataKey="episodes" fill="url(#epGrad)" radius={[6, 6, 0, 0]} />
                     </BarChart>
@@ -266,20 +247,20 @@ export default function Page() {
                     <span className="text-xs font-bold uppercase tracking-wider rounded-full px-2 py-1 text-white" style={{ background: era.color }}>
                       {era.label}
                     </span>
-                    <span className="text-[10px] text-neutral-400">{era.episodes} eps</span>
+                    <span className="text-[10px] text-slate-500">{era.episodes} eps</span>
                   </div>
-                  <h3 className="font-bold text-white mt-2 mb-3">{era.name}</h3>
+                  <h3 className="font-bold text-slate-900 mt-2 mb-3">{era.name}</h3>
                   <div className="space-y-2 flex-1">
                     {era.keywords.map((k) => (
                       <div key={k.word} className="flex items-center gap-2">
-                        <div className="w-16 text-xs text-neutral-400 text-right shrink-0">{k.word}</div>
-                        <div className="flex-1 h-4 rounded bg-[#242424] overflow-hidden">
+                        <div className="w-16 text-xs text-slate-600 text-right shrink-0">{k.word}</div>
+                        <div className="flex-1 h-4 rounded bg-slate-100 overflow-hidden">
                           <div
                             className="h-full rounded"
                             style={{ width: `${(k.count / era.keywords[0].count) * 100}%`, background: era.color }}
                           />
                         </div>
-                        <div className="w-8 text-[10px] text-neutral-400 tabular-nums">{k.count}</div>
+                        <div className="w-8 text-[10px] text-slate-500 tabular-nums">{k.count}</div>
                       </div>
                     ))}
                   </div>
@@ -303,26 +284,26 @@ export default function Page() {
             <Card className="mb-4 sm:mb-6">
               <div className="flex items-start justify-between mb-3">
                 <div>
-                  <h3 className="text-lg font-bold text-white">Assertiveness Index, 2015-2026</h3>
-                  <p className="text-xs text-neutral-400">Editorial 1-10 score per read episode, averaged by year</p>
+                  <h3 className="text-lg font-bold text-slate-900">Assertiveness Index, 2015-2026</h3>
+                  <p className="text-xs text-slate-500">Editorial 1-10 score per read episode, averaged by year</p>
                 </div>
                 <div className="text-right">
-                  <div className="text-xs text-neutral-400">Episode #1 → 2026</div>
-                  <div className="text-2xl font-bold text-emerald-400">2.8 → 6.2</div>
+                  <div className="text-xs text-slate-500">Episode #1 → 2026</div>
+                  <div className="text-2xl font-bold text-emerald-600">2.8 → 6.2</div>
                 </div>
               </div>
               <div className="h-[240px] sm:h-[280px]" role="img" aria-label="Line chart showing Harry Stebbings' assertiveness score climbing gradually from 1 in 2015 to about 5 by 2021, dipping slightly in 2022, then rising sharply to 7.5-8 by 2025-2026">
                 <ResponsiveContainer width="100%" height="100%">
                   <LineChart data={ASSERTIVENESS_BY_YEAR} margin={{ top: 10, right: 10, left: -10, bottom: 0 }}>
-                    <CartesianGrid strokeDasharray="3 3" stroke="#262626" />
-                    <XAxis dataKey="year" tick={{ fill: "#a3a3a3", fontSize: 11 }} />
-                    <YAxis tick={{ fill: "#a3a3a3", fontSize: 11 }} domain={[0, 10]} />
+                    <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
+                    <XAxis dataKey="year" tick={{ fill: "#475569", fontSize: 11 }} />
+                    <YAxis tick={{ fill: "#475569", fontSize: 11 }} domain={[0, 10]} />
                     <Tooltip contentStyle={{ background: "#0f172a", border: "none", borderRadius: 8, color: "#fff" }} labelStyle={{ color: "#94a3b8" }} />
                     <Line type="monotone" dataKey="score" stroke="#f97316" strokeWidth={4} dot={{ r: 6, fill: "#f97316", stroke: "#fff", strokeWidth: 2 }} activeDot={{ r: 8 }} />
                   </LineChart>
                 </ResponsiveContainer>
               </div>
-              <p className="mt-2 text-xs text-neutral-400 leading-relaxed">
+              <p className="mt-2 text-xs text-slate-500 leading-relaxed">
                 With ~15 episodes per year and two independent raters, the climb is steady and unambiguous: 2.8 in 2015 to 6.2 in 2026, with 95% confidence intervals of roughly ±0.3-0.9 per year — far tighter than the 3.4-point rise they're measuring. The steepest gains come in 2024-26, as the guest mix shifts toward AI/frontier-model operators.
               </p>
             </Card>
@@ -331,17 +312,17 @@ export default function Page() {
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-4 sm:gap-6 mb-6">
             <Reveal delay={100}>
               <Card className="h-full flex flex-col items-center justify-center">
-                <div className="text-xs uppercase tracking-wider text-neutral-400 font-semibold mb-1">Editorial score, 1-10</div>
-                <h3 className="font-bold text-white mb-2">Early vs. recent</h3>
+                <div className="text-xs uppercase tracking-wider text-blue-600 font-semibold mb-1">Editorial score, 1-10</div>
+                <h3 className="font-bold text-slate-900 mb-2">Early vs. recent</h3>
                 <AssertivenessGauge early={3} recent={6} />
-                <p className="mt-2 text-xs text-neutral-400 text-center leading-relaxed">
+                <p className="mt-2 text-xs text-slate-500 text-center leading-relaxed">
                   Episode #1 (2015) vs. the most recent read episode (2026): from terse, zero-pushback one-liners to routinely contesting the guest's claims.
                 </p>
               </Card>
             </Reveal>
             <Reveal delay={200}>
               <Card className="lg:col-span-2 h-full flex flex-col">
-                <h3 className="font-bold text-white mb-3">What actually changed</h3>
+                <h3 className="font-bold text-slate-900 mb-3">What actually changed</h3>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 flex-1">
                   <MiniInsight icon={RotateCcw} color="#f59e0b" title="Preparation" desc="Went from 'read the guest's book' to visibly cross-referencing dozens of prior guests to pressure-test the person in front of him." />
                   <MiniInsight icon={Sparkles} color="#0ea5e9" title="Tone" desc="Stayed constant the whole time — casual, matey, first-name, opinion-forward. This didn't evolve; depth and pushback did." />
@@ -356,14 +337,8 @@ export default function Page() {
             <div className="rounded-3xl bg-gradient-to-br from-slate-950 via-slate-900 to-slate-950 p-5 sm:p-8 relative overflow-hidden">
               <div className="absolute inset-0 grid-pattern opacity-40" />
               <div className="relative">
-                <div className="flex items-center justify-between mb-4">
-                  <div className="text-xs uppercase tracking-[0.2em] text-cyan-300 font-bold">Case studies — episode #1 to today · scroll or use arrows</div>
-                  <div className="flex gap-2">
-                    <button aria-label="Scroll case studies left" onClick={() => caseRef.current?.scrollBy({ left: -340, behavior: "smooth" })} className="h-9 w-9 rounded-full border border-white/20 bg-white/10 flex items-center justify-center hover:bg-white/20 active:scale-[0.97]"><ChevronLeft className="h-4 w-4" aria-hidden /></button>
-                    <button aria-label="Scroll case studies right" onClick={() => caseRef.current?.scrollBy({ left: 340, behavior: "smooth" })} className="h-9 w-9 rounded-full border border-white/20 bg-white/10 flex items-center justify-center hover:bg-white/20 active:scale-[0.97]"><ChevronRight className="h-4 w-4" aria-hidden /></button>
-                  </div>
-                </div>
-                <div ref={caseRef} className="flex gap-4 overflow-x-auto no-scrollbar pb-2 snap-x snap-mandatory">
+                <div className="text-xs uppercase tracking-[0.2em] text-cyan-300 font-bold mb-4">Case studies from the 180-episode sample, scroll to compare eras — episode #1 to today</div>
+                <div className="flex gap-4 overflow-x-auto no-scrollbar pb-2 snap-x snap-mandatory">
                   {CASE_STUDIES.map((cs, i) => (
                     <div
                       key={i}
@@ -405,22 +380,22 @@ export default function Page() {
                 <Card className="h-full flex flex-col">
                   <div className="flex items-center justify-between mb-3">
                     <div>
-                      <h3 className="font-bold text-white">{rg.guest}</h3>
-                      <p className="text-xs text-neutral-400">{rg.role}</p>
+                      <h3 className="font-bold text-slate-900">{rg.guest}</h3>
+                      <p className="text-xs text-slate-500">{rg.role}</p>
                     </div>
                   </div>
                   <div className="grid grid-cols-2 gap-2 mb-3">
-                    <div className="rounded-lg bg-[#1c1c1c] p-2.5">
-                      <div className="text-[10px] text-neutral-400 uppercase tracking-wider">{rg.first.date}</div>
-                      <div className="text-xs text-neutral-300 mt-0.5">{rg.first.note}</div>
+                    <div className="rounded-lg bg-slate-50 p-2.5">
+                      <div className="text-[10px] text-slate-500 uppercase tracking-wider">{rg.first.date}</div>
+                      <div className="text-xs text-slate-700 mt-0.5">{rg.first.note}</div>
                     </div>
-                    <div className="rounded-lg bg-cyan-500/10 border border-cyan-500/30 p-2.5">
-                      <div className="text-[10px] text-cyan-400 uppercase tracking-wider">{rg.second.date}</div>
-                      <div className="text-xs text-cyan-200 mt-0.5">{rg.second.note}</div>
+                    <div className="rounded-lg bg-cyan-50 border border-cyan-200 p-2.5">
+                      <div className="text-[10px] text-cyan-700 uppercase tracking-wider">{rg.second.date}</div>
+                      <div className="text-xs text-cyan-900 mt-0.5">{rg.second.note}</div>
                     </div>
                   </div>
-                  <div className="rounded-lg bg-black border border-[#262626] p-3 mt-auto">
-                    <p className="text-xs text-neutral-200 italic leading-relaxed">{rg.callback}</p>
+                  <div className="rounded-lg bg-slate-900 p-3 mt-auto">
+                    <p className="text-xs text-slate-100 italic leading-relaxed">{rg.callback}</p>
                     <div className="text-[10px] text-emerald-400 mt-2 font-semibold uppercase tracking-wider">Verified verbatim via caption re-check</div>
                   </div>
                 </Card>
@@ -443,10 +418,10 @@ export default function Page() {
               <Reveal key={g.title} delay={100 + i * 50}>
                 <Card className="h-full flex flex-col">
                   <div className="h-1 w-full rounded-full mb-4" style={{ background: g.color }} />
-                  <h3 className="font-bold text-white mb-3">{g.title}</h3>
+                  <h3 className="font-bold text-slate-900 mb-3">{g.title}</h3>
                   <ul className="space-y-3 flex-1">
                     {g.items.map((item, j) => (
-                      <li key={j} className="text-sm text-neutral-300 leading-relaxed flex gap-2">
+                      <li key={j} className="text-sm text-slate-700 leading-relaxed flex gap-2">
                         <span className="shrink-0 mt-1.5 h-1.5 w-1.5 rounded-full" style={{ background: g.color }} aria-hidden />
                         {item}
                       </li>
@@ -458,123 +433,15 @@ export default function Page() {
           </div>
         </section>
 
-
-        {/* THE FUN STUFF */}
-        <section id="fun" className="scroll-mt-20">
-          <Reveal>
-            <SectionTitle
-              eyebrow="The fun stuff"
-              title="1.4 million words of Harry, quantified"
-              sub="Everything below is computed from the 180 read transcripts — every count is real."
-            />
-          </Reveal>
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 sm:gap-6">
-            <Reveal delay={100}>
-              <Card className="h-full">
-                <div className="flex items-center gap-2 mb-4">
-                  <Quote className="h-4 w-4 text-cyan-400" aria-hidden />
-                  <h3 className="font-bold text-white">The Harry lexicon</h3>
-                </div>
-                <div className="space-y-2.5">
-                  {[
-                    { word: "“incredible”", count: 767, note: "in 148 of 163 episodes", w: 100 },
-                    { word: "“amazing”", count: 642, note: "143 episodes", w: 84 },
-                    { word: "“absolutely”", count: 618, note: "150 episodes", w: 81 },
-                    { word: "“fantastic”", count: 306, note: "132 episodes", w: 40 },
-                    { word: "“can I ask…”", count: 235, note: "his signature pivot", w: 31 },
-                    { word: "“dude”", count: 162, note: "only 47 episodes — all modern era", w: 21 },
-                    { word: "“my friend”", count: 119, note: "67 episodes", w: 16 },
-                    { word: "“insane”", count: 107, note: "41 episodes, mostly 2024+", w: 14 },
-                  ].map((r) => (
-                    <div key={r.word} className="flex items-center gap-3">
-                      <div className="w-28 shrink-0 text-sm font-semibold text-white">{r.word}</div>
-                      <div className="flex-1 h-5 rounded bg-[#242424] overflow-hidden">
-                        <div className="h-full rounded bg-gradient-to-r from-cyan-500 to-cyan-300" style={{ width: `${r.w}%` }} />
-                      </div>
-                      <div className="w-32 shrink-0 text-right">
-                        <span className="text-sm font-bold text-cyan-300 tabular-nums">{r.count}×</span>
-                        <span className="text-[10px] text-neutral-400 block">{r.note}</span>
-                      </div>
-                    </div>
-                  ))}
-                </div>
-                <p className="mt-4 text-xs text-neutral-400 leading-relaxed">
-                  And the robotic intro stinger <span className="text-white font-semibold">“You have now arrived at your destination”</span> appears
-                  in <span className="text-cyan-300 font-bold">151 of 163</span> interview episodes — eleven years, same sound effect.
-                </p>
-              </Card>
-            </Reveal>
-            <Reveal delay={150}>
-              <div className="grid grid-cols-1 gap-4 sm:gap-6">
-                <Card>
-                  <div className="flex items-center gap-2 mb-3">
-                    <Flame className="h-4 w-4 text-orange-400" aria-hidden />
-                    <h3 className="font-bold text-white">Superlatives</h3>
-                  </div>
-                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-sm">
-                    <div className="rounded-lg bg-[#1c1c1c] p-3"><div className="text-[10px] uppercase tracking-wider text-orange-400 font-bold">Most grilled</div><div className="text-white font-semibold mt-0.5">Monday.com co-CEO</div><div className="text-xs text-neutral-400">7.5/10 — “is SaaS dead?”, contested for an hour</div></div>
-                    <div className="rounded-lg bg-[#1c1c1c] p-3"><div className="text-[10px] uppercase tracking-wider text-sky-400 font-bold">Most pampered</div><div className="text-white font-semibold mt-0.5">Rishi Sunak</div><div className="text-xs text-neutral-400">2/10 — you don’t grill a sitting PM</div></div>
-                    <div className="rounded-lg bg-[#1c1c1c] p-3"><div className="text-[10px] uppercase tracking-wider text-emerald-400 font-bold">Dream-guest paradox</div><div className="text-white font-semibold mt-0.5">Marc Andreessen</div><div className="text-xs text-neutral-400">10 years on the wishlist → 5/10, softest 2026 interview</div></div>
-                    <div className="rounded-lg bg-[#1c1c1c] p-3"><div className="text-[10px] uppercase tracking-wider text-amber-400 font-bold">Boldest question</div><div className="text-white font-semibold mt-0.5">“Are you high?”</div><div className="text-xs text-neutral-400">— to a Princeton professor, about AI scaling, 2024</div></div>
-                  </div>
-                </Card>
-                <Card>
-                  <div className="flex items-center gap-2 mb-3">
-                    <Laugh className="h-4 w-4 text-yellow-400" aria-hidden />
-                    <h3 className="font-bold text-white">Genuinely weird moments</h3>
-                  </div>
-                  <ul className="space-y-2 text-sm text-neutral-300">
-                    <li className="flex gap-2"><span className="text-yellow-400 shrink-0">01</span>Apologized to the CEO of Palo Alto Networks for being “hangry” — he’d been 22 hours into a 24-hour fast at their last taping.</li>
-                    <li className="flex gap-2"><span className="text-yellow-400 shrink-0">02</span>Thanked a dating-app founder, on air, for fixing his love life — twice.</li>
-                    <li className="flex gap-2"><span className="text-yellow-400 shrink-0">03</span>Got interviewed on his own show about raising his $400M fund — the only episode where Harry is the guest.</li>
-                    <li className="flex gap-2"><span className="text-yellow-400 shrink-0">04</span>Elad Gil’s layoff-era story: the startup bought a pool table to boost morale — everyone seen playing it was cut in the next round.</li>
-                    <li className="flex gap-2"><span className="text-yellow-400 shrink-0">05</span>Byron Deeter explained Twilio’s core value on air: “draw the rest of the f***ing owl.”</li>
-                  </ul>
-                </Card>
-              </div>
-            </Reveal>
-          </div>
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 sm:gap-6 mt-4 sm:mt-6">
-            <Reveal delay={200}>
-              <Card className="h-full">
-                <div className="flex items-center gap-2 mb-3">
-                  <Heart className="h-4 w-4 text-emerald-400" aria-hidden />
-                  <h3 className="font-bold text-white">What we loved</h3>
-                </div>
-                <ul className="space-y-2 text-sm text-neutral-300">
-                  <li className="flex gap-2"><span className="text-emerald-400 shrink-0">+</span>The glow-up is real and earned: from one-line questions at 19 to citing HBM pricing against Perplexity’s CEO at 30.</li>
-                  <li className="flex gap-2"><span className="text-emerald-400 shrink-0">+</span>Repeat guests get callbacks, not reruns — the Ed Sim 2015→2023 pair is an 8-year relationship on tape.</li>
-                  <li className="flex gap-2"><span className="text-emerald-400 shrink-0">+</span>The tone never corporatized: same matey, first-name, self-deprecating register in 2026 as 2015.</li>
-                  <li className="flex gap-2"><span className="text-emerald-400 shrink-0">+</span>He asks the money question others skip: “Can I be blunt? Why raise external money?” — to Chris Sacca.</li>
-                </ul>
-              </Card>
-            </Reveal>
-            <Reveal delay={250}>
-              <Card className="h-full">
-                <div className="flex items-center gap-2 mb-3">
-                  <ThumbsDown className="h-4 w-4 text-red-400" aria-hidden />
-                  <h3 className="font-bold text-white">What we&rsquo;d push back on</h3>
-                </div>
-                <ul className="space-y-2 text-sm text-neutral-300">
-                  <li className="flex gap-2"><span className="text-red-400 shrink-0">–</span>Status still buys softness: PMs, legends and dream guests get half the pushback of a mid-stage founder.</li>
-                  <li className="flex gap-2"><span className="text-red-400 shrink-0">–</span>Sponsor reads quadrupled (0.8 → 3.2 per episode) — the 2021-era ad stack tests patience.</li>
-                  <li className="flex gap-2"><span className="text-red-400 shrink-0">–</span>The “20 minute” brand promise died in 2016 — episodes now run 73 minutes on average.</li>
-                  <li className="flex gap-2"><span className="text-red-400 shrink-0">–</span>Titles became 4-thesis keyword stacks — great for clicks, exhausting to read.</li>
-                </ul>
-              </Card>
-            </Reveal>
-          </div>
-        </section>
-
         {/* METHODOLOGY */}
         <section id="methodology" className="scroll-mt-20">
           <Reveal>
-            <Card className="border-2 border-amber-500/30 bg-amber-500/5">
+            <Card className="border-2 border-amber-200 bg-amber-50/40">
               <div className="flex items-center gap-2 mb-3">
-                <ShieldAlert className="h-4 w-4 text-amber-400" aria-hidden />
-                <h3 className="font-bold text-white">About this data — read before you cite it</h3>
+                <ShieldAlert className="h-4 w-4 text-amber-700" aria-hidden />
+                <h3 className="font-bold text-slate-900">About this data — read before you cite it</h3>
               </div>
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-sm text-neutral-300 leading-relaxed">
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-sm text-slate-700 leading-relaxed">
                 <p>
                   <strong>Quantitative section</strong> (duration, title structure, keyword trends) covers the
                   <strong> full population of all 1,481 episodes</strong> — no sampling error there.
@@ -651,19 +518,19 @@ export default function Page() {
         </Reveal>
       </main>
 
-      <footer className="border-t border-[#262626] bg-[#141414] py-10 mt-12">
-        <div className="mx-auto max-w-[1200px] px-4 sm:px-6 text-center">
-          <p className="text-sm text-neutral-400 mb-3">
+      <footer className="border-t border-slate-200 bg-white py-10 mt-12">
+        <div className="mx-auto max-w-[1600px] px-4 sm:px-6 text-center">
+          <p className="text-sm text-slate-600 mb-3">
             Sourced from the 20VC public RSS feed (all 1,481 episodes) and 9 YouTube auto-caption transcripts,
             2022&ndash;2026. Independent analysis, not affiliated with 20VC or Harry Stebbings.
           </p>
-          <p className="text-sm text-neutral-400">
+          <p className="text-sm text-slate-500">
             Built by{" "}
-            <a href="https://x.com/Trace_Cohen" target="_blank" rel="noopener" className="text-neutral-400 hover:underline font-semibold">
+            <a href="https://x.com/Trace_Cohen" target="_blank" rel="noopener" className="text-blue-600 hover:underline font-semibold">
               @Trace_Cohen
             </a>
             {" · "}
-            <a href="mailto:t@nyvp.com" className="text-neutral-400 hover:underline font-semibold">
+            <a href="mailto:t@nyvp.com" className="text-blue-600 hover:underline font-semibold">
               t@nyvp.com
             </a>
           </p>
@@ -678,15 +545,15 @@ export default function Page() {
 function SectionTitle({ eyebrow, title, sub }: { eyebrow?: string; title: string; sub?: string }) {
   return (
     <div className="mb-6 sm:mb-8">
-      {eyebrow && <div className="text-xs uppercase tracking-[0.2em] text-neutral-400 font-semibold mb-2">{eyebrow}</div>}
-      <h2 className="text-2xl sm:text-4xl font-bold text-white tracking-tight">{title}</h2>
-      {sub && <p className="mt-2 text-sm sm:text-base text-neutral-400 max-w-3xl">{sub}</p>}
+      {eyebrow && <div className="text-xs uppercase tracking-[0.2em] text-blue-600 font-semibold mb-2">{eyebrow}</div>}
+      <h2 className="text-2xl sm:text-4xl font-bold text-slate-900 tracking-tight">{title}</h2>
+      {sub && <p className="mt-2 text-sm sm:text-base text-slate-600 max-w-3xl">{sub}</p>}
     </div>
   );
 }
 
 function Card({ children, className = "" }: { children: React.ReactNode; className?: string }) {
-  return <div className={`rounded-2xl border border-[#262626] bg-[#141414] p-5 sm:p-6 shadow-sm ${className}`}>{children}</div>;
+  return <div className={`rounded-2xl border border-slate-200 bg-white p-5 sm:p-6 shadow-sm ${className}`}>{children}</div>;
 }
 
 function HeroStat({ label, value, sub, accentColor }: { label: string; value: React.ReactNode; sub?: string; accentColor: string }) {
@@ -701,13 +568,13 @@ function HeroStat({ label, value, sub, accentColor }: { label: string; value: Re
 
 function BentoStat({ icon: Icon, label, value, color, iconBg }: { icon: any; label: string; value: React.ReactNode; color: string; iconBg: string }) {
   return (
-    <div className="rounded-2xl border border-[#262626] bg-[#141414] p-4 sm:p-5 flex flex-col justify-between hover:border-[#3a3a3a] hover:-translate-y-0.5 transition-all duration-200">
+    <div className="rounded-2xl border border-slate-200 bg-white p-4 sm:p-5 flex flex-col justify-between hover:shadow-md hover:-translate-y-0.5 transition-all duration-200">
       <div className={`h-8 w-8 rounded-lg ${iconBg} flex items-center justify-center`}>
         <Icon className={`h-4 w-4 ${color}`} aria-hidden />
       </div>
       <div>
-        <div className="text-xs text-neutral-400 font-medium">{label}</div>
-        <div className="text-xl sm:text-3xl font-bold text-white mt-0.5">{value}</div>
+        <div className="text-xs text-slate-500 font-medium">{label}</div>
+        <div className="text-xl sm:text-3xl font-bold text-slate-900 mt-0.5">{value}</div>
       </div>
     </div>
   );
@@ -715,14 +582,14 @@ function BentoStat({ icon: Icon, label, value, color, iconBg }: { icon: any; lab
 
 function MiniInsight({ icon: Icon, color, title, desc }: { icon: any; color: string; title: string; desc: string }) {
   return (
-    <div className="rounded-xl bg-[#1c1c1c] border border-[#262626] p-4">
+    <div className="rounded-xl bg-slate-50 border border-slate-200 p-4">
       <div className="flex items-center gap-2 mb-1.5">
         <div className="h-6 w-6 rounded-md flex items-center justify-center" style={{ background: `${color}20` }}>
           <Icon className="h-3.5 w-3.5" style={{ color }} aria-hidden />
         </div>
-        <span className="text-sm font-bold text-white">{title}</span>
+        <span className="text-sm font-bold text-slate-900">{title}</span>
       </div>
-      <p className="text-xs text-neutral-400 leading-relaxed">{desc}</p>
+      <p className="text-xs text-slate-600 leading-relaxed">{desc}</p>
     </div>
   );
 }
