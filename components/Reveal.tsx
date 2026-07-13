@@ -11,6 +11,12 @@ export function Reveal({ children, delay = 0, as: As = "div", className = "" }: 
   useEffect(() => {
     const el = ref.current;
     if (!el) return;
+    // If already in viewport at mount, reveal directly — IO can starve in occluded windows.
+    const rect = el.getBoundingClientRect();
+    if (rect.top < window.innerHeight && rect.bottom > 0) {
+      const t = setTimeout(() => el.classList.add("in"), delay);
+      return () => clearTimeout(t);
+    }
     const obs = new IntersectionObserver(
       (entries) => {
         entries.forEach((e) => {
