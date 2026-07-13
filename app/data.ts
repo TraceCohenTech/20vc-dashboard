@@ -4,20 +4,22 @@
 // since YouTube has no captions and 20VC never published transcripts pre-2022).
 // See methodology section on page.
 
-// Assertiveness Index by year — averaged from each year's read transcript(s), 1-10 editorial scale
+// Assertiveness Index by year — mean of TWO independent AI raters (Haiku + Sonnet, blind)
+// per episode, ~15 episodes/year, 169 rated episodes total (152 dual-rated + 17 manual).
+// Inter-rater: 68% of pairs within ±1 point, 88% within ±2, r=0.51. ci = 95% CI half-width.
 export const ASSERTIVENESS_BY_YEAR = [
-  { year: "2015", score: 1 },
-  { year: "2016", score: 2.5 },
-  { year: "2017", score: 4 },
-  { year: "2018", score: 3 },
-  { year: "2019", score: 2.5 },
-  { year: "2020", score: 4.5 },
-  { year: "2021", score: 5 },
-  { year: "2022", score: 4 },
-  { year: "2023", score: 6 },
-  { year: "2024", score: 6 },
-  { year: "2025", score: 8 },
-  { year: "2026", score: 7.5 },
+  { year: "2015", score: 2.8, n: 15, ci: 0.3 },
+  { year: "2016", score: 3.3, n: 15, ci: 0.3 },
+  { year: "2017", score: 3.8, n: 15, ci: 0.4 },
+  { year: "2018", score: 3.9, n: 15, ci: 0.4 },
+  { year: "2019", score: 3.9, n: 15, ci: 0.4 },
+  { year: "2020", score: 4.4, n: 15, ci: 0.5 },
+  { year: "2021", score: 4.1, n: 15, ci: 0.4 },
+  { year: "2022", score: 4.7, n: 14, ci: 0.7 },
+  { year: "2023", score: 4.8, n: 15, ci: 0.8 },
+  { year: "2024", score: 5.5, n: 15, ci: 0.5 },
+  { year: "2025", score: 5.9, n: 11, ci: 0.7 },
+  { year: "2026", score: 6.2, n: 9, ci: 0.9 },
 ];
 
 export const SHOW = {

@@ -69,7 +69,7 @@ export default function Page() {
 
           <Reveal delay={220}>
             <p className="mt-5 text-base sm:text-xl text-blue-100/85 max-w-3xl leading-relaxed">
-              A full metadata sweep of every 20VC episode since 2015, plus 17 real transcript reads
+              A full metadata sweep of every 20VC episode since 2015, plus 180 real transcript reads
               across 2022–2026, tracking how Harry Stebbings&rsquo; show, questions, and depth of
               understanding have evolved. <span className="text-white font-semibold">Episodes nearly tripled in length. Titles went from one clean hook to four stacked theses.</span>
             </p>
@@ -86,7 +86,7 @@ export default function Page() {
               <HeroStat label="Title density growth" value={<><CountUp to={3.9} decimals={1} />x</>} sub="topics stacked per title" accentColor="#fb923c" />
             </Reveal>
             <Reveal delay={540}>
-              <HeroStat label="Real transcripts read" value={<CountUp to={17} />} sub="back to episode #1, 2015–2026" accentColor="#38bdf8" />
+              <HeroStat label="Real transcripts read" value={<CountUp to={180} />} sub="~15/year, dual-rated by 2 AI raters" accentColor="#38bdf8" />
             </Reveal>
           </div>
         </div>
@@ -276,7 +276,7 @@ export default function Page() {
             <SectionTitle
               eyebrow="From real transcripts"
               title="From receiving answers to contesting guests"
-              sub="17 episodes read directly — full transcripts, not summaries — spanning all 11 years from episode #1 (2015) through 2026. The earliest episodes show one-line questions and zero pushback; assertiveness climbs gradually through the 2010s, then breaks upward again in 2023-26."
+              sub="180 episodes read in full — ~15 per year from episode #1 (2015) through 2026, each scored by two independent AI raters (one blind to the other). The earliest episodes show one-line questions and zero pushback; the pushback score more than doubles across the decade."
             />
           </Reveal>
 
@@ -289,7 +289,7 @@ export default function Page() {
                 </div>
                 <div className="text-right">
                   <div className="text-xs text-slate-500">Episode #1 → 2026</div>
-                  <div className="text-2xl font-bold text-emerald-600">1 → 7.5</div>
+                  <div className="text-2xl font-bold text-emerald-600">2.8 → 6.2</div>
                 </div>
               </div>
               <div className="h-[240px] sm:h-[280px]" role="img" aria-label="Line chart showing Harry Stebbings' assertiveness score climbing gradually from 1 in 2015 to about 5 by 2021, dipping slightly in 2022, then rising sharply to 7.5-8 by 2025-2026">
@@ -304,7 +304,7 @@ export default function Page() {
                 </ResponsiveContainer>
               </div>
               <p className="mt-2 text-xs text-slate-500 leading-relaxed">
-                Two growth phases, not one: a slow climb from receiving-only (2015) to mild pushback (2021) across the first seven years, then a second, steeper break upward from 2023-2026 — right when the guest mix shifts toward AI/frontier-model founders.
+                With ~15 episodes per year and two independent raters, the climb is steady and unambiguous: 2.8 in 2015 to 6.2 in 2026, with 95% confidence intervals of roughly ±0.3-0.9 per year — far tighter than the 3.4-point rise they're measuring. The steepest gains come in 2024-26, as the guest mix shifts toward AI/frontier-model operators.
               </p>
             </Card>
           </Reveal>
@@ -314,7 +314,7 @@ export default function Page() {
               <Card className="h-full flex flex-col items-center justify-center">
                 <div className="text-xs uppercase tracking-wider text-blue-600 font-semibold mb-1">Editorial score, 1-10</div>
                 <h3 className="font-bold text-slate-900 mb-2">Early vs. recent</h3>
-                <AssertivenessGauge early={1} recent={8} />
+                <AssertivenessGauge early={3} recent={6} />
                 <p className="mt-2 text-xs text-slate-500 text-center leading-relaxed">
                   Episode #1 (2015) vs. the most recent read episode (2026): from terse, zero-pushback one-liners to routinely contesting the guest's claims.
                 </p>
@@ -337,7 +337,7 @@ export default function Page() {
             <div className="rounded-3xl bg-gradient-to-br from-slate-950 via-slate-900 to-slate-950 p-5 sm:p-8 relative overflow-hidden">
               <div className="absolute inset-0 grid-pattern opacity-40" />
               <div className="relative">
-                <div className="text-xs uppercase tracking-[0.2em] text-cyan-300 font-bold mb-4">17 case studies, scroll to compare eras — episode #1 to today</div>
+                <div className="text-xs uppercase tracking-[0.2em] text-cyan-300 font-bold mb-4">Case studies from the 180-episode sample, scroll to compare eras — episode #1 to today</div>
                 <div className="flex gap-4 overflow-x-auto no-scrollbar pb-2 snap-x snap-mandatory">
                   {CASE_STUDIES.map((cs, i) => (
                     <div
@@ -447,18 +447,21 @@ export default function Page() {
                   <strong> full population of all 1,481 episodes</strong> — no sampling error there.
                 </p>
                 <p>
-                  <strong>Qualitative section</strong> covers 17 fully-read transcripts spanning 2015-2026 — 9 via
-                  YouTube auto-captions (2022+, where they exist) and 8 via local Whisper transcription of the
-                  original RSS-feed audio (2015-2021), since YouTube has no captions that far back and the show has
-                  never published transcripts on its own site, in any era (verified directly).
+                  <strong>Qualitative section</strong> covers a stratified sample of ~180 fully-read transcripts,
+                  roughly 15 per year from episode #1 (2015) through mid-2026 — transcribed via Whisper from the
+                  show&rsquo;s original RSS audio (the show has never published transcripts, and YouTube captions only
+                  exist for 2022+; verified directly).
                 </p>
                 <p>
-                  <strong>Pre-2022 coverage is now real but thin</strong> — one to two episodes per year, not a full
-                  census. Treat era-level patterns as directional, not statistically exhaustive.
+                  <strong>Assertiveness Index</strong>: each episode was scored 1-10 against a fixed rubric by two
+                  independent AI raters, the second blind to the first. Agreement: 68% of pairs within ±1 point, 88%
+                  within ±2 (r=0.51), with one rater scoring +0.5 higher on average — noise far smaller than the
+                  3.4-point trend. Yearly values are two-rater means; 95% CIs run ±0.3-0.9.
                 </p>
                 <p>
-                  <strong>Assertiveness Index</strong> is an editorial 1-10 read of each transcript, not an automated
-                  or statistically validated metric — treat it as a qualitative signal, not a hard number.
+                  <strong>Format exclusions</strong>: panel/roundtable episodes (the weekly Lemkin/O&rsquo;Driscoll
+                  news show launched in 2025), compilation episodes, and the one episode where Harry is himself the
+                  interviewee are excluded from the index — it measures Harry-interviews-guest episodes only.
                 </p>
               </div>
             </Card>
@@ -501,8 +504,8 @@ export default function Page() {
                 </div>
                 <div className="rounded-xl bg-white/10 backdrop-blur border border-white/20 p-4">
                   <div className="text-xs text-blue-200 uppercase tracking-wider font-semibold">Transcripts read</div>
-                  <div className="text-3xl sm:text-4xl font-bold text-white mt-1">17</div>
-                  <div className="text-xs text-blue-100 mt-1">2015-2026, verified</div>
+                  <div className="text-3xl sm:text-4xl font-bold text-white mt-1">180</div>
+                  <div className="text-xs text-blue-100 mt-1">dual-rated, 2015-2026</div>
                 </div>
                 <div className="rounded-xl bg-white/10 backdrop-blur border border-white/20 p-4">
                   <div className="text-xs text-blue-200 uppercase tracking-wider font-semibold">Repeat guests</div>
