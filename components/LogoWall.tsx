@@ -19,8 +19,8 @@ export function LogoWall() {
   const doubled = [...GUESTS, ...GUESTS];
   return (
     <div className="overflow-hidden py-4 relative">
-      <div className="absolute left-0 top-0 bottom-0 w-12 sm:w-20 bg-gradient-to-r from-slate-50 to-transparent z-10 pointer-events-none" />
-      <div className="absolute right-0 top-0 bottom-0 w-12 sm:w-20 bg-gradient-to-l from-slate-50 to-transparent z-10 pointer-events-none" />
+      <div className="absolute left-0 top-0 bottom-0 w-12 sm:w-20 bg-gradient-to-r from-[#141414] to-transparent z-10 pointer-events-none" />
+      <div className="absolute right-0 top-0 bottom-0 w-12 sm:w-20 bg-gradient-to-l from-[#141414] to-transparent z-10 pointer-events-none" />
       <div className="marquee-track flex gap-3 w-max">
         {doubled.map((b, i) => (
           <div

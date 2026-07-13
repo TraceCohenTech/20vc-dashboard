@@ -7,6 +7,7 @@ const LINKS = [
   { href: "#topics", label: "Topics" },
   { href: "#style", label: "Interview Style" },
   { href: "#learnings", label: "Learnings" },
+  { href: "#fun", label: "Fun Stuff" },
   { href: "#methodology", label: "Methodology" },
 ];
 
@@ -23,12 +24,12 @@ export function Nav() {
   return (
     <nav
       className={`fixed top-0 inset-x-0 z-50 transition-all duration-300 ${
-        scrolled ? "bg-white/85 backdrop-blur-md border-b border-slate-200 shadow-sm" : "bg-transparent"
+        scrolled ? "bg-black/85 backdrop-blur-md border-b border-[#262626]" : "bg-transparent"
       }`}
     >
       <div className="mx-auto max-w-[1600px] px-4 sm:px-6 h-14 flex items-center justify-between">
-        <a href="#top" className={`font-bold text-sm sm:text-base ${scrolled ? "text-slate-900" : "text-white"}`}>
-          20VC <span className="hidden sm:inline opacity-60">· Decoded</span>
+        <a href="#top" className={`font-bold text-sm sm:text-base ${"text-white"}`}>
+          <span className="bg-white text-black font-black px-1.5 py-0.5 mr-1.5 tracking-tight">20VC</span><span className="tracking-[0.2em] text-xs font-bold text-neutral-300">DECODED</span>
         </a>
         <div className="hidden md:flex items-center gap-1">
           {LINKS.map((l) => (
@@ -36,7 +37,7 @@ export function Nav() {
               key={l.href}
               href={l.href}
               className={`px-3 py-1.5 rounded-md text-sm font-medium transition active:scale-[0.97] ${
-                scrolled ? "text-slate-700 hover:bg-slate-100" : "text-white hover:text-white hover:bg-white/10"
+                "text-neutral-300 hover:text-white hover:bg-white/10"
               }`}
             >
               {l.label}
@@ -45,7 +46,7 @@ export function Nav() {
         </div>
         <button
           className={`md:hidden inline-flex items-center justify-center h-11 w-11 rounded-md transition active:scale-[0.97] ${
-            scrolled ? "text-slate-900" : "text-white"
+            "text-white"
           }`}
           aria-label={open ? "Close menu" : "Open menu"}
           aria-expanded={open}
@@ -55,13 +56,13 @@ export function Nav() {
         </button>
       </div>
       {open && (
-        <div className="md:hidden bg-white border-t border-slate-200 shadow-lg">
+        <div className="md:hidden bg-black border-t border-[#262626] shadow-lg">
           {LINKS.map((l) => (
             <a
               key={l.href}
               href={l.href}
               onClick={() => setOpen(false)}
-              className="block px-5 py-3 text-sm font-medium text-slate-700 border-b border-slate-100 last:border-0 active:scale-[0.97]"
+              className="block px-5 py-3 text-sm font-medium text-neutral-300 border-b border-[#222] last:border-0 active:scale-[0.97]"
             >
               {l.label}
             </a>

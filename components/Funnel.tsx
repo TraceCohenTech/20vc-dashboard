@@ -35,8 +35,8 @@ export function Funnel({ stages }: { stages: Stage[] }) {
         return (
           <div key={s.label} className="flex items-center gap-3 sm:gap-4">
             <div className="w-24 sm:w-32 text-right">
-              <div className="text-xs text-slate-500">{s.label}</div>
-              <div className="text-base sm:text-lg font-bold text-slate-900 tabular-nums">
+              <div className="text-xs text-neutral-400">{s.label}</div>
+              <div className="text-base sm:text-lg font-bold text-white tabular-nums">
                 {s.value >= 1000 ? s.value.toLocaleString() : s.value}
               </div>
             </div>
