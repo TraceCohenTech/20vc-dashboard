@@ -113,7 +113,7 @@ export default function Page() {
         </div>
       </header>
 
-      <section className="border-y border-slate-200 bg-white">
+      <section aria-label="A sample of the guests behind the data" className="border-y border-slate-200 bg-white">
         <div className="mx-auto max-w-[1280px]">
           <div className="px-4 sm:px-6 pt-6">
             <div className="text-xs uppercase tracking-[0.2em] text-slate-500 font-semibold">
@@ -673,7 +673,7 @@ export default function Page() {
                 <span className="text-xs text-slate-500">33 documented head-to-head clashes across 49 shows — the 11 sharpest, positions paraphrased</span>
               </div>
               <p className="text-xs text-slate-500 mb-4">The show&rsquo;s engine is the same argument in different costumes: Jason bets on speed and severity, Rory bets on equilibrium and history.</p>
-              <div className="overflow-x-auto">
+              <div className="overflow-x-auto" tabIndex={0} role="region" aria-label="Debates table, scrollable">
                 <table className="w-full min-w-[720px] text-sm">
                   <thead>
                     <tr className="text-left text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
@@ -972,7 +972,7 @@ function PredictionsBoard() {
           ))}
         </div>
       </div>
-      <div className="overflow-y-auto max-h-[480px] rounded-lg border border-slate-100">
+      <div className="overflow-y-auto max-h-[480px] rounded-lg border border-slate-100" tabIndex={0} role="region" aria-label="Predictions list, scrollable">
         <table className="w-full text-sm">
           <thead className="sticky top-0 bg-slate-50">
             <tr className="text-left text-xs uppercase tracking-wider text-slate-500">
@@ -1139,7 +1139,7 @@ function CaseStudyRail() {
           </button>
         </div>
       </div>
-      <div ref={railRef} className="flex gap-4 overflow-x-auto pb-3 snap-x rail-scrollbar">
+      <div ref={railRef} className="flex gap-4 overflow-x-auto pb-3 snap-x rail-scrollbar" tabIndex={0} role="region" aria-label="Case studies, scrollable">
         {CASE_STUDIES.map((cs, i) => (
           <div
             key={i}
