@@ -1,0 +1,27 @@
+{
+  "guest": "Amanda Bradford",
+  "guest_role": "Founder and CEO, The League",
+  "approx_date": "Jun 2018",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks direct, sometimes contrarian follow-ups (e.g. pressing on party rounds and the single-founder conventional wisdom) and injects outside perspectives from other guests, but never really contests Amanda's answers and stays warmly deferential throughout.",
+  "question_style": "Mostly open, multi-sentence prepared questions that build on prior research (name-checking other investors and guests he spoke to beforehand); he occasionally plants a counter-framing (e.g. citing a TaskRabbit founder's marketplace theory) and asks her to react, but doesn't interrupt or truly contest her claims.",
+  "tone": "Matey and flirtatious/fannish (jokes about his own love life and being a League user), high energy, self-deprecating asides, clearly a fan of the founder and product rather than a neutral interviewer.",
+  "depth": "Goes beyond surface bio into specific operating mechanics: single-founder tradeoffs, contractor-vs-employee conversion, pre-launch 'art of the launch' tactics, yield-style launch metrics, good vs bad churn, fake-paywall monetization testing, and city-expansion waitlist logic — solid strategic/tactical follow-up depth for a consumer/dating startup.",
+  "harry_quotes": [
+    "What were your big learnings from that single founder experience?",
+    "How did you hone your city by city playbook?",
+    "Can I ask, how did you think about the right time to turn on that monetization tap?"
+  ],
+  "learnings": [
+    "Being a solo founder can eliminate co-founder conflict and preserve more equity, but only works if the founder already has deep clarity on the business before bringing others on board.",
+    "Early-stage startups often can't attract full-time A-player engineers, so paying premium rates for A-player contractors can bridge the gap until the company is further along.",
+    "Building an engaged, in-person user base before public launch (via events and word of mouth) helps guarantee at least moderate success on launch day.",
+    "A fake checkout page can validate willingness to pay and estimate future monetization potential without investing in real billing infrastructure prematurely.",
+    "In a curated marketplace, actively managing gender ratio (rather than letting it skew organically) changes the user experience meaningfully, even if it frustrates users accustomed to imbalanced platforms.",
+    "Party rounds made up of many smaller, credible checks can substitute effectively for a single priced lead investor, since investor value comes from the individuals' reputations and connections rather than check size."
+  ],
+  "topics": ["dating apps", "solo founders", "hiring/contractors", "product launches", "monetization", "fundraising"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Harry visibly pre-interviews other people in the guest's network (an investor and a fellow founder) and folds their specific questions directly into the interview."
+}

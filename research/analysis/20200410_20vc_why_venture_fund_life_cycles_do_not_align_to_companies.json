@@ -1,0 +1,39 @@
+{
+  "guest": "Blake Scholl",
+  "guest_role": "Founder and CEO at Boom Supersonic",
+  "approx_date": "Apr 2020",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks well-prepared multi-sentence follow-ups and engages deeply on strategy and culture, but remains largely receptive and never contests Blake's claims directly.",
+  "question_style": "Open-ended and strategic follow-ups, rarely leading questions. Harry probes deeper on specific topics (fund timelines, culture, hiring, leadership psychology) with genuine curiosity. No interruptions; he lets Blake complete thoughts. Does not push back or challenge claims directly.",
+  "tone": "Respectful and admiring of Blake's vision. Conversational and matey (self-deprecates as 'VC by day for my sins'). Shows genuine enthusiasm for Boom as an unusual guest on the show. Not fanboyish but clearly impressed.",
+  "depth": "Strong on strategic and operational topics: venture fund lifecycle misalignment with hardware timelines, culture-building philosophy, talent acquisition in niche domains, scaling leadership, domain expertise vs. outsider advantage, executive team composition challenges. Asks follow-ups that dig into methodology (the jam-session hiring approach, the 'teach me something' interview question). Less technical depth on aerodynamics itself.",
+  "harry_quotes": [
+    "How did you make your way into the world of startups?",
+    "Can I be super honest and open?",
+    "How do you analyze effectively the quality of roles where maybe you don't have the domain expertise?",
+    "What do you find most helpful about your investors and why could VCs improve?",
+    "Can I ask just on that, sorry, I'm too interested."
+  ],
+  "learnings": [
+    "Venture capital fund lifecycles (typically 7-10 years) create structural misalignment with capital-intensive hardware ventures requiring 10-15 years to market, forcing founders to rely on ultra-high-net-worth individuals and solo fund managers investing outside their vehicles.",
+    "A founder's passionate attachment to the mission itself—not just the idea's merit—is the strongest predictor of perseverance through inevitable long-term setbacks and crises.",
+    "Company culture must be deliberately designed around specific mission requirements (e.g., long-horizon perseverance, mission passion) rather than generic startup playbooks, and hiring should directly filter for cultural fit on those criteria.",
+    "Outsiders entering an industry often outmaneuver domain incumbents because they are not constrained by embedded conventional wisdom, even when that wisdom is provably false under quantitative analysis.",
+    "The most scalable leaders are humble, self-aware, admit knowledge gaps readily, seek advice actively, and listen well; conversely, high arrogance and overconfidence lead to blindsiding and failure to scale.",
+    "Systematic, recursive talent recruitment—asking each expert 'who is the best person you'd recommend for this'—can access world-class talent even in niche domains where connections are sparse.",
+    "Effective CEOs must operate comfortably at both 60,000-foot strategic/visionary levels and granular operational/detail levels (budget line-items, copy editing, design QA) simultaneously."
+  ],
+  "topics": [
+    "venture capital",
+    "fund mechanics",
+    "aerospace",
+    "hardware",
+    "leadership",
+    "hiring",
+    "culture",
+    "founder psychology"
+  ],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Unusually ambitious hardware/aerospace company (building a supersonic jet) for a software-focused podcast; episode aired during early COVID-19 pandemic, and Blake discusses Boom's advance pandemic preparedness as fortunate timing. Blake's use of a Concorde engine blade as a 'trophy' for high performance creates a memorable cultural artifact."
+}

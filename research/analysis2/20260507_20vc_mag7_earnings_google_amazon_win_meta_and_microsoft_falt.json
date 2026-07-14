@@ -1,0 +1,26 @@
+{
+  "guest": "Rory O'Driscoll and Jason Lemkin",
+  "guest_role": "Recurring panelists (VCs) on 20VC's weekly news-analysis roundtable",
+  "approx_date": "May 2026",
+  "assertiveness": 6,
+  "assertiveness_why": "This is a panel-discussion format rather than a one-on-one interview, so Harry acts more as moderator/participant than interrogator, but he still injects data points, forces the panel to pick winners/losers, and occasionally challenges their framing ('Does that concern you to hear?').",
+  "question_style": "Harry runs a rapid-fire, data-driven agenda (earnings numbers, stock moves) and repeatedly forces binary picks ('buy one and sell one'), functioning more as a moderator directing debate between Rory and Jason than as a traditional interviewer pressing a single guest.",
+  "tone": "High-energy, irreverent, laced with profanity and inside jokes among three people who clearly know each other well; more like a trading-desk banter session than a formal interview.",
+  "depth": "Extremely deep and technical on Mag-7 earnings, CapEx trends, token economics, AI ROI on engineering vs. other functions, SaaS company AI monetization — a specialist finance/tech-analyst level conversation.",
+  "harry_quotes": [
+    "Does that concern you to hear?",
+    "Is the SaaSpocalypse over?",
+    "What percent of CMOs can do that?"
+  ],
+  "learnings": [
+    "Panelists argue that hyperscaler AI revenue mostly reflects reselling LLM compute and tokens from OpenAI/Anthropic rather than owning defensible IP, except for Google which has its own frontier model.",
+    "Meta's AI CapEx lacks a clear revenue attribution story compared to Google's cloud backlog, which is why markets punished Meta's spending increase but rewarded Google's.",
+    "Palantir's enterprise moat comes from being one of few vendors that can credibly execute large, multi-million dollar AI transformation initiatives for Fortune 500 CEOs, unlike point-solution AI startups.",
+    "Real-world token spend for AI-driven marketing/customer-success agents came in far lower than expected (a few thousand dollars a month), casting doubt on some Anthropic-scale revenue projections outside of coding use cases.",
+    "Atlassian and Twilio's re-acceleration shows two different AI-monetization paths: upselling AI features to an existing base versus attracting entirely new customers via AI-driven demand."
+  ],
+  "topics": ["ai", "earnings/public markets", "capex", "saas", "enterprise ai adoption", "venture capital"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Not a standard guest interview — this is 20VC's recurring weekly news roundtable format with two regular VC panelists rather than a single spotlighted guest."
+}

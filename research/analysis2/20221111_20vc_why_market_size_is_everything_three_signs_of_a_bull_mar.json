@@ -1,0 +1,26 @@
+{
+  "guest": "Martin Escobari",
+  "guest_role": "Co-President, Managing Director, and Head of Latin America at General Atlantic (formerly Advent International; co-founder/CFO of Submarino.com)",
+  "approx_date": "Nov 2022",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry pushes back with his own explicit worries (e.g. on the LATAM capital exodus and 'why am I missing the trick, why are you having fun') and asks the guest to defend or reconcile against Harry's stated position, rather than simply eliciting.",
+  "question_style": "Long, narrative prompts that let the guest tell stories, but Harry interjects his own contrary read on the market multiple times ('I don't think this is fun', 'I'm worried about the exodus of capital... do you share my concern?') and asks the guest to reconcile with it.",
+  "tone": "Effusive and admiring throughout ('one of the kindest, wisest, and funniest guests'), warm banter about age and gifts, clearly a fan, but comfortable injecting his own contrarian takes.",
+  "depth": "Strong on fund-level strategy: the three factors behind outlier returns (market size weighted highest), pro-cyclicality and bubble discipline, thematic vs thesis-driven investing, price discipline, winner-take-all vs winner-take-most dynamics, GA's decision-making process (checklists + IC voting structure).",
+  "harry_quotes": [
+    "Why am I missing the trick? Why are you having fun?",
+    "Do you share my concern about the exodus of capital away from LATAM and Brazil?",
+    "How much of a role end is the founder play?"
+  ],
+  "learnings": [
+    "Across 400+ transactions over 40 years, market size is the single most statistically significant predictor of outsized returns, more than team or business model quality.",
+    "Late-cycle bubbles show three tells: broad-based easy profits, abandonment of traditional valuation metrics for invented ones, and compressed deal-closing timelines.",
+    "Firms should cap capital deployment pace (e.g. never faster than a 3-year commitment period) and push portfolio companies to fully-funded plans to avoid forced fundraising in downturns.",
+    "Outspending by well-capitalized 'tourist' investors is only strategically fatal in true winner-take-all markets; in winner-take-most markets, disciplined followers often outperform overspending leaders.",
+    "Thematic investing (backing a macro trend and finding the best operator against it) works better than thesis-driven investing (prescribing the specific solution), which risks confirmation bias."
+  ],
+  "topics": ["growth investing", "latin america", "fund mechanics", "market cycles", "decision-making frameworks", "pricing discipline"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Guest discusses passing on Uber's $2B round because it looked too small for the price, and describes losing the chance to back Nubank's David Vélez due to a dogmatic rule about deposit-free credit institutions never surviving in emerging markets."
+}

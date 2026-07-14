@@ -1,0 +1,23 @@
+{
+  "approx_date": "May 2025",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll"],
+  "stories_covered": ["Chime IPO filing at $1.67B revenue, 8.6M users", "Venture-backed exits growing from $1.4B (2005-09) to $10.2B (2020-24)", "Late-stage pricing and ratchet protections in IPOs", "Public vs private market capital costs", "OpenAI nonprofit structure question", "ChatGPT 5 release timing", "Rippling vs Deal litigation"],
+  "harry_takes": [
+    "Chime's IPO timing is smart despite recent market volatility; market windows don't stay open forever",
+    "Late-stage companies that prefer private markets are forgoing cheaper capital because they don't understand their true cost",
+    "Venture makes embarrassingly large percentage of returns in rare 'must acquire' moments; the other six years are about keeping portfolio alive",
+    "Death of IPOs is bad for capital allocation; public markets allow founders and LPs to make independent liquidity choices"
+  ],
+  "harry_boldest_quote": "We make an embarrassingly large percentage of our money once every seven years when you're in the white heat of must acquire must own high growth venture assets.",
+  "predictions": [
+    "Lemkin: OpenAI will eventually stop being a nonprofit (through PBC structure with Microsoft/investors), but bureaucracy will delay resolution",
+    "Panel consensus: ChatGPT 5 likely revealed in 2025; velocity of release is so high it wouldn't surprise anyone",
+    "Stebbings: Rippling will prevail in Deal lawsuit; counterclaims are sign of losing party looking for settlement offsets",
+    "Panel: More billion-dollar revenue companies should IPO now; market window is open but won't stay that way"
+  ],
+  "disagreements": "Lemkin thinks OpenAI's nonprofit structure will persist due to board power dynamics; Stebbings argues lawyers will eventually untangle it because asset value is too high. Jason skeptical on venture 'fun returner' returns; panel agrees they're insufficient.",
+  "harry_role": "Harry drives the conversation with strong takes on IPO timing, late-stage economics, and regulatory issues. He frames larger questions about venture returns and market structure. Moderates debate between Lemkin and O'Driscoll while also contributing his own analysis.",
+  "topics": ["venture-capital", "ipos", "late-stage-funding", "m-and-a", "venture-returns", "openai", "litigation", "market-structure"],
+  "sponsor_read_count": 3,
+  "notable": "Extended debate on why venture exits are growing so large (Google example: would be $140B if delayed one year) and how that concentrates opportunity in mega-funds; discussion of tax incentives for holding vs selling private companies."
+}

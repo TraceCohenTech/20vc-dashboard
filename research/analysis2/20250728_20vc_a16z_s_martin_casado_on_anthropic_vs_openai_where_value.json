@@ -1,0 +1,31 @@
+{
+  "guest": "Martin Casado",
+  "guest_role": "General Partner at Andreessen Horowitz (a16z), leads the firm's $1.25B infrastructure fund",
+  "approx_date": "Jul 2025",
+  "assertiveness": 7,
+  "assertiveness_why": "Harry repeatedly plants his own thesis or an outside view (Rory O'Driscoll's risk-curve comment, Chris Dixon's framing, Vinod Khosla vs. Mark Zuckerberg on open source) and directly asks Martin to defend or contest it, and interjects blunt challenges like 'is that not moronic' and 'do you disagree with my statement.'",
+  "question_style": "Mostly open, thesis-driven questions where Harry states a position or cites a third party's take before asking Martin to agree or push back; he interrupts occasionally ('I'm so sorry to interrupt you') and presses with rapid-fire follow-ups rather than passively receiving answers.",
+  "tone": "Warm and matey with heavy fandom ('I love our conversations,' 'you're fantastic'), high energy, casual profanity mirrored back from the guest, some self-deprecation (references his own bad 2021 investing behavior and his own smaller fund size).",
+  "depth": "Strategic/market-structure depth rather than deep technical depth — he tracks model commoditization, open-vs-closed-source economics, app-layer vs infrastructure defensibility, brand-effect market dynamics, and fund/ownership mechanics, pushing Martin on ownership strategy, conflicts of interest, and monopoly-vs-oligopoly futures for coding models.",
+  "harry_quotes": [
+    "How do you evaluate where we're at today in the AI investing landscape?",
+    "Do you agree that you have to play the game on the field?",
+    "Do you think models are fundamentally good investments for venture firms?",
+    "Is that not the joy of being at Andreessen?",
+    "What's one of the most overhyped AI categories today?"
+  ],
+  "learnings": [
+    "Casado argues every layer of the AI stack (models, hosting, chips, apps) has captured real value, contradicting years of zero-sum skepticism about defensibility.",
+    "He expects an oligopoly rather than a monopoly among frontier coding model providers, drawing an analogy to how AWS's early cloud dominance eroded into a multi-player market.",
+    "He believes large, fast-expanding AI markets are producing brand-driven winner-take-most dynamics similar to the early internet, but expects this to fade once market growth slows and competition becomes feature-based.",
+    "He distinguishes diffusion/speech model businesses (good economics, less subsidized) from frontier language models (heavily subsidized by Big Tech, higher-risk investments).",
+    "In his view coding AI tools have made experienced engineers roughly 2x more productive rather than 10x, mainly by removing tooling/environment overhead rather than accelerating core feature velocity.",
+    "He thinks app-layer software remains easy to copy and has little defensible technology, while infrastructure/model businesses retain differentiation through deep technical trade-offs and long-tail domain understanding.",
+    "He considers open-source AI models a national security asset for the US specifically because China leads in open-source, so ceding that ground would be strategically harmful.",
+    "He frames the a16z investment approach as prioritizing ownership percentage over price, and having multiple fund vehicles to stay flexible across stages of the AI cycle."
+  ],
+  "topics": ["ai model economics", "venture fund mechanics", "open source vs closed source", "coding ai tools", "defensibility", "brand effects", "national security policy"],
+  "repeat_guest_callback": "I've had him on before, but I thought there was no better person for this moment in time.",
+  "sponsor_read_count": 6,
+  "notable": "The episode closes with an unusually personal 15-minute quick-fire segment covering Casado's upbringing in poverty, his first marriage's collapse, and reflections on wealth and family, a notable tonal shift from the market-structure debate that dominates the rest of the interview."
+}

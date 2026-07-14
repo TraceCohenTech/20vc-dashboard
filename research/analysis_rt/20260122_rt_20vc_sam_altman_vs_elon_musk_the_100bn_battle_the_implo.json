@@ -1,0 +1,34 @@
+{
+  "approx_date": "Jan 2026",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll"],
+  "stories_covered": [
+    "Figma down to pre-IPO levels as public market multiples compress",
+    "DataDog, Palantir, and SaaS peers diverging on growth expectations",
+    "Venture model sustainability debate: low-growth vs high-growth sifting",
+    "Thinking Machines implosion with co-founders and team departing",
+    "Sam Altman vs Elon Musk $100B lawsuit beginning",
+    "Replit raises at $9B valuation on dramatically improved product",
+    "Lovable at $6.5B as low-code developer platform",
+    "Clickhouse raising new round as OLAP winner in AI era",
+    "Sequoia investing in both Anthropic and OpenAI simultaneously"
+  ],
+  "harry_takes": [
+    "Public market compression isn't bad for venture; it's markets correctly sifting high-growth from low-growth, venture wins by staying in the hot trends",
+    "Venture fundamentally converts high-revenue multiples into cash via M&A or IPO before they prove cash flow; that's the business model",
+    "Thinking Machines is a seed-round failure dressed up as a mega-fund allocation—founder incompatibility and team departures are normal seed-stage risk",
+    "Non-technical CEOs cannot recruit top AI talent; you must be a visionary researcher-founder to lead AI-first companies in this era",
+    "Sam vs Elon will be constant entertainment and corporate theater, not a meaningful outcome"
+  ],
+  "harry_boldest_quote": "Venture is a capital allocation business.",
+  "predictions": [
+    "Jason Lemkin: Replit will hit $700-900M ARR by year-end 2026 on agent-driven improvements; the $9B valuation is justified by product quality jump",
+    "Jason Lemkin: Entry-level and mid-career SaaS founders at 50-75M revenue must embrace grind without venture capital or M&A within 12-18 months",
+    "Rory O'Driscoll: Thinking Machines insiders can negotiate for company wind-down with 0.8X return, recycle capital into next Anthropic round for 2X upside",
+    "Consensus: Clickhouse will capture 30-40B market outcome if OLAP category proves as important as data warehouse was in prior generation"
+  ],
+  "disagreements": "Lemkin vs O'Driscoll on old-school SaaS viability: Lemkin says 100M ARR companies with 50-70% growth cannot attract venture capital and must self-fund. O'Driscoll counters that long-term market equilibrium means any stage can work, and describes it as anecdotal jitter, not structural.",
+  "harry_role": "Harry drives the venture-model-doom narrative and tests it against panelists, pushes back on nostalgia for old multi-stage days, and grounds discussion in brutal capital allocation calculus. He moderates the Thinking Machines debate and emphasizes founder quality as non-negotiable in AI.",
+  "topics": ["venture-capital-model", "public-markets", "ai-hiring-wars", "founder-quality", "late-stage-investing", "litigation-theater"],
+  "sponsor_read_count": 3,
+  "notable": "Replit's product improvement from unfixable-app failure to building a full startup simulator over holidays illustrates the non-linear jump in AI development velocity, where foundation model improvements compound into order-of-magnitude product leaps that may justify 100X revenue multiples if growth persistence holds."
+}

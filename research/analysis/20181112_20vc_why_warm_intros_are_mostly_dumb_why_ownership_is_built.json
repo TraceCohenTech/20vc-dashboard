@@ -1,0 +1,36 @@
+{
+  "guest": "Leo Polivets",
+  "guest_role": "General Partner at SUSE Ventures",
+  "approx_date": "Nov 2018",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks prepared follow-ups and occasionally pushes back (e.g., on platform shifts and moats), but remains deferential and primarily receives Leo's perspective without contesting claims.",
+  "question_style": "Harry uses open, multi-sentence questions with structured follow-ups rather than leading questions. He does not interrupt and avoids planting his own thesis, instead asking Leo to explain his thinking on warm intros, moats, and feedback. When pushback occurs (platform shifts), it is respectful rather than adversarial.",
+  "tone": "Warm and matey with genuine gratitude for Leo (a repeat guest). Harry displays self-deprecation and enthusiasm, creating a personable yet professional atmosphere. Shows respect without fandom; neutrality with genuine warmth.",
+  "depth": "Harry asks strategic follow-ups on filtering inbound at scale and determining whether moats are central to founder thinking. He covers recruiting, VC mechanics, and founder dynamics, but doesn't go particularly deep into any single technical area; instead creates space for detailed Leo responses.",
+  "harry_quotes": [
+    "Why are these warm intros done?",
+    "How do you define moats and defensibility to start with?",
+    "What should be the mindset of investors with this in mind?",
+    "Success in investing, picking or access?"
+  ],
+  "learnings": [
+    "Warm introductions often create friction rather than signal value; opening to cold outreach expands opportunity set and provides earlier access to founders before gatekeepers.",
+    "Founders must think about defensibility and moats from day one, even if they develop over years, to avoid wasting time building easily-copied businesses.",
+    "Direct, constructive feedback on rejections shows respect for founder time and builds relationships for future engagement, contrasting with ghosting which appears to close doors.",
+    "Initial ownership stakes secured at seed matter more than follow-on dilution; the key is making meaningful first bets at the right price rather than hoping to double down later.",
+    "Maintaining relationships with struggling portfolio companies is crucial because early performance signals are unreliable and consistent support builds reputation that attracts future deal flow.",
+    "VCs possess broad knowledge across many companies but typically lack deep industry-specific understanding; founders should critically evaluate advice rather than implementing it blindly."
+  ],
+  "topics": [
+    "warm intros",
+    "moats and defensibility",
+    "vc feedback",
+    "fund mechanics",
+    "founder relations",
+    "hiring and talent",
+    "early stage investing"
+  ],
+  "repeat_guest_callback": "Leo, my friend, it's such a pleasure to have you on the show for a very special round two.",
+  "sponsor_read_count": 4,
+  "notable": "Second appearance of Leo on the show; Harry explicitly thanks Leo and his partner Chad for their support. The episode centers on two controversial propositions: that warm intros are largely ineffective and that ownership is primarily built on the initial seed check rather than follow-on participation."
+}

@@ -1,0 +1,26 @@
+{
+  "guest": "James Loftus",
+  "guest_role": "Corporate Development Lead at Square",
+  "approx_date": "Mar 2018",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry repeatedly cites outside data and named theses (Paul Graham's 'Don't Talk to Corp Dev' essay, the 'companies are bought not sold' maxim, LinkedIn's Emily Choi's M&A slowdown comment) and directly asks James to agree or push back against them.",
+  "question_style": "Well-researched and citation-heavy, planting specific outside theses/quotes from other named guests and essays for the guest to respond to or rebut, with real follow-up chains, though he ultimately agrees with most answers rather than contesting them himself.",
+  "tone": "Professional and enthusiastic, less matey banter than usual, focused squarely on the corp dev/M&A subject matter with minimal personal tangents.",
+  "depth": "Strong technical/process depth — covers M&A market dynamics, pricing mechanics, internal deal approval workflows, term sheet conversion rates, and post-acquisition integration metrics in granular detail.",
+  "harry_quotes": [
+    "Where would you stand on the thesis that companies are bought and not sold?",
+    "How would you respond to Paul Graham's essay, Don't Talk to Corp Dev?",
+    "Is it a unanimous voting structure for the execs?"
+  ],
+  "learnings": [
+    "James rejects the 'bought not sold' maxim, arguing most M&A follows years of deliberate relationship-building between founders/investors and potential acquirers.",
+    "He sees the M&A market diversifying beyond the five big tech acquirers toward large non-giant 'unicorns' and non-tech corporates entering the space.",
+    "He partially disagrees with Paul Graham's advice to avoid corp dev, arguing building acquirer relationships early is valuable regardless of outcome.",
+    "Square's internal process requires early product-team buy-in and an executive conversation before any written term sheet is issued, to avoid reversing course later.",
+    "Once a term sheet is signed, deals close at a very high rate industry-wide, but pre-term-sheet likelihood is below 50%."
+  ],
+  "topics": ["m&a", "corp dev", "fund mechanics", "exits", "founder relationships", "acquisitions"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Rare episode with a non-VC corporate development guest, structured around a hypothetical mock scenario of Square acquiring the 20VC podcast itself."
+}

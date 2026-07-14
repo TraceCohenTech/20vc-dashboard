@@ -1,0 +1,26 @@
+{
+  "guest": "Suranga Chandratillake",
+  "guest_role": "General Partner at Balderton Capital",
+  "approx_date": "Nov 2015",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared, topical follow-ups (Jack Dorsey running two companies, equal partnership drawbacks) and probes for a second layer of detail, but he never contests or challenges Suranga's answers.",
+  "question_style": "Open, well-researched questions referencing prior interviews and current news (Dorsey's dual CEO role, Zuckerberg's Instagram bet); Harry builds naturally off answers with a real follow-up but does not interrupt or push back.",
+  "tone": "Formal, admiring, enthusiastic agreement throughout ('Absolutely,' 'Do you remember we all laughed at it'); no self-deprecation, clear fandom for Suranga's career and the CEOs discussed.",
+  "depth": "Goes beyond surface into VC firm structure mechanics (equal-partnership economics, promotion incentives/politics), CEO judgment heuristics, and specific technology bets (VR, drones, AI); reasonably technical for the era.",
+  "harry_quotes": [
+    "How do you think Jack Dorsey will be able to manage being CEO of two companies?",
+    "Does the equal partnership create maybe a glass ceiling to the current principals?",
+    "Why do you think that model is the most efficient model?"
+  ],
+  "learnings": [
+    "Balderton's fully equal partnership structure removes incentives for partners to undermine each other's struggling portfolio companies for promotion purposes, at the cost of much slower hiring decisions.",
+    "Great technical CEOs need a visceral, non-analytical understanding of their product and market, citing Gates and Zuckerberg as contrasting examples of staying in the CEO seat.",
+    "Balderton favors hiring partners who already have significant startup/operator scar tissue (e.g., early Uber/Dropbox employees) over traditional VC career-track hires.",
+    "Chandratillake sees VR, drones, and AI as newly possible due to falling component costs from mobile miniaturization, alongside the broader societal shift toward gig-economy work patterns."
+  ],
+  "topics": ["fund structure", "ceo leadership", "future tech", "hiring partners", "europe vc"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 1,
+  "notable": "Episode announces a new data partnership between 20VC and Mattermark, marking an early shift toward more structured, data-driven interview prep.",
+  "harry_assertiveness_note": null
+}

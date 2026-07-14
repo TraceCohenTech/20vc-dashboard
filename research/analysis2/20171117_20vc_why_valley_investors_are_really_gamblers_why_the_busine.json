@@ -1,0 +1,29 @@
+{
+  "guest": "David Barrett",
+  "guest_role": "Founder and CEO of Expensify",
+  "approx_date": "Nov 2017",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry repeatedly poses direct challenges and plants counter-theses (on the serial entrepreneur cult, profit vs. growth, capital constraints, and hiring for talent) and asks David to defend his contrarian positions, though he never cites outside data and mostly lets David's answers stand unchallenged after one rebuttal.",
+  "question_style": "Mostly open, structured questions organized into founder/company/macro segments, but Harry frequently inserts a devil's-advocate framing ('Is that not indicative of...', 'I do want to pose a challenge...', 'How do you respond to the suggestion that...') rather than simply receiving. He does not interrupt and rarely re-challenges after the guest's rebuttal, so pushback is real but shallow.",
+  "tone": "Warm, effusive, and clearly a fan ('I'm enjoying this interview far too much', calls it one of his favorite Founders Fridays), matey and enthusiastic rather than formal, with heavy scripted sponsor-read energy bookending the interview.",
+  "depth": "Conceptual/strategic rather than technical — tracks SaaS business-model topics (profitability vs. growth, capital efficiency, hiring philosophy, talent density) and follows up on causation and definitions, but does not probe technical/product mechanics of Expensify itself.",
+  "harry_quotes": [
+    "Why Expense Reporting?",
+    "Tell me who's to blame for this.",
+    "Can I ask, what are the benefits to you",
+    "How do you respond to the suggestion that top tier VCs allow hiring top tier talent",
+    "David, you're a very confident, charismatic contrarian. What worries you?"
+  ],
+  "learnings": [
+    "Barrett built Expensify's card/reimbursement product as a deliberately boring cover story to get banks comfortable, after they balked at his original idea of a controlled-spend prepaid card for homeless people.",
+    "He views most Silicon Valley venture investing as gambling rather than disciplined investing, since it funds ideas that would be rejected elsewhere by metrics-driven investors.",
+    "He argues the 'serial entrepreneur' flip-and-exit model is celebrated as success even when it destroys long-term value, because it primarily benefits investors and reflects an unhealthy pump-and-dump cycle.",
+    "Barrett believes profit and growth aren't inherently opposed, and that avoiding early fundraising dependency kept Expensify from ceding control to investors during weak moments.",
+    "He rejects the idea that hiring top talent away from other companies is a proxy for quality, arguing truly great people are rarely poachable and are better found and developed outside Silicon Valley's networked bubble.",
+    "He deliberately capped headcount growth (e.g., 12 hires in a year) to force the company toward more scalable, creative solutions (like automation) instead of solving problems by throwing bodies at them."
+  ],
+  "topics": ["fund mechanics", "profitability vs growth", "hiring philosophy", "founder mindset", "saas", "venture capital critique"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "David Barrett is unusually blunt and profane for a 2017-era 20VC guest (e.g., 'I'm like, fuck that'), and the episode is framed explicitly around contrarian takes that run against standard VC orthodoxy."
+}

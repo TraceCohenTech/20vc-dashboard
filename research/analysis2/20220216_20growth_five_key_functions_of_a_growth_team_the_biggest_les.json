@@ -1,0 +1,28 @@
+{
+  "guest": "Ed Baker",
+  "guest_role": "Angel investor and growth advisor; former VP of Product and Growth at Uber (2013-2017) and Head of International Growth at Facebook",
+  "approx_date": "Feb 2022",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry runs a detailed, well-prepared hypothetical exercise and digs for specific tactical examples, but he never contests Ed's claims or plants an opposing thesis, functioning mainly as a structured elicitor.",
+  "question_style": "Highly structured and scenario-based (role-playing as a hypothetical founder-CEO hiring Ed), open questions that invite frameworks and stories rather than challenges; follow-ups chase concrete examples ('give me an example') rather than pushing back.",
+  "tone": "Warm, appreciative, tactical-nerd energy typical of the 20Growth spinoff format; formal-ish structure but personable, expresses genuine enthusiasm for frameworks and stories.",
+  "depth": "Very high tactical/operational depth: North Star metric selection, growth team org structure (5 functions), K-factor/viral loop math, needle-mover vs A/B test prioritization, product-vs-growth team friction, and hiring/onboarding mechanics for growth leaders.",
+  "harry_quotes": [
+    "What would you say is the biggest mistake founders make when hiring for growth teams?",
+    "How much of a role does K-factor play in your product market fit assessment?",
+    "Do you think that intensity that he brought made you... better as a growth team or the same or worse?",
+    "How should I literally structure the process of hiring a head of growth?"
+  ],
+  "learnings": [
+    "At Facebook, a simple wording change in Japan (from 'invites' to 'announcements') overcame a cultural aversion to self-promotion and turned Japan into one of Facebook's fastest-growing markets.",
+    "Growth teams should be built around five core cross-functional roles: product, design, engineering, marketing, and data science/analytics, each reporting into a growth lead who reports to the CEO.",
+    "Uber's biggest driver-supply unlock was a simple in-app 'want to make money, become a driver' button for riders, which outperformed all paid marketing and referral programs combined.",
+    "Growth should only be built out after product-market fit is established — trying to instill a growth discipline before finding product-market fit is like drilling for oil in the wrong place.",
+    "Uber's team ran an unauthorized test removing the credit-card requirement in Hyderabad, India, doubling conversion to a first paid ride; the CEO retroactively endorsed it once shown the data.",
+    "As growth teams scale into the hundreds of people, friction with product teams becomes almost unavoidable, and the main mitigation is high-frequency cross-team communication rather than rigid boundary-drawing."
+  ],
+  "topics": ["growth strategy", "team structure", "hiring", "product market fit", "north star metrics", "a/b testing"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "This is a '20Growth' spinoff episode (not mainline 20VC), a monthly tactical-growth format rather than the standard investor-guest interview."
+}

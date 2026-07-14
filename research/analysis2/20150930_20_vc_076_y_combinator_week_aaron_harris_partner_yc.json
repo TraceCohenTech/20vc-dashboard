@@ -1,0 +1,29 @@
+{
+  "guest": "Aaron Harris",
+  "guest_role": "Partner at Y Combinator; host of Startup School Radio; former co-founder of Tutorspree",
+  "approx_date": "Sep 2015",
+  "assertiveness": 2,
+  "assertiveness_why": "Harry asks warm, admiring, mostly open-ended questions and never challenges or contests any of Aaron's answers, staying purely receptive throughout.",
+  "question_style": "Questions are open-ended and topic-prompting rather than leading, moving through a fairly standard arc (background, YC mentorship, growth, fundraising, future of YC, quick-fire). Harry does not push back or contest any claim, occasionally references outside context (a rumor about 10% weekly growth, Aaron's own writing on party rounds) but treats it as a springboard rather than a challenge, and does not interrupt.",
+  "tone": "Very matey and fan-like, with heavy praise ('huge fan of the YC podcast,' 'silky tones') and light joking (pixie dust/magic dust banter); energy is upbeat and enthusiastic throughout with no friction.",
+  "depth": "Mostly surface-to-moderate: covers YC's mentorship model, product-market-fit testing, growth benchmarks, post-YC founder relationships, valuation/party rounds, and fundraising philosophy, but follow-ups largely let Aaron finish his point rather than drilling into mechanics or specifics.",
+  "harry_quotes": [
+    "What does that entail and what level of interaction do you have with the founders?",
+    "So what do you think is the biggest value out of YC?",
+    "What are your big tips then for startups entering the fundraising game?",
+    "Where are we going to see another funding round for YC?"
+  ],
+  "learnings": [
+    "YC's model is deliberately hands-off, treating founders as adults and offering guidance rather than directives, with mandatory dinners and optional office hours as the main structure.",
+    "The best founders synthesize outside advice with their own judgment rather than either ignoring mentors or suffering analysis paralysis from conflicting opinions.",
+    "Growth targets (like weekly percentage growth) are a symptom of product-market fit, not a goal to engineer directly — chasing growth before fit is unsustainable.",
+    "Early-stage founders should do unscalable, hands-on work with a small user base to deeply understand what people actually want before scaling.",
+    "Fundraising should be optimized for enough capital to build the business, not maximum valuation, since time (not money) is a startup's scarcest resource.",
+    "YC has broadened past software into capital-intensive areas like aerospace, nuclear power, and biotech as software eats more industries.",
+    "Aaron sees property and casualty insurance as an underinvested space ripe for startup disruption, especially beyond customer acquisition."
+  ],
+  "topics": ["y combinator", "startup mentorship", "product-market fit", "growth", "fundraising", "insurtech"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "This is part of a dedicated 'YC week' theme, the second of two back-to-back YC episodes that week (following CFO Kirsty Nathoo), and closes with a plug for a third YC-adjacent episode airing Friday."
+}

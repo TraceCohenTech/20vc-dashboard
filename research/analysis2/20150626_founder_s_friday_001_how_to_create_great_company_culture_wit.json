@@ -1,0 +1,26 @@
+{
+  "guest": "Anand Sanwal",
+  "guest_role": "Co-founder and CEO of CB Insights",
+  "approx_date": "Jun 2015",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared, topical multi-sentence questions with real follow-ups (bootstrapping, hiring rigor, VC disruption) but never contests or challenges any of Anand's answers.",
+  "question_style": "Structured, topic-by-topic open questions (funding choice, hiring evolution, culture, VC disruption) with natural follow-ups building on prior answers; no interruptions and no counter-thesis planted against the guest.",
+  "tone": "Warm and celebratory ('great honour', 'absolute pleasure'), moderately formal with scripted intro/outro and a sponsor read, professional rather than matey.",
+  "depth": "Decent strategic depth on bootstrapping vs VC funding, hiring/reference-check rigor, and culture-building tactics, though it stays in guest's comfort zone without technical pressure-testing.",
+  "harry_quotes": [
+    "Why did you choose to not take VC funding?",
+    "Would you say that rigor is necessary for all startups?",
+    "Is this CB Insights ultimately replacing VCs?"
+  ],
+  "learnings": [
+    "CB Insights avoided VC funding to preserve decision-making control and force discipline on product and revenue fundamentals.",
+    "Revenue-funded growth gives a startup more leverage if it later chooses to raise, since it negotiates from strength rather than survival need.",
+    "As headcount scaled, hiring shifted from lucky early picks to disciplined reference checks that now eliminate roughly a third of near-final candidates.",
+    "Company culture requires deliberate reinforcing rituals (cross-team breakfasts, pitch/demo days) rather than perks like free food or happy hours.",
+    "CB Insights sees itself as a data layer that makes VC decision-making more probabilistic rather than a replacement for venture capital itself."
+  ],
+  "topics": ["bootstrapping", "fund mechanics", "hiring", "company culture", "vc disruption", "data/analytics"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "This is the launch episode of the 'Founders Friday' series, a new recurring format distinct from the standard VC-focused interviews."
+}

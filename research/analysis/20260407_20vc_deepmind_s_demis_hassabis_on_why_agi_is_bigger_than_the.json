@@ -1,0 +1,31 @@
+{
+  "guest": "Demis Hassabis",
+  "guest_role": "Founder and CEO of DeepMind",
+  "approx_date": "Apr 2026",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks prepared follow-up questions on specific topics but rarely challenges claims or contests the guest; mostly receptive with occasional thesis-planting about labor, energy, and regulation.",
+  "question_style": "Harry asks specific prepared follow-ups on technical areas (scaling laws, continuous learning, DeepMind's organizational acceleration) and plants his own concerns as premises (labor displacement, energy crisis, European competitiveness), but remains receptive without pushback or adversarial pressure-testing.",
+  "tone": "Harry is deferential with genuine intellectual curiosity and evident admiration, opening with a striking comparison to Newton, Turing, and Einstein. He shows warm personal engagement (referencing his mother's health) while maintaining formal respect appropriate to discussing consequential topics.",
+  "depth": "Harry engages meaningfully with technical challenges (scaling laws, continuous learning, memory systems, planning) and strategic implications (safety regulation, drug development timelines, labor market effects), but largely allows Demis to elaborate rather than drilling deeper with follow-ups.",
+  "harry_quotes": [
+    "How close are we?",
+    "Is that closer than you thought?",
+    "Why do we not have continuous learning?",
+    "How do you think about a world post LLMs?",
+    "Will Europe have a trillion-dollar company?",
+    "What would you most like to be remembered for?"
+  ],
+  "learnings": [
+    "AGI represents roughly ten times the consequence of the Industrial Revolution but compressed into a decade instead of a century, creating unprecedented economic and social disruption in an accelerated timeframe.",
+    "Current frontier AI systems have distinct technical gaps including inability to learn continuously after training, inconsistent reasoning across different problem formulations, and poor long-term hierarchical planning.",
+    "DeepMind's recent performance leap came from organizationally consolidating distributed research talent and compute resources within Google rather than from discovery of new algorithmic techniques.",
+    "Open-source AI models typically trail frontier capabilities by approximately six months as the broader research community reverse-engineers and reimplements cutting-edge techniques.",
+    "Effective AI safety regulation requires international coordination with independent technical verification bodies similar to nuclear oversight, agreed benchmarks for undesirable system properties, and mandatory auditing before broad deployment.",
+    "AI-driven drug discovery requires solving compound design first, then separately navigating clinical trials and regulatory approval as sequential phases rather than solving both simultaneously.",
+    "Historical technological disruptions eventually create new higher-value jobs, but wealth distribution is not automatic and requires intentional policy mechanisms like universal pension fund investment or sovereign wealth participation."
+  ],
+  "topics": ["agi", "deepmind", "ai safety", "drug discovery", "labor displacement", "regulation"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Harry's opening monologue is notably effusive, comparing Demis to Newton, Turing, and Einstein and describing him as one of the greatest minds on the planet, signaling this interview as particularly high-stakes or personally meaningful for Harry."
+}

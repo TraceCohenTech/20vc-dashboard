@@ -1,0 +1,32 @@
+{
+  "approx_date": "Dec 2025",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll"],
+  "stories_covered": [
+    "Thrive + OpenAI partnership announcement",
+    "Databricks raises $5B at $134B valuation (32x revenue, 55% YoY growth)",
+    "Sierra hits $100M ARR at $10B valuation (100x multiple)",
+    "Eventbrite acquired for $500M (1.5x revenue with 50% premium)",
+    "Lovable hits $200M ARR; Databricks re-acceleration at scale",
+    "PagerDuty strategic stall despite distribution advantages",
+    "Salesforce Agent Force vs new AI-native startups",
+    "Workday sees seat-reduction as existential threat"
+  ],
+  "harry_takes": [
+    "OpenAI's 'code red' memo signals they're deprioritizing vertical expansion to focus on core product—a reversal of the everything-to-everyone strategy",
+    "The fundamental VC question is: how much premium do you pay for incremental growth? Databricks 32x vs Snowflake 20x shows market is willing to pay for acceleration",
+    "SaaS companies face a 'TAM trap'—most public SaaS grew into saturated markets with 7-10 competitors; there's no obvious second act",
+    "Efficiency per employee is rising everywhere; companies that don't improve ARR-per-headcount will see valuations compress"
+  ],
+  "harry_boldest_quote": "Salesforce could be the next Google.",
+  "predictions": [
+    "Rory: Sierra will need to scale from $100M to $1B ARR to justify $10B valuation; enterprise change management is the rate limiter",
+    "Lemkin: Databricks and Snowflake will 'slug it out' for a decade like Oracle vs SAP; both survive but with compressed margins",
+    "Harry: Incumbent software (Salesforce, Workday) can win with Agent Force if they execute faster than startups, but organizational inertia makes this unlikely",
+    "Lemkin: 75% of existing 900 unicorns will never IPO due to finite TAM and incumbent competition"
+  ],
+  "disagreements": "Rory argued installed bases are assets because data and integrations provide moat; Lemkin countered that legacy customer support drains engineering capacity and prevents competing for new AI-native customers.",
+  "harry_role": "Harry framed the central tension between growth and efficiency, introduced 'TAM trap' as diagnostic framework, and moderated the installed-base debate by asking whether data assets could be leveraged by incumbents or would leak value to AI agents sitting on top.",
+  "topics": ["databricks", "sierra", "saas", "tam-trap", "salesforce", "agent-force", "lovable", "efficiency", "eventbrite", "wealth-management"],
+  "sponsor_read_count": 3,
+  "notable": "The 'TAM Trap' concept emerged as the crystallizing insight: SaaS companies grew so thoroughly into their TAMs that the next generation of founders cannot find new markets; instead they must either expand TAM (via AI labor substitution) or steal from incumbents."
+}

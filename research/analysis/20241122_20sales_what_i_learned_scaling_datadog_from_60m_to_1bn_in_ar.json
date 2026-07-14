@@ -1,0 +1,42 @@
+{
+  "guest": "Dan Fougère",
+  "guest_role": "Chief Revenue Officer at Datadog (scaled from $60M to $1B ARR), previously at Medallia and BMC; minority owner of the New York Yankees",
+  "approx_date": "Nov 2024",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared, multi-part questions and explores deeply, but never challenges Dan's positions or plants his own thesis—mostly receptive to sales expertise.",
+  "question_style": "Harry asks detailed follow-ups that drill into Dan's operational frameworks and decision-making. He occasionally introduces counter-perspectives ('Degnan says...') but seeks Dan's response rather than pushback. Primarily exploratory and curious.",
+  "tone": "Warm and respectful. Harry opens with 'Dan, I am so excited' and acknowledges 'I am in awe of the datadog journey.' Conversational and collegial throughout.",
+  "depth": "Extremely deep on sales operations, hiring, culture, tactics. Covers MEDDIC qualification framework, earning your way up through technical buyers, team structure, sales demos, discounting control, playbook design, hiring signals (discipline, tenure), and personal narrative of losing the CRO role at Medallia then pivoting to Datadog.",
+  "harry_quotes": [
+    "How do you build a really, really good qualification machine?",
+    "How do you think about urgency?",
+    "What's the most common ways sales cultures suck?"
+  ],
+  "learnings": [
+    "Qualification requires systematic structure (MEDDIC: Metrics, Economic Buyer, Decision Process, Decision Criteria, Identify Pain, Champion, Competition) to overcome natural optimism bias and identify weaknesses early in sales cycles.",
+    "Earn your way up from technical practitioners to economic buyers by delivering measurable value first, then building a ground swell—top-down entry doesn't work if the organization hasn't recognized the problem yet.",
+    "Optimal sales team size is 6-8: mostly engineers, plus data scientist and designer; PM is optional; focus on outcome-based goals (revenue, customer satisfaction), not activity metrics.",
+    "Sales leadership requires being in the boat with reps—attend calls, provide feedback, celebrate wins—not managing from afar via scoreboards.",
+    "Maintain tight, centralized control over discounting at CRO level to protect unit economics; distributed discounting authority breaks pricing integrity and becomes expected at scale.",
+    "A repeatable sales playbook requires sequential clarity: ICP definition → outbound messaging → discovery format (30 min structured questions) → demo with outcomes → validation stage with exit criteria.",
+    "Hire for discipline and evidence of completing hard things (4-year vesting cycles, pre-IPO startup tenure), not pedigree; very junior people with great leadership can close large deals.",
+    "Sales culture requires vision ('legendary team making life-changing money'), high standards, accountability, and willingness to remove underperformers quickly.",
+    "Money initially distorts reality, but baseline resets; the real value is relief from existential financial stress, enabling clearer thinking.",
+    "Small entry deals ($600 ARR at Capital One) can expand 1000x if the customer succeeds with the product and the technology inflects (e.g., cloud adoption)—don't dismiss them."
+  ],
+  "topics": [
+    "sales-strategy",
+    "meddic-qualification",
+    "sales-culture",
+    "hiring-discipline",
+    "sales-demos",
+    "discounting-control",
+    "sales-playbook",
+    "team-structure",
+    "scaling-revenue",
+    "deal-qualification"
+  ],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 1,
+  "notable": "Dan shares a pivotal career setback: he moved his family to California for Medallia CRO role, was told he could win it, discovered a week after moving that leadership had already decided on someone else. A call from David Echevarria led to Datadog, which became a far larger success. Also owns a minority stake in the New York Yankees."
+}

@@ -1,0 +1,27 @@
+{
+  "guest": "Tony Xu",
+  "guest_role": "Co-founder and CEO of DoorDash",
+  "approx_date": "Jun 2021",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks well-prepared, often investor-sourced multi-sentence questions and probes with follow-ups, but he never contests Tony's answers or plants an opposing thesis, staying in fully admiring, receptive mode throughout.",
+  "question_style": "Questions are open-ended and clearly pre-researched, frequently framed as relaying what named investors (Alfred, Pejman, Thomas, Sara) said about Tony, and Harry follows up to deepen answers (e.g., pressing for the specific mechanisms behind a stated principle). He never pushes back, challenges a claim, or interrupts — every follow-up builds on and validates what Tony just said.",
+  "tone": "Warm, effusive, and fan-like ('such a joy', 'I absolutely love it'), with light self-deprecating asides about his own interviewing and parenting inadequacies; energy is high and collegial rather than formal.",
+  "depth": "Mostly strategic/leadership terrain (delegation, culture-building, hiring philosophy, decision-making frameworks) rather than technical product or financial detail; he does push for concrete specifics once or twice (asking what actual metrics/mechanisms back up a stated culture value) rather than accepting abstractions at face value.",
+  "harry_quotes": [
+    "What does great leadership mean to you, do you think?",
+    "What do you think your superpower is, Tony?",
+    "Do you wanna come back to the office?",
+    "How long do you give them?"
+  ],
+  "learnings": [
+    "Xu frames leadership as earning followership rather than accumulating direct reports, achieved by leaders doing frontline work themselves.",
+    "He advocates a 'reduce the scope' method for tackling high-variance problems: break a huge goal into provisional milestones even before you're sure they're the right ones.",
+    "DoorDash's early hiring focused on identifying broad 'attributes of excellence' (like bias for action) rather than pedigree, because the caliber of talent needed didn't yet have an established playbook.",
+    "Building an inclusive culture required pairing stated values with measurable operating mechanisms (like comparing team representation to decision-maker representation) rather than just declaring the value.",
+    "He treats business as an 'infinite game' with no true finish line, which he says is psychologically harder to sustain motivation for than a game with a clear win condition."
+  ],
+  "topics": ["leadership", "hiring", "culture", "delegation", "founder mindset", "marketplaces"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 6,
+  "notable": "Harry builds much of the interview around quoting specific questions relayed to him in advance by Tony's own investors (Pejman, Thomas, Alfred, Sara), naming each one on air."
+}

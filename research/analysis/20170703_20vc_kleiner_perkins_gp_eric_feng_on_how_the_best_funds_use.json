@@ -1,0 +1,34 @@
+{
+  "guest": "Eric Feng",
+  "guest_role": "General Partner at Kleiner Perkins; co-founder of Packaged",
+  "approx_date": "Jul 2017",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks prepared follow-ups and occasionally contests claims, but mostly receives without sustained pressure-testing or external data.",
+  "question_style": "Open-ended multi-sentence questions with occasional pushback (e.g., pressing Eric on incumbent M&A strength)—but rarely plants Harry's own counter-thesis; mostly elicits the guest's perspective.",
+  "tone": "Professional and engaged, with playful humor ('why aren't you throwing yourself off a bridge'); generally formal but warm, no fandom, genuine interest in Eric's operating background.",
+  "depth": "Tracks strategic and product topics—distribution saturation, competitive moat-building, KPIs like session time—and probes into Kleiner's barbell investment strategy and signal-finding tools; mostly surface-level rather than deeply technical.",
+  "harry_quotes": [
+    "Why aren't you throwing yourself off a bridge? Talk to me about optimism.",
+    "Are we in a bit of a consumer lull in your eyes?",
+    "Does that iterative approach not diminish the need to be ahead of the curve?",
+    "What would you most like to change in the world of VC?"
+  ],
+  "learnings": [
+    "Consumer app distribution channels (App Store, SEO, social) are now saturated and paid, eliminating the arbitrage opportunities that fueled earlier breakouts like WhatsApp and Pinterest.",
+    "Incumbent tech giants (Facebook, Google, Uber) have internalized disruption and now proactively acquire, copy, or compete with emergent threats—a learning curve their predecessors (Yahoo, IBM) lacked.",
+    "Transactional business models with direct payment friction are better-aligned to startup unit economics than advertising models, which require massive scale and deliver low ARPU.",
+    "Consumer companies are binary (work or fail); barbell strategy of super-early entry at low valuation or post-PMF investment regardless of price outperforms mid-stage opportunism.",
+    "Great VCs add value through network introductions, board-level operational help, and business development deals—not merely capital; the best investors fundamentally transform company trajectory."
+  ],
+  "topics": [
+    "consumer",
+    "fund mechanics",
+    "venture capital",
+    "distribution",
+    "commerce",
+    "business models"
+  ],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Eric is a rare operator-turned-investor hybrid (Flipboard CTO, Hulu product lead) discussing how operating experience reshapes views on VC value-add; his Packaged startup also bridging consumer and commerce."
+}

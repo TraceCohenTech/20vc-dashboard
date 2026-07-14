@@ -482,3 +482,71 @@ export const LEARNINGS_GROUPS = [
     ],
   },
 ];
+
+// Sponsor reads per episode by year (from the 153-episode read sample)
+export const SPONSOR_BY_YEAR = [
+  { year: "2015", reads: 0.8 }, { year: "2016", reads: 1.5 }, { year: "2017", reads: 2.0 },
+  { year: "2018", reads: 2.7 }, { year: "2019", reads: 2.9 }, { year: "2020", reads: 2.8 },
+  { year: "2021", reads: 3.2 }, { year: "2022", reads: 3.2 }, { year: "2023", reads: 2.4 },
+  { year: "2024", reads: 2.8 }, { year: "2025", reads: 3.0 }, { year: "2026", reads: 3.4 },
+];
+
+// The tone paradox: % of episodes whose tone the raters described as warm/admiring/deferential,
+// alongside the assertiveness score — warmth stays high while pushback doubles
+export const TONE_PARADOX = [
+  { year: "2015", warm: 100, score: 2.8 }, { year: "2016", warm: 100, score: 3.4 },
+  { year: "2017", warm: 100, score: 3.9 }, { year: "2018", warm: 100, score: 4.1 },
+  { year: "2019", warm: 100, score: 4.0 }, { year: "2020", warm: 86, score: 4.4 },
+  { year: "2021", warm: 100, score: 4.2 }, { year: "2022", warm: 100, score: 4.8 },
+  { year: "2023", warm: 100, score: 4.9 }, { year: "2024", warm: 85, score: 5.5 },
+  { year: "2025", warm: 90, score: 5.9 }, { year: "2026", warm: 57, score: 6.2 },
+];
+
+// Avg words per question asked, by year (interview transcripts only, question-mark sentences)
+export const QUESTION_LEN = [
+  { year: "2015", words: 14.3 }, { year: "2016", words: 30.1 }, { year: "2017", words: 19.3 },
+  { year: "2018", words: 15.8 }, { year: "2019", words: 24.6 }, { year: "2020", words: 24.6 },
+  { year: "2021", words: 16.5 }, { year: "2022", words: 13.8 }, { year: "2023", words: 12.2 },
+  { year: "2024", words: 11.9 }, { year: "2025", words: 12.2 }, { year: "2026", words: 13.8 },
+];
+
+// Guest mix by year, % of episodes (classified from all 1,481 episode titles)
+export const GUEST_MIX = [
+  { year: "2015", vc: 68, founders: 29, formats: 0, other: 3 },
+  { year: "2016", vc: 47, founders: 33, formats: 1, other: 19 },
+  { year: "2017", vc: 37, founders: 52, formats: 0, other: 11 },
+  { year: "2018", vc: 41, founders: 52, formats: 0, other: 7 },
+  { year: "2019", vc: 30, founders: 58, formats: 0, other: 11 },
+  { year: "2020", vc: 36, founders: 57, formats: 0, other: 7 },
+  { year: "2021", vc: 31, founders: 52, formats: 3, other: 14 },
+  { year: "2022", vc: 25, founders: 37, formats: 4, other: 33 },
+  { year: "2023", vc: 10, founders: 40, formats: 25, other: 25 },
+  { year: "2024", vc: 23, founders: 32, formats: 24, other: 21 },
+  { year: "2025", vc: 28, founders: 27, formats: 19, other: 26 },
+  { year: "2026", vc: 15, founders: 35, formats: 13, other: 37 },
+];
+
+// The deference curve: assertiveness score vs. guest stature (episode-level, from the read sample)
+export const DEFERENCE = [
+  { guest: "Andy Rachleff", role: "Benchmark co-founder", score: 2, tier: "icon" },
+  { guest: "Renée Haas", role: "CEO, Arm", score: 2, tier: "icon" },
+  { guest: "José Neves", role: "Founder, Farfetch", score: 2, tier: "icon" },
+  { guest: "Rishi Sunak", role: "Former UK Prime Minister", score: 3, tier: "icon" },
+  { guest: "David Sze", role: "Greylock", score: 3, tier: "icon" },
+  { guest: "Eric Ries", role: "The Lean Startup", score: 3, tier: "icon" },
+  { guest: "Marc Andreessen", role: "a16z", score: 4, tier: "icon" },
+  { guest: "Ernie Garcia", role: "CEO, Carvana", score: 6, tier: "operator" },
+  { guest: "Jennifer Hyman", role: "CEO, Rent the Runway", score: 6, tier: "operator" },
+  { guest: "Rafael Ilishayev", role: "Co-founder, Gopuff", score: 6, tier: "operator" },
+  { guest: "Lucas Swisher", role: "Coatue", score: 7, tier: "operator" },
+  { guest: "Mike Salguero", role: "CEO, ButcherBox", score: 7, tier: "operator" },
+];
+
+// Harry bingo: catchphrase frequency per 10,000 words, by era (2.3M transcript words)
+export const LEXICON = [
+  { phrase: "“incredible”", e1: 5.3, e2: 7.0, e3: 4.5, e4: 2.8, note: "The signature superlative — fading as pushback rises" },
+  { phrase: "“dude”", e1: 0.0, e2: 0.2, e3: 0.5, e4: 2.0, note: "Basically didn't exist pre-2022. The AI-founder era made Harry 10x more 'dude'" },
+  { phrase: "“my word”", e1: 0.2, e2: 1.5, e3: 0.2, e4: 0.2, note: "Peaked 2018-21, then almost vanished" },
+  { phrase: "“you have now arrived at your destination”", e1: 1.7, e2: 1.2, e3: 1.0, e4: 0.7, note: "The outro catchphrase — still there, but diluted by longer episodes" },
+  { phrase: "“unbelievable”", e1: 0.5, e2: 0.1, e3: 0.2, e4: 0.3, note: "Never really recovered from 2015" },
+];

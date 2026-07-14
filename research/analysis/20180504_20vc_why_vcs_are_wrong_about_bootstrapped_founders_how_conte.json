@@ -1,0 +1,27 @@
+{
+  "guest": "Jesse Jannings",
+  "guest_role": "Founder and CEO, Lumi",
+  "approx_date": "May 2018",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks good follow-ups and occasionally probing questions (on founder experience, content strategy, fundraising), but mostly receives Jesse's narrative and energy without contesting.",
+  "question_style": "Conversational questions that follow Jesse's narrative thread. Harry asks for elaboration and probes on specific points (founder misconceptions, content strategy pitfalls, hiring philosophy). Some gentle pushback framing ('Very rude question', 'non-show sexy nature'), but mostly receives.",
+  "tone": "Very warm, delighted, and admiring. Harry explicitly says this is 'one of the most entertaining and fun shows I've done in a long time'. Lots of humor, laughter, and genuine enthusiasm for Jesse's personality and energy. Very fan-like and celebratory.",
+  "depth": "Good engagement on founder psychology, bootstrapping vs VC mindset, content strategy mechanics, fundraising for unglamorous businesses, and hiring for mission. Less technical/operational; focuses more on personality, work ethic, cultural dynamics, and authenticity.",
+  "harry_quotes": [
+    "Does this make you a first time founder today with Lumi, do you think?",
+    "Can I ask a very rude question here? Just would you say you're unemployable?"
+  ],
+  "learnings": [
+    "VCs often dismiss bootstrapped founder experience as irrelevant, but 14+ years of independent building creates superior financial discipline and unit economics focus.",
+    "The best founders transition from bootstrap to VC by changing mindset: spending strategically to save time rather than preserving every dollar.",
+    "Authentic content works for B2B and consumer; agencies can't outsource 'soul'—the founder's genuine passion and perspective is irreplaceable.",
+    "Hiring mission-aligned people outside the industry category gives small teams competitive advantage over larger competitors with bigger headcount.",
+    "Raising money for 'unsexy' businesses (packaging) actually clarifies founder-investor fit; disinterested investors reveal themselves immediately.",
+    "During fundraising, communicating passion and long-term commitment matters more than polished deck metrics; investors want to see why you'll work on this for a decade.",
+    "As a founder with outsized energy, frame it as inspirational and culturally empowering for employees, not a productivity measuring stick."
+  ],
+  "topics": ["bootstrapping", "founder experience", "VC vs bootstrap mindset", "content strategy", "fundraising", "founder energy", "hiring philosophy", "company culture", "B2B marketing", "diversity in VC", "brand-building"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Jesse uses physical comedy in the office (pretending to be shot with an arrow) to diffuse tension; Harry's rare personal praise ('one of the most entertaining shows I've done in a long time') suggests Jesse's personality and energy significantly impressed him beyond typical interview content."
+}

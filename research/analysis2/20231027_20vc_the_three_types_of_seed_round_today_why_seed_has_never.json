@@ -1,0 +1,26 @@
+{
+  "guest": "Ed Sim",
+  "guest_role": "Founder and Managing Partner at Boldstart Ventures",
+  "approx_date": "Oct 2023",
+  "assertiveness": 8,
+  "assertiveness_why": "Harry repeatedly plants his own thesis and outside data (Parker Conrad's view, JP Morgan Ford-multiple charts, his own tweet on pre-seed board seats) and directly tells the guest when he disagrees ('that's a fuck thing'), sustaining pressure throughout rather than just receiving.",
+  "question_style": "Highly leading and thesis-driven: Harry states strong opinions first ('too much cash too early has a net negative impact'), asks Ed to agree or disagree, cites named third parties (Parker Conrad, Jason Lemkin, Keith Rabois) as counterpoints, and repeatedly projects scenarios forward to press for a real answer rather than platitudes.",
+  "tone": "Very informal and profane, high energy, close personal rapport (long-running friendship, inside jokes about years overlapping), real-time news-reactive framing rather than reverential fandom.",
+  "depth": "Deep on venture mechanics: fund-size math against ownership targets, the taxonomy of inception/discovery/classic/jumbo rounds, dilution and capital efficiency, AI hype vs. real defensibility, IPO-window conditions tied to Fed rates and forward revenue multiples, and M&A dynamics for overvalued unicorns.",
+  "harry_quotes": [
+    "Do you agree with me?",
+    "Am I wrong?",
+    "Is seed immortal to macro externalities?"
+  ],
+  "learnings": [
+    "Boldstart categorizes seed-stage rounds into three types by size and founder profile: sub-$2M discovery rounds for first-time founders exploring a new market, $3-5M 'classic' rounds, and $6-10M 'jumbo' rounds typically for repeat founders with a prior exit.",
+    "Ed intentionally tests founders by offering a smaller check than requested to see whether they actually want the constraint and discipline of less capital.",
+    "Fund sizes built around a $100M seed-fund model no longer work given today's round sizes and ownership targets; Ed argues $150-250M is the right range for a concentrated, ownership-focused inception strategy.",
+    "Preemptive follow-on rounds raised in short succession without enough de-risking data between them were Ed's biggest lesson learned — the first check is rarely the mistake, but a third or fourth check without new signal often is.",
+    "Rahul at Superhuman deliberately never touched a large raised round, operating instead off smaller seed money in a separate account, though Ed views this discipline as extremely rare among founders."
+  ],
+  "topics": ["venture capital", "fund mechanics", "seed rounds", "dilution", "ai", "market cycles"],
+  "repeat_guest_callback": "I know we've been planning this for a while and I think this is number three on your show.",
+  "sponsor_read_count": 3,
+  "notable": "Framed as a real-time, news-reactive episode responding to Ed Sim's tweet from the day before, a departure from Harry's usual longer-lead-time prepared format."
+}

@@ -1,0 +1,26 @@
+{
+  "guest": "Dan Fougere",
+  "guest_role": "Former Chief Revenue Officer at Datadog (scaled revenue from $60M to $1B+ ARR); previously CRO-track leader at Medallia; minority owner of the New York Yankees",
+  "approx_date": "Nov 2024",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry frequently pits the guest against named peers' contrary opinions (Chris Degnan on meeting caps, Chad Peets on pre-product CROs, David Schneider's three reasons people buy) to force him to agree or push back, and digs directly into sensitive personal financial and career-setback details.",
+  "question_style": "Structured operational questioning that builds a full framework (qualification, demos, discounting, hiring) with direct probes, frequently citing other guests by name as a challenge mechanism; genuinely personal and pointed on money and the Medallia CRO snub, but rarely adversarial about the guest's own claims.",
+  "tone": "Warm, admiring, casual and conversational ('I am so excited for this dude'), comfortable asking blunt personal questions about money and failure, high rapport throughout.",
+  "depth": "Very granular sales-operating detail: MEDDIC qualification mechanics, discount governance, PLG-to-enterprise sales transition timing, CS org design by segment, compensation/equity mechanics, and hiring/interview frameworks — a genuinely technical go-to-market conversation.",
+  "harry_quotes": [
+    "Should AEs do their own Outbound or should we fully give to SDRs?",
+    "Is money what you thought it would be?",
+    "Does customer validation on logos really work?"
+  ],
+  "learnings": [
+    "Fougere built Datadog's enterprise motion by starting with hands-on practitioners rather than executives, since CIOs/CTOs initially had no interest in cloud monitoring, and slowly earned his way up as the cloud shifted.",
+    "He tracked sales reps on just two operational metrics (new pipeline opportunities added and new business meetings held) rather than granular CRM activity, believing that discipline alone predicted quota attainment.",
+    "He argues discounting authority should be centralized at CRO/CPO level rather than left to individual reps, since decentralized discounting erodes unit economics and reps will discount to the maximum by default.",
+    "He credits deliberate patience with tiny early enterprise deals (e.g. Capital One's initial $600 contract) as a bet on future consumption growth, calling it a leap of faith that paid off once cloud adoption accelerated.",
+    "He describes being told he'd get the Medallia CRO role, moving his family for it, then learning back-channel the decision had already gone another way — and having to arrange gray-market secondary share sales via Forge to raise cash to exercise his options before they expired."
+  ],
+  "topics": ["sales leadership", "go-to-market", "enterprise sales", "hiring/sales culture", "discounting strategy", "equity/compensation"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 1,
+  "notable": "The guest recounts in unusual detail a personal career setback (losing an expected CRO promotion at Medallia) and the gray-market secondary sales he had to arrange to fund his stock option exercise before it expired."
+}

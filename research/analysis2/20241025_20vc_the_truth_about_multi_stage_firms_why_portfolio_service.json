@@ -1,0 +1,31 @@
+{
+  "guest": "Mark Goldberg",
+  "guest_role": "Co-founder/GP at Chemistry (new $350M seed/Series A fund), formerly Partner at Index Ventures",
+  "approx_date": "Oct 2024",
+  "assertiveness": 8,
+  "assertiveness_why": "Harry repeatedly plants contrarian theses (portfolio services are for VCs not founders, fund math not working, AI froth still rampant) and directly contests Mark's optimism with his own market data and experience.",
+  "question_style": "Mostly prepared, pointed multi-part questions that plant a thesis or devil's-advocate framing ('Do you guys only take common shares then?', 'I don't see that') and force the guest to defend or refine; he interrupts occasionally and layers rapid follow-ups rather than letting answers sit.",
+  "tone": "Warm and matey given a personal friendship with the guest (jokes, swearing, 'dude'), but not fawning — he needles and jokes while clearly rooting for Mark's success.",
+  "depth": "Strategic rather than technical: drills into fund construction mechanics (check size vs reserves vs ownership math), LP fundraising process specifics, capital concentration limits, decision-making models (single-trigger vs consensus), and market-level debates (AI valuations, neobank competition, lending as a category).",
+  "harry_quotes": [
+    "Why does fund size correlate to alignment to founders?",
+    "What is the bureaucracy of a large institution?",
+    "Do you guys only take common shares then?",
+    "Is lending just an uninvestable category?",
+    "Do you think richer investors make better investors?",
+    "What single LP check meant the most to get to you personally?"
+  ],
+  "learnings": [
+    "Portfolio services teams at multi-stage firms often exist to help VCs scale their own operations rather than to primarily serve founders.",
+    "A very light reserve model avoids over-allocating capital into every pro rata follow-on round, which the guest argues is better for both founders and LPs than 'peanut buttering' reserves.",
+    "Younger, first-time founders often gravitate toward brand-name funds out of unfamiliarity with the ecosystem, while repeat founders who've experienced multi-stage platforms tend to prioritize the individual relationship over brand.",
+    "A single-trigger decision model (any one partner can unilaterally approve a deal) is deliberately chosen over consensus decision-making, since consensus tends to filter out the outlier, high-conviction bets that drive venture returns.",
+    "The guest views the 'dot-AI' valuation premium as starting to erode as investors increasingly scrutinize whether AI-labeled companies have sustainable underlying businesses, even though some infrastructure deals remain extremely hot.",
+    "Having gone through his own fundraise as a first-time fund manager gave him new empathy for founders pitching investors, and reshaped his approach to giving direct, honest feedback rather than vague rejections.",
+    "The guest believes many multi-stage venture firms have industrialized — growing AUM and headcount such that founders may recognize the institution's brand but not know who the actual check-writing partners are."
+  ],
+  "topics": ["fund mechanics", "vc industry structure", "fundraising (lp)", "seed/series a investing", "ai bubble", "fintech/neobanks"],
+  "repeat_guest_callback": "The last time I was on your show, I think I predicted $100 billion in Neobank coming out of somewhere.",
+  "sponsor_read_count": 3,
+  "notable": "This was the only podcast interview Chemistry did as part of its fund launch announcement, making it an exclusive access episode timed to a major news event."
+}

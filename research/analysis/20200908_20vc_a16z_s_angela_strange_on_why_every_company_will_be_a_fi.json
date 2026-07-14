@@ -1,0 +1,27 @@
+{
+  "guest": "Angela Strange",
+  "guest_role": "General Partner at Andreessen Horowitz (a16z), focusing on financial services investments",
+  "approx_date": "Sep 2020",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry asks prepared follow-ups and occasionally challenges claims (defensibility concerns, fundraising vs. real strategy), but remains mostly receptive and receiving.",
+  "question_style": "Prepared multi-sentence questions with real follow-ups and occasional direct pushback. Harry challenges logic on unbundling dynamics and market defensibility without being adversarial, asking clarifying questions on bold claims.",
+  "tone": "Formal yet approachable with self-deprecating humor and genuine admiration. High energy, professionally engaged without excessive fandom.",
+  "depth": "Strong technical follow-ups on regulatory infrastructure, system-of-record strategy, and unbundling dynamics. References specific portfolio companies (Propel, Tally, Centrelink, Carta) and probes business model sustainability and market mechanics.",
+  "harry_quotes": [
+    "And what's driving this change, maybe from the infrastructure perspective?",
+    "How do you fundamentally determine whether they actually are, whether it's fundraising BS or a real stretch?",
+    "What would you most like to change about the world of Ventures today?",
+    "How does that tie in to how we think about the next generation of financial services?"
+  ],
+  "learnings": [
+    "Fintech infrastructure tools (APIs, compliance layers) act like AWS for financial services, enabling non-financial companies to offer financial products at lower cost and barrier to entry.",
+    "Defensible fintech businesses are built by becoming the system of record for valuable data, then expanding into a centralized data network that locks in switching costs.",
+    "Consumers increasingly accept predictable subscription pricing over hidden fees in financial services, shifting revenue models away from traditional banking practices.",
+    "Successful unbundled fintech startups attack underserved pain points ignored by incumbents, acquire customer distribution, then rebundle additional services for the same user base.",
+    "Complex financial regulation can be overcome by infrastructure companies that translate regulatory requirements into modern APIs, enabling faster and cheaper compliance for downstream companies."
+  ],
+  "topics": ["fintech", "banking infrastructure", "financial services", "venture capital", "regulatory compliance", "unbundling"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "High-quality technical dive into fintech infrastructure and system-of-record strategy with concrete portfolio examples; demonstrates Harry's evolving grasp of financial services mechanics and market dynamics."
+}

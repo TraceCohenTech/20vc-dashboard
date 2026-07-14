@@ -1,0 +1,26 @@
+{
+  "guest": "Sheel Mohnot",
+  "guest_role": "Co-founder and General Partner at Better Tomorrow Ventures (fintech-focused pre-seed/seed fund)",
+  "approx_date": "Aug 2022",
+  "assertiveness": 7,
+  "assertiveness_why": "Harry repeatedly plants explicit counter-theses (on VC collaboration, LATAM funding depth, emerging-market retrenchment, GP commit size) and directly says 'I disagree' multiple times, even narrating his own evolution as an interviewer from agreeable to argumentative.",
+  "question_style": "Conversational but frequently adversarial: Harry states his own view first (e.g. venture has become 'sharp elbowed', LATAM lacks growth-stage capital) and challenges the guest to rebut it, rather than just asking open questions; he also self-referentially notes he now says 'I disagree' where he used to just agree.",
+  "tone": "Very matey and irreverent, laced with profanity and personal banter (pizza toppings, chocolate in the fridge, dating jokes), high energy, clearly a fan but not deferential.",
+  "depth": "Digs into fund mechanics with real numbers — entry valuations, ownership percentages, reserve ratios, capital efficiency vs headline valuation, GP commit sizing — and pushes on specific portfolio company pricing and follow-on decisions.",
+  "harry_quotes": [
+    "I disagree on Latin. I don't know if we have the lifecycle funding in Latin that we think we do.",
+    "Do you agree with me and how do you think about where we are in the sliding scale of collaboration?",
+    "I am worried. I am worried, Sheil."
+  ],
+  "learnings": [
+    "Capital-efficient exits can return more fund value than larger but heavily-diluted outcomes, since ownership percentage matters more than headline valuation.",
+    "GP commits that represent too large a share of a manager's net worth can distort fund decisions (e.g. pushing for premature secondary sales).",
+    "A model failing with one founder doesn't mean the model is broken — execution quality can make the same idea work the second time (chime vs. simple).",
+    "Emerging markets are diverging: India and Latin America now have enough local fund infrastructure to support companies through multiple stages, while Africa and Pakistan are more exposed to capital retrenchment.",
+    "Fund managers should stay disciplined on entry price but go all-in on supporting the founder once invested, regardless of later round pricing."
+  ],
+  "topics": ["fintech investing", "fund mechanics", "portfolio construction", "emerging markets", "power law", "ownership strategy"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Harry explicitly narrates his own growth as an interviewer mid-episode, contrasting his past tendency to agree with his current willingness to openly disagree with guests."
+}

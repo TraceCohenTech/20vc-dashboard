@@ -1,0 +1,26 @@
+{
+  "guest": "Niko Bonatsos",
+  "guest_role": "Principal at General Catalyst Partners",
+  "approx_date": "Feb 2015",
+  "assertiveness": 2,
+  "assertiveness_why": "Harry asks short, mostly open prepared questions and moves through a checklist with no pushback or contesting of any claim.",
+  "question_style": "Questions are brief and open-ended, following a fairly linear prepared list (background, valuations, location, advice, quickfire); no interruptions, no challenges to guest claims, and Harry never plants his own competing thesis.",
+  "tone": "Polite, earnest, slightly deferential and fan-like ('hugely excited to welcome'); low energy, formal-ish but conversational, no self-deprecation.",
+  "depth": "Mostly surface-level with a few decent follow-ups (Snapchat valuation without revenue, location/Silicon Valley importance) but no technical or strategic pressure-testing.",
+  "harry_quotes": [
+    "What would you say you learned from your startup failing?",
+    "Do you ever get a fear of missing out on a startup?",
+    "How important do you think location is to a startup success?"
+  ],
+  "learnings": [
+    "Being first to market is not itself a durable advantage.",
+    "Building on someone else's platform creates existential risk because the rules can change without warning.",
+    "Companies with two to three co-founders statistically produce the biggest outcomes.",
+    "Early-stage valuation for hot companies is driven mainly by growth rate, investor demand, and strategic value rather than revenue multiples.",
+    "Silicon Valley's advantage is less about innovation monopoly and more about access to capital, risk-tolerant investors, and experienced hires."
+  ],
+  "topics": ["venture capital", "valuations", "founder assessment", "startup location", "career advice", "growth metrics"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 0,
+  "notable": "This is episode 10 of the show, reflecting its very early, unpolished, fan-podcast format."
+}

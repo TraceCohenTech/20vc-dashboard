@@ -1,0 +1,28 @@
+{
+  "guest": "Barry Eggers",
+  "guest_role": "Founding Partner at Lightspeed Venture Partners",
+  "approx_date": "Sep 2018",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks well-prepared, multi-part questions and cross-references other guests' views (e.g. Peter Fenton on ownership), but never directly challenges or contests Barry's answers, letting each point stand unchallenged.",
+  "question_style": "Mostly open-ended, thesis-inviting questions ('how have you seen the landscape evolve', 'what makes a functional board') rather than leading ones; Harry occasionally injects a counter-perspective from a prior guest to prompt reaction, but does not interrupt or press back when Barry pushes past it. No real adversarial follow-up.",
+  "tone": "Warm, deferential, and clearly fannish ('someone I personally hugely look up to and admire'), with heavy praise and gratitude bookending the interview; conversational and matey during the quick-fire round.",
+  "depth": "Covers strategic/institutional topics with real specificity — fund vintages and macro cycles, ownership percentages and pre-money pricing, LP portfolio construction, generational transition mechanics, board dynamics — but stays at the strategic/anecdotal level rather than probing technical or operational details further.",
+  "harry_quotes": [
+    "What makes a functional board, do you think?",
+    "Do you think there is an excess supply and do you think there is that bust coming?",
+    "Why is it so hard?",
+    "What was your thinking on generational transition?"
+  ],
+  "learnings": [
+    "Eggers frames VC history in three eras: 1980-95 hands-on 'craftsman' investing, 1995-2010 'scale-up' with bigger funds and PR-driven visibility, and post-2010 'specialization' with a proliferation of niche fund types.",
+    "He argues market downturns are healthy for venture because they flush out excess capital and tend to precede the strongest-performing fund vintages (citing 2007-09).",
+    "Higher entry prices force funds to concentrate into fewer portfolio companies to preserve ownership targets, which raises the risk of missing the handful of breakout winners that typically drive fund returns.",
+    "Snapchat's seed investment originated from Eggers noticing his teenage daughter and friends obsessively using an unknown app, leading Lightspeed to track down and fund the company.",
+    "He identifies three failure modes for venture firms attempting generational transition: weak performance, insufficient economic/growth paths for junior partners, and senior partners overstaying and hoarding economics.",
+    "Eggers views crypto/network-effects investing as a natural extension of what has historically driven top venture returns, and believes firms that dismiss it outright are making a mistake."
+  ],
+  "topics": ["fund mechanics", "venture firm building", "lp relations", "board governance", "crypto", "generational transition"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Includes a memorable origin story of Lightspeed's Snapchat seed investment coming from Eggers' daughter's high-school friend group, and his personal branding quirk of calling billion-dollar outcomes 'narwhals' instead of 'unicorns.'"
+}

@@ -1,0 +1,28 @@
+{
+  "guest": "Mike Salguero",
+  "guest_role": "Founder and CEO of ButcherBox (bootstrapped D2C meat subscription company)",
+  "approx_date": "Apr 2023",
+  "assertiveness": 7,
+  "assertiveness_why": "Harry directly challenges Mike's frameworks (disagrees on three-year vision planning), pushes back on brand marketing effectiveness, and proposes creative alternatives. More intellectually adversarial than prior episodes while maintaining respect.",
+  "question_style": "Multi-sentence prepared questions with direct challenges to guest's frameworks. Harry inserts his own perspectives ('I disagree') and proposes alternative strategies (media house positioning, million-dollar meat contest, Mt. Everest steak cooking). Engages in creative back-and-forth rather than pure reception.",
+  "tone": "Intellectually energized and collaborative. Harry celebrates wins (70% meat cost reduction), uses profanity casually, and shows genuine excitement about operational details. Warm but with more edge than previous episodes; uses humor and self-deprecation ('I genuinely should be a CMO').",
+  "depth": "Extremely granular operational deep-dive. Harry tracks unit economics minutiae: box-level profitability, CAC payback periods, churn by day (Day 0, Day 27 email), cohort analysis by channel, margin expansion strategies, tape negotiation, yield optimization. Compares landscape (Blue Apron's failed IPO, Allbirds market cap, Warby Parker valuation) and explores why D2C model doesn't work for VC returns.",
+  "harry_quotes": [
+    "I disagree and I disagree because I don't think you can foresee actually the next three years.",
+    "I genuinely should be a CMO.",
+    "I think ButcherBox is a media company."
+  ],
+  "learnings": [
+    "Profitability should be measured in dollars-per-box shipped, not gross margin percentage; this metric revealed how West Coast shipping with dry ice destroyed unit economics until a regional facility opened.",
+    "Channel concentration beats diversification; ButcherBox spent two years perfecting influencer/affiliate strategy (residual commission model) before expanding, creating an unintentional moat where affiliates wouldn't promote competitors.",
+    "Subscription churn concentrates at predictable moments: pre-purchase (people don't want recurring), post-purchase (first box quality), and renewal reminder (Day 27); optimizing first 90 days and AOV expansion sustains growth.",
+    "Bootstrap constraints force ruthless operational discipline (negotiating tape costs, eliminating half-empty trucks) that venture-backed competitors overlook while burning through capital on brand spend.",
+    "Outsourcing infrastructure to established partners (110-year-old distribution company) beats building custom software or owning assets; Blue Apron's custom machinery investment proved catastrophic.",
+    "Lifestyle business design (three-year life vision) matters not for accuracy but for clarifying values and trade-offs that ripple through decisions; specific predictions fail but philosophy endures.",
+    "D2C subscription model may not be VC-backable even at $600M+ revenue because margins don't support venture returns; best performers plateau at 3-5x revenue multiples."
+  ],
+  "topics": ["subscription", "bootstrap", "d2c", "unit economics", "churn", "margin", "channel strategy", "operational efficiency"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Rare case of ultra-successful bootstrap company ($600M revenue, 215 employees) with zero VC funding, directly challenging venture-capital narrative. Guest and host openly disagree on founder life-planning frameworks, with Harry dissenting from Mike's three-year vision approach."
+}

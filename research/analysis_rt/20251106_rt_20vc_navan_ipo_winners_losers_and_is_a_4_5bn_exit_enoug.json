@@ -1,0 +1,31 @@
+{
+  "approx_date": "Nov 2025",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll"],
+  "stories_covered": [
+    "Navan IPO: priced at $5B, trades down to $4.8-4.9B on first day",
+    "Dev Elling steps down as Mongo CEO after successful run",
+    "Amazon AWS accelerates to 20% growth on AI momentum, signs OpenAI partnership",
+    "Meta takes $15B antitrust fine, continues massive CapEx spending",
+    "Twilio rebounds 20% on voice AI reacceleration",
+    "Harvey raises $150M at $8B valuation",
+    "Anthropic projects $70B revenue by 2028"
+  ],
+  "harry_takes": [
+    "Navan's IPO stumble and Dev's departure signal the end of the SaaS 2.0 era and rise of AI-centric valuation regime",
+    "Exit bars have risen to $10B+ minimum; any company not co-attaching to AI spend will be sold to PE at 3x revenue and disappear forever",
+    "Companies have had 18 months to ship AI features; failure to reaccelerate growth proves team incompetence, not market constraint",
+    "IPO lock-ups mean announced wealth is illusory; real distributions take 18-30 months, not day one"
+  ],
+  "harry_boldest_quote": "For me, it's like I don't even want to take meetings with mortal founders.",
+  "predictions": [
+    "Lemkin: Companies not reaccelerated by AI should fire half their teams immediately; they had time and failed",
+    "Panel: Non-AI-native SaaS companies trading at 3x revenue will be acquired and buried by PE firms, becoming invisible",
+    "Stebbings: Navan's weak performance despite solid fundamentals proves investors demand AI optionality at exit",
+    "Lemkin: HubSpot and Salesforce must show real Agent Force monetization by mid-2026 or face management changes"
+  ],
+  "disagreements": "Lemkin advocates harsh culling of underperforming teams; Stebbings and O'Driscoll soften the language but agree with underlying thesis that AI co-attachment is non-negotiable. No substantive disagreement, mainly tone.",
+  "harry_role": "Expressing frustration and disappointment with market evolution. Stebbings moderates Lemkin's harshness slightly while ultimately endorsing the core message. Drives narrative that rising exit bars and AI TAM capture are existential requirements, not optionals.",
+  "topics": ["ipo", "navan", "saastrap", "ai", "meta", "amazon", "anthropic", "venture", "exit_bars"],
+  "sponsor_read_count": 3,
+  "notable": "Navan priced at IPO range but traded down slightly, contradicting Bill Gurley's thesis that IPO pops are 'free money'—suggests market correctly pricing AI-era SaaS companies and demanding growth visibility."
+}

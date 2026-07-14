@@ -9,6 +9,7 @@ const LINKS = [
   { href: "#learnings", label: "Learnings" },
   { href: "#roundtable", label: "Roundtable" },
   { href: "#wisdom", label: "Wisdom" },
+  { href: "#learned", label: "Learned" },
   { href: "#methodology", label: "Methodology" },
 ];
 

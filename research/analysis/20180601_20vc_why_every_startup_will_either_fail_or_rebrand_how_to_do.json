@@ -1,0 +1,30 @@
+{
+  "guest": "Jack Gretzinger",
+  "guest_role": "Founder and CEO at SeatGeek",
+  "approx_date": "Jun 2018",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared multi-sentence follow-ups with genuine curiosity but never contests Jack's claims, mostly receiving his perspectives without challenge or pushback.",
+  "question_style": "Harry asks open-ended, prepared questions with follow-ups (e.g., 'Can I ask, are there elements where you've struggled...'), but rarely challenges Jack's assertions. He plants gentle follow-ups and asks for examples rather than pushing back or introducing his own thesis.",
+  "tone": "Formal yet warm and enthusiastic. Harry expresses genuine interest in Jack's insights. Conversational with moments of light humor, particularly self-deprecating remarks from Jack about the sofa and egg whites anecdote that Harry says will haunt him.",
+  "depth": "Moderately strategic but not deeply technical. Harry follows thematic threads (OKRs, hiring, CAC/LTV, board dynamics, M&A, rebranding) and asks for specifics and examples. Focus is on business strategy and founder experience rather than product or technical detail.",
+  "harry_quotes": [
+    "Can I ask, are there elements where you've really struggled with the embracing of the commercial side?",
+    "Is that not where a board really interject themselves and show you what you don't know?",
+    "What would you have done differently in terms of growth within the journey and why?",
+    "Tell me, what do you think is the right way to view competition?",
+    "What's the biggest risk you've ever taken?"
+  ],
+  "learnings": [
+    "Technical capability must be the primary founder trait; business and commercial skills develop through experience and exposure to great leaders rather than through MBA-style training",
+    "Recruiting effectively requires treating hiring like a metrics-driven funnel and investing in employer brand building through blogging and open source work, which multiplies candidate quality and pipeline",
+    "Raising capital strategies shift from founder/idea focus in early rounds to demonstrable unit economics (CAC/LTV) in growth rounds, requiring clear quantitative evidence before aggressively scaling spend",
+    "Board value peaks during critical strategic moments; the best advisors are intelligent people deeply thinking about your business, not authoritarian directors dictating direction",
+    "Large acquisitions require deep cultural alignment and significant post-deal integration work on systems, platforms, and team building, with luck playing a major role in success",
+    "Brands naturally become constraints as companies grow; rebranding from a neglected early asset into a marketing accelerant is inevitable for scaling consumer companies",
+    "Success in startups involves substantial randomness and luck; even exceptional founders can only marginally reduce baseline failure rates"
+  ],
+  "topics": ["startup hiring", "saas", "fund mechanics", "scaling", "founder skills", "m&a", "branding", "capital strategy"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Jack mentions sleeping on a sofa and eating 15 egg whites, which Harry vows to remind him of repeatedly—suggests this detail became a running joke in Harry's interviewing persona."
+}

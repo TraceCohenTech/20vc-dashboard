@@ -1,0 +1,23 @@
+{
+  "approx_date": "Jun 2026",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll"],
+  "stories_covered": ["SpaceX IPO at $1.77T valuation", "OpenAI files to go public", "Apple rebands Siri on Google Gemini", "Uber cuts 23% of HR, expands autonomous driving", "Ramp raises $750M at $44B valuation", "Suno raises $400M at $5.4B valuation", "Revolut reaches $115B valuation"],
+  "harry_takes": [
+    "SpaceX IPO pricing mechanism is riskier than normal bank-led discovery because Elon fixed the price in advance, removing information asymmetry that normally pops IPOs",
+    "Apple pragmatically gave up on competing with their own AI model and instead partnered with Google—the smart move because they control handsets and consumer experience, not enterprise scale",
+    "Founders need to stop making excuses about needing fat teams; lean startups like Lovable with 146 people hitting $500M ARR prove that bloat is a choice, not a necessity",
+    "The upcoming market environment will raise the bar for everyone; LPs now expect 7-8x returns routinely, which cascades down to pressure on founders and forces tighter unit economics"
+  ],
+  "harry_boldest_quote": "I'm kind of contemptuous of startups that need to be fat. I'm like, what's your excuse?",
+  "predictions": [
+    "Lemkin: SpaceX IPO will likely be a dud on day one and won't trade up dramatically; expects the stock to underperform the IPO price within 12 months as valuation reverts (base rate on 70x forward sales IPOs show dips)",
+    "Lemkin: Over the next year, fundamental value will reassert itself and SpaceX stock price dips despite being an amazing company",
+    "Harry: Startups will become roughly half the size they used to be for equivalent revenue; lean teams with AI leverage will become the norm, not the exception",
+    "Lemkin: AI-efficient businesses with small headcounts will see better employee economics and will be more attractive places to work than bloated enterprises"
+  ],
+  "disagreements": "Lemkin predicts SpaceX IPO will be a dud and underperform; Harry counters that day-one direction is unknowable but agrees medium-term valuation reverts. Lemkin expects enterprise businesses will still need large sales forces; Harry disputes this, arguing founders are choosing lean go-to-market to avoid bloat culture.",
+  "harry_role": "Harry moderates as host but aggressively debates both panelists as an equal. He challenges Lemkin's IPO dip prediction, pushes back on enterprise sales force inevitability, and drives the anti-bloat thesis. He defers on technical IPO mechanics to Lemkin's expertise but owns the strategic framing.",
+  "topics": ["spacex", "ipo", "openai", "ai", "venture", "fintech", "enterprise", "hiring", "efficiency"],
+  "sponsor_read_count": 3,
+  "notable": "The episode was recorded Tuesday, June 11, with SpaceX IPO roadshow happening Thursday—creating real-time tension as their predictions were about to be tested within 48 hours."
+}

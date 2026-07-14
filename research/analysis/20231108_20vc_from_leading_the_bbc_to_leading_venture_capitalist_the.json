@@ -1,0 +1,30 @@
+{
+  "guest": "Danny Cohen",
+  "guest_role": "President of Access Entertainment",
+  "approx_date": "Nov 2023",
+  "assertiveness": 3,
+  "assertiveness_why": "Prepared multi-sentence questions with solid follow-ups; explores Danny's philosophy rather than testing it; validates agreement when topics align but never contests or plants opposing positions; receives rather than challenges.",
+  "question_style": "Open-ended exploration of philosophy and experience; follows up on interesting threads; collaborative curiosity rather than adversarial testing; occasionally reflective ('I had this beautiful structure...I'm just going to ignore it because I want to roll with this').",
+  "tone": "Warm, respectful of expertise, intellectually curious without challenging edge. Uses self-deprecating humor ('British accent puts you 10 IQ points higher'). Engages with genuine interest in Danny's personal philosophy, storytelling views, marriage, literature. Less profanity than prior episodes; more deferential.",
+  "depth": "Mixed technical and philosophical: media business economics (distribution fragmentation, theater capitalization models, revenue by format), discovery algorithms, AI content implications, talent management across domains, brand strategy (Chanel, IKEA, Mattel/Barbie). Also significant personal philosophy: Charles Dickens, loneliness, woke culture polarization, marriage dynamics, careers spanning decades.",
+  "harry_quotes": [
+    "How did you make that transition from BBC to investing?",
+    "What would you say are one or two of the biggest takeaways?",
+    "When do you cut the cord?",
+    "What's the secret to a happy marriage, Danny?"
+  ],
+  "learnings": [
+    "Talent identification works across domains: emotional intelligence, extreme drive, focus on quality, attention to detail, and flexibility of mind predict success whether in theater, TV, gaming, or startups.",
+    "Discovery is fundamentally broken in streaming; recommendation algorithms are overrated; AI-generated content explosion will worsen discovery; trusted verified sources become more valuable.",
+    "Content distribution is unnecessarily fragmented; consolidation is inevitable but necessary; youth audiences are pathfinders for future consumption trends (YouTube on TV now exceeds Netflix consumption).",
+    "Long-form content monetizes; short-form builds audience but lacks revenue models; storytelling has atrophied in tech/business; clear narrative structure (beginning, middle, end) applies equally to films and investor pitches.",
+    "Upside maximization differs by asset class; theater has finite seats/revenue caps; tech has infinite upside; portfolio should reflect multiple value-creation models not just growth.",
+    "Theater economics compress rapidly: musical capitalization rose from $15M to $25M in 3-4 years; Broadway union/real-estate costs make it 4x more expensive than West End; investor appetite threatens.",
+    "Woke vs traditional binary is too simplistic; both extremes lack nuance; polarization prevents understanding why people hold different opinions; apply cultural history with footnotes, not erasure.",
+    "Loneliness is epidemic across ages; physical and digital solutions emerging (chatty benches, eating streams) form 'loneliness economy'; business models for mental wellness remain unproven."
+  ],
+  "topics": ["media strategy", "content economics", "venture investing", "storytelling", "talent management", "brand strategy", "cultural criticism", "distribution models"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Harry explicitly frames this as exploratory departure from typical 20VC format, asking 'wayward questions' across media, philosophy, and personal life. Harry notes desire for 'more diverse in terms of content and theme type' shows. Unusually long personal discussion (marriage, Charles Dickens, loneliness, woke culture) suggests experimentation with broader interview scope. Harry abandons prepared structure mid-conversation to 'roll with' Danny's natural flow."
+}

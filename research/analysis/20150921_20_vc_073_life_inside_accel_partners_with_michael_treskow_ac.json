@@ -1,0 +1,26 @@
+{
+  "guest": "Michael Tresco",
+  "guest_role": "Partner, Accel Partners",
+  "approx_date": "Sep 2015",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared multi-sentence questions with thoughtful follow-ups but never contests Michael's positions or plants alternative theses.",
+  "question_style": "Open-ended and exploratory. Harry follows up on Michael's answers with clarifying questions (e.g., about market sizing, founder attributes) but adopts a receiving posture throughout. No pushback, interruption, or competing narratives.",
+  "tone": "Respectful and admiring. Harry treats Accel with clear deference and maintains a calm, measured energy. The conversation feels like a mentee learning from an established expert rather than peer dialogue.",
+  "depth": "Strategic rather than technical. Harry drills into market sizing philosophy, founder evaluation heuristics, and enterprise software trends (consumerization of SaaS). He asks about Accel's stage-agnostic thesis and value-add model but doesn't pursue technical details in portfolio companies.",
+  "harry_quotes": [
+    "Now, I'd love to hear a little about your backstory and how you made your entry into the VC industry.",
+    "And do you think it's important for VCs then to have the entrepreneurial experience?",
+    "What size market attracts you?",
+    "How can you tell whether the founders have the ability to exploit that market?"
+  ],
+  "learnings": [
+    "Innovation is no longer geographically constrained to Silicon Valley; digital infrastructure and quality teams matter more than location.",
+    "Market sizing requires assessing addressable opportunity relative to competition and customer focus, not just total TAM.",
+    "Founder evaluation hinges on relevant domain background, genuine passion for the problem, and insights into the market that competitors haven't recognized.",
+    "Enterprise software is absorbing consumer design principles because the same people use both; employee preferences for interface and experience don't change between home and office."
+  ],
+  "topics": ["venture capital", "accel partners", "founder evaluation", "market sizing", "enterprise saas", "geographic arbitrage"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 1,
+  "notable": "Early episode in the 20VC run; Michael mentions fresh CartoDB announcement, signaling this captures Accel's investment activity in near-real-time."
+}

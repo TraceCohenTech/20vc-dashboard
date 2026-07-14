@@ -1,0 +1,27 @@
+{
+  "guest": "Merci Victoria Grace",
+  "guest_role": "Partner, Lightspeed Venture Partners (former head of growth at Slack)",
+  "approx_date": "Jun 2020",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks prepared multi-sentence questions with genuine follow-ups but never contests claims or pushes back; mostly receives and affirms guest responses.",
+  "question_style": "Open-ended, mostly receiving; Harry follows up thoughtfully but rarely plants his own thesis. Conversational and collaborative rather than adversarial. Occasional interjections to add commentary or agreement.",
+  "tone": "Matey and warm, with high energy and enthusiasm for the guest. Self-deprecating moments (admits to struggles with deal velocity). Clearly a fan of Merci; frequently affirms her points.",
+  "depth": "Strategic and operational: explores productizing venture, deal evaluation processes, go-to-market strategy for collaboration tools, key SaaS metrics (NPS, revenue retention, DAU), team dynamics at Lightspeed. Asks about technical tools (Evernote, Roam, Google Docs, Slack, Excel) but focuses primarily on business strategy rather than deep technical topics.",
+  "harry_quotes": [
+    "Can I ask, what does the internal technical stack look like for you in terms of play?",
+    "And how do you think about that moving forward with companies that you meet?",
+    "What would you most like to change about the world of tech and venture?",
+    "Tell me final one, the most recent publicly announced investment. And why did you say yes?"
+  ],
+  "learnings": [
+    "Seeing a venture firm's full deal flow reveals the global scale of capital and competition in ways angel investing never shows",
+    "VCs should view founders as their customers and apply startup thinking to improving themselves—their thesis, network, and value-add—rather than just evaluating pitches",
+    "Collaboration tools fail primarily due to poor go-to-market execution despite solid products, or by selling to budget-holders (managers) instead of end users who choose their own tools",
+    "Successful collaboration companies share traits: strong NPS, founder PR ability, expansion revenue within customers, high daily active user ratios, and net revenue retention above 140%",
+    "Revenue retention is the single best lagging indicator for collaboration/productivity companies because it reveals whether retention and engagement remain strong after initial acquisition"
+  ],
+  "topics": ["venture capital", "collaboration tools", "go-to-market", "SaaS metrics", "product management", "founder-market fit", "remote work", "asynchronous workflows", "brand building"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Episode deviates significantly from planned schedule; Harry explicitly notes: 'we absolutely moved away from the schedule and pretty much asked no questions from it.' Also contains a correction in the outro: Slack DAU scaling was 500K→5M, not 50K→5M."
+}

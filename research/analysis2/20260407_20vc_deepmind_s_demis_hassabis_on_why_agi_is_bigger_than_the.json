@@ -1,0 +1,29 @@
+{
+  "guest": "Demis Hassabis",
+  "guest_role": "CEO of DeepMind (Google)",
+  "approx_date": "Apr 2026",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared, well-researched multi-part questions and occasional blunt ones (e.g. on continual learning, energy), but he never contests Hassabis's claims and stays in an admiring, receiving posture throughout.",
+  "question_style": "Mostly open, thesis-eliciting questions built around documentary references and prior tweets rather than leading traps; he doesn't push back or contest any of Hassabis's answers, though he does occasionally plant a counter-view (e.g. citing Yann LeCun or Marc Andreessen) and ask Hassabis to respond to it. No interruptions.",
+  "tone": "Highly reverential and fan-like from the opening (comparing the guest to Newton, Turing, Einstein), warm and personal (references his mother's illness), high energy, some self-deprecation ('terrible question', 'meandering conversation').",
+  "depth": "Strategic/conceptual rather than deeply technical — tracks AGI timelines, scaling laws, continual learning, memory/planning architectures, drug discovery pipeline, energy/compute bottlenecks, and geopolitical AI regulation, but doesn't probe implementation details.",
+  "harry_quotes": [
+    "Is that closer than you thought? Has that changed over time?",
+    "Why do we not have continuous learning?",
+    "Do you think that's true?",
+    "Will Europe have a trillion-dollar company?"
+  ],
+  "learnings": [
+    "Hassabis believes the majority of foundational breakthroughs behind today's AI industry originated from Google Brain, Google Research, or DeepMind.",
+    "He sees continual learning, long-horizon planning, and consistency ('jagged intelligence') as the major capability gaps left before AGI.",
+    "He expects the AI capability gap between leading labs to widen because frontier labs increasingly use their own tools to accelerate the next generation of research.",
+    "He frames the AGI transition as roughly ten times the scale of the Industrial Revolution compressed into a decade rather than a century.",
+    "He argues drug discovery will be solved in two phases: an AI-driven design engine within roughly 5-10 years, followed by a slower shift in regulatory trust before trial requirements can be relaxed.",
+    "He advocates for an international AI safety body akin to the IAEA, fed by national AI safety institutes, to certify models against safety benchmarks.",
+    "He credits the UK's deep university talent pool and relative distance from Silicon Valley's trend-chasing culture as structural advantages for DeepMind's long-term research focus."
+  ],
+  "topics": ["agi", "ai safety", "scaling laws", "drug discovery", "energy", "regulation", "uk tech ecosystem"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Harry opens with an unusually personal, almost hagiographic framing, comparing the guest directly to Newton, Turing, and Einstein before the interview even begins."
+}

@@ -1,0 +1,26 @@
+{
+  "guest": "Eric Paley",
+  "guest_role": "Managing Partner at Founder Collective",
+  "approx_date": "Nov 2015",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry surfaces a listener-submitted question and directly asks if Founder Collective's small checks and no-follow-on strategy leaves money on the table, pressing Eric to defend the model against the obvious counterargument.",
+  "question_style": "Largely open narrative questions but with a few pointed challenges relayed from other VCs (David Hornick, implicitly others) asking Eric to justify small check sizes and the no-pro-rata strategy; Harry occasionally goes off-script ('this isn't on the schedule at all') to follow a thread deeper.",
+  "tone": "Warm, admiring, conversational; Harry expresses genuine enthusiasm and breaks format spontaneously, showing curiosity rather than pure fandom.",
+  "depth": "Goes past surface into fund strategy mechanics -- pro-rata economics, cost-basis dollar-averaging, ownership vs. capital efficiency -- and probes the human/emotional side of being a seed investor.",
+  "harry_quotes": [
+    "Is that the general ticket size that you traditionally put in?",
+    "Do you feel that you miss out then financially by not doing follow-on rounds?",
+    "Does it slightly irritate you to see so many VCs call themselves founder friendly?"
+  ],
+  "learnings": [
+    "Founder Collective avoids pro-rata rights because they see it as structurally misaligned: the fund only wants to exercise the option when the company is struggling, which works against the founder.",
+    "Concentrating checks at the seed stage rather than following on preserves a lower average cost basis across the portfolio instead of creeping toward Series B pricing.",
+    "Even without full pro-rata participation, a small early check in a massive outlier like Uber can still move the fund's entire return profile.",
+    "Paley views venture returns as fundamentally an outlier-driven business, so judging a strategy by removing its outliers misrepresents how the model actually works."
+  ],
+  "topics": ["seed investing", "pro rata", "fund strategy", "founder alignment", "portfolio construction"],
+  "repeat_guest_callback": "We just interviewed. / who we just interviewed (referencing David Frankel's episode earlier that week)",
+  "sponsor_read_count": 0,
+  "notable": "Second episode of a linked two-part Founder Collective feature, directly cross-referencing the David Frankel episode from earlier the same week.",
+  "harry_assertiveness_note": null
+}

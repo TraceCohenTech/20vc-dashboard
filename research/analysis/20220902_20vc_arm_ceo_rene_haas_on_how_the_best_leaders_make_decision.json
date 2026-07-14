@@ -1,0 +1,29 @@
+{
+  "guest": "Renée Haas",
+  "guest_role": "Chief Executive Officer (CEO) at ARM",
+  "approx_date": "Sep 2022",
+  "assertiveness": 2,
+  "assertiveness_why": "Harry asks well-prepared multi-sentence questions with genuine follow-ups but rarely challenges Renée's framing; mostly receives his expertise in receptive, exploratory mode without planting counter-thesis or pushing back.",
+  "question_style": "Predominantly open-ended inquiry inviting philosophical expansion. Harry occasionally acknowledges he's off-schedule when finding interesting threads ('I have a schedule and then I ignore it') but remains inquisitive rather than adversarial. Requests clarification on balance points (perseverance vs. quitting, disruption vs. core business) without pressing his own view.",
+  "tone": "Warm, fan-like, and deferential. Harry opens by referencing his grandfather's admiration for ARM, setting positive tone. Self-aware about straying from prepared questions. Respectful treatment of Renée's seniority; playful banter ('spring chicken') but fundamentally admiring.",
+  "depth": "Strong philosophical and leadership-focused discussion. Harry probes decision-making speed, resilience versus stubbornness, creating urgency in large organizations, balancing core business with innovation, accountability structures, CEO-scale communication, parenting philosophy. Moderate technical depth; mostly principles over company specifics.",
+  "harry_quotes": [
+    "If you learn one thing from listening to the show, it's that I have a schedule and then I ignore it.",
+    "Ronnie, my friend, you are a spring chicken. I don't know what you're talking about.",
+    "People often say it never gets easier over time. I think personally, that's bullshit.",
+    "I'm asking the easy questions."
+  ],
+  "learnings": [
+    "Decision-making speed beats perfect information; the final 20% of data rarely changes the decision but costs significant time, so 75-80% confidence should trigger action.",
+    "Resilience differs from stubbornness; nimbleness means maintaining long-term vision while being flexible on execution and pivoting when assumptions become invalid.",
+    "Large incumbents lose agility by becoming overly reliant on cash-generative legacy business; Kodak and Xerox failed to cannibalize themselves and got disrupted—urgency around self-disruption is critical.",
+    "Creating urgency in comfortable, large organizations requires CEO-visible focus on future trends and disruption; strategy is revealed through behavior and time allocation, not memos.",
+    "High-performance teams balance psychological safety (failure drives learning) with clear accountability; without ownership clarity, repeated failures become normalized rather than becoming learning moments.",
+    "CEO influence scales through authentic connection and genuine curiosity; people amplify messages from leaders who show they care about them as humans, not just resources.",
+    "Windows on ARM appeared catastrophic at launch (no iTunes, poor app ecosystem), but 10 years revealed battery life as the killer application reshaping the laptop market—persistence through apparent failure pays off."
+  ],
+  "topics": ["leadership", "decision-making", "strategy", "resilience", "scaling", "accountability", "communication", "innovation", "agility"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": null
+}

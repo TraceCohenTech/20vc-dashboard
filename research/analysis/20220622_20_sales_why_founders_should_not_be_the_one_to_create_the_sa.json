@@ -1,0 +1,28 @@
+{
+  "guest": "Zhenya Logunov",
+  "guest_role": "Chief Revenue Officer (CRO) at Miro",
+  "approx_date": "Jun 2022",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry prepares multi-sentence questions with genuine follow-ups, and directly states one disagreement on founder playbooks, but mostly receives information without sustained challenge.",
+  "question_style": "Predominantly open-ended questions inviting deep explanation. Harry occasionally states his own view (disagreement on founder playbooks) but does not plant competing theses or push for contradictions. Follows Zhenya's lead throughout; no interruptions.",
+  "tone": "Warm and appreciative, with fan-like energy. Harry self-deprecates ('I am clearly naive or dumb here') and credits prior advisors. Formal but conversational; no fandom but high respect for the guest.",
+  "depth": "Strong operational and strategic follow-ups on sales process, team structure, hiring, and deal mechanics. Harry probes PLG vs. enterprise trade-offs, international scaling, and leadership onboarding. Mostly receiving Zhenya's expertise rather than challenging it with data.",
+  "harry_quotes": [
+    "I want to unpack a little bit of the background because there's some incredible history here.",
+    "I am clearly naive or dumb here, Zhenya, because I disagree.",
+    "I feel quite naive here, Genya, but when you say hiring panel, do you have an individual hiring panel for each hire?"
+  ],
+  "learnings": [
+    "Enterprise market success demands company-wide commitment from the CEO down, not just sales and marketing leadership; many companies lose the opportunity by treating it as optional.",
+    "The best business model combines PLG with enterprise, but timing matters: moving to enterprise too early with insufficient PLG foundation weakens long-term growth, while waiting too long risks competitors entering the market.",
+    "First sales hire should ideally be a head of sales rather than individual contributors, as they can build infrastructure independently while the founder focuses on product and other needs.",
+    "Effective hiring for leadership roles targets candidates with 70% of required experience but genuine passion to master the remaining 30%, paired with deep preparation by the hiring manager.",
+    "Deal reviews should function as team learning clinics designed to help salespeople win, not as evaluations that trigger defensiveness; frame them to surface real field dynamics.",
+    "New leaders need the first month freed from delivery expectations to build relationships with cross-functional peers and establish credibility through one small, high-impact project.",
+    "International expansion requires whole-company coordination across legal, operations, finance, and product; sales leadership alone cannot succeed without executive-level commitment."
+  ],
+  "topics": ["sales", "hiring", "enterprise", "plg", "go-to-market", "leadership", "onboarding", "sales process"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": null
+}

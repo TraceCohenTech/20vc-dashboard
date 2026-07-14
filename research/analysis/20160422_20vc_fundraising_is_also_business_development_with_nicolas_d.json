@@ -1,0 +1,33 @@
+{
+  "guest": "Nicholas Desayne",
+  "guest_role": "Founder and CEO at Algolia",
+  "approx_date": "Apr 2016",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared multi-sentence questions with thoughtful follow-ups but never pushes back, contests claims, or plants his own thesis.",
+  "question_style": "Harry uses mostly open-ended questions that invite Nicolas to elaborate. He asks clarifying follow-ups to understand specifics but remains in receive mode, accepting answers and probing further without challenge. His approach is conversational and supportive rather than adversarial.",
+  "tone": "Warm and matey with genuine enthusiasm; uses praise like \"That is very forward thinking of you\" and self-deprecating humor about aging. He's respectful and professionally curious without fandom-like energy, striking a balance between friendliness and neutrality.",
+  "depth": "Harry explores product-market fit, growth metrics (30% month-over-month growth), Y Combinator's impact, fundraising strategy, and culture scaling challenges. While he touches on technical domains like Lucene and search engines, he doesn't dig deeply into technical architecture, focusing instead on business strategy and founder philosophy.",
+  "harry_quotes": [
+    "So what was it about Julian that that made you think he was right?",
+    "How did you look to build a culture of iteration and quick moving nature from the offset?",
+    "Do you think investors can determine the strength and sustainability of the company culture?"
+  ],
+  "learnings": [
+    "Co-founder alignment on fundamental philosophies and culture matters more than having complementary skill sets; Nicolas and Julian both excelled technically but succeeded because they shared core values about how to build and scale the company.",
+    "Rapid scaling makes company culture difficult to maintain intuitively, so founders must formalize, document, and repeatedly reinforce cultural values to ensure new cohorts of hires absorb them consistently.",
+    "Intensive acceleration programs like Y Combinator establish operational velocity and experimentation cadence that persist long after the program ends, functioning as a pace-setting catalyst for years of growth.",
+    "Fundraising conversations can simultaneously serve as business development, turning investor portfolio companies into product evaluators and potential customers while validating product-market fit."
+  ],
+  "topics": [
+    "founder mindset",
+    "company culture",
+    "scaling teams",
+    "fundraising",
+    "saas",
+    "y combinator",
+    "product-market fit"
+  ],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 1,
+  "notable": "This is part one of a special two-part episode, with part two featuring on the SaaStr Podcast, concurrent with a dedicated SaaS week celebration on the show."
+}

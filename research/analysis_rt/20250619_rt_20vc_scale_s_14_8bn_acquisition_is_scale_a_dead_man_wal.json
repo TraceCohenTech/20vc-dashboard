@@ -1,0 +1,35 @@
+{
+  "approx_date": "Jun 2025",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll", "Garrett (Handshake)"],
+  "stories_covered": [
+    "Scale AI acquired by Meta for $14.8B with special dividend",
+    "Chime IPO pops 50%",
+    "Microsoft and OpenAI conflict escalates",
+    "Ramp raises at $16B valuation",
+    "Perplexity climbs from $15B to $18B",
+    "Pentagon OpenAI defense contract $200M",
+    "Gusto $9.3B tender offer at $900M ARR",
+    "Discord CEO Jason Citron replacement speculation",
+    "Glean vs Dropbox AI competition",
+    "Chinese AI model market share"
+  ],
+  "harry_takes": [
+    "Meta's $14.8B Scale deal is really about buying relevance in AI, not financial returns; founder leaving signals dead company",
+    "Microsoft has no leverage in OpenAI relationship because AGI is coming soon regardless",
+    "The old guard cannot compete with new AI-native companies despite technical resources",
+    "Founder-led companies should stay the course; board-forced CEO changes destroy value most of the time"
+  ],
+  "harry_boldest_quote": "I think it was an opportunity. I tell all founders to sell now, by the way.",
+  "predictions": [
+    "Garrett (Handshake): Scale will exceed $100M revenue within one year, demand tripled immediately",
+    "Lemkin: Scale revenue will decline significantly due to customer reallocation to competing data providers",
+    "Harry: Apple will announce US iPhone assembly operations this year",
+    "Jason: Chinese AI model will reach #1 ranking in benchmarks this year",
+    "Jason: S&P 500 finishes positive for 2025"
+  ],
+  "disagreements": "Harry disagrees with Microsoft having leverage vs OpenAI, while another panelist (likely Lemkin) argues Microsoft has substantial leverage. Rory takes the pessimistic bet on S&P 500 finishing negative at 70% odds, while Jason remains bullish. On old-guard tech competitiveness, Harry expresses lack of confidence while Rory argues the issue is situational positioning, not inherent capability.",
+  "harry_role": "Harry moderates the discussion, asks probing strategic questions about deal valuations and founder dynamics, and shares his own skeptical takes on Meta's motivations and old-guard AI competitiveness. He challenges panelists while maintaining authority as host, and frequently seeks to reframe questions when he disagrees with framing.",
+  "topics": ["acquisition", "scale-ai", "meta", "fintech", "venture-capital", "ipo", "payroll", "enterprise-ai", "old-guard-tech", "public-markets", "openai"],
+  "sponsor_read_count": 6,
+  "notable": "Garrett from Handshake reveals demand tripled in one week post-Scale acquisition, and the unusual deal structure leaves Scale as a declining-revenue business despite $14.8B nominal valuation."
+}

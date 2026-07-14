@@ -1,0 +1,35 @@
+{
+  "guest": "Mac",
+  "guest_role": "founder and managing partner of Rare Breed VC",
+  "approx_date": "Nov 2021",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks well-prepared multi-sentence follow-ups and explores fund mechanics but rarely contests Mac's views, maintaining a supportive interviewing posture throughout.",
+  "question_style": "Open-ended questions with genuine follow-ups on specifics (e.g., 'How many DMs responded?'); no planted thesis or pushback; conversational and affirming without interruption.",
+  "tone": "Warm, enthusiastic, and genuinely celebratory of Mac's unconventional journey; Harry frequently affirms insights with phrases like 'I love that' but maintains a matey rather than fandom-based energy.",
+  "depth": "Harry explores fund structure (check sizes, reserve strategy, rolling closes), LP strategy, portfolio concentration, and diversity in venture; follows strategy details but rarely probes beyond Mac's stated thesis into technical execution.",
+  "harry_quotes": [
+    "Tell me, how did you make your way into venture?",
+    "On the DM strategy, I love it. How many responded and how many didn't?",
+    "Do you think the traditional fundraising process is fucked up?",
+    "What do you want to build with rare breed?"
+  ],
+  "learnings": [
+    "Unconditional support from close relationships matters more than public validation after failure; real community doesn't define you by a single outcome.",
+    "Venture fund structures are flexible legal arrangements, not immutable rules—check sizes, close schedules, and LP terms can be customized to founder needs.",
+    "Pre-seed returns come from volume and follow-ons rather than ownership percentages; larger early checks capture multiples better than small seed-stage positions.",
+    "Institutional LP asset allocation minimums exclude emerging diverse managers, creating structural barriers that require separate fund-of-fund mechanisms to solve.",
+    "Building an audience and network on social media can be as effective as traditional investor networking for emerging GPs raising capital.",
+    "Founders outside Silicon Valley and New York can access top-tier follow-on capital if they achieve strong unit economics (40% monthly growth)."
+  ],
+  "topics": [
+    "pre-seed investing",
+    "fund structure",
+    "venture diversity",
+    "founder support",
+    "twitter strategy",
+    "capital allocation"
+  ],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Mac's Twitter following grew from 2,500 to 50,000 in one year while raising the fund; he successfully crowdfunded a traditional VC fund via social media and unconventional LP outreach (rolling closes, flexible terms)."
+}

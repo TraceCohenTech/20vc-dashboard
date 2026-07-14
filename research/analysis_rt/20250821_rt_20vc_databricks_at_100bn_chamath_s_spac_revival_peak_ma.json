@@ -1,0 +1,22 @@
+{
+  "approx_date": "Aug 2025",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll"],
+  "stories_covered": ["Databricks valued at $100B, surpassing Snowflake", "Chamath announces new SPAC with crypto-age disclaimer", "CoreWeave IPO at $11.2B with $22B annual CapEx", "NewBank earnings surge: $2.5B net income, 42% YoY growth", "Revolut fintech strategy with 26 unreleased products", "On reaching $4B ARR at 38% YoY growth"],
+  "harry_takes": [
+    "The era makes $100B private valuations commonplace—this marks a shift in how we value infrastructure at scale",
+    "Peak bubble isn't knowable in real time; SPACs returning correlates strongly with prior bubble in 2021, suggesting frothy sentiment",
+    "Databricks at 25X run rate feels reasonably priced IF growth persists 2-3 more years at 40%+ rates",
+    "CoreWeave depends entirely on sustained AI CapEx; if demand slows, they become a canary in the coal mine before public hyperscalers feel it"
+  ],
+  "harry_boldest_quote": "One of the things I'm learning especially on this podcast is to not try and fill the need to have an opinion just to fill the space.",
+  "predictions": [
+    "Lemkin: Within 12-24 months, there's a one-in-three chance AI CapEx demand slows, compressing valuations like CoreWeave",
+    "Stebbings: If Databricks IPOs next year at $200B, and growth continues, it will validate the current $100B private valuation",
+    "Panel: If the AI boom continues 2-3 more years, Databricks will compound into 8-9X run rate valuations and feel reasonable on traditional metrics"
+  ],
+  "disagreements": "Jason argues CoreWeave's debt matters less if take-or-pay contracts are ironclad with Microsoft/OpenAI; Rory counters that growth rate assumptions are fragile and paying-rather-than-taking signals early demand weakness.",
+  "harry_role": "Harry moderates and challenges both panelists with follow-up questions, deferring on valuation judgments ('not to fill the space') while pressing on CoreWeave's debt structure and fintech durability. He frames macro trends but lets Lemkin and O'Driscoll drive conclusions.",
+  "topics": ["infrastructure", "ai-capex", "private-valuations", "fintech", "spac-revival", "databricks"],
+  "sponsor_read_count": 2,
+  "notable": "Harry opens by declaring his rule to avoid filling airtime with empty opinions—a self-aware meta-moment about podcast discipline—right before a lengthy debate on whether CoreWeave's debt and AI demand are sustainable."
+}

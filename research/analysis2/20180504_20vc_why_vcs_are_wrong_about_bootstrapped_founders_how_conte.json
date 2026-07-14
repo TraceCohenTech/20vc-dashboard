@@ -1,0 +1,26 @@
+{
+  "guest": "Jesse Genet",
+  "guest_role": "Founder and CEO of Lumi",
+  "approx_date": "May 2018",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks some cheeky, pointed, even mildly provocative questions ('would you say you're unemployable', 'what were the signs you were losing them') and poses a contrarian framing (VCs dismissing bootstrapped experience), but never truly contests her answers.",
+  "question_style": "Playful and personal, poses deliberately provocative or contrarian framings drawn from prior conversations with her investors, weaves in third-party quotes/questions from named VCs, but stays fundamentally supportive and receptive rather than adversarial.",
+  "tone": "Very high-energy, matey, flirtatious banter and humor throughout, heavy fandom for the guest's personality, casual and irreverent register with several jokes.",
+  "depth": "Moderate depth on content strategy, fundraising dynamics for an 'unsexy' vertical, and bootstrapped-vs-VC founder psychology; more narrative/anecdotal than technical or financial.",
+  "harry_quotes": [
+    "Does this make you a first-time founder today with Lumi, do you think?",
+    "Just would you say you're unemployable?",
+    "What were the signs that you were losing them?"
+  ],
+  "learnings": [
+    "Jesse argues VCs undervalue bootstrapped founder experience partly because they resent not having been part of that earlier success.",
+    "She believes content strategy works for almost any business, including unglamorous B2B ones, if the founders are genuinely passionate about creating it rather than outsourcing brand voice to agencies.",
+    "Lumi deliberately stays lean (30 people) because it attracts unconventional, highly capable hires competitors wouldn't have access to.",
+    "She could tell early in VC pitch meetings whether an investor was a fit based on visible boredom cues, including someone appearing to fall asleep.",
+    "Her key fundraising strength was communicating visible passion for the problem even when investors didn't fully grasp the packaging industry."
+  ],
+  "topics": ["bootstrapping", "content marketing", "fundraising", "hiring", "founder psychology", "supply chain/e-commerce"],
+  "repeat_guest_callback": "Jonathan at Ludlow, who introduced Jesse, submitted a direct question read on air about her energy levels.",
+  "sponsor_read_count": 2,
+  "notable": "Jesse reveals her mother had planned to name her Scarlett O'Hara, prompting a personal, off-topic tangent with Harry mid-quickfire."
+}

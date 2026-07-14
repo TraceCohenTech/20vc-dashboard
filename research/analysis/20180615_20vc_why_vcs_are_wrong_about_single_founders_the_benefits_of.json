@@ -1,0 +1,26 @@
+{
+  "guest": "Amanda Bradford",
+  "guest_role": "Founder and CEO of The League",
+  "approx_date": "Jun 2018",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks prepared, multi-sentence questions with genuine follow-ups but rarely contests Amanda's claims; mostly receptive and exploratory rather than adversarial.",
+  "question_style": "Open-ended questions with structured follow-ups on specific business challenges (hiring, monetization, city expansion). Harry pursues threads deeply but does not plant contrary data or challenge Amanda's assertions; tone is collaborative exploration rather than pressure-testing.",
+  "tone": "Matey and enthusiastic with self-deprecating British humour; Harry signals personal investment (thanks Amanda for improving his love life, jokes about fitting the topic into 20 minutes). Generally formal podcast voice but softened by fandom toward the product and guest.",
+  "depth": "Strong technical and business depth. Harry drills into engineering challenges (contractor-to-employee conversion, infrastructure scaling), monetization strategy (fake upgrade screens, conversion rates), marketplace dynamics (gender ratios), and city-by-city expansion algorithm. Asks specific metric-focused questions (yield rates, retention, day-7 behavior).",
+  "harry_quotes": [
+    "What were your big learnings from that single founder experience?",
+    "How did you determine whether a launch has been successful?",
+    "What would be most valuable that an investor could bring to you?"
+  ],
+  "learnings": [
+    "Solo founders can de-risk co-founder conflicts and retain more equity while validating product-market fit, provided they accept that hiring experienced talent requires paying premium rates before traction exists.",
+    "A/B testing monetization through fake paywalls (no actual billing) lets founders measure willingness-to-pay without engineering overhead.",
+    "Pre-launch community building through in-person events turns launch day into a coordinated social event rather than a cold product release.",
+    "Marketplace operators should actively curate supply-side ratios rather than accept organic skew.",
+    "City expansion should follow lagging indicators (waitlist growth) rather than founder intuition."
+  ],
+  "topics": ["single founders", "dating apps", "marketplace dynamics", "product launch", "monetization", "hiring"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Harry explicitly thanks Amanda for improving his love life, framing the episode with personal product fandom; the episode implicitly challenges VC conventional wisdom against solo founders."
+}

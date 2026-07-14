@@ -1,0 +1,23 @@
+{
+  "guest": "Arteen Arabshahi",
+  "guest_role": "VC at Carlin Ventures, specializing in enterprise software and marketplaces",
+  "approx_date": "Aug 2015",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared follow-up questions and explores the guest's story thoughtfully, but never challenges claims or plants alternative theses.",
+  "question_style": "Open-ended and conversational, allowing extended guest answers. Harry follows up on specific details but doesn't contest or redirect. No adversarial elements; he's in reception mode, occasionally offering gentle humor to maintain engagement rather than driving a particular line of questioning.",
+  "tone": "Friendly and collaborative with light self-deprecation. Harry expresses genuine enthusiasm for the guest without fandom. Energy is warm and upbeat, more like a peer conversation than an interrogation.",
+  "depth": "Explores career trajectory and personal background in detail, then moves to investment theses and marketplace strategy. Discussion of marketplace sizing and investment criteria is strategic rather than deeply technical. Notably includes substantial discussion of founder mental health and coping mechanisms, which adds emotional depth beyond typical VC mechanics.",
+  "harry_quotes": [
+    "can you give us a brief walkthrough of how you made your way into the VC world?",
+    "why are you so excited about marketplaces and are there any in particular that you're looking into?"
+  ],
+  "learnings": [
+    "Breaking into venture capital doesn't require the traditional investment banking or consulting pedigree; personalized cold outreach and genuine relationship-building can create opportunities even for those without existing industry connections.",
+    "Vertical-specific marketplaces can generate stronger investor returns than horizontal platforms because participants in niche industries exhibit higher purchase intent and lower friction.",
+    "Founders experiencing self-doubt must identify their own grounding mechanism—some find structured productivity and rigor effective, while others benefit from community exposure and subtle mental health content."
+  ],
+  "topics": ["vc", "marketplaces", "fundraising", "mental health", "founder psychology"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "The episode unusually emphasizes founder mental health, with Arteen discussing personal depression and recommending specific nonprofits like To Write Love on Her Arms, shifting the conversation beyond typical VC mechanics into emotional and psychological resilience."
+}

@@ -1,0 +1,29 @@
+{
+  "guest": "Rick Nucci",
+  "guest_role": "Founder and CEO at Guru",
+  "approx_date": "Jan 2020",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks genuine, open-ended questions with follow-ups, but frames personal concerns as learning requests rather than challenges. He defers entirely to Rick's expertise and shares vulnerabilities of his own.",
+  "question_style": "Opens with discovery questions about career path and founding story, then explores leadership philosophy, culture building, and scaling. Follow-ups are curious and probing but never adversarial. Harry admits to personal gaps (burnout, conflict avoidance) and asks Rick for advice.",
+  "tone": "Collaborative and learning-focused, with mutual vulnerability. Harry shares his own leadership struggles. Respectful and warm without deference. Energy is about mutual understanding rather than interrogation.",
+  "depth": "Deep exploration of leadership philosophy (transparency, empathy, marathon mindset), culture operationalization (hiring screeners, values reinforcement, performance reviews), internal promotion vs external hire decisions, and non-hub location strategy. Harry asks follow-ups on performance improvement plans, culture scaling, and multi-city team management.",
+  "harry_quotes": [
+    "How would you describe your own leadership style?",
+    "Can you maybe tell me about a time that you've been truly vulnerable with the team?",
+    "How do you think about that debate between internal upscaling versus bringing in external talent?",
+    "How have you been purposeful and deliberate in building a strong culture?"
+  ],
+  "learnings": [
+    "Empathy in leadership can be developed through customer exposure and conscious practice; frameworks like Conscious Leadership Group provide actionable tools for feedback and vulnerability.",
+    "Vulnerability is a strength multiplier when leaders model it first; it requires creating psychological safety so team members reciprocate openly.",
+    "Culture scales through deliberate reinforcement mechanisms: structured hiring with cultural screeners, cohort onboarding on company values, monthly values-in-action recognition, and performance reviews tied to value ratings.",
+    "Values should evolve annually to match company stage; distinguish between behavioral (timeless) and aspirational (situational) values to guide culture as you grow.",
+    "Performance improvement plans prevent wrongful terminations and demonstrate fairness; surprise separations undermine trust in leadership.",
+    "Building outside tech hubs (e.g., Philadelphia) provides talent advantages: less saturation, lower CAC for hiring, more authentic culture, and reduced echo-chamber thinking.",
+    "VCs' location bias has inverted; many investors now prefer non-hub companies due to differentiation, capital efficiency, and lower competitive talent wars."
+  ],
+  "topics": ["leadership", "culture", "hiring", "scaling", "philadelphia", "venture-fundraising", "vulnerability", "empathy", "team-building", "performance-management"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": null
+}

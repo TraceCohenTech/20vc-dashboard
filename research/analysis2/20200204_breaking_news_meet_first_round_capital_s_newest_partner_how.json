@@ -1,0 +1,26 @@
+{
+  "guest": "Todd Jackson",
+  "guest_role": "Incoming Venture Partner, First Round Capital (former Dropbox VP of Product & Design); also co-guest Finn Barnes, Partner at First Round Capital",
+  "approx_date": "Feb 2020",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry is largely celebratory and admiring given the exclusive news announcement, asking mostly open, flattering questions, with only one notable moment where he directly contests conventional CAC/LTV thinking and asks the guests to respond.",
+  "question_style": "Predominantly open-ended, warmly framed questions built around celebrating the news and drawing out career narrative; Harry occasionally injects his own contrarian view (e.g., on CAC/LTV at pre-seed) and asks guests to react, but rarely interrupts or contests answers directly, and lets long uninterrupted monologues run.",
+  "tone": "Matey, effusive and fan-like throughout, with self-deprecating asides (Instagram plug, 'flunking the schedule', joking about his own hair loss during the ad read) and genuine enthusiasm for the guests' accomplishments.",
+  "depth": "Mostly narrative/strategic rather than technical — covers product culture, business model transition (consumer to SaaS), product-market-fit frameworks, and venture firm succession/partnership dynamics, with light technical grounding in metrics like LTV:CAC ratios.",
+  "harry_quotes": [
+    "What advice would you give to Todd sitting around this fire?",
+    "What does it take to be a great coach to founders, do you think?",
+    "If the time came again, would you do it again?"
+  ],
+  "learnings": [
+    "Picking the right market is arguably the single most important early decision a founder makes, even ahead of the product itself.",
+    "Company culture tends to be a direct extension of the founders' personalities and values, and successful firms work to codify and communicate that culture deliberately as they scale.",
+    "CAC-to-LTV ratios are largely unknowable and low-value as a diligence criterion at pre-seed/seed stage; what matters is whether founders understand these metrics will matter later.",
+    "Effective investor-coaches resist the instinct to hand founders answers and instead help founders work through problems themselves.",
+    "Generational partner transitions are a leading cause of venture firm failure, and non-attribution, team-based investment models can reduce the internal politics that usually cause this."
+  ],
+  "topics": ["venture capital", "product management", "saas", "product market fit", "fund succession", "angel investing"],
+  "repeat_guest_callback": "if you haven't listened to Finn's prior episode, then that really is a must",
+  "sponsor_read_count": 6,
+  "notable": "First-ever 20VC episode with two simultaneous guests, built around an exclusive announcement that Todd Jackson was joining First Round Capital full-time as a venture partner."
+}

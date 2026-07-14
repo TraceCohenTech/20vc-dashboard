@@ -1,0 +1,28 @@
+{
+  "guest": "Rahul Vohra",
+  "guest_role": "Founder and CEO at Superhuman",
+  "approx_date": "Feb 2019",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared multi-sentence questions with real follow-ups but never contests Rahul's claims or plants his own thesis; he remains receptive throughout.",
+  "question_style": "Open-ended questions designed to let Rahul explain his frameworks in detail. Harry asks for clarification and deeper dives on product metrics, segmentation strategies, and fundraising approach. No pushback, interruptions, or challenges to claims. Purely curious and exploratory.",
+  "tone": "Formal yet friendly, with evident admiration for Rahul as a founder. Harry references prior relationships with Boldstart investors and displays fan-like enthusiasm. He's self-deprecating when mentioning he's not an investor in Superhuman. Overall tone is warm and collaborative.",
+  "depth": "Tracks technical product decisions including keyboard shortcuts, mobile app releases, and integration priorities. Follows the logical flow of product-market fit measurement through Sean Ellis's 40% metric, persona segmentation, and customer feedback triage systems. Engages with the Highest Expectation Customer framework and feature prioritization 50/50 split.",
+  "harry_quotes": [
+    "How did that experience with reportive maybe shape your operating mentality today?",
+    "How did you think about having maybe quite a large cap table and what are the pros and cons?",
+    "What book should I be reading and why?",
+    "If an investor could provide one value other than money, what would it be?"
+  ],
+  "learnings": [
+    "Product-market fit can be measured quantitatively using the 40% 'very disappointed' threshold, enabling founders to optimize systematically rather than operate on feel",
+    "The Highest Expectation Customer framework reveals which customer segments actually love your product and will evangelize it, allowing focused market narrowing rather than trying to serve everyone",
+    "Feature roadmaps should split effort 50-50 between deepening what loyal users love and addressing friction points for fence-sitters, because neglecting either half stunts growth",
+    "Sophisticated customer feedback triage systems prevent founders from being pulled in conflicting directions by non-core users who don't resonate with the product's main value prop",
+    "Founders must resist investor pressure for premature growth before hitting product-market fit, and discipline pays off when they can maintain the 40% metric as user base scales",
+    "Personalized onboarding at scale can become a competitive advantage by pre-qualifying serious customers and delivering bespoke expertise rather than generic self-serve onboarding"
+  ],
+  "topics": ["product-market fit", "saas", "product metrics", "founder operations", "customer segmentation", "fundraising", "email", "scaling"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Superhuman employs a highly unusual half-hour to one-hour personalized onboarding call with every new user—the guest himself notes this is 'considered crazy by most people.' This appears to be a deliberate customer quality filter and competitive moat."
+}

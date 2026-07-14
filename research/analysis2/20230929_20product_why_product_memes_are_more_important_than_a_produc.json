@@ -1,0 +1,26 @@
+{
+  "guest": "Kevin Niparko",
+  "guest_role": "VP of Product at Twilio (via Segment acquisition, former head of product at Segment)",
+  "approx_date": "Sep 2023",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry repeatedly plants other guests' contrarian views (e.g. Spotify's CPO calling product '99% science') and asks Kevin to stake a position against them, plus a few pointed challenges on hiring committees and demos.",
+  "question_style": "Structured, checklist-driven interview moving through career, hiring, demos, writing, and product reviews; frequently cites third-party quotes or frameworks to prompt the guest to agree/disagree/quantify, but rarely interrupts or directly contests the answers given.",
+  "tone": "Energetic, casual, occasionally profane ('fuck it, I love this discussion'), clearly enjoying the tactical material, minimal self-deprecation beyond a joke about being a podcaster.",
+  "depth": "Goes deep into concrete product-management mechanics: the four-quadrant product-team performance model, PRD/product review cadence, hiring architecture for product roles, demo cultures, and the 'product memes' concept, with specific internal examples (Project Roomba, segment warehouses).",
+  "harry_quotes": [
+    "Is it more art or science? Put a number on it.",
+    "Why is a panel or a committee not a useful way to conclude a hiring process?",
+    "How do you advise me on when's the right time to do product two?"
+  ],
+  "learnings": [
+    "Product teams fall into four states based on shipping speed and impact, and leaders should diagnose which quadrant a team is in before deciding how to intervene.",
+    "Segment deliberately imposed a hard three-month deadline on its second product to force radical simplification, showing that resource constraints can accelerate finding the right product.",
+    "Writing PRDs works as a forcing function that exposes weak ideas that otherwise sound good only when discussed verbally.",
+    "'Product memes' — simple, memorable, often humorous distillations of a product's value — spread through an organization more effectively than a full roadmap or PRD ever will.",
+    "Hiring decisions for product leaders should rest with the single hiring manager rather than a committee, since committees dilute accountability for who ultimately works with the hire."
+  ],
+  "topics": ["product management", "hiring", "product strategy", "b2b saas", "team building", "growth"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "This is a 20Product spinoff episode; the guest repeatedly references being coached ahead of time by a mutual friend 'Calvin' who suggested several of the specific questions Harry asks."
+}

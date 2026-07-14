@@ -1,0 +1,29 @@
+{
+  "guest": "Ryan Dennehy",
+  "guest_role": "Founder and CEO at Electric.ai",
+  "approx_date": "Nov 2019",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks prepared multi-sentence questions with real follow-ups on MVP strategy and leadership, but never contests claims and mostly receives the guest's perspective.",
+  "question_style": "Opens with accessible, personal questions before diving into specifics. Harry follows up on answers with probing but supportive questions (e.g., 'Can I ask, with such minimal MVPs, do you ever get concerned about technical debt'). He does not interrupt or challenge the guest's assertions.",
+  "tone": "Friendly and professional, respectful without being self-deprecating. Harry shows genuine interest in Ryan's perspective and even admits his own knowledge gaps (e.g., admitting he doesn't know about Pete Carroll). The energy is collaborative rather than adversarial.",
+  "depth": "Harry follows up on product strategy (MVP, technical debt), leadership approach (wartime decisions, vulnerability, culture), and team scaling (hiring timing, internal promotions). He tracks specific operational topics like inflection points and the economics of business models, showing domain preparation.",
+  "harry_quotes": [
+    "How did you make your way into the world of startups?",
+    "Can I ask, with such minimal MVPs, do you ever get concerned about technical debt?",
+    "Is it possible to be vulnerable but also a strong leader?",
+    "How do you balance ruthless execution with maintaining culture and morale?"
+  ],
+  "learnings": [
+    "Pre-product market fit is primarily about solution design through experimentation, not engineering rigor or building from scratch.",
+    "Founders must define the next inflection point clearly and focus all execution toward bridging the gap from today's state to that objective.",
+    "A need-to-have product is non-negotiable; marketing or sales pressure cannot compensate for a product customers don't actually require.",
+    "The sustainable unit economics and end-state business model must be mapped before starting, not discovered afterward.",
+    "Technical debt should be managed like a credit card: zero balance means you're not moving fast enough, but excess creates future drag.",
+    "Strong leadership at scale requires hiring for the company you want in 12-24 months, starting recruitment 3-6 months before you need the hire.",
+    "Honesty about problems, taking personal responsibility, and maintaining a clear plan are the foundations of wartime leadership."
+  ],
+  "topics": ["saas", "product-market-fit", "mvp", "leadership", "hiring", "startup-economics", "team-building", "wartime-leadership"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": null
+}

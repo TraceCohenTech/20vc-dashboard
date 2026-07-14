@@ -1,0 +1,30 @@
+{
+  "approx_date": "Feb 2026",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll"],
+  "stories_covered": [
+    "Anthropic $30B raise at $380B post-money (up from $10B ask)",
+    "Anthropic now at 64% of OpenAI enterprise revenue despite being smaller",
+    "Thrive Capital $10B fund (split: $1B early, $9B growth)",
+    "OpenClaw creator Peter Steinberger joins OpenAI",
+    "Stripe ($140B valuation private) vs Adyen ($50B public, 21% growth)",
+    "AppLoving down 70%, Shopify getting no love"
+  ],
+  "harry_takes": [
+    "Narrative momentum completely shifted from SaaS to AI; gravity well pulling everything else down",
+    "Enterprises will will AI into existence over next 1-2 years regardless of ROI because CEOs see it as mandatory agenda item",
+    "Public software stocks trading at 8-10x growth but may be oversold; Shopify/Navan not deserving of dismay if AI adoption is real",
+    "Canary in coal mine: if enterprises say 'great AI, now slowing spend' in 1-2 years, that's the bear case to watch"
+  ],
+  "harry_boldest_quote": "Corporate America has decided they're going to make this bet.",
+  "predictions": [
+    "Jason: OpenAI revenue went 5% to 64% of Anthropic in 14 months—that's budget theft even if total budget growing",
+    "Harry: Companies paying 50x run-rate revenues must grow 300-400% for 3-4 years to justify valuation (Harvey example)",
+    "Jason: By end of year Fortune 500 will be knee-deep in AI replacement decisions, growth numbers will be jaw-dropping",
+    "Rory: Back-end 2026 we'll see Anthropic, OpenAI, SpaceX dive for public markets due to capex needs"
+  ],
+  "disagreements": "Yes—Rory urges valuation caution (Anthropic is 50x run-rate, needs to triple then double); Jason and Harry argue momentum is irreversible for 12-24 months. Rory skeptical of 'presumption of success' for both AI models.",
+  "harry_role": "Driving the 'gravity well' narrative, bullish on AI momentum short-term, somewhat dismissive of public SaaS bears, synthesizing capital flows into AI-only investing thesis.",
+  "topics": ["anthropic", "openai", "fundraising", "public-markets", "saas-crisis", "valuation", "momentum", "enterprise-ai"],
+  "sponsor_read_count": 3,
+  "notable": "Harry's gravity metaphor: everything getting pulled down except the escape-velocity companies (Anthropic, OpenAI); capital concentration on two-three winners unprecedented in venture, leaving all others unsellable."
+}

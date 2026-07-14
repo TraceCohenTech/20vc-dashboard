@@ -1,0 +1,26 @@
+{
+  "guest": "Puneet Agarwal",
+  "guest_role": "Partner at True Ventures",
+  "approx_date": "Aug 2019",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry plants his own skeptical view at least twice (calling himself 'skeptical' on LP loss-ratio focus and directly asking 'do you think I'm wrong' on maintaining ownership against larger funds) and asks Puneet to respond to those framed challenges, while the rest of the conversation stays in open, receptive territory.",
+  "question_style": "Long sequence of open, thematically-linked questions tracing True's philosophy from EQ to fund construction to decision-making; Harry occasionally injects a contrarian personal view before asking the guest to confirm or rebut it, but does not interrupt or sustain adversarial pressure once answered.",
+  "tone": "Warm, personal, and openly admiring (repeatedly mentions how much he respects True's partners), conversational energy with genuine curiosity, some structured 'quickfire' banter at the end.",
+  "depth": "Very deep on venture firm mechanics: fund construction, ownership targets, reserve strategy, non-attribution culture, and the 'maximize risk on product/market, minimize risk on founder/dollar amount' framework, going several layers into how True structures decision-making and board behavior.",
+  "harry_quotes": [
+    "Why do you believe that EQ is so cool to the business of venture today?",
+    "Do you think I'm wrong?",
+    "What's the craziest thing you've seen?"
+  ],
+  "learnings": [
+    "True Ventures frames board dynamics around two possible emotions investors project: fear (rooted in loss aversion) or safety, and argues safety is what enables founders to be honest about problems early.",
+    "Deliberately not doing deal attribution among partners removes political incentives to trade favors and lets partners make firm-first rather than ego-first decisions.",
+    "True's model separates risk: maximize risk on product/market timing (investing before traction exists) while minimizing risk via small check sizes and rigorous founder vetting.",
+    "As seed rounds have grown larger and stratified (super seed, seed extensions, early A), True has adapted its check size and entry point rather than staying rigidly at one stage.",
+    "Non-Bay-Area geographic diversity in sourcing is an underused edge, since many firms remain provincial despite strong regional talent, lower costs, and higher employee loyalty outside major hubs."
+  ],
+  "topics": ["seed investing", "board dynamics", "fund construction", "empathy in vc", "risk management", "geographic diversification"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Puneet shares an unusually raw personal story about a founder disclosing a cancer diagnosis on the day True wired a $5M check and immediately offering to return the money."
+}

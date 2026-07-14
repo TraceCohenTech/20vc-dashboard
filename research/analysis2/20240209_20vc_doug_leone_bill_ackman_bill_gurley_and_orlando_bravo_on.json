@@ -1,0 +1,28 @@
+{
+  "guest": "Multiple guests (compilation episode): Doug Leone, Jeff Lewis, Marcelo Claure, Bill Gurley, Bill Ackman, Deven Parekh, Martin Escobari, Orlando Bravo, Justin Fishner-Wolfson, Si Xiao (Long Journey), Brad Gerstner, Dave Tisch, David George",
+  "guest_role": "Various venture capital, growth equity, and hedge fund investors (Sequoia, Bedrock, Bicycle Capital, Benchmark, Pershing Square, Insight Partners, General Atlantic, Thoma Bravo, 137 Ventures, Long Journey Ventures, Altimeter, Spark/BoxGroup, Andreessen Horowitz Growth)",
+  "approx_date": "Feb 2024",
+  "assertiveness": 4,
+  "assertiveness_why": "This is a clip-compilation episode where Harry mostly just introduces each guest's pre-recorded segment on price sensitivity with brief transitions; he asks occasional pointed follow-ups (e.g. pressing Gurley on Rabois' claim, pressing Claure on whether he'd still invest) but there is no sustained back-and-forth or pushback within any single segment.",
+  "question_style": "Largely narrative hand-offs between guest clips rather than a live two-way interview; the few direct questions are short and open, occasionally surfacing a prior guest's claim to get a reaction, but Harry does not contest or challenge any guest's answer.",
+  "tone": "Energetic, curatorial host voice stitching together a 'best investors in the world' theme; reverential toward all featured names, no self-deprecation, very promotional in framing the guest list.",
+  "depth": "Surface-level in structure (a highlight reel) but the content itself is technically dense because each guest independently unpacks pricing frameworks (ownership percentage vs. cost of capital, drawdown risk, Glengarry Glen Ross market structure, options-based hedging).",
+  "harry_quotes": [
+    "How do you feel about that?",
+    "Can I ask, where it doesn't matter?",
+    "Do you still want to get involved?",
+    "Why do you think that is when so much"
+  ],
+  "learnings": [
+    "Doug Leone argues price discipline should intensify further down the investment funnel (growth/pre-IPO) because mispicks compound with size, while seed can stay broad and loose.",
+    "Bill Gurley reframes Benchmark's reputation for 'price discipline' as really being stage discipline, since they still pay full market price at Series A but skip late-stage megarounds.",
+    "Justin Fishner-Wolfson argues VCs overweight ownership percentage as a heuristic when they should instead optimize for cost of capital, citing Peter Thiel's Facebook stake as proof a small percentage of a huge outcome beats a larger percentage of nothing.",
+    "David George frames valuation risk through a 'Glengarry Glen Ross' lens: in winner-take-most tech markets, being right about who the category leader will be matters more than precise entry multiple.",
+    "Marcelo Claure describes pre-committing to whether a market is a 'price matters' or 'price doesn't matter' opportunity before diligence, citing a missed Nubank-adjacent deal as a lesson.",
+    "Dave Tisch distinguishes deal-level price indifference from portfolio-level price awareness, tracking whether a fund's average entry multiple has crept up fund-over-fund."
+  ],
+  "topics": ["valuation", "fund mechanics", "venture capital", "portfolio construction", "growth equity", "risk management"],
+  "repeat_guest_callback": "I think I told you this on a previous call, but it had this amazing meeting with Howard Marks",
+  "sponsor_read_count": 6,
+  "notable": "Unusual format: a themed clip-compilation episode splicing together short answers from over a dozen top investors on a single question (how they think about price), rather than a single-guest interview."
+}

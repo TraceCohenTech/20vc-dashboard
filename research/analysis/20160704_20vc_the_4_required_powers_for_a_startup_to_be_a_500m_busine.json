@@ -1,0 +1,26 @@
+{
+  "guest": "Anne Murico",
+  "guest_role": "Co-founder and Managing Partner at Fluggate venture fund",
+  "approx_date": "Jul 2016",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks prepared multi-sentence questions with occasional follow-ups but rarely contests claims; he mostly receives rather than pressure-tests.",
+  "question_style": "Harry employs prepared multi-sentence questions with thematic follow-ups, occasionally planting his own thesis about market creation and category power. He allows extended guest monologues, rarely interrupts, and does not pressure-test claims or present contradictory data.",
+  "tone": "Formal yet warm, with clear admiration for Anne as the 'most powerful woman in startups.' Maintains enthusiasm while preserving journalistic neutrality rather than fandom, punctuated by self-deprecating moments.",
+  "depth": "Harry asks technical questions about venture capital mechanics (investing in downturns, unit economics, team defensibility) and probes strategic frameworks (market creation, T-NACs, organizational debt). He tracks domain expertise and brand differentiation but remains at conceptual rather than operational depth.",
+  "harry_quotes": [
+    "So how do you think about investing in downturns?",
+    "Do you think brand can be proprietary power if you have a strong enough brand?",
+    "Do you think Lyft is in the category creation segment?"
+  ],
+  "learnings": [
+    "Venture returns concentrate in roughly 25 companies exiting above $500 million annually; VC funds need explicit frameworks to identify venture-scale founders rather than chasing hype or traction alone.",
+    "Authentic domain expertise within founding teams (microsatellite engineering, blogging backgrounds, transportation networks) creates defensibility comparable to patents or proprietary technology.",
+    "True product-market fit manifests as a visceral 'WTF moment' where a sizable market pulls the product from founders' hands, not merely adoption by any customer segment.",
+    "Founders living their mission authentically create defensibility through category differentiation and community that capital alone cannot replicate, exemplified by Lyft's pink mustache brand versus Uber's transactional positioning.",
+    "Building organizational DNA early during seed stage—hiring philosophy, compensation structure, career paths—prevents T-NACs (traction masking organizational dysfunction) from exploding during hypergrowth."
+  ],
+  "topics": ["venture capital", "early-stage investing", "product-market fit", "category creation", "organizational scaling", "unit economics"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Anne's unconventional path to VC (robotics engineering at Yale → Charles River Ventures analyst hired day before 9/11 → Stanford PhD → venture co-founder) grounds her framework of four powers (proprietary, product, category, company) for identifying $500M+ exits, which became central to Fluggate's investment thesis."
+}

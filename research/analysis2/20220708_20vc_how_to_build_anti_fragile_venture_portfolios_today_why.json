@@ -1,0 +1,30 @@
+{
+  "guest": "Mike Chalfen",
+  "guest_role": "Solo GP, Chalfen Ventures",
+  "approx_date": "Jul 2022",
+  "assertiveness": 7,
+  "assertiveness_why": "Harry repeatedly injects his own thesis, personal anecdotes, and other guests' claims (Rabois, Oren, Frank Rottman, Brian Singleton) and asks Mike to defend or react against them, interrupting himself several times to press further.",
+  "question_style": "Mostly open, expansive prompts, but frequently frames a challenge or counter-example before asking Mike to respond (e.g. citing other investors' views to test Mike's position); several self-aware interruptions and follow-ups rather than pure reception, though he rarely flatly contests Mike's answers.",
+  "tone": "Warm, matey, and openly admiring given the personal friendship ('one of the most wise mentors'), with self-deprecating asides about his own FOMO and paranoia; energy stays high and informal throughout.",
+  "depth": "Goes past surface into portfolio construction mechanics, reserve/follow-on allocation, unit economics frameworks, board value/cadence, and secondary-sale ('selling on the way up') logic, tracking specific structural VC topics rather than just headline questions.",
+  "harry_quotes": [
+    "Do you not find this misalignment with GPs and LPs today?",
+    "Do you regret your increased pace of deployment in 21?",
+    "How do you think about market timing?",
+    "Did it change you? Did you change anything about the way you did this role?",
+    "Do you think VCs are upfront today?"
+  ],
+  "learnings": [
+    "A useful early-stage litmus test is whether you'd invest a single dollar in the business at a zero valuation, to separate genuine business quality from riding market momentum.",
+    "Solo GPs can differentiate by not needing to dominate cap tables, instead designing each round around what specifically serves the founder's milestones.",
+    "Anti-fragile portfolio construction comes from diversifying the type of risk taken (capital-intensity to learn, whether a new market must emerge, incumbent vulnerability) rather than just adding more line items.",
+    "Many venture-backed businesses in the recent boom were 'missized' — overcapitalized for economics that couldn't support the resulting cost base, causing pain when growth slowed.",
+    "Boards are often misconceived as reporting forums; the better model separates factual updates from strategic discussion and focuses board time only on the latter.",
+    "Selling a strong-but-not-best position to redeploy into a higher-conviction earlier opportunity ('selling on the way up') is an active portfolio-optimization decision, not a mistake to be avoided on principle.",
+    "Career-stage teams that manage for their own advancement rather than pure investment conviction can cause firms to miss reinvesting in later breakout winners."
+  ],
+  "topics": ["fund mechanics", "portfolio construction", "reserves/follow-ons", "unit economics", "board governance", "solo gp", "market downturn"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Long-time personal friendship framing (Harry says he tried to book Mike for 7-8 years) leads to unusually candid personal material — Mike's divorce, father's death, and being let go from Apax — woven into the investing discussion."
+}

@@ -1,0 +1,31 @@
+{
+  "approx_date": "Oct 2025",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll"],
+  "stories_covered": [
+    "Benchmark hires Everett Randall as new partner",
+    "Revolut $75B Series F at massive oversubscription",
+    "Vertical AI companies face TAM exhaustion",
+    "Poolside announces $2 gigawatt data center build",
+    "Microsoft reduces OpenAI commitments, Oracle steps in",
+    "Mercor achieves $500M ARR in 17 months",
+    "Ramp fundraising at $30B valuation"
+  ],
+  "harry_takes": [
+    "Vertical AI plays are dangerously over-romanticized and will hit TAM exhaustion faster than horizontal solutions",
+    "Everyone being in-market simultaneously for AI tools is a temporary phenomenon; they won't repurchase annually after decision is made",
+    "The market has become compressed into a two-phase game: investing in mega-winners or investing in ultra-late-stage quasi-public companies",
+    "Founders have only 18 months to prove TAM expansion or risk becoming stuck in a niche with no path to venture scale"
+  ],
+  "harry_boldest_quote": "The easiest way to make money in 2025 is to take the very biggest companies and double down one more time.",
+  "predictions": [
+    "Lemkin: TAM exhaustion is visible across his entire portfolio, wasn't even thinking about it 12 months ago",
+    "Panel: If AI CapEx train slows even 20%, valuations of vertical SaaS will crater because growth rates and TAM will disappear",
+    "Lemkin: Legal AI market will see initial buying surge followed by years where nobody repurchases because switching costs are high",
+    "Panel: Between Poolside building own data centers and capital intensity rising, only established AI winners can compete"
+  ],
+  "disagreements": "Lemkin skeptical that small-niche TAMs can expand into billion-dollar businesses; Stebbings and O'Driscoll argue best founders deliberately start in small TAM then expand. Lemkin remains unconvinced founders can overcome market saturation.",
+  "harry_role": "Driving the thesis about TAM exhaustion and vertical AI risk, moderating between Lemkin's pessimism and O'Driscoll's more optimistic founder-centric view. Stebbings asks clarifying questions but takes a clear position on market consolidation toward mega-winners.",
+  "topics": ["verticalsaas", "tam_exhaustion", "ai", "venture", "capex", "poolside", "mercor", "fundraising"],
+  "sponsor_read_count": 3,
+  "notable": "Discussion highlights alarming capital intensity escalation: Poolside building own data center instead of leasing suggests AI infrastructure is becoming prohibitively expensive, potentially locking out new competitors."
+}

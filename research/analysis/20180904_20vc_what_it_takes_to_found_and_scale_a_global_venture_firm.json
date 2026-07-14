@@ -1,0 +1,27 @@
+{
+  "guest": "Barry Eggers",
+  "guest_role": "Founding Partner at Lightspeed Venture Partners",
+  "approx_date": "Sep 2018",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry asks prepared follow-up questions and occasionally references other guests' perspectives but mostly receives Barry's insights respectfully without sustained challenge.",
+  "question_style": "Harry asks multi-sentence follow-up questions with genuine curiosity, occasionally planting knowledge from other episodes (e.g., Peter Fenton's comment on ownership). He rarely interrupts or contests claims directly, maintaining a deferential conversational tone.",
+  "tone": "Formal but warm, with genuine admiration for Barry as a venture pioneer. Harry expresses personal respect and fandom, leaning into reverence for a figure he clearly looks up to.",
+  "depth": "Harry explores strategic and operational topics including VC evolution phases, LP composition, generational transitions, board dynamics, pricing dynamics, and crypto investing. He follows up on concrete examples like the Snapchat investment story and asks about how cycles and challenges shaped Barry's mindset.",
+  "harry_quotes": [
+    "And what do you think is really required to really do it successfully?",
+    "Do you think you will find it challenging to wind down?",
+    "So tell me, how have you really evolved and developed over time as a board member, do you think?",
+    "So how do you view the crypto investing landscape at present?"
+  ],
+  "learnings": [
+    "Venture capital has evolved through three distinct phases: a craftsman era of hands-on investors in early-stage deals, a scale-up phase with larger funds competing broadly, and a specialization era with many fund types targeting specific stages.",
+    "Recessions cleanse the venture ecosystem by reducing excess capital and typically produce the strongest fund vintages, making downturns paradoxically beneficial for long-term returns.",
+    "Early-stage investors face a fundamental trade-off between valuation price and portfolio diversification: accepting higher company valuations forces reductions in the number of investments to maintain target ownership stakes.",
+    "Successful venture firm transitions require three parallel efforts: sustained investment performance, creating economic growth paths for junior partners, and senior partners gracefully stepping back rather than hoarding the economics.",
+    "Personal networks and observation of emerging consumer behavior can provide competitive information advantages for identifying early-stage investment opportunities."
+  ],
+  "topics": ["venture capital", "fund mechanics", "portfolio strategy", "generational leadership", "board governance", "crypto investing"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 4,
+  "notable": "Barry's Snapchat investment originated from his daughter's demonstration of the app at home; the school venture fund's 15k seed investment later returned 34 million, illustrating both the outsized returns and personal-network advantages in early-stage venture."
+}

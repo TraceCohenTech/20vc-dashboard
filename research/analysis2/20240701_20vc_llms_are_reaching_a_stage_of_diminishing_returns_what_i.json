@@ -1,0 +1,26 @@
+{
+  "guest": "Matt Clifford",
+  "guest_role": "Co-founder of Entrepreneur First; Chair of ARIA (UK's advanced research and innovation agency)",
+  "approx_date": "Jul 2024",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry repeatedly plants his own thesis (commoditization, China timelines, UK pessimism) and asks Matt to defend or react against it, and poses direct yes/no challenges like 'would you be a buyer of OpenAI at $90bn', though the tone stays warm given their long friendship.",
+  "question_style": "Mostly open, thesis-driven questions that invite Matt to build on or rebut a stated premise; Harry frequently interjects his own view or a counter-example (Alex Wang, Michael Eisenberg's ranking, Brexit) before letting Matt respond, and occasionally cuts in with rapid follow-ups rather than pure reception.",
+  "tone": "Very matey and personal (old friends of 8 years, swearing, jokes about accents and childhood), high energy, clearly a fan but comfortable being blunt and self-deprecating about the state of UK tech.",
+  "depth": "Strategic/macro rather than deeply technical, but tracks specific AI research threads (scaling law flattening, search+LLM hybrids, multimodality, data bottlenecks, agentic reliability) and geopolitical/regulatory detail (export controls, EU AI Act, UK planning law).",
+  "harry_quotes": [
+    "Would you be a buyer of open AI at 90 billion?",
+    "Do you think China is two years behind?",
+    "Why are we so fucking negative then?"
+  ],
+  "learnings": [
+    "Matt believes raw compute/data scaling for LLMs is flattening, shifting relative value back toward novel ideas and creating fresh startup opportunity outside pure foundation-model building.",
+    "He argues China's AI regulatory posture is unusually strict because the CCP prioritizes stability over unfettered entrepreneurial ambition, unlike the US labs' freewheeling culture.",
+    "He sees UK planning and energy-grid constraints, not talent or ideas, as the binding constraint preventing the UK from becoming a leading AI economy.",
+    "Matt frames the next major AI infrastructure opportunity as building governance/protocol layers for autonomous agents transacting with each other, akin to how high-frequency trading needed rules-based infrastructure.",
+    "He argues top entrepreneurial talent is fungible and allocated by prestige/pay norms (e.g., Jane Street trading jobs), meaning ecosystems without strong founder prestige lose their best people to finance instead of startups."
+  ],
+  "topics": ["ai scaling", "geopolitics", "uk tech policy", "founders/talent", "agentic ai", "china"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Guest is a personal friend of 8 years and former UK government AI safety envoy, giving the episode unusually candid insider commentary on Sino-US and UK AI policy alongside the usual startup/founder discussion."
+}

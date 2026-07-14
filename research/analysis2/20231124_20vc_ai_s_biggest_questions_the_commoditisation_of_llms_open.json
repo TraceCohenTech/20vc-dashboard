@@ -1,0 +1,26 @@
+{
+  "guest": "Panel compilation (Emad Mostaque, Des Traynor, Yann LeCun, Jeff Seibert, Richard Socher, Chris Valenzuela, Tom Tunguz, Miles Grimshaw, Christian Lanng)",
+  "guest_role": "Heads/founders of Stability AI, Intercom, Meta AI, Digits, You.com, Runway, Theory Ventures, Benchmark, and Beyond Work respectively",
+  "approx_date": "Nov 2023",
+  "assertiveness": 3,
+  "assertiveness_why": "This is an edited panel-compilation format where Harry mostly acts as a moderator stitching together answers from separate prior interviews, posing the same question to multiple guests to surface disagreement rather than personally challenging any one of them.",
+  "question_style": "Purely open and topic-routing — Harry poses the same structural question (commoditization, model size, open vs. closed, pricing model, co-pilots, incumbent positioning) to each panelist in turn and lets contradictions between guests do the challenging rather than pushing back himself.",
+  "tone": "Enthusiastic curator/host energy, explicitly experimental in format, no interruptions or informality since it's a spliced compilation rather than a live conversation.",
+  "depth": "Very deep and technical across the AI stack: LLM commoditization, parameter-count trends, open vs. closed source economics, infrastructure vs. application value capture, consumption vs. seat-based pricing, co-pilot vs. agent UX paradigms, and company-specific competitive positioning (Apple, Google, Amazon).",
+  "harry_quotes": [
+    "Will we see the commoditization of LLMs?",
+    "Are co-pilots an incumbent strategy? How useful are they?",
+    "What would you do? Genuinely."
+  ],
+  "learnings": [
+    "Panelists split sharply on whether model size still matters: LeCun argued smaller fine-tuned models are increasingly sufficient while Richard Socher argued scale remains essential for multi-task performance.",
+    "Tom Tunguz's market-cap analysis found infrastructure (AWS/GCP/Azure) and application-layer public companies have roughly equal aggregate market cap, but far fewer infrastructure winners, implying better odds of venture success at the application layer.",
+    "Miles Grimshaw predicts a shift from 'copilot' software (assisting a human seat) to 'control center' software sold against outcomes/SLAs on completed work rather than uptime or per-seat licensing.",
+    "Multiple panelists view Google as the most existentially threatened incumbent since its revenue is concentrated in search ads that a conversational AI interface could cannibalize, and it faces an innovator's dilemma in disrupting itself.",
+    "LeCun argued AI risk is primarily political/economic (wealth distribution) rather than an inherent technological catastrophe risk, comparing AI skepticism to historical fears about early aviation."
+  ],
+  "topics": ["ai", "llms", "open source", "venture capital", "business models", "big tech strategy"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 0,
+  "notable": "This is an unusual experimental format — a spliced-together 'panel' assembled from clips of separate previously recorded 20VC interviews rather than a single live conversation, explicitly flagged as such by Harry at the open."
+}

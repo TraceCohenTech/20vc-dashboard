@@ -1,0 +1,26 @@
+{
+  "guest": "Michael Kim",
+  "guest_role": "Founder and Managing Partner of Sendana Capital (fund of funds)",
+  "approx_date": "Jul 2016",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry poses open questions and follows up with genuine curiosity, but only presents one external viewpoint (Dave McClure's thesis) for response; no sustained pressure testing or data challenges.",
+  "question_style": "Harry asks expansive questions that invite explanation (origins, evaluation criteria, market dynamics). When he introduces Dave McClure's contrasting portfolio construction philosophy, he frames it as a genuine disagreement worth exploring rather than testing Michael's position. Mostly receptive with one instance of plantable counter-argument.",
+  "tone": "Warm, collaborative, intellectually curious. Harry expresses respect ('immense respect and admiration') and frames disagreements as productive philosophical discussions rather than gotchas. Enthusiastic but not obsequious. Feels peer-like rather than celebrity-worship.",
+  "depth": "Substantial. Michael explains three-layer fund evaluation methodology (ecosystem, portfolio construction, intangibles) with concrete examples. Harry asks clarifying follow-ups on adverse selection, ownership math, and market concentration. Covers structural LP dynamics and exit value calculations, moving beyond surface observations.",
+  "harry_quotes": [
+    "I'd love to get the ball rolling today by discussing your journey into the world of LP.",
+    "Does that strategy of investing in startups directly play a big role in Sendana's approach?",
+    "You said adverse selection. Is it not purely optionality because you see deal flow first?"
+  ],
+  "learnings": [
+    "Institutional seed fund emergence was triggered by two shifts: top-tier established VCs getting much larger, and startup formation costs dropping by an order of magnitude, creating room for smaller specialized funds.",
+    "Fund-of-funds managers evaluate seed VCs via three criteria—ecosystem density (quality founders/co-investors/follow-on capital availability), lead-deal ability (maintaining meaningful ownership stakes through reinvestment), and intangible platform-building intentions.",
+    "Adverse selection is a legitimate LP concern at early stages because institutional fund managers have first access to high-quality deals; direct LP participation happens primarily in Series B/C where risk is mitigated.",
+    "Seed fund alpha depends more on initial ownership percentage than deal count; maintaining 7-8% post-dilution on 15% entry outperforms spreading 1% across many deals that need billion-dollar exits to move returns.",
+    "Measured seed-stage mortality rates are lower than conventional wisdom suggests; emerging data shows sub-10% write-offs in quality portfolios, challenging the 80% failure narrative."
+  ],
+  "topics": ["seed investing", "venture capital", "fund evaluation", "LP strategy", "portfolio construction", "market structure"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 1,
+  "notable": "Michael Kim publicly disagrees with Dave McClure's portfolio construction thesis; Harry invites both to a future roundtable to debate the issue."
+}

@@ -1,0 +1,26 @@
+{
+  "guest": "Eric Ries",
+  "guest_role": "Author of The Lean Startup and The Lean Startup Way; CEO, Long-Term Stock Exchange",
+  "approx_date": "Nov 2017",
+  "assertiveness": 3,
+  "assertiveness_why": "Prepared, substantive follow-up questions on organizational structure and innovation, but Harry mostly receives Eric's long explanations without contesting.",
+  "question_style": "Multi-sentence questions with genuine follow-ups on matrix management and accountability. Harry asks clarifying questions and requests examples, but never challenges or plants his own thesis. Respectful, receives rather than contests.",
+  "tone": "Warm and reverential toward the guest ('I grew up with your teachings'). High admiration for Eric's work. Self-deprecating about writing and planning. Genuine curiosity without skepticism.",
+  "depth": "Excellent technical engagement on organizational structure, matrix management, matrix KPIs, accountability systems, and promotion cultures. Harry asks for concrete examples and how concepts scale. Strong focus on corporate innovation mechanics.",
+  "harry_quotes": [
+    "So what are the core challenges with it then?",
+    "How do you insert a culture of accountability without fear?"
+  ],
+  "learnings": [
+    "Matrix management systems optimize for forecast accuracy but fail when dealing with high uncertainty; this mismatch breaks down in entrepreneurial domains.",
+    "Silicon Valley has successfully pioneered repeatable management systems for portfolio entrepreneurship (boards, metered funding, regular reporting) that most established companies fail to adopt.",
+    "The 'missing function' is formal entrepreneurship—most companies lack a process for capturing and testing new ideas from any employee, so they claim meritocracy but practice politics.",
+    "Career equity (future promotion prospects) dominates financial incentives for most employees, creating perverse incentives to delay shipping and accumulate project scope.",
+    "Entitlement funding (perpetual annual budgets) makes it rational for managers to delay delivery and get promoted before being held accountable by the market.",
+    "Changing promotion criteria to reward innovation is the only credible signal that a company is serious about building a culture of entrepreneurship."
+  ],
+  "topics": ["organizational structure", "innovation management", "corporate culture", "accountability systems", "venture capital methodology", "startup operations", "metered funding", "promotion incentives"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Eric mentions 'Rainy Day in San Francisco' as his favorite newsletter, an unusually literary choice for a tech entrepreneur."
+}

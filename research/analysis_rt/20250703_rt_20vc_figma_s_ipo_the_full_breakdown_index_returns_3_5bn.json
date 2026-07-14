@@ -1,0 +1,28 @@
+{
+  "approx_date": "Jul 2025",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll"],
+  "stories_covered": [
+    "Figma files S-1 for IPO",
+    "Index returning $3.5B to investors in months",
+    "Figma S-1 filing at $821M ARR, 46% YoY growth",
+    "Adobe acquisition that never happened valued at $20B",
+    "Figma IPO pricing debate $20-30B range",
+    "Milieu acquisition for $2.5B",
+    "AI investment surge at $300-400B annually"
+  ],
+  "harry_takes": [
+    "Figma is a generational company trading at reasonable multiples for growth profile and cash position",
+    "The failed Adobe acquisition means Figma can command full IPO price discovery rather than strategic discount",
+    "Index's $3.5B return demonstrates that venture returns can compound dramatically in short timeframes"
+  ],
+  "harry_boldest_quote": "Figma is not consumer, but it's got a big enough brand.",
+  "predictions": [
+    "Figma will price in $20-30B range based on $821M revenue baseline",
+    "Index's $3.5B distribution signal strong market momentum for returning capital to LPs"
+  ],
+  "disagreements": "Panelists discuss whether Figma is actually better off after Adobe deal fell through, with some arguing they're in better position for IPO pricing; no major heated disagreement evident in partial transcript.",
+  "harry_role": "Harry moderates S-1 filing discussion, questions valuations, and synthesizes Adobe comparison analysis. He frames Figma IPO as inflection point conversation around pricing and market conditions.",
+  "topics": ["ipo", "figma", "s-1-filing", "adobe", "design-tools", "venture-returns", "index", "ai-investment", "valuation"],
+  "sponsor_read_count": 4,
+  "notable": "Figma's $821M ARR with $1.5B cash on balance sheet and no debt creates fortress balance sheet; Adobe deal falling through actually benefits Figma's IPO pricing power. Index's $3.5B return in 'matter of months' is unusually fast capital return."
+}

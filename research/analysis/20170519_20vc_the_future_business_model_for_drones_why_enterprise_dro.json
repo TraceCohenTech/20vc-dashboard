@@ -1,0 +1,24 @@
+{
+  "guest": "Jonathan Downey",
+  "guest_role": "Founder and CEO at Airware",
+  "approx_date": "May 2017",
+  "assertiveness": 4,
+  "assertiveness_why": "Prepared multi-sentence questions with good follow-ups on industry dynamics and business models, but mostly receptive. Harry is engaged but doesn't push back on claims.",
+  "question_style": "Open-ended industry and business model questions; Harry builds follow-ups by asking about different aspects (market state, differentiation, pricing, barriers); no pushback or challenges; focuses on understanding and elaboration.",
+  "tone": "Warm and collaborative; Harry opens with effusive praise (\"never before embodied product founder fit\"); friendly and interested; appreciative of insights without sycophancy.",
+  "depth": "Medium-to-high; tracks multiple dimensions (market evolution, consumer vs. enterprise, business models, pricing, barriers, transformative technologies, M&A); asks about specific applications and industries; some technical depth on machine learning and FAA regulations.",
+  "harry_quotes": [
+    "Can I ask, have we seen massive technological and mechanical advances in these four years?",
+    "How do you perceive the state of the commercial drone market at present?",
+    "What are the key transformative technologies that will enable new applications?"
+  ],
+  "learnings": [
+    "Commercial drone adoption depends on enterprises digitizing physical operations and decision-making, not on consumer toy markets maturing into enterprise use.",
+    "Enterprise software in emerging categories must follow existing enterprise playbooks (seat-based, usage-based pricing) while offering professional services to ensure business outcomes, not just technology licensing.",
+    "Solutions developed for one vertical market's data analysis often yield immediate applicability to other verticals, creating platform value from vertical-specific expertise."
+  ],
+  "topics": ["drones", "commercial applications", "enterprise software", "business models", "market expansion", "machine learning", "regulatory landscape", "vertical markets"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Jonathan articulates the market maturation from hardware-focused to software-focused companies with clarity unusual for May 2017. His insight on digitizing physical business operations as the real catalyst resonates throughout."
+}

@@ -1,0 +1,30 @@
+{
+  "guest": "Martín Escobarri",
+  "guest_role": "Co-president, Managing Director, Head of General Atlantic's Latin America business",
+  "approx_date": "Nov 2022",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry pushes back on specific framing ('Fun is a strong word'), questions Martín's reasoning ('Why am I missing the trick?'), and presses on capital retrenchment concerns, but mostly receives his deep venture expertise without sustained adversarial challenge.",
+  "question_style": "Predominantly open-ended with occasional direct challenges on framing and assumptions. Harry requests clarification ('Why are you having fun?' 'Can I ask...') and probes reasoning, but doesn't plant competing theses. Interrupts thoughtfully to explore contradictions rather than assert alternatives.",
+  "tone": "Warm, respectful, and admiring. Harry compliments Martín's storytelling and poetic language ('You are poetic with words'). Self-aware humor about his own investing (buying Martín's book to corner the market). Fan-like reverence for Martín's wisdom and journey, but also intellectually engaged.",
+  "depth": "Exceptional venture strategy discussion spanning market sizing, founder vs. market vs. model, power law effects, pricing, decision-making frameworks, bias mitigation, emerging markets dynamics, portfolio construction, downturn strategy. Harry tracks specific data (GA's 50 investments from 10,000 companies) and probes mechanisms.",
+  "harry_quotes": [
+    "Fun is a strong word. Rationality has been restored.",
+    "I'm worried about the exodus of capital away from LATAM and Brazil. Do you share my concern?",
+    "Why am I missing the trick? Why are you having fun?",
+    "I love that. I'm a vessel to Chanel's annual revenues."
+  ],
+  "learnings": [
+    "Market size is the most statistically significant factor predicting venture success; across GA's 40+ years and 400+ transactions, no team or business model can overcome being in a small market.",
+    "Venture capital operates pro-cyclically by structural incentive; during booms, everyone profits and valuations detach from cash flow (paying 20x ARR instead of multiples of EBITDA), guaranteeing eventual correction.",
+    "Three warning signs of market peaks: (1) even weak founders make money, (2) traditional metrics abandoned for new valuation theater, (3) deal velocity collapses to weeks. When these appear, discipline matters most.",
+    "Permanent vs. tourist capital determines downturn outcomes; tourist capital (SoftBank, Tiger) demands speed and sacrifices unit economics; disciplined players with fully-funded portfolios and 3-year deployment win over time.",
+    "Most markets are winner-take-most not winner-take-all; Google, Facebook, and industry followers often outperform first-movers who burned capital recklessly without learning from signal.",
+    "Investment decision-making requires educated intuition grounded in facts; checklists collect the right data, then close your eyes and feel—mixing rigor with gut feel beats either alone.",
+    "Pricing power comes from willingness to walk away; saying no to 99% of deals (50 from 10,000) signals genuine partnership and allows you to negotiate from strength rather than desperation.",
+    "Emerging market capital exits follow historical patterns; tourist capital always leaves downturns, but companies built with permanent players survive and consolidate into durable winners."
+  ],
+  "topics": ["venture capital", "market sizing", "founder quality", "pricing", "decision-making", "bias mitigation", "emerging markets", "power law", "disciplined investing", "downturn strategy"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Martín self-deprecatingly notes his book 'Good to Great for Brazil' sold only 29 copies (his mom bought 10); Harry humorously claims to have bought the other 19 to corner the market, highlighting the episode's warm chemistry."
+}

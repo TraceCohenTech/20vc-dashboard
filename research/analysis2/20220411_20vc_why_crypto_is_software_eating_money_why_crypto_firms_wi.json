@@ -1,0 +1,28 @@
+{
+  "guest": "Avichal Garg",
+  "guest_role": "Co-founder and Managing Partner at Electric Capital",
+  "approx_date": "Apr 2022",
+  "assertiveness": 7,
+  "assertiveness_why": "Harry repeatedly plants his own contrarian theses (crypto ownership collaboration doesn't make sense to him, DAOs are 'just government', tourists distort pricing) and demands the guest defend or refute them rather than simply narrating.",
+  "question_style": "Mix of genuine 'dumb question' admissions and pointed challenges; he interrupts his own prepared flow to contest claims in real time ('I don't get it, sorry', 'Am I wrong? Is she right?') and pushes on mechanism rather than accepting assertions at face value.",
+  "tone": "High energy, unusually candid and profane ('I'm just totally running', 'fucked off'), self-deprecating about his own ignorance of crypto, clearly engaged and enjoying the intellectual sparring.",
+  "depth": "Very deep technical/strategic dive: token vs equity structuring, ownership-concentration limits in token networks, RIA/SEC regulatory constraints on traditional VC funds, crypto fund operations (custody, staking tax treatment, KYC on OTC desks), DAO governance experiments, and venture pricing/underwriting logic.",
+  "harry_quotes": [
+    "I don't get it. Sorry.",
+    "Am I wrong? Is she right?",
+    "Does it make your job harder having tourists?",
+    "Is it tough for you though? I have a company that's fucking ripping."
+  ],
+  "learnings": [
+    "Crypto VCs deliberately cap ownership at low single digits per network (vs. 15-20%+ in traditional VC) because over-concentration undermines the decentralization thesis that gives the network its value and can trigger community rejection.",
+    "Traditional VC firms are structurally disadvantaged in crypto because SEC venture-exemption rules cap liquid-asset exposure, forcing crypto-native firms to register as RIAs and build engineer-heavy teams instead of traditional associate/partner structures.",
+    "Electric Capital staffs roughly half its team as software engineers because crypto investing requires writing code to do diligence (running nodes, compiling), custody assets, and interact with DeFi protocols — infrastructure that doesn't yet exist from third parties.",
+    "A token makes sense only when the underlying company could disappear entirely and the value creation would persist for users; if the company must exist for the token to work, skepticism about a 'true' token network is warranted.",
+    "Garg believes venture returns above the top decile of firms will get commoditized and disrupted by global on-chain capital markets, but expects top firms like Sequoia and Andreessen to survive by building fully separate crypto-native fund structures.",
+    "His single biggest personal investing lesson is that intuitions about market size are systematically wrong — humans extrapolate linearly when technology markets actually grow exponentially, which argues for holding winning positions far longer than feels comfortable."
+  ],
+  "topics": ["crypto", "web3", "dao", "fund mechanics", "venture strategy", "token economics"],
+  "repeat_guest_callback": "We did one many years ago.",
+  "sponsor_read_count": 3,
+  "notable": "Harry frames this as 'the best episode we've ever done' and leans heavily into openly admitting his own unfamiliarity with crypto, resulting in unusually candid, exploratory back-and-forth rather than a polished interview."
+}

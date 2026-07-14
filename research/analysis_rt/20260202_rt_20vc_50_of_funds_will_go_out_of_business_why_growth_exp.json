@@ -1,0 +1,31 @@
+{
+  "approx_date": "Feb 2026",
+  "panelists": ["Oren Zeev"],
+  "stories_covered": [
+    "Oren Zeev's $1B+ AUM solo-capitalist model vs traditional multi-stage firms",
+    "Navan as AI beneficiary: gross margins improving 50% to 70%+ via support automation",
+    "Competition intensity increase: 1-2 competitors in early deals now vs 8-10 today",
+    "Fund attrition thesis: 50% of venture funds at risk of extinction",
+    "Audible acquisition by Amazon after failed take-private attempt",
+    "Sensei as recent market-leader founder breakthrough",
+    "PropTech loss case study: interest rate sensitivity miscalculation"
+  ],
+  "harry_takes": [
+    "The best venture investments look weird or wrong at investment time because low competition creates 2-3 year moats",
+    "AI is the biggest change in history; every investment now requires asking: beneficiary or victim of AI?",
+    "SaaS incumbents won't die wholesale because operational complexity, distribution, integration, and data are harder to disrupt than pure technology",
+    "Obsessive focus on growth metrics drives fraud and circular accounting (revenue wash between friendly companies)",
+    "Venture capital has shifted from finding high-growth to allocating capital to proven winners; this hollows out mid-market opportunity"
+  ],
+  "harry_boldest_quote": "AI is the biggest change ever in the history of humanity.",
+  "predictions": [
+    "Oren Zeev: 50% of venture firms will go out of business because only firms concentrated on true market leaders and founders will survive LPs' willingness to pay fees",
+    "Oren Zeev: Navan will continue to benefit from AI and has zero disruption risk due to operational complexity and data moat",
+    "Oren Zeev: Most companies claiming 100% growth have unhealthy economics and will implode when 2X capital becomes scarce"
+  ],
+  "disagreements": null,
+  "harry_role": "Harry conducts deep interview with solo capitalist Oren Zeev, probing his contrarian thesis on founder quality, growth-vs-health economics tradeoff, and the future of traditional venture. Harry frames the conversation as 'advice for himself as an investor,' creating intimate, educational dynamic rather than competitive debate.",
+  "topics": ["solo-capitalist", "founder-quality", "ai-defensibility", "growth-vs-economics", "venture-survival", "navan-success"],
+  "sponsor_read_count": 3,
+  "notable": "Episode features Oren Zeev as solo guest rather than traditional roundtable panelists; Oren's philosophy: zero management fees, 30% carry, 15 companies per fund but 40 total across 11 funds due to follow-on crossover. Emphasizes intellectual honesty in changing mind and avoiding self-validation bias that plagues most VCs."
+}

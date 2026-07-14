@@ -1,0 +1,26 @@
+{
+  "guest": "Jules Maltz",
+  "guest_role": "General Partner at Insight Venture Partners (IVP)",
+  "approx_date": "Feb 2017",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared, multi-part questions and real follow-ups (e.g. pressing on whether pre-investment value-add is risky, referencing Rory Driscoll's counter-view), but never directly contests Jules's answers or plants an adversarial thesis.",
+  "question_style": "Mostly open, structured questions that build a narrative arc (career origin, trends, red flags, board role, quickfire), with a few pointed follow-ups asking Jules to react to a named worry or another guest's opposing opinion; no interruptions and no real pushback, just polite prompts for more detail.",
+  "tone": "Warm, matey and openly admiring (heavy praise, thanks to the intro-makers, quickfire banter about egg bombs and drinks), high energy with some self-deprecating jokes about his own reading habits.",
+  "depth": "Mostly strategic/qualitative rather than technical: covers late-stage deal sourcing, trust-building with founders, unit economics vs. growth tradeoffs, board dynamics, and the 's-curve' framework, without probing into specific financial metrics or technical product detail.",
+  "harry_quotes": [
+    "What does the company need to show to get a larger later stage check",
+    "To what extent is that the role of also the board member",
+    "Talk to me about the s-curve how you view it and its importance"
+  ],
+  "learnings": [
+    "Late-stage investing shifted from a relationship-driven, referral-based model to proactive direct outreach to fast-growing CEOs, enabled by better visibility into company performance data.",
+    "Founders only get a short window to evaluate a new board member before a multi-year commitment, so building genuine trust pre-investment (rather than transactional courting) is the real differentiator between competing investors.",
+    "The market's tolerance for weak unit economics swings in cycles — the 2014-15 unicorn boom over-rewarded top-line growth despite negative margins, and later corrected back toward valuing efficient, profitable growth.",
+    "The strongest late-stage CEOs proactively overhaul management and strategy at each order-of-magnitude scale-up rather than riding a single growth curve until it plateaus (the 's-curve' concept).",
+    "A resilient founding team can rebuild an entire business model around a new product when the original market thesis fails, turning a struggling company into a large outcome."
+  ],
+  "topics": ["late stage vc", "fund mechanics", "unit economics", "founder trust", "ipo market", "growth strategy"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 4,
+  "notable": "Part of a paired weekly theme on late-stage investing (companion episode with Randy Klein of DFJ later that week), and Harry name-drops his own prior interview with Fred at Excel on Deliveroo unit economics as context for a question."
+}

@@ -1,0 +1,31 @@
+{
+  "approx_date": "Jun 29, 2026",
+  "panelists": ["K.R. Shridhar (guest: Bloom Energy CEO)"],
+  "stories_covered": [
+    "Bloom Energy market cap $93B (up 1500% in one year)",
+    "Revenue $2B in 2025, up 37% YoY",
+    "Leo Aschenbrenner's largest fund position (16% of fund) in Bloom",
+    "Solid-state fuel cells for AI data center power",
+    "Energy as the bottleneck for AI infrastructure",
+    "Power democratization and edge computing",
+    "Distributed power vs traditional grid infrastructure",
+    "Manufacturing scaling from 1 GW to 2+ GW capacity"
+  ],
+  "harry_takes": [
+    "AI isn't a bubble; it's a hockey stick on a hockey stick—secular, enduring infrastructure demand for power, not speculative pricing",
+    "Leo Aschenbrenner's conviction in Bloom is justified; the company solved a 25-year-long technical problem that markets finally need",
+    "Bloom's distributed, modular architecture (50kW units vs 500MW turbines) is fundamentally superior for AI workloads that require millisecond ramp-up",
+    "Regulation is now the constraint, not technology or capital; permitting and grid interconnection are the bottlenecks preventing faster deployment"
+  ],
+  "harry_boldest_quote": "Don't short the US, don't short Silicon Valley. This is the place where revolutions happen.",
+  "predictions": [
+    "K.R.: Power-to-the-edge will transform city planning and population distribution; energy sovereignty will prevent wars as countries stop relying on adversaries for power",
+    "Implied: Bloom's $20B backlog will be absorbed; demand will remain insatiable as AI continues exponential expansion",
+    "K.R.: Hydrogen battery storage on-site will complete the distributed energy vision by 2030s; solar + storage + Bloom boxes = true energy independence"
+  ],
+  "disagreements": null,
+  "harry_role": "Harry is the interviewer, driving narrative around Leo's conviction, Bloom's competitive moat, and the scale of the energy problem. He validates K.R.'s 25-year bet and uses the interview to surface the thesis: AI creates secular energy demand that only Bloom's technology can satisfy at the required speed and modularity.",
+  "topics": ["bloom energy", "ai infrastructure", "power generation", "fuel cells", "energy abundance", "data center power", "leo aschenbrenner", "distributed energy"],
+  "sponsor_read_count": 3,
+  "notable": "This is a featured guest interview (K.R. Shridhar) rather than a traditional roundtable debate; the episode pivots from skepticism (is this a bubble?) to conviction (here's why it's secular). K.R.'s calm, engineering-minded perspective on risk mitigation shapes the entire narrative."
+}

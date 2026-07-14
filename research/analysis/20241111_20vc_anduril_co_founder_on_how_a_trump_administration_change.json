@@ -1,0 +1,35 @@
+{
+  "guest": "Matt Grimm",
+  "guest_role": "Co-founder and CEO of Anduril Industries (American defense technology, autonomous systems)",
+  "approx_date": "Nov 2024",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks direct, sometimes confrontational questions ('is war not good for business?', 'Should TikTok be banned in the US?') but mostly explores Matt's views without challenging his core positions or citing opposing data.",
+  "question_style": "Harry asks direct, occasionally provocative questions on geopolitical topics (China threat, Israel-Gaza, Trump's ability to unify parties, war economics). He plays skeptical interviewer but doesn't push back substantively—mostly seeking clarification and elaboration.",
+  "tone": "Serious, geopolitical. This is the most adversarial-leaning episode yet, though still exploratory. Harry frames Matt as an authority on defense and technology's role in statecraft.",
+  "depth": "Deep on defense strategy, autonomous systems, AI applications in warfare, geopolitics. Covers Anduril's Lattice operating system, data fusion for battlefield awareness, how software is transforming defense (historically a laggard on tech), and five-year military procurement cycles.",
+  "harry_quotes": [
+    "Should TikTok be banned in the US?",
+    "Do you think Trump will be able to bring the two parties together?",
+    "Is war not good for business?"
+  ],
+  "learnings": [
+    "Defense technology's role is deterrence, not enablement of war; the goal is such overwhelming capability that conflict is never needed ('biggest insurance premium to governments').",
+    "Software and AI are transforming defense by fusing disparate sensor data (satellites, drones, individual soldiers, missiles) into a unified battlefield picture for commanders.",
+    "Military leadership tends to be more stable than political leadership; political appointees change with administrations but career military personnel provide continuity.",
+    "Government customers are not 'shitty'—they're complex and long-cycle, but alignment with five-year service procurement docs is how to identify innovation gaps and build defensible markets.",
+    "China represents the geopolitical threat that should shape US tech and defense strategy; the CCP's approach to human rights, surveillance, and censorship is fundamentally antithetical to Western values.",
+    "Israel's defensive response to invasion and civilian attacks is justified; terrorism and hostage-taking cannot reasonably go unanswered."
+  ],
+  "topics": [
+    "defense-tech",
+    "autonomous-systems",
+    "ai-in-defense",
+    "geopolitics",
+    "china-threat",
+    "government-customer-dynamics",
+    "military-procurement"
+  ],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "This episode pivots sharply from business/product focus to national security and geopolitics; Harry frames Matt as an authority on how technology shapes statecraft and deterrence, not just commercial value creation."
+}

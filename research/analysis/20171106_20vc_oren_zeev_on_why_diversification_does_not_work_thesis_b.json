@@ -1,0 +1,24 @@
+{
+  "guest": "Oren Zeev",
+  "guest_role": "Founding partner, Zeev Ventures",
+  "approx_date": "Nov 2017",
+  "assertiveness": 3,
+  "assertiveness_why": "Prepared multi-sentence questions with real follow-ups, but never contests Oren's claims; instead frequently validates them.",
+  "question_style": "Harry asks well-researched, multi-part questions with genuine follow-ups on diversification and board behavior. He rarely pushes back; instead he agrees ('I completely agree'). Conversational, no interruptions, plants no thesis.",
+  "tone": "Warm and fan-like with formal deference ('thrilled to welcome', 'huge thanks'). Self-deprecating humor about travel problems. High energy but respectful to the guest.",
+  "depth": "Strong technical follow-ups on diversification strategy, non-institutional fund structure, and board member psychology. Asks Oren to reflect on personal evolution as a board member. Less focus on specific market thesis or technical deep-dives.",
+  "harry_quotes": [
+    "How does that affect how you viewed portfolio construction diversification?",
+    "Does this not suggest a permanent cheerleader when sometimes the challenger is required?"
+  ],
+  "learnings": [
+    "Diversification fails in downturns because correlations spike; concentrated portfolios force higher deal thresholds and enable deeper founder support.",
+    "The most successful investments come from founders who are outsiders to an industry but have deep personal experience with its pain points.",
+    "Board members should ask hard questions and offer honest opinions, but ultimately empower founders to make their own strategic choices and mistakes.",
+    "Thesis-based investing is less effective than identifying non-obvious opportunities that other investors haven't yet discovered."
+  ],
+  "topics": ["diversification", "fund structure", "board member behavior", "venture capital", "portfolio construction", "founder dynamics"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Identical sponsor read sequences (Raiden and Simba) bookend the episode, suggesting production template reuse."
+}

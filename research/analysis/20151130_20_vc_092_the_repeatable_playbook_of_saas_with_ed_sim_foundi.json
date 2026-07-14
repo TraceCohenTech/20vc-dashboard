@@ -1,0 +1,28 @@
+{
+  "guest": "Ed Sim",
+  "guest_role": "Founding Partner at Boldstart Ventures",
+  "approx_date": "Nov 2015",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks prepared, multi-sentence questions with real follow-ups and occasionally plants his own thesis, but never contests Ed's claims.",
+  "question_style": "Harry uses open-ended questions that often frame a perspective (e.g., 'Do you think the West Coast style has been brought to the East Coast now?'), showing he has done his homework. He follows up on Ed's points and builds conversational threads, but remains largely receptive rather than adversarial.",
+  "tone": "Formal at the start with elaborate intro, then becomes matey and conversational. High energy and fan-like admiration for Ed's 20-year track record. Harry shows self-deprecating humor and enthusiasm throughout.",
+  "depth": "Harry covers strategic business topics well: seed funding economics, enterprise vs. consumer dynamics, developer platforms, deal sourcing, market sizing, and the rise of micro VCs. Follows up on Ed's mentions of developer-driven adoption and security trends. Does not drill into technical depth but maintains strong business-model focus.",
+  "harry_quotes": [
+    "What do you think the West Coast style really is then?",
+    "So why did you choose enterprise when you were starting out your career in VC?",
+    "How big does the market have to be for you when you invest so early.",
+    "What if then the newer generation of entrepreneurs start raising on Angel list and that becomes the norm."
+  ],
+  "learnings": [
+    "Cloud infrastructure and open-source tools have dramatically reduced the capital needed for enterprise SaaS startups compared to the pre-2010 era.",
+    "A repeatable playbook exists for enterprise SaaS that has evolved over 20 years but remains fundamentally rooted in solving customer service, sales, marketing, or IT infrastructure problems.",
+    "Developer-driven adoption—where engineers find and adopt tools, then pitch them to CTOs—has become a major wedge for enterprise software adoption.",
+    "The rise of 350+ micro VCs since 2010 filled a gap created by large venture firms becoming inefficient at writing seed-stage checks under $2M.",
+    "Repeat entrepreneurs with domain expertise in enterprise have significant advantages because they can leverage existing networks of buyers and previous company knowledge.",
+    "Early-stage enterprise investors must rely on buyer interviews, founder background, and market intuition rather than traditional financial metrics or analyst reports."
+  ],
+  "topics": ["saas", "enterprise", "seed funding", "venture capital", "developer platforms", "fund mechanics", "consumerization"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Ed uses the phrase 'enterprise can be fucking hard' mid-interview, marking one of the few explicit curse words in what is otherwise professional podcast discourse."
+}

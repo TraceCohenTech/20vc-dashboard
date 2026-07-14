@@ -1,0 +1,35 @@
+{
+  "guest": "Hubert Pallane",
+  "guest_role": "Founder and CEO of Product Board",
+  "approx_date": "Jan 2021",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks prepared follow-up questions exploring frameworks but mostly receives rather than challenges or plants his own thesis.",
+  "question_style": "Open-ended, multi-sentence questions that invite elaboration; Harry prepares detailed follow-ups like 'I have to unpack a couple of elements' and explores the guest's logic without interrupting or contesting claims.",
+  "tone": "Warm and collegial throughout, with genuine enthusiasm ('It's such a joy to have you on the show') and informal language; Harry projects admiration for the guest rather than neutrality.",
+  "depth": "Harry pursues strategic product thinking across multiple dimensions—founder psychology, market fit, pricing strategy, team dynamics, transparency—tracing patterns across the guest's frameworks with real-world examples (Slack pivoting, Salesforce bundling) rather than drilling technical details.",
+  "harry_quotes": [
+    "Tell me how did you make your way into the world of startups?",
+    "So tell me what is founder insight overrated?",
+    "How do you think about when and why is the right time to add secondary products?",
+    "Tell me what keeps you up at night?",
+    "Why is hiring product managers so fucking hard?"
+  ],
+  "learnings": [
+    "Founder success depends less on having an original insight and more on the leader's mental flexibility to pivot when market feedback contradicts initial assumptions.",
+    "The best product organizations share strategic insights and market intelligence across all roles rather than concentrating decision-making power in the founder.",
+    "Bold long-term visions are necessary but dangerous; execution requires deliberate interim milestones, as attempting to build everything at once leads to bloat and strategic paralysis.",
+    "Companies that achieve product-market fit by accident without underlying strategic discipline become vulnerable to customer demands pulling them in contradictory directions.",
+    "Radical transparency about business challenges and friction multiplies organizational problem-solving capacity by giving smart people visibility into real constraints, not just optimistic roadmaps."
+  ],
+  "topics": [
+    "founder mindset",
+    "product strategy",
+    "product management",
+    "team dynamics",
+    "market fit",
+    "transparency"
+  ],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Recorded at Sequoia Founders Day with investor input acknowledged; distinguished by sustained philosophical depth and notably high energy from both Harry and Hubert."
+}

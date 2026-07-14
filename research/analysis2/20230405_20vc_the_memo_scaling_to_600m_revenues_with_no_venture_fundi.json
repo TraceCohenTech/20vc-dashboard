@@ -1,0 +1,28 @@
+{
+  "guest": "Mike Salguero",
+  "guest_role": "Founder and CEO of ButcherBox, a bootstrapped meat-subscription company doing roughly $600M in revenue with no venture funding",
+  "approx_date": "Apr 2023",
+  "assertiveness": 7,
+  "assertiveness_why": "Harry explicitly says 'I disagree' and pushes his own counter-thesis on lifestyle-design planning, interrupts to argue his point, live-checks Allbirds/Warby Parker market caps and funding totals to test Mike's claims in real time, and repeatedly forces him to defend numbers (churn, CPA, margins) with harder follow-ups.",
+  "question_style": "Structured, data-hungry questioning that drills into specific unit economics (CPA, dollars per box, churn, LTV) with rapid-fire follow-ups, plants his own opinions/data before asking Mike to react (e.g. disputing the 3-year vision idea, quizzing him on competitor valuations), and interrupts mid-answer to argue a counterpoint.",
+  "tone": "Highly energetic, informal, laced with profanity and banter ('fuck', 'shit'), openly self-deprecating about his own career risk from the topic, and genuinely excited/collaborative rather than combative -- frames disagreements as fun debate rather than confrontation.",
+  "depth": "Very technical on D2C/subscription mechanics -- CPA vs LTV, box-one profitability, cohort churn curves, dollars-per-box economics, AOV expansion, distribution outsourcing, and margin engineering on meat yields -- showing sustained operator-level fluency, not just surface framing.",
+  "harry_quotes": [
+    "I disagree and I disagree because I don't think you can foresee actually the next three years.",
+    "Is this whole market even VC-backable?",
+    "What is the biggest chunk out of your margins?",
+    "Did you sell any secondary along the way then?"
+  ],
+  "learnings": [
+    "Bootstrapped, capital-constrained businesses tend to find margin in obsessive operational details (like negotiating packaging costs or meat cutting yields) that well-funded competitors never bother to chase.",
+    "A useful proxy metric for subscription commerce health is dollars of gross profit per shipment, not gross margin percentage, since it captures real unit economics regardless of price point.",
+    "Mass-influencer marketing as a channel has largely closed off because top creators now prefer to launch and promote their own branded products instead of endorsing others.",
+    "Early churn in subscription businesses concentrates in the first 90 days, so the priority is building a usage habit fast rather than optimizing acquisition once that window passes.",
+    "Avoiding external capital, and secondary sales in particular, preserves founder control and patience through industry downturns, which let ButcherBox capture market share when funded competitors like Blue Apron cut spend after their stock collapsed.",
+    "Growth in D2C increasingly requires content/media-style creative distribution (stunts, giveaways) rather than paid brand marketing, since traditional 'lift' spend is nearly impossible to tie to payback."
+  ],
+  "topics": ["d2c", "bootstrapping", "unit economics", "subscription business", "marketing", "hiring"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Harry does live on-air fact-checking of public company valuations (Allbirds, Warby Parker) against their funding totals to make a point about D2C's poor venture returns, an unusually data-driven improvisational segment for the show."
+}

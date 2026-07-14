@@ -1,0 +1,30 @@
+{
+  "guest": "Cliff Obrecht",
+  "guest_role": "Founder and COO at Canva",
+  "approx_date": "Jan 2023",
+  "assertiveness": 2,
+  "assertiveness_why": "Harry asks prepared open-ended questions with follow-ups but rarely challenges Cliff's framing or plant competing theses. Mostly receives his expertise and occasionally probes decisions without pushing back ('Why am I wrong?' is genuine inquiry, not challenge).",
+  "question_style": "Predominantly open-ended, following Cliff's narrative lead throughout. Harry occasionally notes he's going off-schedule when interested, but stays in receptive mode. Probes specific decisions ('Were you insecure?', 'What made the jump hard?') but from place of genuine curiosity, not adversarial testing.",
+  "tone": "Warm, fan-like, admiring. Harry references listening to Canva from early days and positions himself as long-time listener. Self-deprecating humor about his own interviewing. Respectful, almost deferential; celebrates Cliff's non-traditional path repeatedly.",
+  "depth": "Strong strategic discussion spanning product building, pricing models, talent hiring, M&A strategy, perseverance through rejection, founder relationships, user acquisition, technical debt, AI integration, philanthropy. Harry probes specific inflection points (why social media marketers first, how tech rewrite happened, bundling vs. unbundling philosophy). Good depth but mostly receiving rather than challenging or testing.",
+  "harry_quotes": [
+    "Were you insecure moving into this world and did you have imposter syndrome?",
+    "I do like to see a technical founder. Why am I wrong?",
+    "What's the biggest pro and the biggest con of co-founding with your other half?",
+    "I'm just fascinated you have the most incredible relationship."
+  ],
+  "learnings": [
+    "Persistence through rejection (100+ VC rejections) compounds over time; maintaining integrity and kindness during rejection often creates future relationships and opportunities when circumstances change.",
+    "High-performance in business requires evolution away from 'grind it out' mentality; investing in sleep, exercise, and continuous learning becomes non-negotiable in mid-30s, not optional.",
+    "Non-technical founders can succeed with complementary co-founders; Mel's product vision + Cliff's execution + Cam's technical foundation outweighs pedigree-based hiring bias.",
+    "Freemium + social proof beats first-mover advantage; targeting social media marketers as core user group created network effects (need constant fresh content) that drove organic growth.",
+    "Tech debt rebuilds are brutal (2-year feature freeze) but unlock velocity competitors can't replicate; short-term pain enables long-term dominance if company survives the valley.",
+    "Transparency and goal-alignment in M&A yields better outcomes than traditional corp dev obfuscation; founder motivation and human fit predict integration success more than financial metrics.",
+    "'Distance traveled' matters more than pedigree in hiring; non-traditional paths (refugees, self-taught, underprivileged backgrounds) often outperform elite-educated hires who lack hunger.",
+    "Product bundling with unified ecosystem and shared graphics engine creates switching costs and interoperability competitors can't match; perceived trade-off between specialization and integration tilts toward integration at scale."
+  ],
+  "topics": ["product", "fundraising", "persistence", "founder dynamics", "non-technical founders", "user acquisition", "technical debt", "M&A", "talent", "bundling", "freemium", "AI integration", "philanthropy"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Cliff's disarming humility despite $40B valuation and massive scale (60M+ users); refreshingly honest about imposter syndrome, tech debt pain, and hiring mistakes; explicitly credits wife Mel as the visionary while positioning himself as executor—rare candor about co-founder dynamics in startup mythology."
+}

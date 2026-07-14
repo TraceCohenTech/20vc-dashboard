@@ -1,0 +1,28 @@
+{
+  "guest": "Jeremy Liew",
+  "guest_role": "Partner at Lightspeed Venture Partners",
+  "approx_date": "Apr 2019",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared, multi-part follow-up questions and occasionally frames devil's-advocate scenarios, but he never contests or pushes back on Jeremy's answers, staying in receptive/fan mode throughout.",
+  "question_style": "Mostly open-ended, well-structured questions that build on prior answers, with a few personal-advice asks framed as hypotheticals; Harry does not interrupt or challenge claims, though he occasionally injects his own framing (e.g. the acceptable/unacceptable risk distinction) before asking Jeremy to respond.",
+  "tone": "Warm, matey and openly admiring (repeat-guest reunion energy), light self-deprecating humor about his own weaknesses and 'dulcet British tones,' low confrontational energy throughout.",
+  "depth": "Strategic rather than technical: covers sourcing mechanics, good-vs-great evaluation, board-level founder feedback dynamics, growth-channel saturation (S-curve), and competitive deal-winning; follow-ups are thoughtful but rarely drill into specifics or numbers.",
+  "harry_quotes": [
+    "Is it a volume game and kind of lead gen game?",
+    "Should founders always be raising?",
+    "Are you ready to go?"
+  ],
+  "learnings": [
+    "As a VC's track record grows, sourcing shifts from proactive outbound domain-hunting to inbound flow from past portfolio relationships.",
+    "Spotting good vs. great requires having evaluated enough companies (roughly a 1-in-1000 threshold) to build pattern-matching intuition, which is why VCs tend to improve with experience.",
+    "Trying to make a mediocre company great by overriding the founder's judgment rarely works, since investors never understand the business as deeply as someone spending 60-70 hours a week on it.",
+    "When flagging a potential problem to a founder, the right approach scales with how catastrophic the risk is — minor drift needs no comment, existential danger requires direct escalation.",
+    "A common scaling mistake is misreading when a growth channel has hit the top of its S-curve and over-investing in it rather than recognizing the ceiling.",
+    "Winning competitive deals depends on playing to one's own differentiated strengths (domain expertise, network, or reputation) rather than trying to be well-rounded.",
+    "Time-compressed fundraising rounds reward investors who have already built founder relationships pre-financing and who focus diligence on the two or three make-or-break questions rather than an exhaustive checklist."
+  ],
+  "topics": ["venture capital", "sourcing", "founder relationships", "growth channels", "deal competition", "vc time management"],
+  "repeat_guest_callback": "Jeremy, what can I say? It is such a pleasure to have you back on the show again",
+  "sponsor_read_count": 2,
+  "notable": "This is a repeat-guest episode built around reconnecting and includes an extended 'quick fire' segment breaking down how Jeremy literally allocates his weekly calendar across meeting types."
+}

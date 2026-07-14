@@ -1,0 +1,28 @@
+{
+  "guest": "Dayna Grayson",
+  "guest_role": "Partner at NEA",
+  "approx_date": "Apr 2019",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared questions and seeks Dana's advice on his own situations, but never contests her viewpoints or plants his own thesis; remains receptive throughout.",
+  "question_style": "Open-ended questions that allow Dana to explain her investment frameworks and decision-making processes. Harry admits when he's struggling and asks for Dana's guidance. No pushback, interruptions, or challenges to claims. Questions focus on understanding her approach and seeking her mentorship.",
+  "tone": "Formal but warm and mentoring. Harry references the intro from Rebecca Caden and displays genuine interest in learning from Dana. Self-deprecating humor ('I was wondering why I was still single'). Overall tone suggests a founder/investor learning from an experienced GP rather than challenging an equal.",
+  "depth": "Tracks venture technical concepts including market sizing (TAM, ACV), founder vetting criteria, diligence methods, expert reference calls, portfolio construction, board dynamics, and valuation approaches. Follows the logical flow of investment decision-making from sourcing through conviction building to board management.",
+  "harry_quotes": [
+    "How do you approach the sourcing component of venture state?",
+    "How do you think about founder product days and its importance?",
+    "How do you assess your own price sensitivity today Dana?",
+    "What advice would you give me upon my joining my first?"
+  ],
+  "learnings": [
+    "Build relationships with VP and director-level operators at successful companies years before they become founders; they represent a natural pipeline independent of any single deal's outcome",
+    "Initial gut conviction (first 10-15 minutes of a meeting) should be validated through market research, financial diligence, and expert calls, but curate those calls carefully to avoid over-weighting skeptics defending the status quo",
+    "When founder vision excites but market constraints appear real (small TAM, low ACV), the value-add move is suggesting adjacent markets rather than passing; let founders decide if they want to pivot",
+    "Full-service venture at scale means providing recruiting, financial planning, operational guidance, and board alignment work—capital alone is table stakes",
+    "Board alignment is as important as individual director quality; surface subtle conflicts between board members proactively so the CEO isn't paralyzed by contradicting advice",
+    "Entrepreneurs should build investor relationships during strong phases, not during fundraising windows; this lets them control pace and pick partners aligned to their values"
+  ],
+  "topics": ["venture capital", "fundraising", "founder vetting", "market sizing", "sourcing", "board management", "manufacturing tech", "industrial robotics", "diligence"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Dana frames venture investment through the lens of solving societal problems (opioid crisis, data privacy) rather than pure market opportunity—suggesting a values-driven approach to portfolio construction."
+}

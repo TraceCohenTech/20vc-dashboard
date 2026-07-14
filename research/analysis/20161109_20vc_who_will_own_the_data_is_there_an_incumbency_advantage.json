@@ -1,0 +1,26 @@
+{
+  "guest": "Rudina Cesare",
+  "guest_role": "Founder and Managing Partner of Glasswing Ventures (AI-focused fund)",
+  "approx_date": "Nov 2016",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared, multi-sentence questions that probe concepts (data incumbency, disruption cycles, AI business models) but never contests Rudina's claims or presents opposing data; purely receptive despite strong thematic depth.",
+  "question_style": "Harry structures questions to draw out detailed explanation on AI trends, data dynamics, and competitive strategy. Questions probe for nuance ('Do you think there is a really significant data incumbency advantage?') but are framed as genuine curiosity rather than challenge. Harry introduces concepts for Rudina to expand on, showing preparation without adversarial pushback.",
+  "tone": "Warm and respectful intellectual engagement. Harry expresses genuine enthusiasm about Rudina's AI thesis and connects personally (mentioning his three-year-old when she does). Frames the conversation around positive AI applications rather than risks. Invites her to return in five years to assess predictions, creating accountability without skepticism.",
+  "depth": "Substantial. Rudina discusses pervasive connectivity as market timing enabler, hybrid data ownership, incumbent disadvantage via organizational inertia, three disruption cycles (web, social/mobile, AI), enterprise and consumer AI applications, social robotics, self-improving systems vs. legacy software, job displacement, and causation detection. Harry asks informed follow-ups on speed of adoption and data as defensibility.",
+  "harry_quotes": [
+    "I'd love to get the ball rolling by hearing about you and how you made your way into venture first.",
+    "What were some big takeaways from working in such a behemoth of an organization?",
+    "Do you think these data sets that are privately owned are a kind of motive defensibility?"
+  ],
+  "learnings": [
+    "Large incumbent tech companies struggle with self-disruption because public market pressures prevent cannibalizing existing revenue streams; this structural disadvantage creates openings for startups.",
+    "AI adoption timing is enabled by three convergence factors: pervasive connectivity (devices continuously producing data), dramatically reduced cloud storage costs, and mobile revolution driving ubiquitous connectivity.",
+    "Data ownership will likely become hybrid between proprietary corporate control and consumer-mandated sharing/benefit participation; regulatory trends (early 2016s voting patterns) support consumer control mechanisms.",
+    "Startups can overcome incumbent data advantages through organizational agility and access to third-party data sources; the incumbents' inertia is often greater friction than their data moats.",
+    "The fundamental difference between AI and legacy software is continuous self-improvement; business models remain largely unchanged (SaaS/licensing), but performance curves shift from fixed to learning-based."
+  ],
+  "topics": ["artificial intelligence", "machine learning", "venture capital", "data ownership", "disruption cycles", "startup strategy", "incumbency advantage", "robotics"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Harry playfully invites Rudina back in five years to assess her predictions on driverless cars, AI adoption, and ASI emergence—a callback to verify accuracy. Rudina predicts 5-10 years for driverless car market penetration and driver's licenses becoming luxury items by her daughter's adulthood."
+}

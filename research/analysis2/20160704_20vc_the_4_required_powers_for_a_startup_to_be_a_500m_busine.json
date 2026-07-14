@@ -1,0 +1,28 @@
+{
+  "guest": "Ann Miura-Ko",
+  "guest_role": "Co-founder at Floodgate (transcribed in audio as 'Anne Murico')",
+  "approx_date": "Jul 2016",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks well-prepared, structured multi-part questions and occasionally probes with his own framing (e.g. on brand-as-defensibility or Lyft's category creation), but he never contests Ann's answers and stays in receiving mode throughout.",
+  "question_style": "Mostly open, structured questions that walk methodically through Floodgate's 'four powers' framework, with follow-ups that extend the guest's own examples (Lyft, Netflix) rather than challenge them. Harry occasionally interjects a mini-thesis of his own (e.g. suggesting Snapchat or Lyft as category creators) but frames it as a question, not a rebuttal, and does not interrupt or push back when the guest disagrees.",
+  "tone": "Warm, admiring and fan-forward — Harry opens by calling her 'the most powerful woman in startups' and closes effusively; conversational but respectful, with light self-deprecating humor about leaving university for 'a much less bad offer.'",
+  "depth": "Strategic rather than technical: he tracks VC fund-return mechanics (exit-size distributions, fund math), Floodgate's specific 'value stack' taxonomy (proprietary, product, company, category power), and follows up with concrete company examples (TaskRabbit, Zimride/Lyft, Skybox, Netflix) rather than staying abstract.",
+  "harry_quotes": [
+    "Do you think brand can be proprietary power if you have a strong enough brand?",
+    "Do you think Lyft is in the category creation segment?",
+    "What is bullet journaling?",
+    "So how do you think about investing in downturns?"
+  ],
+  "learnings": [
+    "Floodgate's 'value stack' framework identifies four types of defensibility a startup needs to become a fund-returning outcome: proprietary power (IP, expert teams, supply-chain access), product power (true, visceral product-market fit, not just early traction), company power (scalable business model, low technical/organizational debt), and category power (owning how the market defines itself).",
+    "Only a small number of exits per year clear the $500M+ threshold that actually moves the needle for large venture funds, which is why Floodgate deliberately filters for companies capable of reaching that scale rather than just early traction.",
+    "The 2008-2010 downturn was advantageous for an unknown, early-career investor because capital scarcity meant strong founders were more willing to take a chance on an unproven VC in exchange for a check.",
+    "Lyft won against a much better-funded Uber early on by building community and brand identity (the pink mustache, fist bumps, front-seat rides) rather than by competing on price or raw product features.",
+    "True category creation (Netflix vs. Blockbuster) means reframing what business you're in entirely, rather than positioning as an improved version of an incumbent's product.",
+    "'Traction, not a company' (TNAC) describes startups that scale fast on product traction without building the underlying organizational, technical, and cultural foundations needed to sustain that growth."
+  ],
+  "topics": ["venture capital", "defensibility frameworks", "seed investing", "product-market fit", "category creation", "fund mechanics"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "The guest's name is mispronounced/mis-transcribed throughout as 'Anne Murico' rather than her actual name, Ann Miura-Ko."
+}

@@ -1,0 +1,26 @@
+{
+  "guest": "Matt Grimm",
+  "guest_role": "Co-founder and CEO of Anduril Industries (defense technology company, valued at $14B)",
+  "approx_date": "Nov 2024",
+  "assertiveness": 8,
+  "assertiveness_why": "Harry sustains adversarial pressure throughout, citing specific outside data (defense stock buyback figures, US vs UK defense spend as % GDP, R&D ratios) to force Matt to defend or explain contradictions, and repeatedly plays devil's advocate on geopolitics, business model, and market structure.",
+  "question_style": "Highly confrontational and thesis-driven: Harry cites hard numbers (Lockheed's $6B buybacks vs $1.5B R&D, 880bn vs 73bn defense spend) to corner the guest into explaining apparent contradictions, challenges the venture financing thesis directly ('is this not a bad market'), and does not let answers pass without a follow-up rebuttal.",
+  "tone": "Blunt, fast-paced, high-energy with dark humor (jokes about UK PM lasting less than a cabbage, China sanctions on a Peloton), openly skeptical rather than deferential, though clearly respectful of the guest's expertise.",
+  "depth": "Deep and specific: cost-plus vs firm-fixed-price contracting mechanics, tier 2/3/4 supply chain structure, defense prime financial performance data, R&D-to-revenue ratios, SPV/secondary market fraud dynamics, venture capex mismatches for hardware vs. SaaS investing.",
+  "harry_quotes": [
+    "Is the US spending too much or is the UK spending too little?",
+    "Is that not a financial crime? You're like misrepresenting-",
+    "Do you think venture has lost its way then?"
+  ],
+  "learnings": [
+    "Grimm argues defense primes' cost-plus contracting structure perversely rewards inflating costs (fixed margin on top) rather than innovating, evidenced by primes' stock buybacks dwarfing their internal R&D spend while still outperforming the S&P 500.",
+    "He believes government buyers aren't unintelligent but operate under fundamentally different risk incentives than venture investors — a failed procurement bet has different career/mission consequences than a failed VC bet.",
+    "Anduril's strategy is deliberately to build working hardware first and demo it (a 'con-op') rather than pitch PowerPoint proposals, bypassing the traditional decade-plus requirements-to-fielding cycle.",
+    "He does not see defense tech as a winner-take-all venture market given the sheer scale of global defense budgets (~$1.5T), positioning Anduril as aiming to become 'the sixth prime' rather than displacing incumbents.",
+    "Anduril localizes production/IP in allied countries (UK, Australia) to satisfy sovereignty requirements so those governments can spend domestic taxpayer money on Anduril-designed but locally built systems."
+  ],
+  "topics": ["defense tech", "geopolitics", "china/taiwan", "government procurement", "venture capital", "fundraising/secondaries"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Guest discloses being personally sanctioned by China for Anduril's Taiwan missile sales and gives unusually candid internal financial detail (R&D-to-revenue ratio, total capital raised, admitted strategic mistakes like over-automating G&A functions)."
+}

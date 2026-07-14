@@ -1,0 +1,24 @@
+{
+  "guest": "Alex MacCaw",
+  "guest_role": "Founder and CEO at Clearbit",
+  "approx_date": "Sep 2019",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry asks prepared follow-ups with occasional direct questions but rarely contests Alex's positions, mostly affirming rather than planting his own thesis.",
+  "question_style": "Harry poses prepared, multi-sentence questions with genuine follow-ups on hiring outside his expertise, transparency during fundraising, and board composition. He occasionally asks blunt questions ('Can I ask, can you manufacture leverage?') and references prior guests to test agreement, but rarely contests—mostly receiving and affirming.",
+  "tone": "Formal yet warm, with genuine enthusiasm for the guest and product. Harry maintains conversational accessibility with fillers ('Totally,' 'No, listen') and self-deprecating humor, while avoiding overtly fawning despite clear admiration.",
+  "depth": "Harry explores specific operational systems: the six pillars of management (people, autonomy, transparency, feedback, health, management), tactical hiring via sourcing sessions, OKR cascading, and conscious leadership philosophy. He pursues concrete implementation details rather than abstract strategy.",
+  "harry_quotes": [
+    "So how did you make your way into startups and come to found Clearbit?",
+    "Can I ask, can you manufacture leverage?",
+    "What was the reasoning behind starting Clearbit over the plethora of other options?"
+  ],
+  "learnings": [
+    "Founding a company can serve as a vehicle for personal growth and self-actualization, pushing founders to develop capabilities they wouldn't otherwise cultivate.",
+    "Effective management is determined largely upfront through careful hiring of self-directed, growth-oriented people who match the role, which reduces downstream management overhead.",
+    "Success in VC negotiations depends on founder financial independence and genuine ability to walk away; manufactured leverage is quickly detected by professional investors."
+  ],
+  "topics": ["management", "hiring", "fundraising", "conscious-leadership", "company-building", "startup"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Harry explicitly states he would love to invest in Clearbit at the episode's close, an unusual boundary-crossing for a podcast host to express personal investment interest on air."
+}

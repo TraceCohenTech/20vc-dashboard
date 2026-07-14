@@ -14,6 +14,9 @@ import {
   Search,
   Share,
   Lightbulb,
+  Megaphone,
+  Ruler,
+  BookOpen,
   ChevronLeft,
   ChevronRight,
 } from "lucide-react";
@@ -23,6 +26,8 @@ import {
   Bar,
   BarChart,
   CartesianGrid,
+  ComposedChart,
+  Legend,
   Line,
   LineChart,
   ResponsiveContainer,
@@ -30,7 +35,7 @@ import {
   XAxis,
   YAxis,
 } from "recharts";
-import { SHOW, YEARLY, ERAS, CASE_STUDIES, REPEAT_GUESTS, LEARNINGS_GROUPS, ASSERTIVENESS_BY_YEAR } from "./data";
+import { SHOW, YEARLY, ERAS, CASE_STUDIES, REPEAT_GUESTS, LEARNINGS_GROUPS, ASSERTIVENESS_BY_YEAR, SPONSOR_BY_YEAR, TONE_PARADOX, QUESTION_LEN, GUEST_MIX, DEFERENCE, LEXICON } from "./data";
 import { RT_PREDICTIONS, RT_QUOTES } from "./rtdata";
 import { NUGGETS } from "./wisdom";
 import { CountUp } from "@/components/CountUp";
@@ -380,6 +385,179 @@ export default function Page() {
           </Reveal>
         </section>
 
+
+        {/* TONE PARADOX + DEFERENCE */}
+        <section id="paradox" className="scroll-mt-20">
+          <Reveal>
+            <SectionTitle
+              eyebrow="The core finding"
+              title="He got tougher without getting colder"
+              sub="Two ways of looking at the same 180 read episodes. Left: the raters described Harry's tone as warm, admiring, or matey in nearly every episode of every year — even as his pushback score doubled. Right: how hard he pushes depends heavily on who's across the table."
+            />
+          </Reveal>
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 sm:gap-6">
+            <Reveal delay={100} className="h-full">
+              <Card className="h-full flex flex-col">
+                <h3 className="font-bold text-slate-900">The tone paradox</h3>
+                <p className="text-xs text-slate-500 mb-3">% of episodes rated warm/admiring (bars) vs. assertiveness score (line)</p>
+                <div className="flex-1 min-h-[260px]" role="img" aria-label="Combined chart: share of episodes with warm tone stays between 85 and 100 percent for a decade while the assertiveness score climbs from 2.8 to 6.2. In 2026 the warm share dips to 57 percent on a small sample of 7 episodes.">
+                  <ResponsiveContainer width="100%" height="100%">
+                    <ComposedChart data={TONE_PARADOX} margin={{ top: 10, right: 0, left: -16, bottom: 0 }}>
+                      <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
+                      <XAxis dataKey="year" tick={{ fill: "#475569", fontSize: 10 }} />
+                      <YAxis yAxisId="warm" domain={[0, 100]} tick={{ fill: "#0891b2", fontSize: 10 }} tickFormatter={(v) => `${v}%`} />
+                      <YAxis yAxisId="score" orientation="right" domain={[0, 10]} tick={{ fill: "#ea580c", fontSize: 10 }} />
+                      <Tooltip contentStyle={{ background: "#0f172a", border: "none", borderRadius: 8, color: "#fff" }} labelStyle={{ color: "#94a3b8" }} />
+                      <Bar yAxisId="warm" dataKey="warm" name="Warm tone %" fill="#67e8f9" radius={[4, 4, 0, 0]} />
+                      <Line yAxisId="score" type="monotone" dataKey="score" name="Assertiveness" stroke="#ea580c" strokeWidth={3} dot={{ r: 4, fill: "#ea580c" }} />
+                    </ComposedChart>
+                  </ResponsiveContainer>
+                </div>
+                <p className="mt-2 text-xs text-slate-500 leading-relaxed">
+                  Warmth and challenge turned out not to be a trade-off: the tone raters used words like &ldquo;warm, admiring, matey&rdquo; in 85–100% of episodes in every year but one, while pushback more than doubled. (2026 dips to 57% on just 7 episodes read so far.)
+                </p>
+              </Card>
+            </Reveal>
+            <Reveal delay={200} className="h-full">
+              <Card className="h-full flex flex-col">
+                <h3 className="font-bold text-slate-900">The deference curve</h3>
+                <p className="text-xs text-slate-500 mb-3">Assertiveness by guest — icons get softballs, operators get contested</p>
+                <div className="space-y-2 flex-1" role="img" aria-label="Horizontal bars showing Harry's assertiveness score per guest: legends and heads of state score 2 to 4 out of 10, while growth-stage founders and operators score 6 to 7">
+                  {DEFERENCE.map((d) => (
+                    <div key={d.guest} className="flex items-center gap-2">
+                      <div className="w-[128px] shrink-0 text-right">
+                        <div className="text-xs font-semibold text-slate-800 leading-tight truncate">{d.guest}</div>
+                        <div className="text-[10px] text-slate-500 truncate">{d.role}</div>
+                      </div>
+                      <div className="flex-1 h-4 rounded-full bg-slate-100 overflow-hidden">
+                        <div
+                          className="h-full rounded-full"
+                          style={{ width: `${d.score * 10}%`, background: d.tier === "icon" ? "#f59e0b" : "#10b981" }}
+                        />
+                      </div>
+                      <div className="w-8 text-xs font-bold text-slate-900 tabular-nums">{d.score}/10</div>
+                    </div>
+                  ))}
+                </div>
+                <div className="mt-3 flex items-center gap-4 text-[11px] text-slate-500">
+                  <span className="flex items-center gap-1.5"><span className="h-2.5 w-2.5 rounded-full bg-amber-500" aria-hidden />Icons &amp; legends</span>
+                  <span className="flex items-center gap-1.5"><span className="h-2.5 w-2.5 rounded-full bg-emerald-500" aria-hidden />Founders &amp; operators in the arena</span>
+                </div>
+              </Card>
+            </Reveal>
+          </div>
+        </section>
+
+        {/* SHOW MECHANICS: question length, sponsors, guest mix, bingo */}
+        <section id="mechanics" className="scroll-mt-20">
+          <Reveal>
+            <SectionTitle
+              eyebrow="The mechanics"
+              title="Shorter questions, more sponsors, different guests"
+              sub="The craft changes you can measure. Questions ballooned in the flattery years, then got sharp. Sponsor reads quadrupled. And the guest chair flipped from VCs explaining venture to founders and operators being contested."
+            />
+          </Reveal>
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 sm:gap-6 mb-4 sm:mb-6">
+            <Reveal delay={100} className="h-full">
+              <Card className="h-full flex flex-col">
+                <div className="flex items-center gap-2 mb-1">
+                  <Ruler className="h-4 w-4 text-blue-600" aria-hidden />
+                  <h3 className="font-bold text-slate-900">Questions got shorter as pushback got sharper</h3>
+                </div>
+                <p className="text-xs text-slate-500 mb-3">Avg words per question asked, interview transcripts only</p>
+                <div className="flex-1 min-h-[240px]" role="img" aria-label="Line chart of average words per question: 14 in 2015, ballooning to 30 in 2016 and about 25 through 2020, then dropping to 12 to 14 words from 2022 onward">
+                  <ResponsiveContainer width="100%" height="100%">
+                    <LineChart data={QUESTION_LEN} margin={{ top: 10, right: 10, left: -16, bottom: 0 }}>
+                      <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
+                      <XAxis dataKey="year" tick={{ fill: "#475569", fontSize: 10 }} />
+                      <YAxis domain={[0, 35]} tick={{ fill: "#475569", fontSize: 10 }} />
+                      <Tooltip contentStyle={{ background: "#0f172a", border: "none", borderRadius: 8, color: "#fff" }} labelStyle={{ color: "#94a3b8" }} formatter={(v: number) => [`${v} words`, "Avg question"]} />
+                      <Line type="monotone" dataKey="words" stroke="#2563eb" strokeWidth={3} dot={{ r: 4, fill: "#2563eb" }} />
+                    </LineChart>
+                  </ResponsiveContainer>
+                </div>
+                <p className="mt-2 text-xs text-slate-500 leading-relaxed">
+                  The long, flattering setup questions peaked in the middle era (~25–30 words). From 2022 on, questions compress to ~12 words — short, direct challenges instead of wind-ups. Confidence shows up as brevity.
+                </p>
+              </Card>
+            </Reveal>
+            <Reveal delay={200} className="h-full">
+              <Card className="h-full flex flex-col">
+                <div className="flex items-center gap-2 mb-1">
+                  <Megaphone className="h-4 w-4 text-orange-600" aria-hidden />
+                  <h3 className="font-bold text-slate-900">Sponsor creep: 0.8 → 3.4 reads per episode</h3>
+                </div>
+                <p className="text-xs text-slate-500 mb-3">Avg sponsor reads per episode, from the read sample</p>
+                <div className="flex-1 min-h-[240px]" role="img" aria-label="Bar chart of sponsor reads per episode rising from 0.8 in 2015 to about 3 from 2021 onward, peaking at 3.4 in 2026">
+                  <ResponsiveContainer width="100%" height="100%">
+                    <BarChart data={SPONSOR_BY_YEAR} margin={{ top: 10, right: 10, left: -20, bottom: 0 }}>
+                      <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
+                      <XAxis dataKey="year" tick={{ fill: "#475569", fontSize: 10 }} />
+                      <YAxis tick={{ fill: "#475569", fontSize: 10 }} />
+                      <Tooltip contentStyle={{ background: "#0f172a", border: "none", borderRadius: 8, color: "#fff" }} labelStyle={{ color: "#94a3b8" }} formatter={(v: number) => [`${v} reads`, "Avg"]} />
+                      <Bar dataKey="reads" fill="#f97316" radius={[5, 5, 0, 0]} />
+                    </BarChart>
+                  </ResponsiveContainer>
+                </div>
+                <p className="mt-2 text-xs text-slate-500 leading-relaxed">
+                  Monetization scaled with the show: from under one read per episode in 2015 to a stable ~3 from 2021 on. Combined with episodes tripling in length, total ad inventory per episode grew roughly 12x.
+                </p>
+              </Card>
+            </Reveal>
+          </div>
+          <div className="grid grid-cols-1 lg:grid-cols-5 gap-4 sm:gap-6">
+            <Reveal delay={100} className="lg:col-span-3 h-full">
+              <Card className="h-full flex flex-col">
+                <h3 className="font-bold text-slate-900">The guest chair flipped</h3>
+                <p className="text-xs text-slate-500 mb-3">Guest mix by year, % of all 1,481 episodes (classified from titles)</p>
+                <div className="flex-1 min-h-[280px]" role="img" aria-label="Stacked bar chart of guest mix: VCs fall from 68 percent of episodes in 2015 to about 15 to 28 percent by 2025-26, founders and operators hold around 30 to 58 percent, dedicated formats like 20Sales and 20Product appear from 2021, and news, memo, and roundtable formats grow to over a third">
+                  <ResponsiveContainer width="100%" height="100%">
+                    <BarChart data={GUEST_MIX} margin={{ top: 10, right: 10, left: -16, bottom: 0 }}>
+                      <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
+                      <XAxis dataKey="year" tick={{ fill: "#475569", fontSize: 10 }} />
+                      <YAxis domain={[0, 100]} tick={{ fill: "#475569", fontSize: 10 }} tickFormatter={(v) => `${v}%`} />
+                      <Tooltip contentStyle={{ background: "#0f172a", border: "none", borderRadius: 8, color: "#fff" }} labelStyle={{ color: "#94a3b8" }} formatter={(v: number, n: string) => [`${v}%`, n]} />
+                      <Legend wrapperStyle={{ fontSize: 11 }} />
+                      <Bar dataKey="vc" name="VCs" stackId="a" fill="#3b82f6" />
+                      <Bar dataKey="founders" name="Founders & operators" stackId="a" fill="#10b981" />
+                      <Bar dataKey="formats" name="20Sales / 20Product / 20Growth" stackId="a" fill="#f59e0b" />
+                      <Bar dataKey="other" name="News, memos & roundtables" stackId="a" fill="#94a3b8" radius={[4, 4, 0, 0]} />
+                    </BarChart>
+                  </ResponsiveContainer>
+                </div>
+                <p className="mt-2 text-xs text-slate-500 leading-relaxed">
+                  2015 was VCs explaining venture to each other (68% of episodes). By 2023-26 the VC share collapses to 10-28% as operators, dedicated craft formats, and news/roundtable shows take over — the show tracked where the industry's attention went.
+                </p>
+              </Card>
+            </Reveal>
+            <Reveal delay={200} className="lg:col-span-2 h-full">
+              <Card className="h-full flex flex-col">
+                <h3 className="font-bold text-slate-900">Harry bingo</h3>
+                <p className="text-xs text-slate-500 mb-3">Catchphrases per 10,000 words, across 2.3M transcript words</p>
+                <div className="space-y-3 flex-1">
+                  {LEXICON.map((l) => (
+                    <div key={l.phrase} className="rounded-lg bg-slate-50 border border-slate-200 p-2.5">
+                      <div className="flex items-center justify-between gap-2 mb-1.5">
+                        <span className="text-xs font-bold text-slate-900">{l.phrase}</span>
+                        <div className="flex gap-1">
+                          {[l.e1, l.e2, l.e3, l.e4].map((v, i) => (
+                            <span key={i} className="inline-flex items-center justify-center min-w-[34px] rounded px-1 py-0.5 text-[10px] font-bold tabular-nums"
+                              style={{ background: v >= 2 ? "#1d4ed8" : v >= 1 ? "#60a5fa" : "#e2e8f0", color: v >= 1 ? "#fff" : "#64748b" }}>
+                              {v.toFixed(1)}
+                            </span>
+                          ))}
+                        </div>
+                      </div>
+                      <div className="text-[11px] text-slate-500 leading-snug">{l.note}</div>
+                    </div>
+                  ))}
+                </div>
+                <div className="mt-2 text-[10px] text-slate-500">Columns: 2015-17 · 2018-21 · 2022-23 · 2024-26</div>
+              </Card>
+            </Reveal>
+          </div>
+        </section>
+
         {/* REPEAT GUESTS */}
         <section>
           <Reveal>
@@ -488,6 +666,60 @@ export default function Page() {
             />
           </Reveal>
           <WisdomWall />
+        </section>
+
+
+        {/* WHAT WE LEARNED */}
+        <section id="learned" className="scroll-mt-20">
+          <Reveal>
+            <SectionTitle
+              eyebrow="The synthesis"
+              title="What we learned — and what you can steal"
+              sub="Eleven years, 1,481 episodes, 2.3 million transcript words. Three sets of takeaways, depending on who you are."
+            />
+          </Reveal>
+          <div className="grid grid-cols-1 lg:grid-cols-3 gap-4 sm:gap-6">
+            <Reveal delay={100} className="h-full">
+              <Card className="h-full flex flex-col">
+                <div className="flex items-center gap-2 mb-3">
+                  <Mic className="h-4 w-4 text-blue-600" aria-hidden />
+                  <h3 className="font-bold text-slate-900">If you interview people</h3>
+                </div>
+                <ul className="space-y-3 text-sm text-slate-700 leading-relaxed flex-1">
+                  <li className="flex gap-2"><span className="shrink-0 mt-1.5 h-1.5 w-1.5 rounded-full bg-blue-500" aria-hidden /><span><strong>Preparation compounds.</strong> The single biggest change wasn't personality — it was cross-referencing dozens of prior guests to pressure-test the one in front of him. Your archive is your edge.</span></li>
+                  <li className="flex gap-2"><span className="shrink-0 mt-1.5 h-1.5 w-1.5 rounded-full bg-blue-500" aria-hidden /><span><strong>Warmth and challenge aren't a trade-off.</strong> Tone stayed matey in 85-100% of episodes while pushback doubled. Guests take harder questions from someone who clearly likes them.</span></li>
+                  <li className="flex gap-2"><span className="shrink-0 mt-1.5 h-1.5 w-1.5 rounded-full bg-blue-500" aria-hidden /><span><strong>Confidence is brevity.</strong> His questions shrank from ~25-word wind-ups to ~12-word challenges. The setup flattery disappeared as the authority arrived.</span></li>
+                  <li className="flex gap-2"><span className="shrink-0 mt-1.5 h-1.5 w-1.5 rounded-full bg-blue-500" aria-hidden /><span><strong>Repeat guests are an asset class.</strong> The callback (&ldquo;last time we spoke, you said&hellip;&rdquo;) turns interviews into relationships — and relationships into access.</span></li>
+                </ul>
+              </Card>
+            </Reveal>
+            <Reveal delay={150} className="h-full">
+              <Card className="h-full flex flex-col">
+                <div className="flex items-center gap-2 mb-3">
+                  <Lightbulb className="h-4 w-4 text-amber-600" aria-hidden />
+                  <h3 className="font-bold text-slate-900">If you build or invest</h3>
+                </div>
+                <ul className="space-y-3 text-sm text-slate-700 leading-relaxed flex-1">
+                  <li className="flex gap-2"><span className="shrink-0 mt-1.5 h-1.5 w-1.5 rounded-full bg-amber-500" aria-hidden /><span><strong>147 top investors mostly agree on six things:</strong> team quality beats the idea, moats come from execution speed, hiring bars decay silently, founder psychology is the real diligence, fund mechanics shape behavior, and AI economics reward the application layer. The 930-nugget wall below is the receipts.</span></li>
+                  <li className="flex gap-2"><span className="shrink-0 mt-1.5 h-1.5 w-1.5 rounded-full bg-amber-500" aria-hidden /><span><strong>Where the conversation went is a market signal.</strong> The guest chair flipped from VCs (68% in 2015) to operators and AI CEOs — attention moved from capital allocators to builders.</span></li>
+                  <li className="flex gap-2"><span className="shrink-0 mt-1.5 h-1.5 w-1.5 rounded-full bg-amber-500" aria-hidden /><span><strong>Status buys softballs.</strong> The deference curve is real: the more legendary the guest, the fewer contested claims. Discount interviews with icons accordingly.</span></li>
+                </ul>
+              </Card>
+            </Reveal>
+            <Reveal delay={200} className="h-full">
+              <Card className="h-full flex flex-col">
+                <div className="flex items-center gap-2 mb-3">
+                  <BookOpen className="h-4 w-4 text-emerald-600" aria-hidden />
+                  <h3 className="font-bold text-slate-900">The media case study</h3>
+                </div>
+                <ul className="space-y-3 text-sm text-slate-700 leading-relaxed flex-1">
+                  <li className="flex gap-2"><span className="shrink-0 mt-1.5 h-1.5 w-1.5 rounded-full bg-emerald-500" aria-hidden /><span><strong>2022 is the professionalization moment.</strong> In one year: titles went from one hook to thesis-dumps, episodes broke past 45 minutes, and the interview became a debate. That's a format decision, not drift.</span></li>
+                  <li className="flex gap-2"><span className="shrink-0 mt-1.5 h-1.5 w-1.5 rounded-full bg-emerald-500" aria-hidden /><span><strong>Monetization followed length, not volume.</strong> Episode count held near ~100-150/year for a decade; ad inventory grew ~12x by making each episode longer with ~3 reads instead of more episodes.</span></li>
+                  <li className="flex gap-2"><span className="shrink-0 mt-1.5 h-1.5 w-1.5 rounded-full bg-emerald-500" aria-hidden /><span><strong>The brand survived the pivot.</strong> A show literally named &ldquo;The Twenty Minute VC&rdquo; now runs 73-minute episodes where a third have no VC guest — and it's bigger than ever. Names are anchors, not cages.</span></li>
+                </ul>
+              </Card>
+            </Reveal>
+          </div>
         </section>
 
         {/* METHODOLOGY */}

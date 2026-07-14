@@ -1,0 +1,27 @@
+{
+  "guest": "Gil Panchina",
+  "guest_role": "Founder, Flight.VC; leader of AngelList syndicates covering SaaS, security, and international markets",
+  "approx_date": "Feb 2016",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared multi-sentence questions with real follow-ups and references prior interviews, but never contests Gil's claims or positions.",
+  "question_style": "Open-ended and exploratory. Harry frames questions as 'Can you tell us...' and 'Can you explain...' that invite elaboration. He references Gil's appearance on Jason Lemkin's podcast to build contextual follow-ups. He rarely interrupts and maintains a consistently receptive stance without directly challenging claims or planting his own thesis.",
+  "tone": "Enthusiastic and deferential. Harry opens with personal anecdotes about visiting San Francisco and launching a new SaaS-focused podcast, creating peer-level rapport. He uses admiring language throughout ('incredible,' 'amazing,' 'awesome journey'). The energy is upbeat and fan-like rather than investigative or skeptical.",
+  "depth": "Moderate operational depth. Harry explores AngelList syndicate mechanics (multi-syndicate strategy, investor demographics, pro rata rights, syndicate management structure) and references the mutual fund industry as a comparative model. However, he doesn't dig deeply into market dynamics, competitive threats, or technical strategy beyond asking about investment philosophy and future vision.",
+  "harry_quotes": [
+    "Why did you choose to go down the Angel List Syndicate route?",
+    "Can you explain to us a little what flight vc is and what you're working on there?",
+    "So do you think should VCs give it forward before they've actually made the investment then?",
+    "And where do you see the future of AngelList? Will it replace the archaic system of VC?"
+  ],
+  "learnings": [
+    "AngelList syndicates shift investment power from traditional spreadsheet-focused professionals to entrepreneurs and operators, who are better judges of other founders.",
+    "The mutual fund industry demonstrates that offering specialized sector-focused investment options (SaaS, FinTech, EdTech) attracts different investor types rather than consolidating into a single large fund.",
+    "Building massive leverage with limited staff requires creating a community-driven 'Pied Piper' effect where volunteers and backers actively contribute without traditional organizational hierarchy.",
+    "The barrier to starting ventures has collapsed (from millions to near-zero), making the hard part of success the ability to scale rapidly and reach network effects, not launching.",
+    "VCs frequently fail to deliver on promised introductions and support after pitches; the ones who follow through on even a fraction of commitments become trusted partners to founders."
+  ],
+  "topics": ["angel investing", "venture funding", "vc ecosystem", "syndication", "startup scaling", "fund mechanics"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 1,
+  "notable": "This episode is positioned as part of an 'AngelList week' featuring the platform's leaders. Gil's investment in Happen, a French proximity-based dating app, demonstrates his hands-on approach—he personally uses and endorses the product based on network-effect mechanics rather than abstract thesis."
+}

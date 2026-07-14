@@ -1,0 +1,29 @@
+{
+  "approx_date": "May 2026",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll"],
+  "stories_covered": [
+    "Nvidia posts $81.6B revenue, 80% growth, $56B profit; stock barely moves",
+    "OpenAI confidentially files S1, $852B to $1T valuation, lapped by Anthropic in Q1 revenue",
+    "SpaceX S1 drops: launch, Starlink, X.AI bundled at $1.75T, $75B raise June 12",
+    "Anthropic hits $44B ARR, visibly ahead of OpenAI, profitable and accelerating",
+    "Uber COO says token ROI unmeasurable; Microsoft moving away from expensive Opus",
+    "ClickUp and CloudFlare announce 20% layoffs blaming AI efficiency"
+  ],
+  "harry_takes": [
+    "Nvidia's stock flatness despite stellar numbers reflects market fully pricing AI CapEx trajectory; Delta news, not total news matters",
+    "OpenAI forced to IPO early and smaller to not be lapped by Anthropic; being number two in founder-led AI race is strategically terrible",
+    "SpaceX is Solar City on steroids: Elon bundling failed Twitter, unproven X.AI, and core Weave compute into one confab to bail everything out",
+    "The three trillion dollar AI CapEx thesis only works if ROI is there; Uber's hesitation is the first crack in the narrative"
+  ],
+  "harry_boldest_quote": "I wouldn't buy a share. I just love the optimism.",
+  "predictions": [
+    "Rory: If compute capacity shortage eases before $3T CapEx happens, entire core Weave/Nebius narrative collapses; data center scarcity is protecting valuations",
+    "Jason: Corporate America has now found the AI spend bill; by mid-year budget reviews, CFOs will demand hard ROI proof, not vibes",
+    "Rory: Anthropic will go public profitably at higher valuation than OpenAI despite filing later, creating narrative that being number one and profitable beats being first mover"
+  ],
+  "disagreements": "Jason bullish on core Weave as utility pick during CapEx cycle; Rory skeptical that core Weave is anything beyond more efficient compute rental, not a trillion-dollar business standalone.",
+  "harry_role": "Harry asks probing valuations questions and pushes back on founder narratives. He's impressed by Elon's ambition but skeptical of the bundled SpaceX valuation math. Defers to Rory on core Weave mechanics.",
+  "topics": ["openai", "anthropic", "spacex", "nvidia", "capex", "token spend", "ipo", "valuations"],
+  "sponsor_read_count": 3,
+  "notable": "Jason makes the provocative claim that Nvidia's $81.6B revenue quarter in context shows the company has become so profitable that excess capital has nowhere to go; Nvidia will eventually have to return cash or invest massively."
+}

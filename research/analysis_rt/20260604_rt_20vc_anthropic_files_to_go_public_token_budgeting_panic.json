@@ -1,0 +1,30 @@
+{
+  "approx_date": "Jun 2026",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll"],
+  "stories_covered": [
+    "Anthropic files S1 to go public, ARR increased 28% week-over-week, fastest enterprise software IPO ever",
+    "Cognition (Devon AI) raises $1B at $26B valuation, hits $492M ARR",
+    "Public markets returning to life: Snowflake, MongoDB, Salesforce all post best earnings in two years",
+    "SaaS-pocalypse narrative collapsing; software stocks up 30% in one month after 30% crash",
+    "Uber announces $1,500/month token budget cap per engineer, implying token spend discipline across corporate America",
+    "ClickUp and CloudFlare blame layoffs on 'AI efficiency', raising ROI concerns in market"
+  ],
+  "harry_takes": [
+    "Anthropic IPO removes mystery and lets everyone assess the actual numbers instead of narrative; this paradoxically helps the ecosystem move on",
+    "The $1T in five years outcome for Anthropic is now forcing VCs to only look at billion-dollar-outcome deals, raising bar unrealistically high",
+    "Token spend discipline will force a real reckoning: either companies get measurable ROI or token budgets get cut, ending the unlimited CapEx era",
+    "By end of year, companies will make binary choice: pay best engineers more with tokens versus hiring mediocre ones; this is rational not AI panic"
+  ],
+  "harry_boldest_quote": "We are fucking done with staying private.",
+  "predictions": [
+    "Jason: By December, VPs of engineering will replace 25-33% of their team with tokens, not temporary cuts but permanent token-over-humans budget choices",
+    "Rory: Only 4-5 ten-billion-dollar outcomes per year realistic; the Anthropic unicorn is statistical outlier, not new normal that should drive all VC strategy",
+    "Jason: Cognition/Devon is the most compelling vision because mediocre engineers should be automated, not empowered; markets move fast enough to displace them instantly",
+    "Both: SaaS-pocalypse is theater; real reckoning comes when CFOs see actual token bills and make permanent headcount cuts to fund them"
+  ],
+  "disagreements": "Jason wants to only invest in billion-dollar-position deals now; Rory cautions that this may cause fund to miss solid outcomes. Jason argues many mediocre VPs of engineering won't execute on AI efficiency; Rory says successful founders will.",
+  "harry_role": "Harry facilitates debate between Lemkin's hard stance on token spend forcing layoffs versus Rory's measured view that disruption will be real but gradual. Harry frequently brings probing reality checks on token math.",
+  "topics": ["anthropic", "ipo", "cognition", "token spend", "layoffs", "saas", "budgeting"],
+  "sponsor_read_count": 3,
+  "notable": "Jason reveals he made a personal choice to only invest in deals that could generate $1B positions for him, and that this mindset is spreading among GPs, potentially starving smaller startups of capital at a critical moment in the market."
+}

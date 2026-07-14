@@ -1,0 +1,26 @@
+{
+  "guest": "Mike Hudack",
+  "guest_role": "Co-founder of Sling; former CPO at Monzo, CPO/CTO at Deliveroo, and ads/sharing product lead at Facebook",
+  "approx_date": "Sep 2024",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry frequently plants a counter-thesis ('If you build it, they will come. Agree?', arguing for verticalized product marketing) and directly challenges the guest's claims (e.g. pressing on whether launching in the US was the right call, whether low-expectations framing conflicts with inspiring leadership), forcing several genuine back-and-forth exchanges.",
+  "question_style": "Mix of open prompts and pointed challenges; Harry stakes out his own opinion (e.g. on verticalized go-to-market, on positive visualization vs. tempering expectations) before asking the guest to agree or defend, and follows up hard on specific claims rather than moving on immediately.",
+  "tone": "Warm, casual, and enthusiastic ('I am so excited for this, my friend'), plenty of humor and self-deprecation (jokes about his own cooking inability, being an angel investor), comfortable interjecting personal opinions.",
+  "depth": "Strong operational/product depth: team structure ratios, experiment design (RIT metrics, power analysis), specific product war stories (Deliveroo demand modulation, Facebook Page Insights rebuild, Monzo Flex), and nuanced treatment of art vs. science in product decisions.",
+  "harry_quotes": [
+    "Do you think it will have more harm than good as an impact?",
+    "If you build it, they will come. Agree?",
+    "Does that not go against every concept of positive visualization?"
+  ],
+  "learnings": [
+    "Hudack argues ideal product teams are small (6-8, mostly engineers) with a PM being optional, and should be measured on outcome metrics like satisfaction or sales rather than raw output goals.",
+    "He describes rebuilding Facebook's underloved Page Insights product quickly as a deliberate move to prove the ads org could ship quality work and reset the bar for other teams.",
+    "At Deliveroo, a data science-driven lateness prediction model dramatically improved customer trust more than trying to speed up delivery itself, by setting accurate expectations instead of overpromising.",
+    "He learned in Madrid that assumptions about acceptable delivery radius (based on food staying 'high quality') were culturally specific to London and that customers should be allowed to choose longer/lower-quality delivery rather than being paternalistically restricted.",
+    "At Monzo he deliberately argued against shipping crypto products, believing the bank's trust-based brand position made it the wrong audience fit, a call he still believes was correct in hindsight."
+  ],
+  "topics": ["product management", "fintech", "consumer growth", "founder mode", "experimentation", "team structure"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "This is the '20Product' spinoff show rather than the main 20VC feed, focused specifically on product-leadership craft across four very different company contexts (Facebook, Deliveroo, Monzo, Sling)."
+}

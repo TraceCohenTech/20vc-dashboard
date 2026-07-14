@@ -1,0 +1,23 @@
+{
+  "approx_date": "Apr 2026",
+  "panelists": ["Rory O'Driscoll", "Jason Lemkin"],
+  "stories_covered": ["Anthropic unveils Mythos, withheld from public due to hacking capabilities", "Public software stocks tumble to new lows", "Meta debuts Muse Spark from Alex Wang's super intelligence labs", "Amazon's Trainium chips used for Mythos training", "SaaS incumbents facing margin collapse with AI-only 60% solutions"],
+  "harry_takes": [
+    "Mythos represents a step-change in capability—machine guns versus rifles in terms of scale and speed finding vulnerabilities, not just the ability to find them",
+    "AI is enabling every single breach possible as more apps are built by AI with poor security defaults",
+    "Security stocks falling on Mythos news made no sense; companies will need to invest more in defense if attackers have better tools",
+    "Dario Amodei's repeated doomsaying has lost credibility; he's become the boy who cried wolf on job displacement and existential risk",
+    "SaaS enterprise software faces a vicious cycle: 60% products can't be monetized as standalone offerings and must bundle with base software"
+  ],
+  "harry_boldest_quote": "I can't open the Strait of Hormuz myself, I can't do this like enough already, let me use my tokens.",
+  "predictions": [
+    "Jason Lemkin: If agents are only 60% as good as standalone solutions, you're in a slow death spiral",
+    "Jason Lemkin: Without meaningful AI capability, large SaaS companies will revert to terminal value-style valuations, not growth plays",
+    "Panel consensus: Enterprise is two-thirds of the AI value game going forward, consumer is one-third or less—opposite of the early internet era"
+  ],
+  "disagreements": "Rory and Harry debated whether Dario's safety concerns are sincere versus marketing; Rory argued the vision's intensity genuinely drives company culture and innovation, while Harry expressed fatigue with repeated warnings that haven't materialized",
+  "harry_role": "Driving narrative with strong takes on Mythos, Dario's credibility, and SaaS doom, while moderating between Rory's defense of Dario and Jason's brutally practical assessment of 60% products.",
+  "topics": ["ai-security", "saas-value-crisis", "foundation-models", "dario-amodei", "enterprise-ai", "compute-chips"],
+  "sponsor_read_count": 3,
+  "notable": "Jason Lemkin's 60% solution thesis becomes central to the show's entire SaaS valuation framework—if agents are only 60% as good, the company is doomed to either free bundling or slow death."
+}

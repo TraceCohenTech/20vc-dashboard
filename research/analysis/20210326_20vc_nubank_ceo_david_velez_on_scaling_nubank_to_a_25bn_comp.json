@@ -1,0 +1,24 @@
+{
+  "guest": "David Velez",
+  "guest_role": "Founder and CEO at Nubank",
+  "approx_date": "Mar 2021",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks prepared multi-sentence questions with genuine follow-ups but never contests David's core claims; occasionally probes on difficult leadership topics yet remains receptive throughout.",
+  "question_style": "Structured, multi-sentence questions that build carefully on David's responses with strategic follow-ups on expansion, capital, and leadership. Occasionally addresses difficult territory (risk tolerance, imposter syndrome, founder-CEO transitions) but rarely challenges David's framing or contradicts his analysis.",
+  "tone": "Warm, respectful, and clearly fan-like. Harry explicitly states he's been following Nubank and thanks Sequoia advisors for input, signaling a strategically placed interview. Some self-deprecating humor when asking for delegation advice. High energy and engaged throughout.",
+  "depth": "Solid strategic depth covering multi-product expansion sequencing, geographic scaling decisions, capital intensity trade-offs, CAC economics, and founder-CEO role transitions. Explores tension between growth and quality, timing of expansion, and organizational culture. Questions show preparation on fintech specifics.",
+  "harry_quotes": [
+    "Just help me understand, why haven't they worked?",
+    "How have you thought about capital intensity in terms of serving user bases?",
+    "How do you determine whether to accept or reject advice?"
+  ],
+  "learnings": [
+    "Strong single-product dominance with high customer trust and NPS enables efficient cross-selling of new products without diluting focus or damaging brand",
+    "Geographic expansion into fragmented Latin American markets requires achieving profitability and market dominance at home first to de-risk the expansion",
+    "Transitioning from founder to CEO demands learning to delegate and solicit input from others, replacing personal conviction and hands-on involvement with distributed leadership"
+  ],
+  "topics": ["fintech", "scaling", "latin america", "product strategy", "founder-ceo transition", "capital management"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Sequoia's Doug Leone provided suggested questions beforehand, indicating a strategically placed interview. Episode aired nine months before Nubank's December 2021 IPO, capturing David at a peak-valuation moment."
+}

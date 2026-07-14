@@ -1,0 +1,48 @@
+{
+  "guest": "Matan Grinberg",
+  "guest_role": "CEO and co-founder of Factory (AI software development agent company); $1.5B valuation after Series B",
+  "approx_date": "Jun 2026",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry asks probing follow-ups and occasionally challenges framing with contrarian takes ('I don't really buy that'), but remains primarily receptive to Matan's technical and strategic worldview without sustained pressure-testing.",
+  "question_style": "Structured questions with genuine follow-ups that occasionally challenge assumptions. Harry makes his own points and plays devil's advocate in places (government intervention debate, labor displacement) but doesn't plant a thesis early and demand defense. Some light interruptions to inject perspective or clarify.",
+  "tone": "Conversational and deeply engaged throughout. Harry shows genuine curiosity and occasional admiration ('that's really good to hear'). Light humor about Matan's resemblance to Matt Damon from Good Will Hunting. Professional but warm and respectful.",
+  "depth": "Exceptionally deep across multiple domains: code generation and agents, frontier vs open model trade-offs, resource allocation for AI/tokens/headcount, future of software engineering roles, organizational structure, sales philosophy (especially to enterprises), labor displacement, government intervention in AI, bubble risk assessment, hiring philosophy, personal founding story, and venture capital dynamics.",
+  "harry_quotes": [
+    "Do you think we will see meaningful productivity gains from the AI tooling we're seeing?",
+    "Will we see fundamentally smaller teams or the same size teams working on more ambitious problems?",
+    "What's the belief that would invalidate yours?",
+    "Is the rate of model development sustainable?",
+    "Does that not just present the biggest bear case ever against Codex or Claw Code?"
+  ],
+  "learnings": [
+    "Resource allocation will shift from measuring engineers by features shipped to measuring by business outcomes moved; token spend, dollars, and headcount become fungible levers for achieving a goal.",
+    "Load-bearing individuals (whose removal breaks the org) become exponentially more valuable with AI tools; non-load-bearing roles become relatively less valuable unless they too learn to leverage these tools.",
+    "Companies will bifurcate: either solve more problems with the same team size or solve the same problems with smaller teams; both paths are valid, but require deliberate choice and discipline.",
+    "Value accrual between models, applications, and infrastructure is time-dependent, not zero-sum; everyone is trying to commoditize layers outside their own to capture more margin.",
+    "Most tasks (80-90%) can use open models cost-effectively; frontier models (10-20%) are needed for planning/decision-making, similar to how human leadership decisions take less time but have outsized impact.",
+    "Product encompasses the entire customer journey from first hearing your name to tenth renewal—marketing, sales, engineering, and customer success are all first-class citizens; companies that treat any function as secondary will struggle.",
+    "Great engineers will become polymaths spanning multiple disciplines (engineering, marketing, sales, operations) with AI assistance; specialization paradoxically becomes less valuable as tools commoditize narrow expertise.",
+    "Enterprise sales success comes from genuine problem-solving conversations and face-to-face relationships, not from perfect pitches or demos; understanding their specific constraints matters far more than your feature list.",
+    "Defensibility in AI-native software comes from developer experience infrastructure (CI/CD, documentation, linters, pre-commit hooks) that makes agents produce higher-quality code, not from proprietary models.",
+    "Engineering roles will transform from 'ship code' to 'design factories that produce code'—engineers will architect the systems, constraints, and feedback loops that guide agents efficiently, reducing manual review burden.",
+    "Short-term labor displacement (layoffs) is real and concerning; long-term, displaced engineering talent will solve previously unsolved problems across healthcare, climate, pharmaceuticals, and infrastructure—if the economy properly incentivizes it.",
+    "Government intervention in AI should be rare and carefully targeted (weapons, safety) but can help in cases where capitalism's feedback loops don't align with societal priorities (healthcare, dementia research)."
+  ],
+  "topics": [
+    "ai/code generation",
+    "agent software development",
+    "frontier vs open models",
+    "resource allocation",
+    "business strategy",
+    "product strategy",
+    "team structure",
+    "hiring",
+    "sales",
+    "enterprise",
+    "labor displacement",
+    "ai infrastructure"
+  ],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Matan's founding story is unusually compelling: theoretical physicist obsessed with string theory for 12 years, met Sequoia partner via serendipitous email after citing his paper, dropped out of PhD 72 hours after meeting co-founder, received $1M check at $5M post. Also hired Ivanka Trump as investor/employee and credits her network, intelligence, and willingness to do unglamorous investor work as genuine value beyond the name."
+}

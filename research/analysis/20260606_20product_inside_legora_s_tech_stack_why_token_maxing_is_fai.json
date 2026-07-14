@@ -1,0 +1,47 @@
+{
+  "guest": "Jacob Lauritsen",
+  "guest_role": "CTO at Ligora",
+  "approx_date": "Jun 2026",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry plants technical theses (engineering becomes systems design, AI code review, model competition risks) and asks Jacob to defend positions, with occasional direct challenges on hiring and token maxing, but mostly receives rather than sustaining adversarial pressure.",
+  "question_style": "Harry asks prepared multi-sentence questions with genuine follow-ups that probe Jacob's assumptions about engineering, product, and hiring. He plants his own frameworks and theses, asking Jacob to engage with them, especially on systems architecture and model strategy. He rarely contests claims directly but does challenge with provocative scenarios.",
+  "tone": "Energetic, matey, and fandom-driven. Harry uses casual language ('dude,' 'fuck you'), admits ignorance openly ('I didn't know that'), laughs at internal company memes, and shows genuine excitement for Jacob's insights. Self-deprecating humor mixed with professional curiosity.",
+  "depth": "Harry goes quite deep on technical topics: AI tooling specifics (Claude Code vs Cursor), code review automation, systems architecture, agent development, security implications of AI-generated code, model selection tradeoffs (latency vs performance), and infrastructure scaling (10x vs 100x). He demonstrates knowledge of developer experience challenges.",
+  "harry_quotes": [
+    "Dude, how is it different building a team in and your product in 2026 versus 2024?",
+    "Do we see AI code review becoming the dominant source of review and remove it as a bottleneck?",
+    "Is that the future of engineering, being systems design, systems architecture, and code creation by AI?",
+    "Does Europe have any place to play in the model race today?",
+    "What percent of developer salary would you be willing to spend on AI tooling?",
+    "Do you buy that people are destined for certain stages of companies?",
+    "What's the biggest advice to a founder competing in an industry with an 800 pound gorilla?",
+    "Can I ask what worries you today?",
+    "Do you have to have FDs to have usage in enterprise?",
+    "What's the most underrated AI company today?"
+  ],
+  "learnings": [
+    "The productivity bottleneck in software shifted from code creation to product definition and code review as AI made coding fast and cheap",
+    "Engineer roles are evolving toward systems architecture and higher-order design decisions rather than line-by-line coding and implementation",
+    "Token usage should be measured on efficiency and output quality, not leaderboard consumption—rewarding the wrong metric drives wasteful behavior",
+    "Enterprise software success depends on guardrails that let agents safely operate within defined system boundaries, not raw model capability",
+    "Product differentiation in an AI world requires taste and opinionated positioning to avoid convergence to generic, AI-generated sameness",
+    "Hiring low-ego A-players with problem-solving hunger matters far more than hitting headcount targets with mediocre talent",
+    "Internal vibe-coded tools can outperform off-the-shelf software for specific workflows because they require less customization and fit the company's exact needs",
+    "Europe's lack of competitive open-source LLMs creates a dangerous concentration of model power in two vendors",
+    "For complex products, PMs should specialize in customer synthesis and prioritization rather than also coding, due to high opportunity cost",
+    "Speed, focus, and team hunger are competitive advantages against large incumbents—exclusive model access matters less than most assume"
+  ],
+  "topics": [
+    "ai",
+    "hiring",
+    "product development",
+    "engineering",
+    "enterprise software",
+    "open-source models",
+    "token optimization",
+    "systems architecture"
+  ],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Jacob explicitly states this is his first podcast appearance ever, yet he demonstrates exceptional technical depth and communication confidence throughout the episode."
+}

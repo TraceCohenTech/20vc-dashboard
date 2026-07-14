@@ -1,0 +1,24 @@
+{
+  "approx_date": "May 2025",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll"],
+  "stories_covered": ["Windsurf $3B acquisition confirmed", "Mega-funds vs. stage-specific firm returns", "Benchmark's 10% hit rate vs Reason's 2% across 454 Series A deals", "Census acquired by FiveTran for less than expected", "DecaGon raising at $1.5B valuation", "Harvard losing tax-exempt status threat", "AI job displacement in tech", "Customer service AI market (Sierra, Intercom, DecaGon)"],
+  "harry_takes": [
+    "Mega-funds have already won simply by having capital; the question is whether their economics sustain over time",
+    "AI will eliminate 50% of tech knowledge workers in 12-24 months; this is not efficiency, it's replacement",
+    "Focus funds get better hit rates (Benchmark 10%) but mega-funds accumulate more absolute wins with cheaper capital",
+    "Bundled multi-stage deals are the new standard; you cannot compete in Series A without doing pre-seed",
+    "Tax pressure on endowments will accelerate the mega-fund advantage by starving early-stage fund sources"
+  ],
+  "harry_boldest_quote": "I think multi-stage win the next 10 years, there's a lot in there.",
+  "predictions": [
+    "Stebbings: Half of SaaS support, QA, and marketing roles will be gone within a year due to AI",
+    "Lemkin: 1.5B DecaGon valuation is justifiable if company becomes the safe choice (like Salesforce did)",
+    "Panel: Customer service AI will consolidate to 2-3 winners; DecaGon and Sierra will capture the momentum window",
+    "Stebbings: GDP growth remains ~2% even with AI, but tech sector will see outsized productivity gains"
+  ],
+  "disagreements": "Lemkin bullish on AI job displacement speed and DecaGon valuation; O'Driscoll skeptical about macro impact and worried about valuation risk if moat erodes. Harry says focus funds can't compete; Rory says bundling creates unfair but survivable dynamics for focused investors.",
+  "harry_role": "Harry drives the episode with strong takes on AI disruption and mega-fund dominance. He challenges Rory's skepticism on employment impact and leads debate on whether mega-funds can sustain returns. Acts as moderator but also as a co-debater with conviction.",
+  "topics": ["venture-capital", "mega-funds", "seed-funding", "ai-impact", "series-a", "job-market", "customer-service-ai", "tax-policy", "fund-economics"],
+  "sponsor_read_count": 3,
+  "notable": "Extended debate on Harvard tax-exempt status threat and broader endowment crisis impact on venture funding; Stebbings compares AI adoption speed to PC/internet eras and argues tech adoption will be much faster due to sector size."
+}

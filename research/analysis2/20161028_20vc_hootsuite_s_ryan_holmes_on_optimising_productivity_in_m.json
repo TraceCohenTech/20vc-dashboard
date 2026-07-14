@@ -1,0 +1,26 @@
+{
+  "guest": "Ryan Holmes",
+  "guest_role": "Founder and CEO of Hootsuite",
+  "approx_date": "Oct 2016",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks well-prepared, topic-varied questions (meetings, product prioritization, org structure) with real follow-ups, but never challenges or contests any of Holmes's answers.",
+  "question_style": "Open-ended and structured around a checklist of founder-life topics (founding story, scaling creativity, meetings, product prioritization, fundraising), closing with a quickfire round. Harry references his own frustrations (meetings, small-business creativity) as framing but doesn't push back on Holmes's claims.",
+  "tone": "Friendly, energetic, and personable ('automatic kinship' over both being university dropouts), light banter in the quickfire, heavy sponsor integration (AngelList/Angeloop, Wunder Capital).",
+  "depth": "Covers moderately technical/strategic ground — org design (Alphabet-style cellular structure), agile release strategy (dark launches, beta opt-in/out), and fundraising timing/positioning versus early competitors like TweetDeck — but stays largely narrative rather than probing numbers.",
+  "harry_quotes": [
+    "What do you do to optimize the meeting process both for productivity and for simple enjoyment?",
+    "How do you choose which features go through the funnel and which ones don't?",
+    "What did you do well and what would you like to improve on?"
+  ],
+  "learnings": [
+    "Holmes credits his restaurant-industry years for teaching him to identify his own core competencies and hire specialists to backfill the rest.",
+    "He runs an internal 'labs' division exempted from standard compliance/process overhead to preserve entrepreneurial risk-taking at scale.",
+    "He supports Google's Alphabet-style cellular splitting of large orgs, citing Dunbar's-number-style limits on effective relationship management (~130 people).",
+    "Hootsuite uses dark launches and opt-in/opt-out beta releases to gather product feedback from a broad user base without disrupting the whole customer base at once.",
+    "Hootsuite differentiated from early competitors (TweetDeck, CoTweet, Seesmic) by targeting business tools rather than a consumer social browser, likening its vision to 'Basecamp for social media.'"
+  ],
+  "topics": ["saas", "product management", "org design", "fundraising", "founder productivity", "social media"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Holmes discloses he built a side product (OriStand, a cardboard standing desk) inside Hootsuite to solve his own back injury, treating it as a mini case study in internal entrepreneurship."
+}

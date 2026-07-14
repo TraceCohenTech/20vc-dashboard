@@ -1,0 +1,22 @@
+{
+  "guest": "Olof Mathe",
+  "guest_role": "Founder and CEO, Mixmax",
+  "approx_date": "Jan 2019",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry closely follows the guest's own three-stage framework with detailed drill-down questions and occasional real-world challenge examples, but never contests or disputes the guest's claims.",
+  "question_style": "Highly structured around a framework the guest proposed pre-show (three stages of denial), with Harry systematically unpacking each stage; asks concrete scenario questions (e.g. paying a new hire more than the founder) but does not push back or plant an opposing thesis.",
+  "tone": "Warm, familiar and matey given this is a repeat guest; personal touches and admiration ('this is like a session with Yoda'), light humor, genuine product fandom as a self-described Mixmax user.",
+  "depth": "Strong operational depth on hiring/scaling mechanics: when to hire senior functional leaders (e.g. the 8-direct-reports rule), generalist vs. specialist hiring tradeoffs, executive recruiter selection, and specific interview questions used to vet candidates.",
+  "harry_quotes": ["What did you mean by that? I can find the right person on my own?", "Do you have a favorite pre-interview or pre-hire question?", "How does one think about expense and maybe paying more than you, the founder?"],
+  "learnings": [
+    "Mathe describes three founder 'stages of denial' when scaling: believing a senior role isn't needed yet, believing they can fill it through their own network, and believing an under-qualified hire will grow into the role.",
+    "His rule of thumb: once a founder has more than eight direct reports, or a function requires domain expertise nobody on the founding team has, it's time to hire a dedicated functional leader.",
+    "He warns founders that IC-focused recruiters are usually the wrong fit for senior/executive searches, and that a personal relationship with the recruiter meaningfully affects candidate pitch quality.",
+    "A senior consultant engagement (a few months) before a full-time hire lets founders pressure-test what working with a leader in an unfamiliar function feels like, and can double as a recruiting aid.",
+    "His go-to interview question asks candidates what their current CEO would need to change to make them cancel the interview process, to gauge self-awareness and whether they've had direct conversations with their current employer first."
+  ],
+  "topics": ["hiring", "scaling", "saas", "management", "recruiting", "org design"],
+  "repeat_guest_callback": "I so enjoyed our prior episode on SaaS, but thank you so much for joining my dulcet, British tones again, Olaf.",
+  "sponsor_read_count": 3,
+  "notable": "This is an explicit repeat appearance by the guest, and the entire episode is structured around a three-part framework the guest proposed to Harry before recording."
+}

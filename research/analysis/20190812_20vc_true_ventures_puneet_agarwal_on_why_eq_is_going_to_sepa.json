@@ -1,0 +1,28 @@
+{
+  "guest": "Puneet Agarwal",
+  "guest_role": "Partner at True Ventures",
+  "approx_date": "Aug 2019",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared follow-up questions on decision-making, board dynamics, and investment philosophy but never contests Puneet's frameworks; remains receptive and seeking wisdom.",
+  "question_style": "Prepared multi-sentence questions with substantive follow-ups on EQ, decision-making processes, board culture, and time allocation. Harry asks clarifying questions ('Why do you believe EQ is so cool?') and seeks Puneet's wisdom, but doesn't plant alternative theses or push back on claims.",
+  "tone": "Warm, respectful, and learning-focused. Harry defers to Puneet's 13+ years of experience ('I'm a portfolio geek so this is exciting'). Professional and collaborative, with genuine interest in understanding True's philosophy.",
+  "depth": "Tracks venture capital theory including Mickey Mouse decision framework, loss aversion psychology, maximizing risk vs. minimizing risk vectors, portfolio construction (45-50 investments, 20/year), no-attribution culture, dissension-based decision making, board dynamics, founder relationships, time allocation strategies, and geographic sourcing. Very strong on VC organizational design.",
+  "harry_quotes": [
+    "Why do you believe that EQ is so cool to the business of venture today?",
+    "How do you think about really getting kind of under the skin and unpacking those emotional drivers?",
+    "What advice would you give me having just gained my first board seat?",
+    "How do you think about time allocation across the portfolio?"
+  ],
+  "learnings": [
+    "Venture returns depend on founder psychology and emotional connection; empathy (EQ) differentiates top firms because most venture problems are ultimately human/emotional, not purely business problems",
+    "Investor mindset cascades to founder behavior—investors who project fear (loss aversion) create paralysis, while those who project safety enable creative problem-solving and founder transparency",
+    "No-attribution culture removes perverse incentives that plague venture (deal stealing, political gamesmanship) and forces partners to optimize for company success, not personal credit",
+    "Dissension in decision-making improves outcomes because disagreements surface the same questions founders are asking; unified support follows disagreement in True's model",
+    "Seed-stage venture requires built-in failure (40-50% loss rate) at True's investment level; minimizing risk on founder quality and initial check size while maximizing risk on company potential is the operating principle",
+    "Geography doesn't determine company success; talent access, lower operating costs, and employee loyalty exist everywhere; Great companies emerge from Montana, Minnesota, Wisconsin, Africa, and Europe"
+  ],
+  "topics": ["venture capital", "founder psychology", "empathy", "investment decision-making", "board governance", "organizational culture", "loss aversion", "portfolio construction", "no-attribution model", "seed stage investing", "geographic diversity"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Puneet recounts CEO diagnosed with colon cancer on day of wire transfer asking to return money; True declined and company now thriving—illustrates founder-first philosophy. Also grounded his thinking in witnessing 1999-2002 boom/bust cycle at Mayfield, shaping his nuanced view of euphoria vs. fundamentals."
+}

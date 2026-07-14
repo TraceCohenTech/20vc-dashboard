@@ -1,0 +1,28 @@
+{
+  "guest": "Jeanne DeWitt Grosser",
+  "guest_role": "Head of Americas Revenue and Growth at Stripe",
+  "approx_date": "Mar 2022",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry runs a structured, prepared line of questioning (often via a founder role-play device) with real follow-ups, but he never contests or pressure-tests the guest's claims.",
+  "question_style": "Mostly open, prepared multi-part questions, frequently framed as 'imagine I'm your hypothetical founder/new hire' role-play to extract tactical detail; he follows up to get concrete specifics (e.g. pushing past buzzwords) but does not interrupt or challenge the guest's points.",
+  "tone": "Warm, matey, and clearly fan-of-the-guest ('this is such a joy for me'), with light self-deprecating humor about being a 'hypothetical founder' who doesn't know how to do basic things; energetic and appreciative throughout.",
+  "depth": "Strong tactical/operational depth for a practitioner-focused format: structured interview loops, homework assignments, quota-setting and ramp curves, onboarding cadences, loss reviews/pre-mortems, and PLG vs. enterprise sales motions are all probed with specific follow-up questions.",
+  "harry_quotes": [
+    "How did you first make your way into the world of tech?",
+    "What non-obvious characteristics do amazing sales reps have from your experience?",
+    "Is traditional sales debt?"
+  ],
+  "learnings": [
+    "Founders should stay close to early customer conversations to nail product-market fit, but often wait too long to bring in someone with real sales skill rather than treating sales as a natural extension of founding.",
+    "Early sales hires should be product-obsessed generalists rather than polished enterprise reps, and hiring two to three at once (not one) helps validate real patterns instead of trusting a single person's anecdotal read.",
+    "Good sales interviewing relies on realistic homework assignments plus repeated 'why/how' drill-downs to separate candidates who can execute from those who only speak in buzzwords.",
+    "New reps should be put in front of real customers almost immediately and paired with tenured reps, because asking good questions matters more early on than deep product mastery.",
+    "Quotas should start as team-based and lower-leverage during a ramp period, shifting to individual targets only once repeatable patterns are understood.",
+    "Product-led growth can efficiently cover smaller deals, but larger multi-million dollar accounts still typically require a human salesperson, and companies often underestimate when that shift is needed.",
+    "Cross-functional 'pre-mortems' on live deals and quarterly loss retrospectives (with sales, product, and customer success in the room) surface go-to-market, product, and operational gaps that a single team wouldn't catch."
+  ],
+  "topics": ["sales hiring", "onboarding", "quota setting", "stripe", "sales process", "product-led growth"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 6,
+  "notable": "Unlike typical 20VC guest interviews, this '20Sales' episode is largely structured as Harry role-playing a first-time founder seeking tactical advice, rather than a journalistic interview."
+}

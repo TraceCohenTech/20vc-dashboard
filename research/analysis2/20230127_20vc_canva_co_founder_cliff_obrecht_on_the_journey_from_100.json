@@ -1,0 +1,26 @@
+{
+  "guest": "Cliff Obrecht",
+  "guest_role": "Co-founder and COO at Canva",
+  "approx_date": "Jan 2023",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry directly voices skepticism at several points (on non-technical founders, on giving away 99% of net worth, on bundling vs. unbundling) and asks Cliff to justify himself against that skepticism, but mostly lets long personal narrative answers run without further contesting them.",
+  "question_style": "Long, personal, story-eliciting questions mixed with a few genuinely pointed challenges stated in the first person ('why am I wrong and why does it work?', 'I just don't get it... how much money do you need?'), rather than sustained adversarial pressure.",
+  "tone": "Very warm, personal, and admiring, heavy use of profanity in a friendly/matey register, extensive self-disclosure from Harry (his own rejection, his own athletic background), clearly fond of the guest.",
+  "depth": "Mixes personal/founder-story depth (trust styles, hiring philosophy, marriage-as-co-founders) with some product/strategy depth (freemium GTM, tech-debt rewrite decision, product prioritization framework, bundling vs. point solutions), though much of the episode leans personal/biographical over technical.",
+  "harry_quotes": [
+    "Why am I wrong and why does it work?",
+    "I just don't get it... how much money do you need?",
+    "Were you insecure moving into this world? And did you have imposter syndrome?"
+  ],
+  "learnings": [
+    "Canva deliberately delayed launch by a year to build a delightful product first, resisting investor pressure to follow lean-startup 'launch and iterate' advice.",
+    "The company undertook a painful two-year feature freeze to rewrite front-end tech debt once it became untenable for scaling the team.",
+    "Cliff evaluates hires and acquisition targets partly through 'distance traveled' — weighting nontraditional backgrounds and resourcefulness over pedigree.",
+    "Canva's product prioritization framework asks 'greatest good for the greatest number' rather than building deeply-nested niche features.",
+    "Founders and their co-founder spouse actively give away 99% of their equity (31% ownership) to a foundation, treating personal wealth accumulation as something to actively resist rather than pursue."
+  ],
+  "topics": ["founder story", "fundraising rejection", "hiring philosophy", "product strategy", "philanthropy", "co-founder marriage"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Guest Cliff Obrecht reveals he and his wife/co-founder Melanie Perkins have donated 99% of their ~31% Canva stake to their own foundation and treat themselves as mere custodians of that capital rather than owners."
+}

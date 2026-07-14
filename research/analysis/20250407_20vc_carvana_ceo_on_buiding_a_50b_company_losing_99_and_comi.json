@@ -1,0 +1,43 @@
+{
+  "guest": "Ernie Garcia",
+  "guest_role": "Co-founder and CEO of Carvana",
+  "approx_date": "Apr 2025",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry asks probing follow-ups on personal and strategic topics with occasional contrarian angles ('I don't really buy that, Ernie'), but remains primarily receptive rather than applying sustained pressure-testing with evidence.",
+  "question_style": "Mix of personal and business strategy questions. Harry occasionally challenges Ernie's framing (e.g., Steve Jobs quote, happiness vs achievement) and plays devil's advocate. Frequent follow-ups asking 'what do you mean' or digging into assumptions. Harry interjects with his own perspectives but doesn't plant a thesis early and let Ernie defend against it.",
+  "tone": "Deeply conversational and genuinely engaged ('I've enjoyed this conversation so much. Like the breath is amazing'). Harry shows vulnerability and self-deprecation ('I'm quite young, I look quite old'). Willing to dig into tough personal territory while maintaining warmth and respect.",
+  "depth": "Exceptionally deep—moves from early-stage capital raising and vertical integration strategy, near-death experiences, team composition theory (operators vs strategists), personal childhood trauma, parenting philosophy, managing public market pressure, capital structure decisions, organizational focus, to long-term vision. Specific topics tracked: capital intensity justification, operational excellence, market volatility resilience, compensation philosophy, personal motivation sources.",
+  "harry_quotes": [
+    "When did being stubborn in the Carvana journey help strategically the business in a very significant way?",
+    "Do you regret going public so early, do you wish you'd gone public earlier?",
+    "Do assets like Carvana become more valuable because of the complex coordination and logistical challenges?",
+    "Where are you in 10 years time?"
+  ],
+  "learnings": [
+    "Vertical integration—owning every piece of the customer experience and economics—is strategically essential even when capital-intensive because it gives control that no software-only layer can replicate.",
+    "Stubbornness and self-belief are necessary entrepreneurial traits; success often requires ignoring smart people who don't see your vision and persisting through multiple near-death experiences.",
+    "Risk is less risky than most believe because people facing existential pressure generate creative solutions they wouldn't find otherwise; what looks close to failure often has more escape routes.",
+    "Hiring should prioritize recommendations from people you deeply respect over industry experience or credentials; people you trust can figure things out.",
+    "The rarest and most valuable pairing is operators (who solve practical problems daily) with strategists (who set the ceiling of what's possible); most drift into only one type.",
+    "Fighting abstraction—staying close to ground-level work rather than just managing one-on-ones—is critical for leaders to make better decisions and build stronger organizations.",
+    "Team resilience compounds through shared hard experiences, not avoided ones; public market feedback creates irreplicable pressure that builds organizational toughness.",
+    "IPO pricing should maximize capital raised at the moment of offer, not engineer a synthetic post-IPO pop; leaving money on the table dilutes shareholders.",
+    "Debt can create forced discipline better than equity fundraising because it's non-negotiable; it forced execution in ways that private fundraising couldn't.",
+    "Changing organizational focus requires removing old priorities to make room, not just adding new goals; most companies fail by trying to do everything."
+  ],
+  "topics": [
+    "entrepreneurship",
+    "vertical integration",
+    "fundraising",
+    "public markets",
+    "team building",
+    "operations",
+    "organizational strategy",
+    "parenting",
+    "resilience",
+    "capital allocation"
+  ],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Unusually candid episode touching on family wealth, parental bankruptcy, competitive childhood trauma, therapy, and parenting philosophy. Ernie explicitly discusses wanting to 'beat' his father and his emotional responses to criticism, adding psychological depth rare in business interviews."
+}

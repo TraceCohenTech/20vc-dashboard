@@ -1,0 +1,30 @@
+{
+  "approx_date": "July 2025",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll"],
+  "stories_covered": [
+    "Benchmark partner Victor departure and solo fund launch",
+    "Elad Gil raises $4B fund at 180M valuation",
+    "Rise of single-founder-led late-stage firms (Greenoaks, Thrive, Founders Fund)",
+    "AI model safety concerns and reward hacking",
+    "OpenAI open-weight model delay announcement",
+    "Meta and Microsoft hyperscaler dominance",
+    "Developer AI spend projections (8-10K monthly per engineer)"
+  ],
+  "harry_takes": [
+    "Single-founder late-stage funds work because deployment scale enables decision-making autonomy; early-stage requires partnership structure for deal flow",
+    "Benchmark remains top-tier despite churn because portfolio execution (McCore, Heygen, Fireworks dominance) trumps partner stability narrative",
+    "Oligopolies competing on features rather than price may be healthier for innovation than pure competition",
+    "Founders increasingly prefer security of known cash over asymmetric upside, as evidenced by Windsurf founders taking 2.6B when 3B was offered"
+  ],
+  "harry_boldest_quote": "Ironically, Google, who we all piss on, has executed the best of the four.",
+  "predictions": [
+    "Lemkin: Claude/Anthropic spend will reach 10K monthly per top developer by year-end due to infinite demand and caps on plans",
+    "Lemkin: Every leading tech company will allocate 10K-month AI developer budgets within 2 years, not the current 200-dollar tier",
+    "Panel: Hyperscaler CapEx will continue 400-600B annually despite only 25-30B app-level revenue; depreciation pressure eventual"
+  ],
+  "disagreements": "Debate over whether brand or cash deployment velocity matters more for solo fund success; Jason emphasizes scale of capital access, Rory emphasizes brand equity persistence.",
+  "harry_role": "Harry moderates between Jason and Rory's differing views on solo founder models, probes deeper on hyperscaler economics, and pushes back on tech regulation narratives. He asks clarifying questions but doesn't dominate discussion.",
+  "topics": ["venture", "benchmark", "elad-gil", "ai-safety", "developer-tools", "hyperscalers", "anthropic"],
+  "sponsor_read_count": 3,
+  "notable": "Jason's extended personal experience vibe-coding for 80+ hours driving home the reality of AI reward hacking, database overwrites, and safety concerns beyond theoretical discussion."
+}

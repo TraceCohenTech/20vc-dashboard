@@ -1,0 +1,30 @@
+{
+  "guest": "Jack Zhang",
+  "guest_role": "Co-founder and CEO of Airwallex",
+  "approx_date": "May 2025",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry mostly receives the story with awe and rarely truly contests Jack, but he repeatedly injects his own valuation math and blunt framing (e.g. calling out the '6X revenue multiple' and '9X public markets multiple') and presses on dilution, secondaries, and hindsight regrets.",
+  "question_style": "Largely open, chronological prompts ('what happens then?', 'take me to...') that let Jack narrate, punctuated by Harry planting his own calculated theses (revenue multiples, projected year-end ARR, dilution math) and asking Jack to react to them. He rarely interrupts or contests claims outright, but does push with blunt asides like 'can I be blunt' and 'I'm sorry to be so blunt.'",
+  "tone": "Very matey and fan-driven — frequent 'dude,' audible amazement ('whoa,' 'fuck,' 'that is insane'), self-deprecating asides (about not driving, about his own failed VC instincts), high energy throughout with genuine fandom for the story.",
+  "depth": "Mostly narrative/strategic depth (fundraising mechanics, cap table history, near-death moments, international expansion mistakes) rather than deep technical probing; does track specific technical/financial details like SWIFT correspondent banking, FX liquidity/basis points, and revenue vs. gross-profit multiples.",
+  "harry_quotes": [
+    "Can I ask you what makes him so smart?",
+    "Why did you do a deal at 9 billion?",
+    "Do you not worry about the dilution?",
+    "Can I be blunt? How much money would you have made?",
+    "Do venture firms, brands make a material difference?"
+  ],
+  "learnings": [
+    "Airwallex's founder bootstrapped credibility by proving he could survive extreme hardship (working multiple manual labor jobs as a teenager), which he believes built the resilience that later let him push through three failed product pivots.",
+    "A first-time, non-professional angel investor wired $1 million within days of a first meeting, well before any paperwork was signed — an informal deal structure that would be far riskier or impossible under today's compliance norms.",
+    "Airwallex nearly died multiple times: a lead VC pulled a signed term sheet, a strategic corporate investor (Tencent) stalled the round for months over internal build-vs-buy politics, and a later SoftBank-led round collapsed due to the WeWork fallout, each time requiring a scramble to survive.",
+    "The founder turned down a roughly $1.2 billion acquisition offer from Stripe when Airwallex had only $2 million in revenue, a decision made mostly by internal team vote and personal conviction about long-term vision rather than financial modeling.",
+    "Premature over-investment in international expansion without product-market fit (e.g., three years to reach UK PMF) was identified as the company's costliest strategic mistake, compounded by early hires with big-bank pedigree who didn't fit a startup culture and had to be let go.",
+    "Later-stage top-tier investors (e.g., a 16z/YC-style 'Series C' conversation) sometimes evaluate founders almost entirely on personal biography and resilience rather than the specific product, treating founder quality as the dominant signal at scale.",
+    "The founder advises late-stage founders to take modest secondaries (roughly $20-30M range at billion-dollar-plus valuations) so they can stop worrying about personal financial security and focus fully on the business, but warns against large early secondaries."
+  ],
+  "topics": ["fintech", "payments infrastructure", "fundraising", "acquisition offers", "founder psychology", "international expansion"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 6,
+  "notable": "The episode is framed entirely as a single dramatic origin story (the 'most insane story in startups') built around a walk Harry took with the founder a month prior, giving it a narrative/storytelling structure rather than a typical Q&A format."
+}

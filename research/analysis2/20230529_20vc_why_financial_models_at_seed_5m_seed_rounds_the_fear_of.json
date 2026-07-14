@@ -1,0 +1,28 @@
+{
+  "guest": "Adam Besvinick",
+  "guest_role": "Founder of Looking Glass Capital, a pre-seed focused venture fund started in 2020; previously spent five years at Deerpath Capital and Anchorage Capital",
+  "approx_date": "May 2023",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry openly says 'Honestly, I disagree' on thematic investing and pushes back hard on the raise-$5M-and-operate-lean strategy with his own counter-thesis, and explicitly self-labels his questioning as 'pressing' and 'assertive' at the close of the episode.",
+  "question_style": "Sharp, numbers-driven questioning (check sizes, ownership percentages, valuations) that repeatedly asks Adam to defend specific mechanics of his fund strategy, plants Harry's own contrarian view before inviting rebuttal, and references other guests' quotes (Semil Shah, Ophelia Brown) to pressure-test Adam's positions.",
+  "tone": "Blunt, insider-to-insider, peer-level banter with light profanity ('fucking dead'), genuine curiosity about fund mechanics, comfortable disagreeing directly since both are operators in the same world.",
+  "depth": "Deeply technical VC fund-construction content -- ownership targets to return a fund, minimum viable fund size and first-close thresholds, check-size discipline, adverse selection, thematic sourcing strategy, and 2023 market dynamics around A/B-round 'death zones'.",
+  "harry_quotes": [
+    "Honestly, I disagree.",
+    "Do you worry about adverse selection?",
+    "Can you lead rounds if you're not the biggest check, Adam?",
+    "Why did you choose 20?"
+  ],
+  "learnings": [
+    "A disciplined pre-seed strategy can work with a small number of portfolio companies if average ownership is high enough to return the fund from a single billion-dollar outcome even after heavy dilution.",
+    "Thematic, narrow-focus investing helps a solo GP become the natural first call for relevant deal flow and builds instant credibility with founders, compared to a generalist approach.",
+    "Founders raising at inflated seed valuations pre-product create outsized pressure on themselves, whereas raising conservatively with strict runway discipline (roughly 24 months of gross burn) creates room to raise up rounds even in tough markets.",
+    "LP fundraising success depends heavily on identifying the right 'phenotype' of LP who understands the specific strategy, rather than pursuing generic institutional capital too early.",
+    "The Series B/C 'death zone' in 2023 was created by funds that deployed too aggressively in 2021 and are now hoarding reserves for existing portfolio companies rather than funding new deals.",
+    "Signaling risk from which investors are in a round matters less than it used to; strong execution can overcome having a lesser-known name on the cap table."
+  ],
+  "topics": ["fund mechanics", "pre-seed", "vc strategy", "fundraising", "portfolio construction", "market cycles"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "An 'inside baseball' VC-to-VC episode that gets unusually granular on fund math (ownership targets, dilution math, check-size ladders), a format Harry explicitly frames as a departure from typical founder interviews."
+}

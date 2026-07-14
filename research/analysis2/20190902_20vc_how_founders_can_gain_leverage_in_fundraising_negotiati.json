@@ -1,0 +1,26 @@
+{
+  "guest": "Jana Messerschmidt",
+  "guest_role": "Investor at Lightspeed Venture Partners",
+  "approx_date": "Sep 2019",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry repeatedly frames his questions as deliberately 'unfair' hypotheticals (e.g. pressing on what founders should do if their metrics aren't there) and reacts with pointed commentary like calling her advice 'the most unpopular statement,' but he doesn't sustain adversarial follow-up once she answers.",
+  "question_style": "Highly structured, sequential questions building a full fundraising playbook from metrics to leverage to cap table construction; Harry frequently labels his own questions as 'unfair' or 'off schedule' before asking pointed, specific hypotheticals, and injects his own opinions (e.g. on distribution costs) rather than staying purely neutral.",
+  "tone": "Very warm, high energy, laced with humor (Love Island tangent, self-deprecating asides) and genuine enthusiasm for the guest's Netflix/Twitter operating background and hashtag angels work.",
+  "depth": "Goes deep and specific into quantitative benchmarks (D2C revenue velocity, subscription churn/LTV-CAC targets), negotiation leverage mechanics, and cap table construction, plus a substantive segment on gender equity in cap tables backed by Carta's aggregate data.",
+  "harry_quotes": [
+    "Should founders always be raising?",
+    "What if the numbers aren't there?",
+    "Never has such an unpopular statement been said on a VC show."
+  ],
+  "learnings": [
+    "Founders are effectively always raising in a functional sense, since most companies need new capital within one to two years of any round, so the real focus should be hitting the metrics for the next raise.",
+    "For D2C Series A companies, the velocity of revenue growth into the raise (not just the absolute run-rate) is what separates a strong fundraising position from a weak one.",
+    "Founders should ask VCs to explicitly define what metrics justify investment, since a VC's willingness to do that diligence work is itself a signal of how engaged a partner they'll be.",
+    "Sharing a proactive investor update with specific top asks (e.g. a target account list mapped to investor networks) can generate warmer introductions faster than traditional outbound sales.",
+    "An aggregate analysis of over 6,000 startup cap tables found women hold roughly 9% of equity value despite being about 33% of the tech workforce, tracing the gap to underrepresentation among founders, early employees, executives, and investors."
+  ],
+  "topics": ["fundraising", "cap table construction", "d2c metrics", "negotiation leverage", "diversity in venture", "startup culture"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Includes a detailed recap of the hashtag angels 'Gap Table' study with Carta, which quantified gender inequity in startup equity ownership and prompted Carta's CEO to personally reallocate over $8 million in equity to women employees."
+}

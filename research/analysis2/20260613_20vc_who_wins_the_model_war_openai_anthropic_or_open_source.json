@@ -1,0 +1,26 @@
+{
+  "guest": "Matan Grinberg",
+  "guest_role": "CEO and co-founder of Factory (AI software development agents), former theoretical physicist",
+  "approx_date": "Jun 2026",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry frequently plants counter-arguments and outside data points (Uber's token budget, Kirkland's $500M internal build, McCaw's token vs headcount spend) and pushes back directly ('does that not just present the biggest bear case ever against Codex or Claude Code?'), though he ultimately defers to the guest's expertise on technical claims.",
+  "question_style": "Highly prepared, cites specific outside data and other podcast guests' claims to construct challenges, and directly disagrees at points (e.g. pressing on whether 80-90% of tasks needing only open-source models undercuts frontier model bear cases), while also spending significant time on origin story and personal narrative.",
+  "tone": "Warm, admiring, playful (repeated Good Will Hunting comparison), high energy, comfortable using profanity, genuine curiosity about the founder's unconventional physicist-to-founder path.",
+  "depth": "Strong technical/strategic depth on AI economics — token cost allocation, model commoditization dynamics, open-source vs frontier trade-offs, engineering organizational structure in an agentic world — goes well beyond generic founder-story questions.",
+  "harry_quotes": [
+    "Does that not just present the biggest bear case ever against Codex or Claw Code?",
+    "Do you agree with government intervention?",
+    "Why did they bother doing a partnership meeting?"
+  ],
+  "learnings": [
+    "Guest frames the coming resource-allocation challenge for engineering orgs as choosing between solving the same problems with fewer people versus solving more/bigger problems with the same team, not a fixed answer.",
+    "He argues software moat is shifting away from 'we can build this and you can't' toward organizations needing to be ruthless about which few things they own end-to-end versus outsourcing to specialized vendors.",
+    "Frontier models are needed mainly for planning/decision tokens, with open-source models handling roughly 80-90% of implementation tasks, though the small frontier share may carry outsized importance.",
+    "He sees company culture that treats sales and marketing as 'lesser' than engineering as a long-term structural risk once the AI capital gold rush cools.",
+    "The founder secured his first Sequoia term sheet ($1M at $5M post) largely on relationship trust from a serendipitous meeting with a partner he'd previously cited in a physics paper, rather than through competitive shopping."
+  ],
+  "topics": ["ai coding agents", "token economics", "founder story", "venture fundraising", "future of engineering", "resource allocation"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Guest is a former theoretical string theorist with zero prior work experience before founding Factory, raising his first Sequoia check within days of dropping out of his physics PhD."
+}

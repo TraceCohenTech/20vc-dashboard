@@ -1,0 +1,35 @@
+{
+  "guest": "Arthur Patterson and Jim Schwartz",
+  "guest_role": "Co-founders and managing partners of Accel (Excel) Partners",
+  "approx_date": "Nov 2021",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks respectful exploratory questions and follows up on specific points but never contests or challenges the founders' perspectives, maintaining a student-like posture.",
+  "question_style": "Open-ended, reflective questions about their journey and decision-making; occasional follow-ups for clarity but no planted thesis or pushback; reverential tone reflects the stature of guests.",
+  "tone": "Respectful and reverential; Harry repeatedly emphasizes his honor at interviewing these legends; warm but formal; admiring and student-like without skepticism or challenge.",
+  "depth": "Harry explores macro venture cycles (comparing five boom-bust cycles), firm culture and leadership transitions, international expansion strategy (London, India), portfolio management philosophy, and the balance between early and growth-stage investing; covers 38-year history and contemporary market dynamics.",
+  "harry_quotes": [
+    "Can we go back to the first conversation that you guys had about starting Excel?",
+    "What did you do to get it over the line?",
+    "What advice would you have for me having seen many in different forms?",
+    "When did the Excel brand really hit with LPs?"
+  ],
+  "learnings": [
+    "Market cycles follow predictable patterns driven by underlying technology forces, not just one input; the 14-year current cycle differs from historical 8-year cycles due to multiple simultaneous technology drivers.",
+    "Specialization in focused sectors creates competitive advantage once market supply matures enough to support deep expertise; generalists can't compete against specialists who invest intellectual energy into understanding specific domains.",
+    "Equal ownership and distributed decision-making across generational transitions preserve firm culture better than hierarchical structures; young leaders must be aggressively given ownership stakes to incentivize long-term stewardship.",
+    "Early-stage investing offers better downside protection during market downturns because valuations are lower and founder focus is on sustainable metrics rather than capital-efficient spending.",
+    "International expansion requires cultural transfer through personal engagement (long-term secondments, regular partnership meetings) and hiring leaders who already understand the home culture; local expertise beats remote control.",
+    "Culture eating strategy: robust decision-making processes prevent destructive politics (reciprocal deal approval) that undermine investment quality."
+  ],
+  "topics": [
+    "venture history",
+    "market cycles",
+    "fund specialization",
+    "leadership culture",
+    "international expansion",
+    "portfolio strategy"
+  ],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Rare dual-founder interview with Accel's co-founders covering 38 years of venture history; the founders discuss surviving five major market cycles (1968-2021) and deliberately maintaining distributed leadership to sustain culture across generational transitions."
+}

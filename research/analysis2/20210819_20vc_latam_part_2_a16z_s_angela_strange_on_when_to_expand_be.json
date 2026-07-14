@@ -1,0 +1,26 @@
+{
+  "guest": "Angela Strange",
+  "guest_role": "General Partner at Andreessen Horowitz, focused on fintech",
+  "approx_date": "Aug 2021",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry repeatedly plants a contrary premise and asks her to defend against it ('I've always been taught... why is that wrong,' 'do you think that local flavor is enough of a defensibility,' 'are you nervous?' on frothy pricing), going beyond passive reception into real thesis-testing, though he ultimately accepts her answers without further contesting them.",
+  "question_style": "Structured around deconstructing her own written article point by point, frequently voicing his own contrarian view or personal practice (e.g. his rule to raise post-expansion, not pre-) before asking her to respond, plus direct challenges on moat defensibility and valuation froth; no interruptions but sustained pressure-testing across several topics.",
+  "tone": "Warm and familiar ('a friend of 20VC's'), fast-paced and businesslike given the dense subject matter, mutual admiration but less fannish gushing than some other episodes.",
+  "depth": "High strategic/technical depth on fintech and LatAm market structure — bank profitability math (distribution minus infrastructure costs), cash-economy dynamics, KYC/credit-bureau infrastructure gaps, innovation-vs-distribution framing, exit-environment maturity curves — reflects sustained tracking of the region and vertical.",
+  "harry_quotes": [
+    "Why is that wrong and how do you think about that?",
+    "Do you think that local flavor's enough of a defensibility?",
+    "Are you nervous? How do you advise me?"
+  ],
+  "learnings": [
+    "Strange frames bank profitability as distribution cost minus infrastructure cost, arguing fintechs win by lowering both, enabling profitable service to previously unprofitable low-balance customers.",
+    "She distinguishes markets where incumbents lose to innovation from cases of the entirely unbanked, arguing 'innovation vs distribution' battles only apply to the already-served, unhappy customer segment.",
+    "LatAm fintech defensibility often comes from having to build infrastructure (KYC, credit underwriting, ledgering) locally from scratch, since the US-style 'as-a-service' stack doesn't exist there yet, giving local incumbents a real head start.",
+    "She argues seemingly expensive valuations (citing Nubank going from $1B to $35B) reflect systematic market-size underestimation in fast-growing emerging fintech markets rather than true overpricing.",
+    "Her own biggest LatAm miss was passing on Nubank early due to unfamiliarity with the region and macro noise (a presidential impeachment, currency drop) rather than fundamentals."
+  ],
+  "topics": ["latam", "fintech", "market expansion strategy", "banking infrastructure", "valuation", "venture returns"],
+  "repeat_guest_callback": "For those that missed our first episode",
+  "sponsor_read_count": 3,
+  "notable": "Guest's brother worked at Nubank, adding a personal thread to her disclosed miss on that same company, and Harry explicitly frames the episode as a rebuttal resource for LP objections to LatAm investing."
+}

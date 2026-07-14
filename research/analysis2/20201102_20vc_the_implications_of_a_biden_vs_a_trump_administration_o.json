@@ -1,0 +1,26 @@
+{
+  "guest": "Barry Eggers",
+  "guest_role": "Founding Partner at Lightspeed Venture Partners; Chairman of the NVCA",
+  "approx_date": "Nov 2020",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry repeatedly plants his own macro thesis (capital oversupply, rolling-fund pricing pressure, fund mortality speed) and directly asks Barry to confirm, refute, or defend against it rather than just receiving his answers.",
+  "question_style": "Structured around clear macro/political topics but Harry inserts his own contrarian framing multiple times ('my challenge to that is...', 'am I missing something on the macro') and pushes for a sharper answer, though he doesn't interrupt and ultimately accepts Barry's responses.",
+  "tone": "Warm, familiar, callback-heavy given the repeat relationship; some self-deprecation about his accent and mild humor, generally collegial rather than fannish.",
+  "depth": "Genuinely policy- and structure-oriented: SPAC mechanics versus direct listings and IPOs, rolling fund economics, solo capitalist market dynamics, capital gains tax implications for startup equity, and NVCA-level industry data.",
+  "harry_quotes": [
+    "Am I missing something on the macro and how that will affect the inflows?",
+    "Is there anyone it's bad for?",
+    "How do you keep your head when everyone around you is losing theirs?"
+  ],
+  "learnings": [
+    "SPACs functionally split the difference between an acquisition and an IPO, offering faster timelines and PIPE-based capital-raising versus the slower, higher-profile traditional IPO.",
+    "Rising seed round sizes have effectively shifted every financing stage up one notch, creating room for solo capitalists to grab meaningful ownership below institutional VCs.",
+    "A venture fund's real mortality risk isn't the full ten-year fund life but the much faster reputational death spiral once it becomes known a firm can't raise its next fund.",
+    "Lightspeed built a scout program deliberately staffed 100% by underrepresented racial minorities in 2020, drawing 350 applicants for what became 42 slots.",
+    "Diversity initiatives stick only when framed as a business thesis (broader entrepreneur reach leading to better deal flow) rather than as PR or compliance exercises."
+  ],
+  "topics": ["venture policy", "spacs", "fund structure", "solo capitalists", "diversity in vc", "climate tech"],
+  "repeat_guest_callback": "it's such a pleasure to have you on the show once again",
+  "sponsor_read_count": 3,
+  "notable": "Recorded the day before the 2020 US election, explicitly framed around comparing Biden vs Trump administration implications for venture and startups."
+}

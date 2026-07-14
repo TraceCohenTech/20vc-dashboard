@@ -1,0 +1,26 @@
+{
+  "guest": "Marc Andreessen",
+  "guest_role": "Co-founder and General Partner, Andreessen Horowitz (a16z)",
+  "approx_date": "Mar 2026",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry asks pointed, sometimes personal follow-up questions (retard-maxing, own investment regrets, whether entry price matters) and occasionally pushes back with counter-data (layoffs vs labor-displacement claim), but largely lets Andreessen's long answers run without sustained adversarial pressure.",
+  "question_style": "Mostly open-ended and reverential given this is a long-sought bucket-list guest, but Harry weaves in his own experience (11x, emerging manager ownership rules) and occasionally challenges Andreessen directly, e.g. citing observed layoffs against the 'labor displacement is wrong' claim.",
+  "tone": "Highly reverential and personal — Harry opens by noting this guest was one of three dream names from when he started the show at 18; humor around memes, vulnerable personal asides (fear of being 'the Macaulay Culkin of venture'), warm and admiring throughout.",
+  "depth": "Strategic and philosophical rather than technical: covers venture fund construction (mistake of omission vs commission), founder psychology (IQ/courage/drive framework), price sensitivity and overfunding risk, growth-fund economics, and macro debates on AI labor displacement vs overhiring/interest rates.",
+  "harry_quotes": [
+    "Do we not learn from mistakes?",
+    "Is it as simple as go big or go home?",
+    "Why are we seeing layoffs everywhere?"
+  ],
+  "learnings": [
+    "Andreessen argues venture investors should fear the mistake of omission (missing a huge winner) far more than the mistake of commission (a failed investment), unlike most risk-averse business models.",
+    "His founder-evaluation framework is IQ as a baseline, then 'courage' (Ben Horowitz's term for relentless problem-confrontation), then a primal, intrinsic drive to build and prove oneself — not necessarily rooted in childhood trauma, since Zuckerberg and Gates lacked it.",
+    "He believes overfunding is more dangerous to startups than underfunding, because each high round sets a valuation bar that must be cleared next time, and no investor wants to lead a down round in someone else's company.",
+    "a16z's growth fund exists partly to prevent founders from later having to bring in non-tech-native investors who introduce conflicting risk appetites onto the cap table.",
+    "Andreessen attributes current tech layoffs mainly to the abrupt rise in interest rates and pandemic-era overhiring, not genuine AI-driven labor displacement, arguing AI raises individual worker productivity rather than eliminating the need for workers."
+  ],
+  "topics": ["venture capital", "fund strategy", "founder psychology", "ai and labor", "valuation", "firm building"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "This was explicitly framed as a decade-long bucket-list get for Harry (Andreessen was one of three dream guests named when he started the show at 18), giving the episode unusually personal and career-retrospective framing on both sides."
+}

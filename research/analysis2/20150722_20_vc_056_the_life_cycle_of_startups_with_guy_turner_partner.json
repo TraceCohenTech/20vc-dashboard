@@ -1,0 +1,26 @@
+{
+  "guest": "Guy Turner",
+  "guest_role": "Partner at Hyde Park Venture Partners",
+  "approx_date": "Jul 2015",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry structures the interview around Guy's own 'wave theory' framework and at points cites an outside claim (Jason Lemkin's rule) for Guy to agree or disagree with, but still never directly contests an answer.",
+  "question_style": "Highly structured, working sequentially through a named framework (runway, hype, sales, VC relationships) with real follow-ups and one instance of citing an external thesis (Lemkin) for reaction; no interruptions or direct pushback.",
+  "tone": "Respectful and appreciative ('huge honour having you on the show'), fairly formal/scripted with a sponsor read bookending the episode, moderate energy.",
+  "depth": "Strong strategic/tactical depth specific to B2B SaaS investing: 18-month runway math, sales-cycle-to-funding-cycle ratios, hype dynamics, and rejection signals from VCs.",
+  "harry_quotes": [
+    "Do you agree with Jason Lemkin's suggestion that if you can sell to one you can sell to many?",
+    "Do you think that hype can ever be detrimental to a business?",
+    "How can a startup know when they're pitching to a VC and getting rejected?"
+  ],
+  "learnings": [
+    "Startups should raise at least 18 months of runway so they get two shots (plan A and plan B) at finding traction before the next raise.",
+    "For B2B software, sales cycles should be no longer than three to four months relative to an 18-24 month runway, or the company risks running out of cash before ever closing a sale.",
+    "National/PR-driven hype and local word-of-mouth hype are distinct, and humble, grounded executives can prevent hype from outpacing performance from damaging reputation later.",
+    "VC rejection is usually communicated indirectly through vague follow-up language rather than explicit no's, so founders should read momentum and specific next-step commitments as the real signal.",
+    "Hyde Park Venture Partners requires a strong technical co-founder on every team it backs, though sales expertise can come from either co-founder or be added early."
+  ],
+  "topics": ["fund mechanics", "runway", "b2b saas sales", "fundraising signals", "hype/pr", "founder profile"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Episode is bookended by an unusually personal-feeling sponsor endorsement (HiringScreen) including a teaser for the sponsor's own upcoming guest appearance."
+}

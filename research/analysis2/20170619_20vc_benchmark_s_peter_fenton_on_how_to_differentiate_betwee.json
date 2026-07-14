@@ -1,0 +1,26 @@
+{
+  "guest": "Peter Fenton",
+  "guest_role": "General Partner at Benchmark (boards of Twitter, Cockroach, Optimizely, New Relic, Zendesk)",
+  "approx_date": "Jun 2017",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry plants a mild counter-thesis on valuation discipline ('surely some rigidity has to be applied to ensure fund-returning economics') and references outside commentary (Elad Gil's cycles piece) to frame questions, but otherwise lets Fenton's long answers run uncontested.",
+  "question_style": "Long, well-researched questions that reference outside sources and prior Fenton interviews/quotes, occasionally posing a mild counter-argument for the guest to address (valuation discipline vs. 'never turn down on valuation'); no interruptions, mostly deferential once the guest starts answering.",
+  "tone": "Highly reverential ('such a special individual', 'man crush on Peter'), formal-admiring register, minimal self-deprecation, clearly well-prepared from deep research into the guest's prior interviews.",
+  "depth": "Substantively strategic: venture cycle theory, market-sizing philosophy for pre-paradigm products (Snapchat, Zenly), valuation vs. ownership-stake tradeoffs, and a detailed personal account of evolving as a board member (Socratic method, pre-reads vs. PowerPoint).",
+  "harry_quotes": [
+    "How do you view the potential end of this tech cycle that we're currently in?",
+    "How do you look to balance that wonderful optimism with an element of caution?",
+    "Which founders made you feel the most uneasy and why?"
+  ],
+  "learnings": [
+    "Fenton resists mapping investments onto macro trends, arguing standout companies (Google in 1999, Snapchat) succeed by defying the perceived end of a cycle rather than confirming it.",
+    "He deliberately avoids prescribing product strategy early on, instead pressure-testing whether the founding team keeps returning to the company's authentic underlying purpose.",
+    "In his view, valuation rarely determines venture returns in hindsight; ownership stake and conviction in full potential matter far more than entry price discipline.",
+    "His early years as a board member were poor because he over-communicated strong opinions; mentorship pushed him toward a Socratic, question-driven board style.",
+    "He now pushes portfolio CEOs toward prose-based board pre-reads instead of PowerPoint decks so meeting time goes to dialogue rather than one-way presentation."
+  ],
+  "topics": ["venture cycles", "market sizing", "valuation philosophy", "board governance", "founder evaluation", "social/consumer apps"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Fenton candidly narrates his own evolution from a poor, opinion-dominant board member to a Socratic-method practitioner, a rare piece of self-critical VC introspection for this era of the show."
+}

@@ -1,0 +1,26 @@
+{
+  "guest": "Stewart Butterfield",
+  "guest_role": "Founder and CEO, Slack",
+  "approx_date": "Nov 2020",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared, multi-sentence, well-researched questions with genuine follow-ups and occasional personal vulnerability, but never contests or pushes back on Butterfield's claims.",
+  "question_style": "Harry's questions are long, layered, and clearly pre-researched (often sourced from named investors/board members), building sequential follow-ups on leadership, vision, and decision-making. He does not challenge or contest Butterfield's claims, and at points inserts his own experience/thesis (e.g. his own struggle separating identity from company) rather than interrupting or pressure-testing.",
+  "tone": "Warm, fannish, and deferential throughout ('such a joy,' 'I've wanted to do this one for such a long time'), with self-deprecating asides about his own questions being 'elaborate' or 'unwanted.'",
+  "depth": "Goes beyond surface bio into strategic/philosophical territory: vision-as-constraint, one-way vs two-way door decisions, blameless post-mortems, data-driven decision-making critique, and the founder's-moral-authority argument for CEO leadership.",
+  "harry_quotes": [
+    "How do you think about vision as a constraint and how important do you weight vision?",
+    "Do you get frustrated in terms of speed of market adoption and market timing?",
+    "Why did you choose this slant and why did you feel that was the right way to do it?"
+  ],
+  "learnings": [
+    "Butterfield separates decision-making into two modes: deductive, logic-based confidence in product/technical/architectural calls versus leadership and people decisions, which resist the same reasoning process.",
+    "He intentionally opens board meetings with what's going wrong, treating candor about problems as an expression of optimism rather than pessimism, echoing the 'tell us the bad news first' philosophy.",
+    "For high-stakes, largely irreversible strategic bets, he looks for one decisive underlying reason rather than a pros-and-cons tally, borrowing Bezos's one-way-door/two-way-door framing for lower-stakes calls.",
+    "He's skeptical of over-reliance on data/A-B testing for big product bets, arguing real breakthroughs come from experience and intuition, and that iterating by building and using something beats debating static mockups.",
+    "He frames market adoption speed as something the company actively creates through clarity of positioning ('what is it, why does it matter'), not a passive external condition to be patient with."
+  ],
+  "topics": ["leadership", "decision making", "company culture", "direct listing / ipo", "product strategy", "founder identity"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 4,
+  "notable": "The guest is referred to as 'Stuart' throughout the transcript (likely a transcription artifact for Stewart Butterfield), and the episode leans unusually philosophical, with extended digressions into logic, parkour, and Taoist parables as leadership metaphors."
+}

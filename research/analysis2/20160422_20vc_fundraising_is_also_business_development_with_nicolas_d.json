@@ -1,0 +1,28 @@
+{
+  "guest": "Nicolas Dessaigne",
+  "guest_role": "Founder and CEO, Algolia",
+  "approx_date": "Apr 2016",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared, multi-part questions and follows up with genuine curiosity, but he never challenges or contests Dessaigne's answers and is openly complimentary/fannish throughout.",
+  "question_style": "Mostly open-ended prompts ('what's the origin story', 'what did that discussion look like') with layered follow-up questions building on the guest's prior answer. Harry occasionally frames a mild devil's-advocate question (e.g. asking if second seed rounds signal a failure to find product-market fit) but accepts the guest's pushback without pressing further, and does not interrupt.",
+  "tone": "Warm, matey, and fan-like — Harry praises the guest directly ('that is very forward thinking of you Nicholas, well done') and frames the episode as a special crossover, with high enthusiasm and light self-deprecating asides (joking about his own bad back).",
+  "depth": "Mostly strategic/narrative rather than technical: founder partnership dynamics, culture formalization at scale, and fundraising strategy get multi-question drill-downs, but there is no technical discussion of Algolia's search/API product itself.",
+  "harry_quotes": [
+    "What's the origin story for you?",
+    "Was that true and what did the discussion look like at such an early stage?",
+    "Is that a fair analysis of this?",
+    "What was your favorite funding round as a founder?",
+    "What do you think gives some leader charisma and others not?"
+  ],
+  "learnings": [
+    "Dessaigne believes founding-team alignment on core values and ambitions matters more than having complementary skill sets.",
+    "As Algolia scaled headcount quickly, informal culture transmission broke down, forcing the founders to repeatedly write down and re-clarify company values rather than assume osmosis.",
+    "He treated fundraising conversations as a business-development channel, since prospective investors often referred struggling portfolio companies to test Algolia as a product, generating real customers and stronger conviction.",
+    "Algolia deliberately skipped raising a Series A right after strong Y Combinator traction because the terms available then would have been weak, opting instead for a small opportunistic second seed round to bring on high-value investors.",
+    "He sees search shifting from on-premise to SaaS delivery over the next five years and is intentionally avoiding on-premise product offerings to stay focused on winning the SaaS market long term."
+  ],
+  "topics": ["fundraising", "startup culture", "saas", "y combinator", "hiring", "search technology"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "This is a two-part crossover episode co-produced with the SaaStr podcast, with part one (founding story) airing on 20VC and part two (SaaS/hiring/culture) airing on SaaStr."
+}

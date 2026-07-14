@@ -1,0 +1,26 @@
+{
+  "guest": "Ishan Mehrotra",
+  "guest_role": "Co-founder and CEO of Rox (Sequoia-backed AI sales productivity platform), former Chief Growth Officer at New Relic",
+  "approx_date": "Apr 2025",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry regularly injects his own opinions and data (his tweet on preemptive rounds, comparisons to venture capital and other founders) and directly challenges the guest ('Is that even possible though?', 'Why am I wrong?'), pushing him to defend positions rather than just receiving answers.",
+  "question_style": "Long, technically fluent, prepared questions that build on prior answers; he frequently plants his own thesis or outside data point and asks the guest to react or defend against it, and occasionally interjects a contrarian counter-example, though he ultimately agrees more than he contests.",
+  "tone": "Very casual and matey ('dude'), high energy, admiring of the guest's operating experience, plenty of in-jokes and asides (Twitter DMs, being 'a bastard'), informal in-person rapport.",
+  "depth": "Deep operational/technical grasp of go-to-market mechanics — compensation structures, PLG-to-enterprise transitions, usage-based pricing shifts, AI agent architecture for CRM data, sales rep ramp times — pushing well past surface level into specific frameworks and named operators.",
+  "harry_quotes": [
+    "Why am I wrong?",
+    "Is that even possible though?",
+    "Do you not kill data providers?"
+  ],
+  "learnings": [
+    "New Relic's PLG turnaround came from concentrating all investment on a captive, brand-loyal developer audience rather than spreading thin across channels.",
+    "Free-tier users should be treated as a richer form of marketing content, not as converted customers, since they haven't yet passed into paid consideration.",
+    "Guest is skeptical of unpaid design partners because the lack of financial commitment removes the incentive for prospects to invest real time in shaping the product.",
+    "Incumbents like Datadog won by keeping segmentation, pricing, and comp structures stable for years, letting institutional knowledge and rep tenure compound rather than constantly reinventing the go-to-market model.",
+    "As AI raises baseline productivity, sales orgs will likely shrink to 10-20% of current headcount, with only relationship-building 'hunters' and true owners of a number surviving long-term."
+  ],
+  "topics": ["ai", "enterprise sales", "go-to-market", "plg", "sales compensation", "hiring"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Recorded in person, and the guest is a repeat operator-turned-founder whose prior scaling of New Relic's PLG motion anchors most of the conversation's frameworks."
+}

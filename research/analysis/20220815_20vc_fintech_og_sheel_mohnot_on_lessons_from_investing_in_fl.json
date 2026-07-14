@@ -1,0 +1,28 @@
+{
+  "guest": "Sheel Mohnot",
+  "guest_role": "Co-founder and General Partner at Better Tomorrow Ventures (BTV)",
+  "approx_date": "Aug 2022",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry directly contradicts Sheel multiple times ('I don't agree with you', 'I think you're wrong'), plants competing data on Latin America funding gaps, and challenges foundational premises on venture collaboration and market dynamics.",
+  "question_style": "Mix of open exploration and direct challenge. Harry frequently states disagreement ('I disagree on Latin') and offers counter-thesis rather than pure inquiry. Interrupts to share his own perspective and data. Maintains collegial tone but seeks pushback.",
+  "tone": "Warm and banter-heavy with self-aware humor about his evolution as interviewer ('I used to say, yes. And now I'm like, I don't know, I disagree'). Friendly debate tone; playful on tangents (pizza, chocolate). Fan-like warmth with edge.",
+  "depth": "Deep technical venture analysis: power law effects, portfolio construction math, reserve allocation, ownership targets, pricing discipline, emerging market dynamics, capital efficiency vs. headline valuation. Harry tracks specific portfolio metrics and challenges the mathematical models underlying thesis.",
+  "harry_quotes": [
+    "I don't agree with you actually. I think you're wrong.",
+    "I disagree on Latin. I don't know if we have the lifecycle funding in Latin that we think we do.",
+    "I'm gonna sound like a total knob but I'm gonna go anyway.",
+    "Does chocolate belong in the fridge?"
+  ],
+  "learnings": [
+    "The power law in venture is intellectually known but emotionally difficult to internalize until firsthand experience; most fund returns come from a handful of outliers, making decisions on secondary sales on winners strategically critical.",
+    "Capital efficiency matters more than headline valuation; a profitable $230M exit can outperform a nominally larger but capital-intensive $900M+ unrealized return.",
+    "Venture has become incrementally more collaborative at seed and Series A, driven by lower ownership thresholds, operator angels, and the emergence of secondary funds; however, this masks lingering silos at larger stages.",
+    "Emerging markets face structural retrenchment post-COVID due to interest rate environment; markets with homegrown ecosystems (India, Latin America) will survive better than frontier markets (Africa, Pakistan) lacking local institutional depth.",
+    "Being price-disciplined at initial investment is non-negotiable; once committed to a founder, follow-ons should be mission-driven regardless of pricing, but entry price sets the floor for economic viability.",
+    "First-fund managers commonly fail by under-appreciating reserve requirements, overcommitting capital early, and holding inflated valuations from boom periods into downturns."
+  ],
+  "topics": ["venture capital", "fintech", "emerging markets", "portfolio construction", "power law", "seed investing", "capital efficiency", "pricing discipline"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Harry self-consciously contrasts his interview evolution ('I used to say, yes. And now I'm like, I disagree'), suggesting deliberate shift toward more adversarial questioning by this 2022 episode."
+}

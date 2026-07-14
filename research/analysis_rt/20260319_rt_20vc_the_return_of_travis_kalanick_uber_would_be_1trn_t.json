@@ -1,0 +1,22 @@
+{
+  "approx_date": "Mar 2026",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll"],
+  "stories_covered": ["GTC Nvidia trillion-dollar bookings forecast", "Nvidia data centers in space concept", "Andoril $20B Army contract consolidation", "Atlassian 1600 layoffs", "Meta workforce reduction rumors", "Seed fund underperformance risk"],
+  "harry_takes": [
+    "Travis Kalanick would have a trillion-dollar Uber today if it existed five years in the future—a counterfactual on how AI changes business value",
+    "Nvidia stock didn't move on trillion-dollar news because it was already priced into analyst forecasts; the real story is four-five years of 30-50% capex growth is being assumed",
+    "Jason is abandoning small-TAM seed investing because excess capital destroys returns and power law dynamics dominate—he only bets on massive addressable markets now",
+    "Layoffs from Atlassian and Meta aren't about efficiency; they're admissions that managers don't need half their teams because AI handles the work"
+  ],
+  "harry_boldest_quote": "The bigger your fund size, the more you have to be a power law junkie.",
+  "predictions": [
+    "Lemkin: Half of tech employees are unnecessary for current roles; with AI, enterprises will cut by at least 20%, some by 40%",
+    "Lemkin: $50-100M seed funds will be worst-returning funds of this vintage due to power-law valuations on non-unicorn outcomes",
+    "Both: Era of stair-step TAM expansion is over; if you can't make a case for multi-billion TAM, you can't raise at seed today"
+  ],
+  "disagreements": "Harry questions whether massive TAMs must exist pre-launch (Replit was a niche pre-AI, Figma Make is design, Decagon is support); Jason says those exceptions don't change the rule—you need hundred-billion-dollar outcomes to justify today's seed prices.",
+  "harry_role": "Questioning moderator challenging Jason's new determinism. Pushes back on power-law myopia. Points out small TAMs have birthed giants. Plays steward of the traditional seed playbook.",
+  "topics": ["venture-capital", "scaling-economics", "ai-labor", "capex-cycle", "fund-sizing"],
+  "sponsor_read_count": 2,
+  "notable": "Jason explicitly renounces the classic VC playbook of betting small with great founders; he can no longer take meetings with non-billion-TAM companies, signaling a structural shift in early-stage investing."
+}

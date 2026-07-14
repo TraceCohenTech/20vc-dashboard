@@ -1,0 +1,26 @@
+{
+  "guest": "Jennifer Tejada",
+  "guest_role": "CEO of PagerDuty (public company); board member at Estee Lauder Companies",
+  "approx_date": "Aug 2020",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks personal, reflective, well-prepared follow-up questions and occasionally injects his own struggles for comparison, but he never challenges or contests Jennifer's claims.",
+  "question_style": "Mostly open-ended and reflective, often turning the guest's answer into a personal ask for advice about himself (e.g. risk-taking, impatience); he admits abandoning the prepared schedule after the first question and does not interrupt or push back.",
+  "tone": "Warm, admiring, and personal, verging on a mentorship/advice-seeking dynamic rather than a journalistic interview; self-deprecating about his own impatience and self-doubt.",
+  "depth": "Goes past surface leadership platitudes into specific mechanics: board composition and curation, decision-making with imperfect information, building a culture of internal debate (Lencioni's Five Dysfunctions), and concrete diversity-as-business-initiative tactics.",
+  "harry_quotes": [
+    "How did you get comfortable making fast decisions with imperfect information?",
+    "What can specifically be done? Because I'm so with you.",
+    "Do you have a process around which you just exclude yourself from the world?"
+  ],
+  "learnings": [
+    "Serving on boards trains executives to make confident calls with only a fraction of the data they'd have as an operator, building comfort with decisiveness.",
+    "A healthy, candid boardroom culture requires an explicit foundation of trust plus deliberate practice, especially for teams culturally prone to excessive politeness.",
+    "Good board members are distinguished less by how much they ask and more by the precision and timing of a few genuinely insightful questions.",
+    "Treating diversity and inclusion as a measurable business initiative with resourced goals and public reporting drives more change than mission-statement rhetoric.",
+    "Decisions made quickly under time pressure are often just as good, or better, than heavily analyzed ones, because speed enables faster course-correction."
+  ],
+  "topics": ["leadership", "enterprise saas", "board governance", "diversity in tech", "decision-making", "risk-taking"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Harry admits he asked only his first scripted question and improvised the entire rest of the conversation."
+}

@@ -1,0 +1,30 @@
+{
+  "approx_date": "Feb 2026",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll", "Mike Cannon-Brooks"],
+  "stories_covered": [
+    "Anthropic revenue projections ($149B ARR by 2029)",
+    "Harvey AI legal platform raises $200M at $11B valuation",
+    "SaaS apocalypse narrative vs. actual market performance",
+    "Atlassian growth and RPO acceleration despite AI concerns",
+    "Revenue multiple expansion and TAM expansion debate",
+    "Consulting services growth in AI implementation era"
+  ],
+  "harry_takes": [
+    "Software as a category is not dead—the industry continues normal creative destruction cycles",
+    "Revenue growth path matters more than TAM projections; let the market show you the way",
+    "Product and engineering are above the fold in AI era while support and back-office face cuts",
+    "Margin stacking between model providers, cloud platforms, and SaaS creates complex revenue allocation"
+  ],
+  "harry_boldest_quote": "The idea that software as a category is dead is ludicrous to me.",
+  "predictions": [
+    "Lemkin: Companies like Atlassian will continue to grow if they invest in AI-powered products",
+    "Cannon-Brooks: Every five years some competitors disappear but winners keep emerging; architectural shifts cause higher churn",
+    "Harry: Most SaaS businesses will be fine but some will dramatically underperform if they fail to integrate AI",
+    "Lemkin: Consulting spend will grow not shrink as enterprises need FDEs to implement AI solutions"
+  ],
+  "disagreements": "Yes—whether SaaS is broadly threatened or just experiencing normal category rotation. Lemkin and Cannon-Brooks argue SaaS infrastructure will remain critical; Harry suggests differentiation between above-fold (product/engineering) and below-fold (support, admin) categories.",
+  "harry_role": "Moderates between optimism (software survives) and pessimism (software dying), synthesizes Cannon-Brooks' grounded Atlassian perspective, pushes back on zero-sum thinking about TAM capture.",
+  "topics": ["saas", "ai", "anthropic", "enterprise", "venture", "software-viability", "revenue-growth"],
+  "sponsor_read_count": 3,
+  "notable": "Mike Cannon-Brooks provides crucial enterprise reality-check: companies using multiple AI models in production, integrating them via cost-aware gateways, paying AWS then Anthropic in margin stacks—far more nuanced than headline revenue figures suggest."
+}

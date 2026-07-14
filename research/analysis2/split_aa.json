@@ -1,0 +1,29 @@
+{
+  "guest": "Mike Salguero",
+  "guest_role": "Founder and CEO, ButcherBox",
+  "approx_date": "2023",
+  "assertiveness": 8,
+  "assertiveness_why": "Harry repeatedly contests Mike's framework (business plans, lifestyle design, cohort tracking), interrupts to disagree, live fact-checks competitor valuations against Mike's guesses, and pitches his own media-company thesis for Harry to defend.",
+  "question_style": "Mostly open, narrative-building questions, but Harry frequently interjects his own counter-thesis ('Can I just interrupt... I disagree'), challenges numbers on the spot (Allbirds/Warby Parker market caps vs. raises), and pushes Mike to defend weak spots like cohort tracking and lack of a fair shot for content marketing.",
+  "tone": "Casual, high-energy, laced with profanity and banter (jokes about VCs, sex-offender hiring anecdote, live guessing games); genuinely enthusiastic and a bit self-deprecating about his own VC background ('I'm terrified for my career').",
+  "depth": "Goes deep into D2C/subscription unit economics: CPA, box-one profitability, dollars-per-box, churn curves by week/day-27 billing reminder, AOV expansion, meat-sourcing margin mechanics, and bootstrap vs. VC-funded growth trade-offs.",
+  "harry_quotes": [
+    "Mike, one of the biggest fuckups you've made in hiring.",
+    "What is the biggest chunk out of your margins?",
+    "Is ButcherBox the biggest in the space?",
+    "Is this whole market even VC-backable?"
+  ],
+  "learnings": [
+    "Bootstrapped consumer subscription companies must be 'box-one profitable' early since they lack venture runway to subsidize acquisition losses.",
+    "Outsourcing operational infrastructure (distribution, dry ice, logistics) to established partners lets a lean team compete without heavy capex, though it caps margin expansion versus vertically integrated rivals.",
+    "Influencer/affiliate marketing paid on a residual (monthly) basis rather than upfront conserves cash and builds a durable moat since partners are incentivized not to promote competitors.",
+    "Rising CPAs over time reflect moving from a small predisposed early-adopter segment into broader, costlier-to-convert audiences requiring brand-building rather than direct response.",
+    "Large brand-marketing spend (e.g., $8.5M/year) is hard to justify without measurable payback, and founders should prefer creative, cheap media stunts over traditional big-budget brand campaigns.",
+    "Micro-optimizations in operations (packaging weight accuracy, shipping tape cost, meat cutting yields) compound into meaningful margin gains for a bootstrapped, cash-constrained business.",
+    "The consumer subscription box category (Blue Apron and peers) largely failed because they over-invested in owning infrastructure themselves rather than partnering, burning venture capital chasing growth without profitability."
+  ],
+  "topics": ["d2c", "subscription economics", "bootstrapping", "customer acquisition cost", "churn", "influencer marketing", "brand marketing"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 6,
+  "notable": "Harry does a live, unscripted guessing game with the guest on competitor (Allbirds, Warby Parker) valuations and fundraising totals mid-interview, and pitches an unsolicited media-strategy idea (cooking steaks in extreme locations) that the guest praises as board-meeting-worthy."
+}

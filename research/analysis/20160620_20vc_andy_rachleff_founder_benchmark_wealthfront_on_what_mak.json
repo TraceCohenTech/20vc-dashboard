@@ -1,0 +1,26 @@
+{
+  "guest": "Andy Rachleff",
+  "guest_role": "Co-founder Benchmark Capital, Executive Chairman of Wealthfront",
+  "approx_date": "Jun 2016",
+  "assertiveness": 2,
+  "assertiveness_why": "Harry asks exclusively open-ended questions with zero pushback or challenge; purely receptive interviewing style with high deference to the guest.",
+  "question_style": "Harry poses warm, expansive questions that invite storytelling (origin stories, reflections, future visions). He follows up with genuine curiosity but never contests claims or plants his own thesis. Conversational and non-threatening, allowing the guest maximum space.",
+  "tone": "Highly deferential and fan-like. Harry expresses enthusiasm ('I really am so excited for this interview') and positions Andy as a prestigious figure ('one of three names I most wanted'). Formal structure with warm energy, self-effacing compliments, and explicit gratitude.",
+  "depth": "Touches strategic topics (product-market fit, competitive landscape, CEO qualities) but stays at conceptual level. Harry asks clarifying follow-ups on endowment investing and alpha generation but doesn't probe technical mechanics or challenge assumptions. Reads as learning-focused rather than testing-focused.",
+  "harry_quotes": [
+    "I'd love to get the ball rolling by hearing how you made your way into VC.",
+    "What was the most challenging in the journey for you?",
+    "How do you assess product market fit with Wealthfront?"
+  ],
+  "learnings": [
+    "Product-market fit in consumer businesses is evidenced by organic growth compounding without paid acquisition.",
+    "VC has shifted from backing technically risky/market-proven ideas to technically proven/market-unproven ideas, outsourcing early risk to angels.",
+    "Great CEOs sustain growth by layering new business models on top of declining ones rather than relying on a single S-curve.",
+    "Endowment investment success stems from accessing granular manager performance data unavailable to retail investors, enabling skill vs. luck discrimination.",
+    "New technologies are adopted faster than their predecessors; automated investment services are tracking adoption curves similar to ETFs and smartphones."
+  ],
+  "topics": ["venture capital", "product-market fit", "investment management", "entrepreneurship", "competitive strategy"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Harry explicitly states Andy was one of three names he most wanted on the show when starting 20VC—this is a flagship/aspirational episode."
+}

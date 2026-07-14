@@ -1,0 +1,27 @@
+{
+  "guest": "Howard Marks",
+  "guest_role": "Co-Chairman and Co-Founder, Oaktree Capital Management",
+  "approx_date": "Mar 2020",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry brings in outside data points and other investors' framings (Bill Gurley's question, a hedge-fund friend's 'don't catch a falling knife' line) and presses Howard directly on depression risk and valuation lag, though he remains deferential to Howard's expertise rather than contesting his answers.",
+  "question_style": "Direct, well-prepared macro questions often built around a named outside voice's framing that Harry asks Howard to react to or refute; he pushes on specifics (how long until valuations reflect the crisis, could this become a depression) rather than settling for vague answers, but doesn't interrupt or argue back once Howard responds.",
+  "tone": "Reverent and urgent given the live COVID-19 crisis, warm returning-guest familiarity, notably more serious and less jokey than Harry's typical episodes given the subject matter.",
+  "depth": "Genuine macro/strategic depth -- distressed debt investing, fiscal/monetary policy limits, national debt dynamics, market-bottom psychology -- tracking specific mechanisms like deficit spending capacity and interest-rate headroom rather than staying surface-level.",
+  "harry_quotes": [
+    "What in your mind is the fundamental economic crisis that's occurring here today?",
+    "How long do you think it will take for valuations to correlate to the crisis?",
+    "How do you manage the psychology of not knowing where the bottom is?"
+  ],
+  "learnings": [
+    "This crisis differs from 2008 because it's a health-driven economic freeze rather than a bubble bursting on overleveraged banks holding low-substance assets.",
+    "Traditional monetary stimulus is constrained this time because rates started near 1.5%, leaving little room for the ~500 basis point cuts historically used to fight recessions.",
+    "Government deficit spending capacity was already stretched by a trillion-dollar deficit during a prosperous period, limiting fiscal stimulus headroom.",
+    "Oaktree's structural advantage is holding assets in closed-end funds that clients can't redeem, letting them buy into falling markets without forced-selling risk that hedge funds face.",
+    "There's no way to identify a market bottom in real time -- by definition it's only knowable in hindsight -- so waiting for the bottom is really a rationalization for inaction.",
+    "Above-average investment returns require resisting normal human psychology, which pushes people to buy when euphoric and sell when panicked -- the opposite of buy-low-sell-high."
+  ],
+  "topics": ["macro economics", "covid-19 market crisis", "distressed debt investing", "monetary policy", "market psychology", "fund structure"],
+  "repeat_guest_callback": "I so excited to have you back on the show...for those that maybe missed our first episode, how did you make your way into the world of finance...",
+  "sponsor_read_count": 6,
+  "notable": "Recorded live during the onset of the COVID-19 market crash, giving it an unusually urgent, real-time-crisis framing compared to Harry's typical evergreen founder/VC interviews."
+}

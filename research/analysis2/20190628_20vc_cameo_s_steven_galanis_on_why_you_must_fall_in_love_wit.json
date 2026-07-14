@@ -1,0 +1,28 @@
+{
+  "guest": "Steven Galanis",
+  "guest_role": "Founder and CEO, Cameo",
+  "approx_date": "Jun 2019",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry mostly asks warm, prepared, crowd-sourced questions and receives answers admiringly, but occasionally plants a personal thesis (the 'quit your job' pushback, the consumer-downturn/distribution fear) and asks the guest to rebut it directly.",
+  "question_style": "Questions are largely open-ended and prepared, often sourced from named investors/employees, with Harry building on the guest's prior answers rather than interrupting; he does insert his own opinions twice (on founder all-in conviction and on consumer distribution economics) and asks Galanis to defend against them, but never contests factual claims.",
+  "tone": "Very matey and fan-forward, with frequent praise ('I'm so excited', 'I do love that'), personal enthusiasm, and light self-deprecating asides (e.g. joking about being 'completely unemployed' without founders); energy is high throughout.",
+  "depth": "Mostly strategic/organizational rather than technical — tracks topics like founder-to-CEO role transition, marketplace chicken-and-egg dynamics, international expansion logic, hiring philosophy, and branding/category creation, without probing product engineering or metrics in technical depth.",
+  "harry_quotes": [
+    "How would you describe your personal relationship to risk?",
+    "Was I wrong to suggest that then?",
+    "Please prove me. I'm wrong.",
+    "What was harder actually in the beginning days to scale?"
+  ],
+  "learnings": [
+    "Galanis screens founder conviction by telling aspiring entrepreneurs to quit their job first, on the logic that half-commitment signals they won't win.",
+    "Cameo's founding insight came from watching a personalized athlete video message delight a well-connected Nike executive, suggesting massive latent demand among average fans for the same access.",
+    "Cameo was international from day one because its supply-side 'inventory' (talent) already had global fan followings, unlike typical geography-by-geography expansion.",
+    "The company avoided paid acquisition almost entirely because each purchased video functions as a self-propagating advertisement shared across the recipient's and talent's own social networks.",
+    "Galanis treats equity dilution as a non-issue, advising founders to focus on assembling the best possible team rather than protecting ownership percentage.",
+    "Renaming and rebranding (from Powermove.io to Cameo) was treated as foundational strategic work rather than a late cosmetic step, aided by an outside branding agency's exercises."
+  ],
+  "topics": ["marketplace dynamics", "international expansion", "hiring and culture", "fundraising", "branding and category creation", "consumer growth hacks"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "The interview structure was explicitly crowd-sourced, with several questions credited on-air to named investors (Nicole Quinn, Ezra Gulston) and a Cameo employee (Abby Shepherd)."
+}

@@ -1,0 +1,22 @@
+{
+  "approx_date": "Apr 2025",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll"],
+  "stories_covered": ["OpenAI's $3B Windsurf acquisition", "Endowment fund crisis from policy changes", "Venture capital spinouts from mega-funds", "Seed vs multi-stage firm dynamics", "AI rollup strategies"],
+  "harry_takes": [
+    "At $300B market cap, spending 1% on a major use-case acquisition like Windsurf makes complete sense strategically",
+    "When companies are in rapid growth phases and don't know how outcomes will unfold, making acquisition bets is smarter than waiting",
+    "Mega-funds are crushing seed specialists with superior capital efficiency and LP relationships, concentrating VC capital upstream",
+    "Endowment liquidity crisis is driven more by PE overfunding than venture; venture is just juice on top for marginal alpha gains"
+  ],
+  "harry_boldest_quote": "even if this deal doesn't get done, the mighty corporate intent has been stated.",
+  "predictions": [
+    "Lemkin: Windsurf deal may not happen; structural defensibility unclear",
+    "Stebbings: 15 Windsurf-scale winners needed per Greenoaks-sized fund to return it meaningfully",
+    "Panel consensus: AI rollups only work with uniform customer bases that were specifically suited to the acquirer's product"
+  ],
+  "disagreements": "Lemkin skeptical the Windsurf deal closes; Stebbings argues Altman can afford 1% bet. Also debate over whether rollup plays are viable: O'Driscoll cites real estate rollup succeeding at 2M→30M revenue in 2 years, Lemkin cautions model only works when customers are identical.",
+  "harry_role": "Harry moderates and asks the opening questions, but also drives his own strong takes on M&A strategy, founder economics, and endowment crisis. He challenges panelists when they disagree and synthesizes broader patterns across topics.",
+  "topics": ["openai", "m&a-acquisitions", "venture-capital", "coding-ai", "endowments-policy", "fund-economics", "seed-vs-growth", "ai-rollups"],
+  "sponsor_read_count": 3,
+  "notable": "Extended segment on Ivy League endowment fund crisis triggered by political uncertainty over federal funding cuts; Rory warns CFOs must shift to liquid assets like bonds rather than adding illiquid venture commitments."
+}

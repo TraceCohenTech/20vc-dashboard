@@ -1,0 +1,24 @@
+{
+  "approx_date": "Jun 2025",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll", "Sam Lessin (first half)"],
+  "stories_covered": ["Chamath's DPI vs TVPI debate", "Tom O'Bravo's $34B PE fund record", "Chime and Circle IPOs", "Mary Meeker AI report: infrastructure spend, token cost collapse, China AI threat", "Series A hollowing-out (2-500M funds vanishing)", "OpenAI growth projections vs Google 20 years ago", "B2B AI adoption slowness", "Next 32% of world coming online as AI-first generation"],
+  "harry_takes": [
+    "TVPI has signal as proxy for intermediate performance but DPI is ultimate metric; Chamath's statement extreme but directionally right",
+    "1 billion dollar fund is the 'death zone' for venture; profitable at 200M or 10B+, but unsustainable at 500M-1B",
+    "Hyperscalers have become CapEx hogs; 2 trillion in infrastructure spend ahead of application revenue, sustainable only if growth continues",
+    "Existential dread missing from B2B startups; incumbents can survive poor execution but startups cannot; AI demands speed (ship Wednesdays, not Q4)",
+    "Next generation won't use legacy SaaS UIs; files disappearing, AI agents will displace systems of record"
+  ],
+  "harry_boldest_quote": "Public company investors are just mean VCs on steroids.",
+  "predictions": [
+    "Lessin: Only two fund sizes survive: 200M seed-focused or 10B+ mega-funds; 500M-1B tier hollowed out, can't compete",
+    "Panel: If OpenAI misses growth by 30-40%, 'scary moment' arrives; expectations so high anything less than 'amazing' feels like failure",
+    "Stebbings: Token costs will continue 99.7% collapse; any B2B founder claiming 'too expensive' misunderstands trajectory",
+    "Lemkin: AI slow-roll (limited release Q4, expand 2026) will kill B2B companies; must go all-in like Facebook post-IPO mobile pivot"
+  ],
+  "disagreements": "Lemkin dismisses 'anything not important doesn't matter' as nihilism; argues solid 5-10B companies merit respect. O'Driscoll defends mid-market funds, argues pricing discipline harder at late stage. Lessin argues TVPI has zero signal; Rory counters with ML analysis showing correlation to outcomes.",
+  "harry_role": "Harry moderates spirited debate with Lessin early; challenges both Lemkin and O'Driscoll positions. Drives conversation toward B2B startup AI adoption urgency. Acts as provocateur on whether non-100B companies 'matter' while also defending mid-market investor legitimacy.",
+  "topics": ["venture-capital", "dpi-tvpi", "ipos", "ai-infrastructure", "saas-ai", "china-ai", "b2b-software", "fund-economics", "mary-meeker-report"],
+  "sponsor_read_count": 2,
+  "notable": "Heated debate on fund materiality and whether achieving 5-10B outcomes 'matters'; China AI threat underestimated (93% OpenAI O3-mini performance at 0.2% cost via Alibaba); next generation treating legacy SaaS interfaces as alien technology."
+}

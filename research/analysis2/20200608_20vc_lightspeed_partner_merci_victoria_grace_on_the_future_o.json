@@ -1,0 +1,26 @@
+{
+  "guest": "Mercy Victoria Grace",
+  "guest_role": "Partner at Lightspeed Venture Partners (former Head of Growth/Product at Slack)",
+  "approx_date": "Jun 2020",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks thoughtful, prepared multi-part questions and shares his own experiences/opinions as color, but he never contests or pressure-tests Mercy's claims.",
+  "question_style": "Mostly open, curiosity-driven questions with frequent personal asides and callbacks to prior conversations with mutual contacts (Nicole, Jeremy); he shares his own views (e.g. on Twitter authenticity, async work) but rarely challenges her directly and does not interrupt.",
+  "tone": "Very matey and informal, laced with self-deprecation ('this is so unfair of me', 'apologies for being broad') and genuine fandom ('I'd heard so many great things about this guest'); energy is warm and conversational, deviating fully from the prepared outline.",
+  "depth": "Goes reasonably technical on SaaS/collaboration-tool metrics (NPS, DAU/MAU ratios, net revenue retention thresholds) and venture process mechanics (deal docs, Slack channels, post-mortems), tracking specific named tools like Roam Research and Superhuman.",
+  "harry_quotes": [
+    "What are the certain challenges for you in making the switch?",
+    "Do you take notes on Evernote? Is it roam research?",
+    "Bluntly, would you advise founders to get good at Twitter?"
+  ],
+  "learnings": [
+    "VCs should treat their own judgment and network as the 'product' they iteratively improve, mirroring a startup's build-ship-adapt loop.",
+    "Losing deals to slower response time is one of the most common and avoidable failure modes for investors.",
+    "Net revenue retention above ~140% and DAU/MAU above 60% are strong signals of durable collaboration-software businesses.",
+    "Collaboration startups often fail by selling to managers (who hold budget) rather than the individual-contributor end users who actually adopt the tool.",
+    "Being active and authentic on Twitter functions as a real distribution advantage for cult-following consumer/collaboration products."
+  ],
+  "topics": ["saas", "collaboration tools", "venture process", "growth metrics", "remote work", "diversity in vc"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Harry openly admits the conversation abandoned the prepared question schedule entirely and issues an on-air correction to a stat misstated in the intro."
+}

@@ -1,0 +1,26 @@
+{
+  "guest": "David Vélez",
+  "guest_role": "Founder and CEO of Nubank",
+  "approx_date": "Mar 2021",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared, often multi-part questions (some sourced from Doug Leone and Jeff Lewis) with genuine follow-ups, but he never contests Velez's claims or introduces outside data to challenge him.",
+  "question_style": "Mostly open, well-researched questions that build logically from origin story to scaling to leadership, often prefaced with 'can I ask' and borrowing questions from named board members; he follows up for specifics (e.g. pressing on the 'denial vs blame' framework) but does not interrupt or push back on any claim.",
+  "tone": "Warm, deferential and clearly a fan ('I've been a big follower of Nubank for a while'), matey by the end with jokes about investing and a politician career, self-deprecating about his own delegation struggles at his media company.",
+  "depth": "Goes beyond surface bio into strategic mechanics: timing of geographic expansion, product cross-sell sequencing, CAC-to-NPS relationship, capital/liquidity management for scaling a bank, and founder-to-CEO leadership transition.",
+  "harry_quotes": [
+    "how did you make your way from, you know, partner at Sequoia to founding New Bank?",
+    "what's the first elements to break?",
+    "did you ever have imposter syndrome and how did you deal with that?"
+  ],
+  "learnings": [
+    "Expanding into new countries or launching new products too early, before the core market/product has strong product-market fit, is the main reason multi-country and multi-product fintech expansions fail.",
+    "In markets with extreme incumbent pain (high fees, slow account opening), a dramatically better product can drive near-zero customer acquisition cost through word of mouth rather than paid marketing.",
+    "Deliberately constraining supply (e.g. a waiting list) can turn a capital shortage into a demand-generating scarcity effect.",
+    "The skills that make someone a great founder (strong conviction, hands-on building, ignoring outside voices) often need to be dialed back to become an effective CEO, who instead must delegate, listen broadly, and manage through others.",
+    "Advice from board members should be weighted by whether it comes from genuine domain expertise versus personal opinion, and board members who are transparent about which kind they're giving are especially valuable."
+  ],
+  "topics": ["fintech", "latam", "international expansion", "customer acquisition cost", "leadership", "product strategy"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 6,
+  "notable": "Harry explicitly credits Doug Leone (Sequoia) and Jeff Lewis (Bedrock) with supplying some of the interview questions in advance."
+}

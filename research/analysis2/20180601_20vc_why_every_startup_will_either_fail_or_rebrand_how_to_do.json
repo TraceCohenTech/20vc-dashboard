@@ -1,0 +1,22 @@
+{
+  "guest": "Jack Groetzinger",
+  "guest_role": "Founder and CEO, SeatGeek",
+  "approx_date": "Jun 2018",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks well-prepared, sourced-from-investors questions with real follow-ups, but never challenges or contests any of Jack's answers.",
+  "question_style": "Mostly open, prepared questions sourced from named investors (John Locke, David Frankel) with topic-specific follow-ups; Harry does not push back, contest claims, or plant his own thesis, and largely lets the guest run.",
+  "tone": "Warm, matey, and fan-like (repeatedly thanks investors by name, expresses genuine enthusiasm e.g. about the Netflix HR book); light self-deprecating humor in the quickfire round.",
+  "depth": "Covers strategic/operational ground (OKRs, board dynamics, CAC/LTV, M&A integration, rebranding) with sensible follow-ups, but stays at a conceptual/strategic level rather than technical depth.",
+  "harry_quotes": ["How do you think about the combination of tech versus commercial skillset?", "What was the biggest thing an investor could provide to you?", "What would you have done differently in terms of growth?"],
+  "learnings": [
+    "SeatGeek delayed hiring a full-time finance leader until nearly $100M raised, a mistake attributed to inexperience rather than bad advice.",
+    "Groetzinger frames OKRs as a way to keep large, distributed teams aligned on shared goals while letting individuals operate autonomously; roughly 70% attainment signals appropriately ambitious targets.",
+    "He credits repeat usage, not per-transaction margin, as SeatGeek's structural advantage over competitors in customer acquisition economics.",
+    "The TopTix acquisition nearly doubled headcount and was treated as a high-risk cultural bet rather than a financial one; integration work (shared systems, cross-office visits) mattered more than deal terms.",
+    "He believes startup outcomes are heavily driven by luck, and that even great founders may only reduce failure rates modestly (e.g. from 80% to 50%)."
+  ],
+  "topics": ["marketplaces", "hiring", "board management", "growth", "m&a", "branding"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Investors (John Locke, David Frankel, Micah/Mike at Founder Collective) supplied specific questions in advance, which Harry credits by name throughout."
+}

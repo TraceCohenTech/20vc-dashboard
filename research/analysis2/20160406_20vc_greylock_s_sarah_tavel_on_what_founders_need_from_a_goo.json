@@ -1,0 +1,26 @@
+{
+  "guest": "Sarah Tavel",
+  "guest_role": "Partner at Greylock Partners",
+  "approx_date": "Apr 2016",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks structured, well-prepared multi-part questions and follows up with genuine curiosity (e.g., pressing on whether a 10x-better product must also be cheaper), but never contests or challenges Sarah's points.",
+  "question_style": "Open questions built around her career arc (Bessemer to Pinterest to Greylock) with natural follow-ups; he occasionally injects a light challenge framed as a clarifying question ('does it always have to be a financial reward too?') but does not push back or interrupt.",
+  "tone": "Warm, matey, and playful, with running jokes (Snapchat, getting lost with Google Maps) and clear personal rapport; enthusiastic but not purely fawning.",
+  "depth": "Goes beyond surface into VC personal-branding strategy (blog vs. Medium, 'freemium model' framing), the 10x-better-and-cheaper investment framework, and how she evaluates founder-market fit; reasonably substantive for the era.",
+  "harry_quotes": [
+    "What made you know it was special when you saw it?",
+    "Does it have to save money, out of interest?",
+    "How do you communicate with your founders?"
+  ],
+  "learnings": [
+    "Tavel evaluates consumer/marketplace opportunities through a '10x better and cheaper' framework, arguing durable multi-billion-dollar companies must either be free or dramatically cheaper than alternatives.",
+    "She rejects the 'founder friendly' label, framing her role instead as being a truth-seeker who challenges founders' assumptions rather than simply saying yes.",
+    "She treats public writing/blogging as a VC 'freemium model' -- giving founders enough exposure to her thinking to make an informed choice of investor, much like a free product tier.",
+    "She tracked Pinterest's early traction via Alexa rankings against competitors before investing, converting qualitative excitement about the product into quantitative conviction."
+  ],
+  "topics": ["consumer marketplaces", "vc personal branding", "board membership", "product-market fit", "career transitions"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 1,
+  "notable": "Part of a dedicated Greylock 'feature week' format, with the episode explicitly teasing the next guest (a Greylock-backed founder) to close out the theme.",
+  "harry_assertiveness_note": null
+}

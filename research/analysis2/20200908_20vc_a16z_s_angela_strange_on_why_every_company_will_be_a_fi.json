@@ -1,0 +1,30 @@
+{
+  "guest": "Angela Strange",
+  "guest_role": "General Partner at Andreessen Horowitz, focused on financial services",
+  "approx_date": "Sep 2020",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry repeatedly plants his own thesis or concern (race to the bottom on pricing, unbundling skepticism, wealth-management unit economics) and asks Angela to react, but he never truly contests her answers or sustains pressure once she responds.",
+  "question_style": "Mostly open, thesis-driven questions built from his own frameworks (system of record, bundling/unbundling, Google Maps analogy) rather than neutral prompts; he floats mild counterarguments ('does that not just mean a race to the bottom', 'Is that fair? Am I being glib?') but quickly agrees once she answers rather than pushing further, and does not interrupt.",
+  "tone": "Warm, fannish, and matey — opens by calling himself a long-time fan of her work and repeatedly affirms 'totally agree with you'; energy is high and self-deprecating in places (joking about his own ego, his Pokemon banking memory).",
+  "depth": "Strategic rather than deeply technical: he tracks recurring frameworks (system of record, unbundling/rebundling, regulatory infrastructure, M&A direction) across the conversation and uses his own worked example (wealth-management CAC vs. deposits) to test her ideas, but doesn't probe technical/product mechanics.",
+  "harry_quotes": [
+    "why is that? And what's driving this change",
+    "does that not just mean a race to the bottom in terms of pricing",
+    "Is that fair? Am I being glib?",
+    "what makes exciting versus unexciting insertion points?",
+    "If you're a cocktail, what cocktail would you be?"
+  ],
+  "learnings": [
+    "Fintech infrastructure is following the AWS playbook: lowering the cost and complexity of launching financial products so far more experiments can be funded and tried.",
+    "Because acquiring financial-services customers is so hard, incumbents with existing distribution often beat startups with better technology unless the startup can win on distribution first.",
+    "Companies can become a 'system of record' two ways: build it as the core value proposition from day one (Carta with cap tables), or solve a narrow, valuable pain point first and let a data network effect emerge around it (a fraud-detection company that becomes a shared repository of flagged identities).",
+    "Successful consumer fintech unbundling tends to start with a pain point banks ignore entirely (e.g., real-time visibility into food-stamp balances) rather than copying an existing regulated product, then rebundle additional services once trust and distribution are earned.",
+    "Finance/back-office software is shifting from static unbundling toward real-time, general-ledger-adjacent layers, a need made more visible by COVID-driven scenario planning.",
+    "Fintech M&A is bidirectional: incumbents are buying fintech infrastructure (Visa–Plaid) while fintechs are also acquiring incumbents (Lending Club–Radius Bank) to gain licenses and rails.",
+    "Regulatory complexity acts as a real moat; the best infrastructure startups translate dense regulatory code into usable APIs rather than avoiding regulated niches."
+  ],
+  "topics": ["fintech", "banking infrastructure", "unbundling", "system of record", "regulation", "financial services"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Episode is framed entirely around one viral thesis piece ('Why Every Company Will Be a Fintech Company'), with Harry crediting several other investors/founders (Nikhil, Jason, Santiago, Frank Chen) for supplying question ideas in the intro."
+}

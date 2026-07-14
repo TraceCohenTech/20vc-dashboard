@@ -1,0 +1,26 @@
+{
+  "guest": "Zhenya Logunov",
+  "guest_role": "CRO at Miro (formerly COO at Segment, sales/GTM leader at Dropbox)",
+  "approx_date": "Jun 2022",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry directly states disagreement with the guest's core thesis on founder-built playbooks and repeatedly plants his own counter-view (e.g. on SMB depth, on founder vs head-of-sales ownership) before asking the guest to respond.",
+  "question_style": "Mostly structured, prepared questions following a clear arc (background, playbook, hiring, onboarding, deal reviews), but Harry twice explicitly says he disagrees with the guest's position and defends his own view before asking the guest to respond, plus one unscripted 'tough question not on the schedule.'",
+  "tone": "Warm, appreciative, and fannish (thanks guest profusely, name-drops referrers), but comfortable being blunt and using casual/profane language ('fucked up') in a friendly way.",
+  "depth": "Goes deep into specific operating mechanics: PLG vs enterprise sequencing, org structure to avoid resource conflicts, hiring panel design, deal review cadence and failure modes, international expansion sequencing.",
+  "harry_quotes": [
+    "Okay, so I am clearly naive or dumb here, Zhenya, because I disagree.",
+    "Tough question and not one in the schedule. What are the biggest ways you fucked up?",
+    "Do you agree when there's doubt, there's no doubt when it comes to teams?"
+  ],
+  "learnings": [
+    "Founders should hire a head of sales rather than build the sales playbook themselves once initial product-market fit exists, because ownership and expertise matter for adoption.",
+    "PLG and enterprise motions should be run by one revenue leader to avoid incentive conflicts between self-serve and high-touch teams competing over the same accounts.",
+    "Hiring managers should personally spend several hours interviewing candidates before passing them to a panel, focusing on past experience rather than hypothetical case studies.",
+    "New senior hires should be given space in their first month to build cross-functional relationships (especially with product/engineering) before being expected to ship results.",
+    "International expansion requires company-wide commitment (legal entities, localization, finance) and is best started earlier than most companies do, not after major scale."
+  ],
+  "topics": ["sales leadership", "go-to-market", "plg vs enterprise", "hiring", "org design", "international expansion"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Episode is part of the '20 Sales' sub-series (not the main 20VC format) and includes an unusually explicit moment where Harry states outright disagreement with the guest's thesis on who should own the sales playbook."
+}

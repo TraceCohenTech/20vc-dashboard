@@ -1,0 +1,22 @@
+{
+  "guest": "Ron Bouganim",
+  "guest_role": "Founder, GovTech Fund",
+  "approx_date": "Oct 2018",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry explicitly frames a debate segment ('why am I wrong to say...', 'are you ready to debate?') presenting his own skeptical theses on sales cycles, growth rates, and founder age, and makes Ron argue against them with data.",
+  "question_style": "Structured around a deliberate 'debate' format where Harry states his own contrarian belief and asks the guest to rebut it with evidence; elsewhere questions are open and follow-up driven, and he also contests a friend's differing view on ownership construction directly with Ron.",
+  "tone": "Warm, enthusiastic, personal (jokes about pitching, references mutual friend Matt Mazzeo), high energy, some fandom ('you've just convinced me to the power of GovTech'), light self-deprecating humor about the show's name.",
+  "depth": "Goes deep into venture mechanics specific to a vertical fund: portfolio concentration/construction, sales-cycle data, procurement thresholds, SaaS growth benchmarks (15-17% MoM), and co-investor value-add specifics; strong technical grasp of GovTech market structure.",
+  "harry_quotes": ["Why am I wrong to say that it doesn't have the growth rates?", "Fair or not fair to assume that?", "What do you most look for in your co-investors?"],
+  "learnings": [
+    "Bouganim argues government sales cycles have compressed to under 90 days on average in his portfolio due to cloud SaaS adoption and procurement thresholds that let deals bypass lengthy RFP processes.",
+    "GovTech founders skew young (only 2 of 19 founders over 28) because mission-driven millennials are drawn to tangible-impact problems even over Big Tech offers.",
+    "He deliberately runs a concentrated portfolio (~15-16 companies per fund) rather than a diversified spray, arguing deep engagement (customer-call listening, pipeline reviews, pitch deck rewrites) only scales to a limited number of companies.",
+    "Government agencies market successful vendors to peer agencies at their own conferences, functioning as an organic sales/reference channel unlike private-sector competitors.",
+    "GovTech portfolio companies increasingly capture marketplace-style valuation upside on top of core SaaS revenue by becoming the connective layer between government and outside constituents (vendors, investors, restaurants)."
+  ],
+  "topics": ["govtech", "vertical vc", "portfolio construction", "b2g saas", "seed investing", "fund strategy"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Harry structures a full segment as an explicit 'debate' round where he states contrarian theses about GovTech and asks the guest to argue against them with data."
+}

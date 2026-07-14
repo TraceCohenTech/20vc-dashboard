@@ -1,0 +1,23 @@
+{
+  "approx_date": "Apr 2026",
+  "panelists": ["Rory O'Driscoll", "Jason Lemkin"],
+  "stories_covered": ["Anthropic raises $45 billion from hyperscalers, still compute-constrained", "OpenAI's model performance lag confirmed by user growth and revenue misses", "China blocks Meta's $2 billion Manus acquisition", "Toma Bravo walks away from Medallia, handing $5.1 billion equity wipeout to creditors", "Private equity model breaking as debt no longer serviceable even with modest leverage"],
+  "harry_takes": [
+    "Agents will choose what models and vendors to use, not humans—OpenAI's advantage over Anthropic is ephemeral as agent preferences shift weekly",
+    "Pre-AI SaaS companies face a three-bucket future: winners with AI (accelerating growth), systems of record (bounded cash), or melting icebergs (terminal decline)",
+    "Compute equals revenue is a stupid statement; compute plus great model equals revenue, but either alone is insufficient",
+    "The exit funnel is changing: IPOs only if you hit 400M+ ARR, PEs only at fire-sale prices, strategics only for narrow fit",
+    "Private equity overleverage didn't kill Medallia—overpayment in 2021 did, showing the danger of high multiples even with low debt"
+  ],
+  "harry_boldest_quote": "Your job as an investor is to tell you what something's worth four years from now.",
+  "predictions": [
+    "Jason Lemkin: Agents will pick OpenAI for most workflows going forward, ending Anthropic's human-preference advantage",
+    "Panel: Only a handful of $1T+ companies can afford $100B+ acquisitions; Medallion/Medallia downgrades signal PE exit route collapsing",
+    "Rory: 60% solutions must trade at fair value or below, not narrative premium—venture upside dies without pixie dust"
+  ],
+  "disagreements": "Harry argued some value traps might still work at low multiples; Jason countered that low-growth SaaS can never re-accelerate enough to justify venture returns.",
+  "harry_role": "Moderating between Rory's capital-allocation pessimism and Jason's binary agent-choice thesis, punctuating with framework-setting comments on the three buckets of SaaS futures.",
+  "topics": ["anthropic-compute", "openai-agents", "saas-collapse", "private-equity", "exit-funnel", "fair-value"],
+  "sponsor_read_count": 3,
+  "notable": "Jason's statement that agents, not humans, will choose LLMs marks a fundamental shift in competitive dynamics—the market cap arbitrage between model providers collapses once agents decouple from human preference."
+}

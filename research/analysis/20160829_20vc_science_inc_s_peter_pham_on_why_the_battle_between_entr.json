@@ -1,0 +1,26 @@
+{
+  "guest": "Peter Pham",
+  "guest_role": "Co-founder of Science (startup studio)",
+  "approx_date": "Aug 2016",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared, multi-sentence follow-ups on methodology and strategy but never contests Peter's claims or presents opposing data; purely receptive interviewing with high enthusiasm.",
+  "question_style": "Harry structures questions to draw out Peter's philosophy and hands-on methods ('How do you coach them?', 'Talk to me about major learnings on scaling'). Questions are inviting and collaborative, designed to let Peter expand on his thesis. Harry frames one question as 'harsh' but doesn't follow with pushback, maintaining a peer-learning dynamic.",
+  "tone": "Highly deferential and impressed. Harry explicitly states this was 'one of my favorite shows to record' and notes the call ran 75 minutes vs. 30 scheduled. Expresses genuine admiration and tells Peter 'I think you're too modest.' Enthusiastic and fan-like, celebrating Peter's Dollar Shave Club exit.",
+  "depth": "Substantial strategic depth. Peter discusses fundraising signaling (the 24-hour engagement rule, false positives), venture psychology, conversion funnel optimization, cohort retention analysis, network effects, platform dynamics, and founder coaching methodology. Harry asks follow-ups on scaling strategy and venture firm dynamics, showing preparation.",
+  "harry_quotes": [
+    "I'd love to get the ball rolling by discussing how you came to found Science.",
+    "So how do you coach them, although you're used to it?",
+    "In terms of scaling effectively, talk to me about major learnings on how companies scale."
+  ],
+  "learnings": [
+    "Venture fundraising is structurally asymmetrical: VCs default to 'no' after seeing hundreds of pitches annually, while founders rarely pitch multiple rounds and lack pattern recognition for genuine interest.",
+    "The 24-hour engagement rule identifies real interest: true conviction investors follow up within 24-36 hours with concrete next steps (scheduling, data requests, partner introductions).",
+    "Most venture rejections using 'couldn't convince partners' language indicate lack of internal conviction; the GP is holding the option for later rather than making a hard pass.",
+    "Conversion funnel optimization (retention, LTV, cohort analysis) must precede paid acquisition at scale; top-of-funnel spending multiplies waste when bottom-funnel metrics aren't tight.",
+    "Startup studio models depend on operators maintaining daily tactical involvement and meaningful equity stakes; absence of either disqualifies the model."
+  ],
+  "topics": ["startup studios", "venture capital", "fundraising", "founder coaching", "scaling", "growth marketing", "conversion optimization"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 1,
+  "notable": "Harry highlights this as a favorite episode; the call extended 75 minutes past the scheduled 30-minute window. Dollar Shave Club's $1B exit to Unilever occurred approximately 3 weeks prior to recording."
+}

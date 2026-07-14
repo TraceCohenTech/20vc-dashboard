@@ -1,0 +1,22 @@
+{
+  "approx_date": "Apr 2026",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll"],
+  "stories_covered": ["Anthropic February $6B revenue month", "Claude Mythos model leak (10T params)", "OpenAI kills Sora video product", "OpenAI 100M ARR on ads", "SoftBank $40B loan for OpenAI stock", "OpenAI internal dysfunction"],
+  "harry_takes": [
+    "Anthropic's $6B February revenue puts them on unicorn pace; Mythos leak shows massive capabilities being held back",
+    "OpenAI shutting down Sora is admission their consumer strategy was fundamentally flawed",
+    "AI agents will leak data 100x faster than humans; security incidents are becoming the price of speed",
+    "OpenAI's internal chaos is strategic mistake; Anthropic's consistency gives it execution advantage"
+  ],
+  "harry_boldest_quote": "We may be at the stage where we throw the humans under the bus, not the AI anymore, which I think at some level is pretty terrifying.",
+  "predictions": [
+    "Lemkin: OpenAI must hit $20-70B ARR in consumer ads to remain competitive; single-digit millions today means existential pressure",
+    "O'Driscoll: Sora kill proves strategy was wrong; this is self-inflicted damage from prioritizing consumer experience over compute efficiency",
+    "All: Autonomous 24/7 agents running on Anthropic models will accelerate security incidents and data leaks as unintended side effect"
+  ],
+  "disagreements": "Harry suggests OpenAI's consumer strategy can still work with focus; Lemkin argues Sora kill proves the bet was catastrophic waste and priority misalignment.",
+  "harry_role": "Balanced critic. Credits OpenAI for admitting Sora was mistake. Defends 100M ads revenue as early-stage. Worries OpenAI's chaos is permanent, suggests Brett Taylor as day-to-day CEO. Mostly on side of Anthropic's consistency.",
+  "topics": ["ai-product-strategy", "consumer-advertising", "data-security", "organizational-dysfunction", "compute-allocation"],
+  "sponsor_read_count": 3,
+  "notable": "Mythos model leak has cybersecurity stocks tank despite model being designed for security—peak irony. Also marks Anthropic as willing to hold back capabilities, suggesting massive hidden roadmap."
+}

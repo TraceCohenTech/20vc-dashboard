@@ -1,0 +1,33 @@
+{
+  "guest": "Danny Rimer",
+  "guest_role": "Partner, Index Ventures; deals include Figma, Discord, Etsy, Glossier, Dream Games, and many others",
+  "approx_date": "Jun 2024",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry is respectful and deferential to Danny, mostly receiving wisdom. Few gentle pushbacks but primarily collaborative and genuinely grateful. Acts as student learning from mentor.",
+  "question_style": "Open-ended, story-eliciting questions designed to draw out lessons and frameworks. Harry asks Danny to share experiences and reflect on decisions. Good follow-ups but exploratory rather than challenging. More listening than probing.",
+  "tone": "Reverent, respectful, grateful. Harry describes himself as 'student of venture' learning from 'best in the world.' Opens thanking Danny for 10-year support to 20VC. Warm conversational rhythm with clear admiration.",
+  "depth": "Extremely deep. Spans decision-making frameworks (Jim Barksdale's snake rules), thesis-based investing, founder psychology and selection, valuation mistakes, exit strategy, geographic expansion (Europe vs. US), partnership dynamics, branding/scarcity, organizational culture, and personal/family balance. Technical on voting systems, reserve strategy, late-stage metrics. Philosophical on opportunity costs, emotional attachment, and instinct.",
+  "harry_quotes": [
+    "When you think back to a 10 year old Danny, how would your parents or teachers have described you?",
+    "What are one or two of your biggest takeaways from that experience with him and learning from him?",
+    "What was the hardest thing to turn down that was a distraction?",
+    "Do you worry about losing outliers?",
+    "What do you do when you have a founder where you love them but hate the market?"
+  ],
+  "learnings": [
+    "Thesis-based investing creates discipline (major/minor themes) without constraining exceptional founders; when founder is truly extraordinary, discard thesis and back them regardless",
+    "Decision-making requires commitment: decide, act, don't revisit (Jim Barksdale's 'snake rules')—revisiting dead decisions wastes energy and cognitive resources",
+    "TAM sizing is misleading; best winners create entirely new markets or categories, not just expand existing ones; historical comps constrain thinking about future value creation",
+    "Founder exceptional-ness manifests as 'spikes' in specific areas rather than full-spectrum excellence; European founders underestimate themselves, US founders over-sell",
+    "Exit strategy matters as much as entry thesis; knowing when to sell (incrementally or all at once) requires discipline not to fall in love with portfolio companies",
+    "Emotional attachment to losing investments wastes time and opportunity cost; best investors rigorously analyze mistakes, move on quickly, and spare little for celebrating successes",
+    "Most tech company brands emerge as byproducts of great products; true brands require intentional scarcity and positioning (rare in tech ecosystem)",
+    "Geographic expansion requires moving existing partners to new locations, not hiring locally; culture travels through people and relationships, not through hiring",
+    "Partnership quality and mission alignment trump fund size; larger funds create bureaucracy, slower carry realization, and weaker motivation",
+    "One or two decisions per year matter far more than volume of meetings; best investors meet many but invest few, maintaining high bar"
+  ],
+  "topics": ["venture capital", "founder selection", "decision-making frameworks", "thesis-based investing", "valuation and pricing", "market sizing", "exits and liquidity", "european vs us founders", "organizational culture", "branding and scarcity", "partnership dynamics"],
+  "repeat_guest_callback": "Harry opens: 'It was such a pleasure last time.' Danny has been on 20VC previously; Harry thanks him for his support 'over the last 10 years.'",
+  "sponsor_read_count": 3,
+  "notable": "Danny has been supporting 20VC for a decade (repeat guest). Major investment regrets: Spotify (Series A, knew Daniel was exceptional but lacked conviction on music market after SoundCloud/JUZT losses; in retrospect should have backed founder anyway), Snap ($61M ask vs. $40M willingness due to % of fund concern; became major miss), Airbnb, LinkedIn. Biggest loss learning: Nasty Gal taught him about emotional attachment and opportunity cost; partners had to pull him away from trying to save it. Index uses voting system (1-4 and 7-10 scale; requires 6+ votes to pass; no 5-6 votes allowed). Recently shifted toward trusting instinct more over analytical frameworks (influenced by wife's spiritual practice). Deep respect for Jim Barksdale's mentorship and 'snake rules' framework (decide, commit fully, don't revisit). Wife is spiritual teacher/meditation practitioner. Positioned Index as 'scaled artisan' (between asset managers and pure boutiques like Benchmark). Open-ended on future (shouldn't still be Index partner in 10 years if doing job right)."
+}

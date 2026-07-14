@@ -1,0 +1,48 @@
+{
+  "approx_date": "Apr 2025",
+  "panelists": [
+    "Jason Lemkin",
+    "Barvin (MoveWorks CEO)",
+    "Andrew Feldman (compute/hardware expert)"
+  ],
+  "stories_covered": [
+    "Trump tariffs cratering tech stocks 6-49%",
+    "Golden age of software thesis: spend rising 2% to 4% of GDP",
+    "Revenue durability collapse for late-stage unicorns",
+    "MoveWorks acquired by ServiceNow for $2.7B",
+    "AI startup valuations: Cursor $9.6B, Scale, Windsurf in froth",
+    "Founder fundraising crisis: 80% of VCs rejecting triple-triple-double-double",
+    "AI fraud: zero-to-multimillion in months via ChatGPT wrappers",
+    "CoreWeave IPO day one pop, first agentic infrastructure IPO",
+    "Hardware startups and whether 19-year-olds can compete with Nvidia"
+  ],
+  "harry_takes": [
+    "Revenue durability assumptions have collapsed—late-stage slowdowns will become normalized, not seen as founder failure",
+    "Venture has become a pure-growth-chase goldfish brain: 20x revenue multiples on anything with 99% MoM growth, margins and sustainability abandoned",
+    "Young founders almost never win in complex infrastructure/hardware; customer-intimacy categories reward inexperience, not chip design",
+    "Incumbent enterprises move slowly on AI adoption even when budgets exist—change management is the real bottleneck, not technology",
+    "IPO day one noise is meaningless; what matters is execution 6-12 months later"
+  ],
+  "harry_boldest_quote": "There's nothing weirder than being an employee the day after the IPO, right?",
+  "predictions": [
+    "Lemkin: Figma, Canva, Stripe, Databricks will IPO in next 18 months (told by at least one CEO eyeing 18-month exit)",
+    "Lemkin: M&A wave incoming if Trump stays pro-M&A and avoids Europe regulatory blocks",
+    "Lemkin: 400 PE firms have appetite to nibble, but he's seeing zero tire-kicking on his portfolio—very worried about PE-via-consolidation liquidity myth",
+    "Feldman: Hardware requires gray hair and accumulated wisdom; inexperienced young founders historically fail vs. social networks where they thrive"
+  ],
+  "disagreements": "Harry skeptical Figma/Canva actually IPO in 18 months (they can run private forever with secondary markets). Lemkin insists at least one CEO told him 18-month IPO plan. Mild tension on whether PE is real or theater for founder liquidity.",
+  "harry_role": "Harry moderates as the host, driving question-based pacing. He defers to Lemkin's pattern-recognition on VC trends, asks clarifying questions of guests (Barvin, Feldman), and occasionally surfaces his own observations (durability collapse, post-IPO weirdness, skepticism on Figma/Canva near-term IPOs). Not a debate equal—more ringmaster.",
+  "topics": [
+    "venture capital",
+    "artificial intelligence",
+    "startup fundraising",
+    "IPOs and liquidity",
+    "M&A and acquisitions",
+    "enterprise software",
+    "hardware and infrastructure",
+    "revenue durability",
+    "fraud and diligence"
+  ],
+  "sponsor_read_count": 3,
+  "notable": "CoreWeave IPO occurred the day before this recording (day-one pop noted); Barvin live discusses the freshly-announced ServiceNow deal with unusual candor about partnership overlap and regulatory risk; frank admission of AI fraud in startup ecosystem (ChatGPT wrappers sold as AI, humans running prompts)."
+}

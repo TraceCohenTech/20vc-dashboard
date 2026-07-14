@@ -1,0 +1,39 @@
+{
+  "guest": "Arvid Narayanan",
+  "guest_role": "Professor of Computer Science at Princeton, Director of the Center for Information Technology Policy",
+  "approx_date": "Aug 2024",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry challenges multiple claims directly—asking 'Are you high?' on medical AI, pushing back on misinformation fears, questioning Arvind's job displacement take—but mostly explores skeptically rather than planting his own thesis.",
+  "question_style": "Harry asks probing, sometimes blunt questions ('Are you high?') and challenges specific claims ('How are you not skeptical?'). He explores Arvind's arguments but doesn't assert his own position; mostly seeking understanding from a skeptical angle. Includes a quick-fire round at the end.",
+  "tone": "Direct and intellectual, occasionally irreverent ('Are you high?'). Engages as a skeptical sparring partner rather than an admirer. Some self-deprecation from Harry ('I may be rambling occasionally').",
+  "depth": "Very technical and deep. Covers scaling laws, data bottlenecks, synthetic data quality, model evaluation methodology, benchmark gaming, AGI timelines, policy approaches, agents, job displacement, medical and educational AI, misinformation dynamics, and cybersecurity. Balances high-level concepts with specific examples.",
+  "harry_quotes": [
+    "How are you not skeptical that that's a real danger?",
+    "Are you high?",
+    "Does more compute equal an increased level of performance?"
+  ],
+  "learnings": [
+    "The compute-scaling paradigm in AI is hitting diminishing returns because data is bottlenecked; future progress requires new scientific ideas, not just bigger models.",
+    "Smaller models trained longer are more cost-efficient because inference costs dominate training costs over a model's lifetime.",
+    "LLM evaluation via benchmarks is unreliable because developers optimize for benchmark performance rather than real-world utility; 'vibes' from actual usage are more predictive.",
+    "Tacit organizational knowledge isn't codified in data; enterprise AI adoption will be slow, requiring deployed learning loops like autonomous vehicle rollout.",
+    "AI automates tasks within jobs, not entire jobs; most occupations won't disappear even as specific tasks become automated.",
+    "Good policy regulates harmful activities (fake reviews, deepfake nudes) regardless of whether AI is used; treating it as purely an AI problem misses root causes.",
+    "Open model distribution cannot be stopped globally; defensive AI use (finding vulnerabilities before attackers) matters more than access restriction."
+  ],
+  "topics": [
+    "ai-scaling",
+    "data-bottlenecks",
+    "model-efficiency",
+    "benchmarking",
+    "synthetic-data",
+    "agi-timelines",
+    "policy-regulation",
+    "deepfakes",
+    "misinformation",
+    "job-displacement"
+  ],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Harry uses unusually blunt language ('Are you high?') when challenging the 'GP in your pocket' medical AI hype, and the episode includes a quick-fire round format rarely seen in 20VC interviews."
+}

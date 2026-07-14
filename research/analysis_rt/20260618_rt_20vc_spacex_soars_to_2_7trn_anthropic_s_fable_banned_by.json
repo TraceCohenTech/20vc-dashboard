@@ -1,0 +1,24 @@
+{
+  "approx_date": "Jun 2026",
+  "panelists": ["Rory O'Driscoll", "Evan Stude (Benchmark)"],
+  "stories_covered": ["SpaceX completes largest IPO in history, hits $2.7 trillion valuation", "Anthropic launches Claude Fable Monday, US government bans it by Thursday on export restriction grounds", "Salesforce acquires Finn (formerly Intercom) for $3.6 billion", "Adobe beats and raises guidance but stock falls 6% on CFO exit", "Wix slashes 2026 guidance, cuts 1,000 employees and revenue outlook by $25 million"],
+  "harry_takes": [
+    "Elon perfectly timed SpaceX IPO at 19% day-one pop despite zero price discovery—designed pop execution",
+    "This Fable ban is a Rubicon moment: first US capability-based AI model regulation, potentially opening door to gating superintelligence by nation",
+    "Both Anthropic (claiming danger) and the administration (claiming sovereignty) are politically trapped in contradictory positions with no good communication",
+    "Tim Cook's operational excellence extended to his own exit—managed succession with barely-moved stock price",
+    "Owen McDonough and Intercom proved the golden path: take pre-AI SaaS, burn the boats, triple growth—Salesforce recognized it as blue ocean"
+  ],
+  "harry_boldest_quote": "It was an amazing outcome and you said it's traded well, it's traded way more than well.",
+  "predictions": [
+    "Evan Stude: SpaceX stock will trade below current price in six months due to gamma squeeze and low float volatility, despite company fundamentals",
+    "Panel: If government treats Fable ban narrowly (Anthropic only), not broadly (all models), Anthropic has due-process claim",
+    "Rory: Anthropic IPO happens in Q4 2026 despite Fable ban if political clarity comes within 6-12 months",
+    "Evan: Foreign open-source models (Chinese) will dominate as US restricts frontier models—sovereignty play creates 2-3 player oligopoly"
+  ],
+  "disagreements": "Harry believed Fable ban was primarily political miscommunication; Evan emphasized real technical capability risk. Both agreed it doesn't matter much to Anthropic IPO fundamentals if resolved quickly.",
+  "harry_role": "Asking precise questions on SpaceX gamma squeeze mechanics and Fable ban implications while Evan (a top early-stage investor) provides institutional counterweight and sovereign AI market analysis.",
+  "topics": ["spacex-ipo", "anthropic-fable-ban", "ai-regulation", "intercom-acquisition", "sovereign-ai", "saas-turnaround"],
+  "sponsor_read_count": 3,
+  "notable": "Evan Stude frames Fable ban as Rubicon moment for capability-based AI regulation and sovereign AI—first time US has gated a model on what it can do, not what buyer can do with it, creating geopolitical precedent."
+}

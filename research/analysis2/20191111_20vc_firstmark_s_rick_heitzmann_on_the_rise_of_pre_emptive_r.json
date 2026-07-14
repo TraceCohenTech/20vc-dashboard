@@ -1,0 +1,27 @@
+{
+  "guest": "Rick Heitzmann",
+  "guest_role": "Founder and Partner, FirstMark Capital",
+  "approx_date": "Nov 2019",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry repeatedly plants his own thesis (on CAC/distribution economics, exit multiples, preemptive rounds) and explicitly asks Rick to confirm or refute it, going beyond passive reception though staying respectful rather than combative.",
+  "question_style": "Blends open thematic prompts with pointed, opinionated questions where Harry states his own view first ('am I right in saying this?', 'my two worries...') and asks the guest to respond directly to it; no interruption, but sustained thesis-testing across multiple segments.",
+  "tone": "Warm, admiring, and matey with light self-deprecating jabs (about his age/short attention span), clearly fannish toward Rick's track record but conversational rather than deferential in substance.",
+  "depth": "Strategic and structural depth on fund mechanics -- price discipline thresholds, reserve allocation logic, board time-allocation, and consumer CAC/distribution economics -- rather than product-technical depth.",
+  "harry_quotes": [
+    "How do you think about the massive rise we're seeing in preemptive rounds today?",
+    "Am I right in saying this? And how do you think about this lack of economically viable distribution channel?",
+    "Do you believe in attribution and venture, Rick?"
+  ],
+  "learnings": [
+    "Price discipline matters non-linearly: being off by 20-30% on valuation barely matters, but being off by 50% or more materially hurts fund returns.",
+    "Reserve capital should be thought of as opportunity cost applied to backing likely winners further, not as insurance for protecting losers.",
+    "Temporal diversification across a 3-year deployment window matters more than market timing, since it's impossible to know in advance which vintage will prove favorable.",
+    "The best board structure front-loads all data and financials before the meeting so the actual session is spent on strategic discussion, not information delivery.",
+    "As VCs mature, they should resist over-involvement in operational details and instead calibrate to the right 'altitude' -- deep enough to catch problems, high enough not to derail the CEO.",
+    "Proprietary supply chain or distribution advantages (e.g., exclusive online sales rights) let consumer companies escape the Facebook/Google CAC duopoly and support higher exit multiples."
+  ],
+  "topics": ["fund mechanics", "consumer investing", "board governance", "venture ecosystem evolution", "portfolio construction", "customer acquisition"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 6,
+  "notable": "Runs a 'story time' segment mid-episode specifically to deep-dive the Pinterest seed investment, sourced from four of Rick's own portfolio founders as question suppliers."
+}

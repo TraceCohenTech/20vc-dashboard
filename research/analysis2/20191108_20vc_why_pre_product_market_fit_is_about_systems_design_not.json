@@ -1,0 +1,27 @@
+{
+  "guest": "Ryan Dennehy",
+  "guest_role": "Founder and CEO, Electric.ai",
+  "approx_date": "Nov 2019",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared, well-researched multi-part questions sourced from Ryan's investors and pushes for specifics, but never contests or challenges Ryan's answers.",
+  "question_style": "Mostly open-ended prompts built from investor-sourced questions ('Rudd said to ask...', 'Bob from Bessemer asked...'), with genuine follow-ups digging for concrete examples; Harry doesn't interrupt or contest claims, occasionally injects his own related anecdote before returning to the guest.",
+  "tone": "Matey and enthusiastic, heavy fandom energy toward the guest and his investors, frequent self-deprecating asides (about being 'thoroughly British', 'shit at reading', not understanding sports).",
+  "depth": "Mostly strategic/operational depth (inflection points, MVP philosophy, technical debt, hiring cadence around fundraising, CEO role evolution by stage) rather than technical engineering depth; tracks recruiting timelines and org-design topics closely.",
+  "harry_quotes": [
+    "What did you get right in the first companies that you still do today?",
+    "Is it possible to have both vulnerability and strength?",
+    "Should you start the recruitment process pre-fundraise?"
+  ],
+  "learnings": [
+    "Founders should treat technical debt like a credit card balance -- some leverage is healthy but too much becomes dangerous, and it should be revisited intentionally.",
+    "Pre-product-market-fit work is really about solution design, not engineering, so MVPs should be cobbled together from existing tools rather than built from scratch.",
+    "Company inflection points map to standard venture stage milestones (seed = early PMF signal, A = repeatable go-to-market), which makes prioritization easier for founders.",
+    "Senior hires should be recruited six-plus months ahead of when they're needed, since VP-level searches realistically take three to six months plus ramp time.",
+    "As companies scale, a CEO's role shifts from player-coach doing IC work, to manager of managers drowning in decision fatigue, to a strategic leader of senior executives.",
+    "When evaluating promotions, define a checklist of non-negotiable requirements for a role first, then assess objectively whether an internal candidate can realistically hit them."
+  ],
+  "topics": ["hiring", "leadership", "mvp/product development", "fundraising", "venture investor selection", "org design"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 6,
+  "notable": "Harry credits three of the guest's own investors (Bessemer, GGV, Primary partners) with supplying the interview questions, an unusually collaborative prep format."
+}

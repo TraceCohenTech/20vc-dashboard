@@ -1,0 +1,28 @@
+{
+  "guest": "Lori Jimenez",
+  "guest_role": "Chief Revenue Officer at WorkRamp",
+  "approx_date": "Aug 2023",
+  "assertiveness": 4,
+  "assertiveness_why": "Prepared multi-sentence questions with solid follow-ups; occasional collaborative pushback (logo hiring critique, validating multi-year deals) but mostly receiving rather than planting opposing theses.",
+  "question_style": "Open-ended discovery questions that let Lori elaborate; some light challenge on hiring practices and process decisions, but collaborative rather than adversarial. Harry lets guest fully answer before moving forward.",
+  "tone": "Warm and matey with affectionate use of 'stay' for guests; self-deprecating humor ('I'd be terrible, I'm probably worth playing there'); high energy and genuine engagement without fandom.",
+  "depth": "Strong technical follow-ups on sales mechanics: MeDiC framework, discovery call quality, qualification criteria (BANT/ANAM), QBRs, deal reviews, health scoring, and forecasting rigor. Tracks pipeline, churn prediction, and competitive dynamics.",
+  "harry_quotes": [
+    "Do you think sales is something you instantly fall in love with, or something you learn to love?",
+    "How do you define a sales playbook?",
+    "Why do you believe the logoed person isn't the right early hire?",
+    "How do you structure a deal review for the founders?"
+  ],
+  "learnings": [
+    "Sales excellence relies on genuine listening and connection rather than robotic script execution; this can be learned over time.",
+    "Founders should author the initial sales playbook because they hold the deepest context on customer problems and can iterate based on feedback faster than external hires.",
+    "Early sales hires should prioritize demonstrated grit and scrappiness over logos from big companies, as adaptability in ambiguity matters more in startup velocity.",
+    "SDR quality should be gated by sales stage progression, not just meeting creation, to prevent fluffy meetings that don't advance the funnel.",
+    "Discounting requires value trades such as customer references or introductions to preserve brand value and signal confidence.",
+    "Multi-threading across stakeholders reduces churn risk; single champions can leave or consolidate you away if they don't bridge to the economic buyer."
+  ],
+  "topics": ["sales strategy", "founder sales responsibility", "hiring practices", "sales process", "qualification frameworks", "customer success", "deal structure", "forecasting"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "This is a '20 Sales' episode (monthly sales show) rather than '20VC'; Harry's tone is notably collaborative and warm versus adversarial, with strong emphasis on sales fundamentals and process rigor."
+}

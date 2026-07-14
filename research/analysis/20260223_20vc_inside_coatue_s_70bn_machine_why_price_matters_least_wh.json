@@ -1,0 +1,30 @@
+{
+  "guest": "Lucas Swisher",
+  "guest_role": "Co-leads Growth Fund at Coatue, formerly Kleiner Perkins with Mamoun Hamid",
+  "approx_date": "Feb 2026",
+  "assertiveness": 7,
+  "assertiveness_why": "Harry plants his own theses on mega-fund destruction of economics, challenges the king-making concept, and pushes Lucas to defend positions repeatedly throughout.",
+  "question_style": "Mix of open-ended exploration and pointed challenges. Harry probes implications of Lucas's frameworks, asks 'would you really invest' scenarios, and follows up with contrarian angles. Frequently tests whether principles hold under edge cases.",
+  "tone": "Intellectually rigorous and genuinely curious but friendly. Harry engages deeply with concepts rather than accepting surface answers. Self-aware humor about his own skepticism.",
+  "depth": "Very deep technical discussion: ARR multiples, margin compression, TAM expansion, architecture shifts. Specific company case studies (Databricks, Canva, Figma, Anthropic, Revolut). Discussion of data-driven investing vs founder quality tradoffs.",
+  "harry_quotes": [
+    "why is the public private boundary breaking down and what's the better side to be on?",
+    "Can you still find a $10 billion gem outside of the boundaries of this system or not?",
+    "are you not the middle and how would you respond to that?",
+    "Do you think a good investor at A can be a good investor at D?",
+    "When you have doubled down and it has been a mistake, what did you not see?"
+  ],
+  "learnings": [
+    "AI is creating structural uncertainty about SaaS terminal values for the first time, as coding models threaten business model durability.",
+    "Companies that successfully reinvent across multiple S-curves (Databricks, Canva) survive architecture shifts; single-TAM companies face existential risk.",
+    "When hypergrowth is real, valuation should be evaluated last, not first, because 10x year-over-year growth justifies seemingly expensive entry prices.",
+    "Platform companies (top 20) generate 80% of private market enterprise value; 4 companies alone create 65%, concentrating opportunity.",
+    "Best businesses often accept low margins early during technology waves (hyperscalers, Snowflake, Databricks), and margin matters more at scale than at inception.",
+    "Data is prerequisite, not answer; seeing inflection points and founder reinvention capacity trumps spreadsheet metrics.",
+    "Flexible-mandate funds outperform constrained ones because they can concentrate in true platform winners rather than forcing diluted check-writing."
+  ],
+  "topics": ["saas", "ai", "venture", "growth-stage", "valuation", "platform-companies", "databricks", "canva", "anthropic"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Lucas describes Mary Meeker's data-storytelling gift and Mamoun's ability to spot inflection points with minimal data; both lessons form his analytical framework. Also discusses secondary market liquidity reshaping exit timing."
+}

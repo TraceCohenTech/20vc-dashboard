@@ -1,0 +1,30 @@
+{
+  "guest": "Alex MacCaw",
+  "guest_role": "Founder and CEO, Clearbit",
+  "approx_date": "Sep 2019",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks several pointed, personal, or 'blunt' follow-ups (people-pleasing, board structure, scaling love-and-vulnerability) but almost always agrees and praises rather than contesting or citing outside data against the guest.",
+  "question_style": "Mostly open, structured prompts (walking through the 'six pillars' one by one) with genuine multi-part follow-ups rather than one-liners; occasionally labels a question 'blunt' or 'difficult' and probes personal traits (people-pleasing, DJing, board composition), but rarely pushes back on or contests what the guest says, and frequently affirms agreement before moving on.",
+  "tone": "Warm, fannish, and matey — Harry repeatedly professes excitement and admiration for the guest and product, with light self-deprecating humor (e.g., joking about his own DJ taste).",
+  "depth": "Mostly strategic/organizational rather than technical: hiring pipelines, OKRs, transparency in fundraising, feedback culture, board timing, and VC negotiation dynamics; follow-ups show familiarity with prior guests' related takes (Radical Candor, Enneagrams, unbundling of VC) and connects them across episodes.",
+  "harry_quotes": [
+    "Can I ask, can you manufacture leverage?",
+    "Have you ever struggled with being a people pleaser?",
+    "Does it not help with hiring?",
+    "Does love and vulnerability scale as a cool ethos... for a thousand person company?"
+  ],
+  "learnings": [
+    "Real negotiating leverage with VCs comes from being able to walk away, which usually requires profitability, not from posturing.",
+    "Founders often overweight investor brand/prestige; clean terms and reasonable valuation matter far more than logo value.",
+    "Effective feedback requires both a trusting relationship and blunt honesty — softening feedback ('ruinous empathy') does more harm than good.",
+    "Sourcing candidates proactively (structured sourcing sessions) matters more than the interview process itself for hiring quality.",
+    "Company culture and management quality tend to degrade as companies scale unless deliberately engineered — most companies under-invest in management training.",
+    "Company boards are seen as premature before Series B and better staffed with operators than investors.",
+    "Self-awareness can be built through reflection/meditation, psychometric instruments (Enneagram, Myers-Briggs), or a fast feedback-rich environment."
+  ],
+  "topics": ["fundraising negotiation", "company building", "management culture", "hiring", "vc dynamics", "founder wellbeing"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 4,
+  "notable": "Structured almost entirely around the guest's own pre-articulated framework (the 'six pillars' of company building), with an explicit 'Ask Me Anything' segment built from questions Harry solicited in advance from the guest's own investors.",
+  "error": null
+}

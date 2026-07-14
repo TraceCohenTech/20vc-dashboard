@@ -1,0 +1,31 @@
+{
+  "guest": "Avidan Ross",
+  "guest_role": "Founding Partner at Root Ventures",
+  "approx_date": "Nov 2018",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks prepared follow-ups and plants some gentle challenges ('I'm constantly faced with these challenges...'), but mostly receives Avidan's deep technical perspectives and follows his lead enthusiastically.",
+  "question_style": "Harry asks open-ended questions with engaged follow-ups. He occasionally introduces pushback ('isn't that a race to the bottom in margins?'), but mostly receives and explores Avidan's framework. He repeatedly goes off-script because he's intrigued.",
+  "tone": "Warm, genuinely curious, and intellectually excited. Harry explicitly says 'This is so far off schedule, but I'm way too intrigued by this conversation,' showing real enthusiasm. Collaborative and deferential to Avidan's technical expertise.",
+  "depth": "Exceptionally deep technical and strategic engagement. Harry explores 'peace dividends' concept, sensor commoditization, hardware vs software investing, legacy industry transformation, founder backgrounds, the 'Trojan horse' B2B strategy, and technical vs MBA leadership. Repeatedly goes off-script due to fascination.",
+  "harry_quotes": [
+    "This is so far off schedule, but I'm way too intrigued by this conversation.",
+    "I'm sorry, I was too interested again in terms of kind of venture scalable.",
+    "Can I ask you, Avidan, when you look at the founders that you've backed?",
+    "Is that fair to say there's serious market timing risk?",
+    "Does that mean that your excitement lies in kind of the margins on services?"
+  ],
+  "learnings": [
+    "Major technology wars create 'peace dividends'—commoditized components that seed entirely new industries; smartphone wars enabled drones and IoT, autonomous vehicle wars are enabling robotics and edge compute across industries",
+    "Venture-scale hardware returns require more than product margin: they need recurring revenue services, platform ecosystems, or data leverage built on top of the physical product",
+    "Legacy industries (agriculture, mining, construction, logistics, supply chain) remain worth trillions but have received minimal automation outside back-office ERP systems, creating massive opportunity for field-based innovation",
+    "The 'Trojan horse' strategy in B2B: introduce a product with clear ROI to penetrate a customer, then expand by upselling and leveraging data collected from inside their operations",
+    "Founders disrupting legacy industries don't require incumbency experience if they demonstrate 'hunger to learn' through rigorous customer discovery and ask 'why' multiple times to distinguish true constraints from tradition",
+    "Technical founders becoming CEOs is inevitable because tech giants trained a generation of engineers in recruiting, team-building, operations, and strategy—skills MBAs traditionally taught but engineers now learn in practice",
+    "Market timing favors hard-tech founders now because: (a) FAANG companies trained engineering managers in operational leadership, and (b) engineering schools now integrate entrepreneurship education alongside technical curricula",
+    "Autonomous vehicle development is commoditizing LIDAR, stereoscopic cameras, edge compute, and cloud inference—enabling any industry needing physical world awareness to build autonomous systems"
+  ],
+  "topics": ["hardtech", "robotics", "legacy industries", "autonomous vehicles", "hardware", "saas", "founder psychology", "technical leadership", "marketplace"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Harry repeatedly goes off-script because he's fascinated by the conversation. Avidan mentions listening to the show at 2X speed ('the 12-minute VC to me'), and Harry explicitly acknowledges running over time due to intrigue."
+}

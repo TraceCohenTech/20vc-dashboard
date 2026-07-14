@@ -1,0 +1,27 @@
+{
+  "guest": "Ash Fontana",
+  "guest_role": "Managing Director at Zeta Venture Partners",
+  "approx_date": "Nov 2019",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry asks prepared, layered follow-up questions and occasionally poses blunt/direct challenges (e.g. on WeWork, on TAM being BS, on valuation inflation), but he never really contests Ash's answers and mostly stays in receptive, fan-like mode.",
+  "question_style": "Questions are multi-sentence and clearly pre-researched (many sourced from named contacts of the guest), moving fluidly between operator background, AI-first theory, data moats, and business model mechanics. Harry occasionally injects a blunt or leading framing ('bluntly, Ash...', 'is WeWork full of shit') and voices his own concern about tech valuations, but he rarely pushes back hard on Ash's actual claims and doesn't interrupt.",
+  "tone": "Very matey and openly fannish — Harry repeatedly professes long-time admiration for Ash, jokes and self-deprecates ('I'll definitely check that out and probably pick up absolutely none of them'), and keeps energy high throughout.",
+  "depth": "Goes fairly technical on AI-first company mechanics — data mote qualities (accessibility, fungibility, dimensionality, breadth, perishability), F1 scores and model accuracy thresholds, gross margin curves, and bottom-up market sizing methodology — showing real command of the guest's specific investing framework rather than generic VC chat.",
+  "harry_quotes": [
+    "Now bluntly, Ash, what does AI first really mean today?",
+    "Do you think Tam is total BS in the early days?",
+    "Are you as concerned as I am?"
+  ],
+  "learnings": [
+    "AI-first companies differ from SaaS companies in pitching value: SaaS sells workflow efficiency/cost savings while AI-first sells new revenue or decisions customers couldn't otherwise make, often via revenue-share pricing.",
+    "Data moats should be evaluated across five dimensions — how hard the data is to acquire, whether it can be substituted, its dimensionality, its breadth, and how quickly it goes stale — rather than treated as a single binary 'proprietary or not' question.",
+    "AI-first companies start with much lower gross margins than SaaS (40-50%) because building the model and labeling data is expensive, but margins can eventually exceed SaaS (95%+) once the model reaches a fixed level of accuracy and starts self-improving without added headcount.",
+    "Vertical integration — controlling data collection, modeling, product delivery, and customer-facing services all in-house — is what lets a company capture the full value it creates, a principle the guest applies from his family's farming business to AI investing.",
+    "Total addressable market estimates should be built bottom-up from a product roadmap's feature-level ROI to customers, not from top-down industry-size reports, because top-down TAM figures are largely unreliable at the earliest stages.",
+    "Incumbent software companies often struggle to become AI-first organically because they lack the underlying predictive model capability, but they can acquire that capability relatively easily since they already have the product and delivery/service layers."
+  ],
+  "topics": ["ai first", "data moats", "venture investing", "market sizing", "business models", "gross margins"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 6,
+  "notable": "Episode is framed around crowdsourced questions from eight named people close to the guest (mentors, colleagues, investors), which Harry attributes throughout rather than presenting as his own."
+}

@@ -1,0 +1,30 @@
+{
+  "guest": "Scott Taylor",
+  "guest_role": "CEO at MyDrive, advisor to EC1 Capital, mentor at Virgin StartUp",
+  "approx_date": "May 2015",
+  "assertiveness": 2,
+  "assertiveness_why": "Harry asks prepared, topic-hopping questions and light follow-ups but never challenges or contests anything Scott says.",
+  "question_style": "Mostly open, sequential questions moving through founder qualities, mentorship, angel investing, and a closing lightning round; Harry occasionally asks a brief one-word follow-up ('Why would you say that?') but does not push back, contest claims, or plant his own thesis.",
+  "tone": "Warm, enthusiastic, and promotional in the intro (heavy praise of the guest's credentials), casual and matey in the interview itself, no self-deprecation.",
+  "depth": "Largely surface-level, covering founder traits, mentorship-seeking tactics, angel/VC dynamics, and SEIS/EIS tax schemes without deep technical or strategic follow-up; the closest to technical is a brief exchange on in-car telematics and insurance data.",
+  "harry_quotes": [
+    "What was that?",
+    "How did you learn to code then at such a young age?",
+    "What's your role at EC1 and what are you looking for?",
+    "How big is big enough for you?",
+    "Do you think SEIS and EIS have really affected the investing environment?"
+  ],
+  "learnings": [
+    "Scott frames great founders as relentlessly resourceful, driven by dissatisfaction with the status quo, creative, and humble enough to keep learning.",
+    "He recommends using outside, unconflicted mentors rather than board members for candid feedback on both business and psychology.",
+    "Cold-emailing high-profile people works if the message is short and asks one clear, valuable question.",
+    "He sees UK/European angel investing as maturing thanks to SEIS/EIS tax incentives and increasing exits feeding capital back into the ecosystem.",
+    "He views friends-and-family funding as ethically fraught since most startups fail, so that money should be treated as a write-off from the start.",
+    "He believes automotive/logistics (telematics, autonomous vehicles, risk-based insurance data) is an underappreciated large tech opportunity.",
+    "He argues you shouldn't build a company with an exit as the primary goal — focus on solving a real problem and opportunities will follow."
+  ],
+  "topics": ["founder qualities", "mentorship", "angel investing", "seis/eis", "automotive tech", "early-stage funding"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 0,
+  "notable": "Very early (episode 40, May 2015) format still includes a long biographical intro and a scripted lightning round, with no ad reads at all."
+}

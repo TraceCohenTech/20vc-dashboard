@@ -1,0 +1,27 @@
+{
+  "guest": "Lo Toney",
+  "guest_role": "Founding Managing Partner at Plexo Capital",
+  "approx_date": "Jun 2020",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry mostly lets Lo run long, detailed answers uninterrupted, but repeatedly plants his own blunt framing (the 'what the fuck, Lo' LP reaction, the GP-commit diversity critique, the pushback on spray-and-pray) and asks Lo to defend or react to it.",
+  "question_style": "Largely open-ended and generous, letting Lo deliver extended monologues, but Harry periodically injects a pointed hypothetical or personal opinion (e.g., framing an angry LP reaction, or his own view on GP commit standards) and asks Lo to respond directly; he explicitly flags when he is 'pushing back' before doing so, and rarely interrupts mid-answer.",
+  "tone": "Warm, fannish and matey — Harry opens with visible enthusiasm ('wanted to see this episode for such a long time'), self-deprecates about his own voice and podcast, and swears casually for emphasis, keeping the mood informal despite technical subject matter.",
+  "depth": "Strong technical grasp of fund mechanics — minimum viable fund size, closing thresholds and LPA anchor terms, GP-stake structuring across management company/LP/GP entities, and ownership/reserve math in a power-law return model; follow-ups build logically on Lo's answers rather than staying surface-level.",
+  "harry_quotes": [
+    "What the fuck, Lo? I committed to a seed fund, not a pre-seed fund.",
+    "Can I be really annoying and push back on one element before the quick fire round?",
+    "How do you think about the right way to think about GP commits?"
+  ],
+  "learnings": [
+    "GPs facing a shortfall mid-raise should model a minimum viable fund size and test portfolio construction at several fund-size scenarios rather than assuming their original target will be hit.",
+    "Standard GP commit percentages unfairly disadvantage younger or less-wealthy managers, especially women and people of color, because a fixed percentage doesn't reflect how much it actually strains an individual's personal net worth.",
+    "Selling a stake in the management company (rather than discounting LP economics) can give emerging GPs working capital and help cover their own commit, and this should be negotiated separately from any LP investment to avoid opening the door to fee concessions industry-wide.",
+    "Plexo's hybrid model of investing in funds and directly in companies gives it a built-in sourcing edge, since the GPs it backs are already filtering deal flow before Plexo ever sees it.",
+    "As multi-stage funds increasingly write bigger checks earlier and buy up ownership in later rounds, smaller funds must front-load ownership at entry since they typically lack the reserves to defend their position later.",
+    "In fundraising closes, taking committed capital as soon as it's available (rather than waiting for a large threshold) builds momentum and signals credibility, though anchor LPs sometimes contractually force a minimum close size."
+  ],
+  "topics": ["fund mechanics", "gp commits", "diversity in vc", "fundraising strategy", "lp/gp hybrid model", "covid fundraising"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 4,
+  "notable": "Harry admits at the end that he had a fully prepared question list and only ended up asking one of them, letting the conversation run naturally instead."
+}

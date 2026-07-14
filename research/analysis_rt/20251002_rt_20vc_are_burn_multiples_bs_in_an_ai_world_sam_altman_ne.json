@@ -1,0 +1,31 @@
+{
+  "approx_date": "Oct 2025",
+  "panelists": ["Rory O'Driscoll", "Jason Lemkin"],
+  "stories_covered": [
+    "Sam Altman needs $1 trillion for energy capacity (125x in 8 years)",
+    "Largest LBO in history at $18B leverage",
+    "Figma down 63% since IPO peak",
+    "Klarna trades below IPO price",
+    "StubHub hits massively",
+    "Burn multiples debate in AI era",
+    "Binary world: haves vs have-nots in VC funding",
+    "Kingmaker effect on second/third place AI companies"
+  ],
+  "harry_takes": [
+    "Burn multiples are useful but deeply flawed; embedded assumptions about churn, gross margin, CapEx, and ARR quality don't hold for AI companies",
+    "VC is pure ARR arbitrage; you price on hope (if growth story) or multiples (if sub-scale); $15M revenue companies have zero option value to VCs",
+    "Founders with good numbers and metrics are in a binary rejection hell because VCs are only funding ultra-breakout AI companies, ignoring the 2022+ underperformers",
+    "Everything is AI now; there are no non-AI deals anymore. Companies claiming AI status are using it as a hedge against the narrative shift"
+  ],
+  "harry_boldest_quote": "You price a deal on hope or you price a deal on the multiples. $15 million revenue is zero value to a VC.",
+  "predictions": [
+    "Lemkin: Burn multiple gospel is terrible advice in 2025; founders with good triple-triple-double-double numbers still can't get funded unless they're ultra-breakouts",
+    "O'Driscoll: Kingmaker effects are real but not dispositive; category leadership in emerging AI segments can override valuation concerns for a period",
+    "Implied: Figma/Klarna/StubHub repricing signals that growth-at-any-cost narratives are breaking; public markets applying fundamentals pressure back to privates"
+  ],
+  "disagreements": "Lemkin argues VCs giving advice to optimize price/terms are living in 2021; O'Driscoll is more nuanced, saying VCs should factor in kingmaker effects and opportunity cost but still look at fundamentals. Lemkin is more binary: just take the deal.",
+  "harry_role": "Harry is the analytical anchor, driving the framework debate around burn multiples and ARR arbitrage. He challenges the assumption that ratios alone are predictive, emphasizes cash reality over percentages, and repeatedly flags the binary nature of current funding (AI-first vs. everything else).",
+  "topics": ["burn multiples", "vc funding", "ai companies", "kingmaker effect", "arr arbitrage", "figma", "energy capex", "secondary rounds"],
+  "sponsor_read_count": 4,
+  "notable": "Shift from 2025 VC optimism to doubts; Lemkin warns VCs are giving founders toxic advice by telling them their good metrics are golden when in reality only ultra-breakout AI companies are getting funded."
+}

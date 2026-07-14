@@ -1,0 +1,30 @@
+{
+  "approx_date": "Feb 2026",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll"],
+  "stories_covered": [
+    "Anthropic security review feature wipes $20B from CrowdStrike, Cloudflare",
+    "Figma earnings and AI displacement by Replit/Lovable in design-to-code",
+    "Citrini research memo: 2028 Global Intelligence Crisis (ghost GDP, job replacement)",
+    "CrowdStrike repricing from perfection-priced valuations",
+    "Claude Code now previews apps inside desktop—compresses Figma/Replit/Lovable moat",
+    "OpenAI spending $665B by 2030 to hit $280B revenue (new products don't exist yet)"
+  ],
+  "harry_takes": [
+    "Claude is Fortnite circle shrinking—everything can be consumed; only defendable assets own the agentic layer in their vertical",
+    "Public B2B software priced for perfection; any AI disruption threat triggers violent repricing",
+    "Ghost GDP real: productivity gains concentrate to few people, fewer consumers with money means economy softens short-term",
+    "Consolidation at 1-2x revenue: 20 unicorns merging into Frankenstein companies because standalone exits gone"
+  ],
+  "harry_boldest_quote": "Claude keeps consuming more and more of you.",
+  "predictions": [
+    "Harry: One major public SaaS CEO will do Elon Musk layoff—cut 50% headcount in one day, shock the market",
+    "Jason: Claude Code will aggressively attack Figma, Replit, Lovable this year; only defensible if they own entire value chain",
+    "Harry: PE-backed 6%+ growth SaaS companies forced into draconian headcount cuts to service debt",
+    "Jason: Citrini's ghost GDP thesis overstated on timeline but embedded truth: 4-5M job displacement if tech headcount cut 50%"
+  ],
+  "disagreements": "Yes—Jason emphasizes pace acceleration (things move faster than expected); Rory pushes back on extrapolation, argues macro takes longer to play out, warns against dismissing 10-year productivity cycle benefits. Harry mostly agrees with Jason on urgency.",
+  "harry_role": "Most bearish of trio, driving consolidation + ghost GDP theses, leveraging Jason's on-the-ground startup data as cover fire, somewhat dismissive of Rory's long-term productivity defense.",
+  "topics": ["anthropic", "software-disruption", "public-markets", "consolidation", "ghost-gdp", "ai-agents", "valuation-compression"],
+  "sponsor_read_count": 3,
+  "notable": "Ghost GDP concept crystallized: Jason's real example (12→3 people, same revenue) plus Claude's modeling of 50% tech headcount cut = $600-900B GDP impact, 4-5M jobs lost—unprecedented shock outside war/pandemic."
+}

@@ -1,0 +1,26 @@
+{
+  "guest": "Jonathan Ross",
+  "guest_role": "Co-founder and CEO of Groq (fast AI inference chips); previously started Google's TPU effort",
+  "approx_date": "Jan 2025",
+  "assertiveness": 7,
+  "assertiveness_why": "This emergency special has Harry planting sharp, specific theses (is the $500bn Stargate number 'ridiculed', should OpenAI just open source, is DeepSeek CCP data-capture instrument) and pressing the guest to defend or rebut them with citations of others' claims (Alex Wang, Josh Christian tweets), rather than passively receiving.",
+  "question_style": "Rapid-fire, news-driven direct questions demanding yes/no positions (Sputnik comparison, export control violations, Nvidia bull case) followed immediately by counter-framing or a contrary data point; Harry frequently interrupts to sharpen or challenge the guest's answer.",
+  "tone": "Urgent, high-energy 'emergency podcast' register, informal and blunt (openly says 'I just bought a shitload of Nvidia'), collegial but pushing hard given the breaking-news format.",
+  "depth": "Highly technical for a breaking-news episode: distillation vs. scaling laws, mixture-of-experts architecture, training vs. inference economics, Jevons paradox, export control loopholes — Harry visibly tracks and extends the technical thread rather than staying surface-level.",
+  "harry_quotes": [
+    "Is it as big a deal as everyone is making on it?",
+    "Do we buy their GP usage or is that questionable?",
+    "Does this news not ridicule the $500 billion announcement?"
+  ],
+  "learnings": [
+    "Ross argues DeepSeek's efficiency gain came largely from distilling/scraping higher-quality output from OpenAI's models (a form of reinforcement learning against a smarter tutor) rather than a pure algorithmic breakthrough alone.",
+    "He believes model quality is now fully commoditized, shifting competitive advantage to Hamilton Helmer's '7 powers' framework — brand for OpenAI, network effects for Meta, switching costs for Microsoft.",
+    "He predicts inference will dominate compute spend (framing training as a small, high-margin niche akin to selling mainframes) and invokes Jevons paradox to argue cheaper tokens will increase total AI compute demand, not shrink it.",
+    "He frames China's inability to be commercially profitable in-market (the government 'thumb on the scale') as the core reason Groq refuses to operate there, and argues open-source models carry no real switching costs, unlike cloud infrastructure.",
+    "He expects OpenAI will likely respond to DeepSeek by open-sourcing more of its own models to protect distribution and mindshare, since brand alone won't offset the loss of pricing power once open alternatives are 'good enough.'"
+  ],
+  "topics": ["deepseek", "ai chips/inference", "geopolitics/china", "model commoditization", "open source ai", "nvidia/compute economics"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "This is a same-day 'emergency podcast' reacting to the DeepSeek release, giving it an unusually breaking-news, rapid-response format compared to standard 20VC episodes."
+}

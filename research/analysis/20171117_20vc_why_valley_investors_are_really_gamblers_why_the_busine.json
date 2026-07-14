@@ -1,0 +1,27 @@
+{
+  "guest": "David Barrett",
+  "guest_role": "Founder and CEO, Expensify",
+  "approx_date": "Nov 2017",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry asks prepared follow-up questions and occasionally poses direct challenges to David's ideas, but mostly receives and builds collaboratively rather than conducting sustained pressure-testing.",
+  "question_style": "Harry asks well-structured multi-sentence questions that allow David to develop ideas fully. He occasionally poses direct challenges (e.g., asking David to defend the tension between profitability and growth expectations at IPO), but does not interrupt or plant his own thesis. He explores David's contrarian views through curious follow-ups rather than adversarial pressure.",
+  "tone": "Warm, enthusiastic, and deferential. Harry expresses genuine enjoyment ('I'm absolutely loving this show'), treats David as an expert with valuable insights, and maintains a collaborative rather than fawning tone. He's respectful and engaged without self-promotion.",
+  "depth": "Harry pursues strategic questions about founder psychology, funding philosophy, and company-building principles. He follows up on David's criticism of serial entrepreneurship and VC incentives with probing questions about success definitions and capital constraints. He explores both tactical details (origin of Expensify, hiring strategy) and philosophical themes (how to distinguish vision from stubbornness).",
+  "harry_quotes": [
+    "I'd love to start with what do you really mean by the cult of the serial entrepreneur?",
+    "Tell me who's to blame for this.",
+    "How do you respond to the suggestion that top tier VCs allow hiring top tier talent to be much easier?",
+    "Can I ask, what are the benefits to you of the capital constraints?"
+  ],
+  "learnings": [
+    "Profitability and growth reinforce rather than oppose each other; the most successful companies achieve both simultaneously, contrary to Silicon Valley convention.",
+    "Good ideas inherently look terrible initially because disruption requires challenging conventional wisdom; founders must learn to distinguish between bad ideas and misunderstood ones.",
+    "Resource constraints force innovation and team discipline; unlimited capital enables complacency and bloated hiring that couples revenue growth to headcount growth.",
+    "Great talent is attracted to independence, autonomy, and meaningful work rather than VC backing or financial compensation alone; truly exceptional people are already occupied.",
+    "Business is simpler than practitioners make it through invented jargon; the core task is identifying problems and applying available tools to solve them directly."
+  ],
+  "topics": ["saas", "funding strategy", "venture capital", "founder mindset", "profitability", "hiring philosophy", "business sustainability"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "David's founding origin of Expensify is remarkably unconventional: he originally designed a prepaid debit card to prevent homeless people from buying alcohol, but banks rejected it as too risky, so he reframed it as expense reports to make the idea 'sound safe and boring' to secure bank partnership."
+}

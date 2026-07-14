@@ -1,0 +1,35 @@
+{
+  "guest": "Jules Maltz",
+  "guest_role": "General Partner, Insight Venture Partners (IVP)",
+  "approx_date": "Feb 2017",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry asks structured follow-up questions and plants his own thesis (presenting Rory's founder-vs-market argument for Jules to defend), but mostly receives rather than sustained pressure-testing.",
+  "question_style": "Harry uses prepared multi-sentence questions with specific follow-ups, references external data (Fred at Excel on Deliveroo, Rory Driscoll's thesis), and asks Jules to respond to presented arguments. He rarely interrupts and doesn't directly contest answers, instead probing with structured questions about strategy and business metrics.",
+  "tone": "Friendly and matey with genuine enthusiasm; Harry shares personal connection (mentioning their shared Confucius quote) and shows respect for Jules' experience. Professional energy grounded in the VC world both inhabit, without fandom.",
+  "depth": "Strong technical depth covering venture mechanics, specific company examples (Slack, Facebook mobile pivot, Salesforce product expansion), and strategic concepts like the S-curve. Tracks unit economics, growth rates, and scaling challenges—evidence of preparation beyond surface queries.",
+  "harry_quotes": [
+    "What are the major trends that you've seen with IVP in the latest stage game?",
+    "What does the company need to show to get a larger later stage check?",
+    "Can I ask to what extent is that the role of the board member?",
+    "I'm intrigued how have we seen these requirements change to get a later stage check?"
+  ],
+  "learnings": [
+    "Late-stage VC sourcing has transformed from relationship-dependent introductions into proactive outreach where firms directly contact high-growth founders and demonstrate value before competing for investment rounds.",
+    "Building founder trust in compressed timeframes is critical because CEOs commit to multi-year board seats with minimal time to assess their VC partner beforehand.",
+    "Companies that scale successfully anticipate future market shifts and invest in new capabilities before disruption arrives, rather than reacting after growth declines.",
+    "Unit economics became a primary late-stage metric after companies with poor unit economics were over-funded during the unicorn boom of 2014-2015.",
+    "Scaling CEOs who proactively upgrade management teams and seek external guidance outperform those coasting on strategies that worked at smaller company scales.",
+    "Effective board influence flows through trust-building and probing questions rather than directives—CEOs adopt suggestions they've independently reasoned toward themselves."
+  ],
+  "topics": [
+    "late-stage venture",
+    "fundraising",
+    "unit economics",
+    "founder dynamics",
+    "scaling",
+    "market transitions"
+  ],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Episode launches a themed week on late-stage investing with a second interview promised; recorded during a weak 2016 IPO market that Harry predicted would reverse in 2017."
+}

@@ -1,0 +1,28 @@
+{
+  "guest": "Harry Stebbings and co-hosts",
+  "guest_role": "20VC hosts discussing AI and venture capital markets",
+  "approx_date": "Feb 2026",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry plants multiple foundational theses (IPO rehabilitation, end of SaaS growth, compute-revenue correlation) and directly challenges conventional wisdom without hedging, maintaining moderate assertiveness in collaborative panel format.",
+  "question_style": "Collaborative panel format where Harry poses leading questions, challenges conventional wisdom about SaaS valuations and AI spending, and facilitates debate. He frequently plants his own thesis for co-hosts to defend against or elaborate rather than pure inquiry.",
+  "tone": "Energetic and conversational with strong opinions; uses colorful language ('What a shitty time'); collegial banter with co-hosts; demonstrates strong conviction in contrarian takes while remaining relatively informal and accessible.",
+  "depth": "Highly technical discussion of revenue multiples, free cash flow valuations, data center economics, SMB seat dynamics, model ownership strategies, and the relationship between compute spend and revenue generation. Deep venture capital mechanics and market structure analysis.",
+  "harry_quotes": [
+    "What you just saw is the rehabilitation of the IPO, and I'm going to call it the end of stay private forever.",
+    "Elon operates like the Marines, no investor left behind.",
+    "For simplistic folks, for founders, I say inference is the new sales and marketing.",
+    "You don't see a bottom until these things are at free cash flow multiples, net of dilution.",
+    "And what all three of those say to me is there's subtle pressure around access to capital."
+  ],
+  "learnings": [
+    "Elite AI companies are pursuing IPOs years earlier than expected because private capital, while substantial, cannot sustain the compute spending required by models with one-to-one compute-to-revenue correlation.",
+    "Traditional SaaS growth has systematically decelerated because customer bases are saturated, SMBs are cutting seats at renewal, and enterprise budgets are being cannibalized by AI spending initiatives.",
+    "Agentic AI products that generate revenue directly (customer acquisition, SDR functions) command premium pricing if they deliver, but require high data quality and fail in low-context environments.",
+    "Microsoft's stock weakness reflects a structural problem: despite owning 30% of OpenAI, it lacks compelling first-party AI products at the knowledge worker level, making it dependent on others' success.",
+    "Government backing of AI infrastructure via low-interest loans or guarantees may become necessary if private capital shifts, paralleling COVID-era industrial policy for data center buildout."
+  ],
+  "topics": ["ai infrastructure", "saas decline", "venture capital", "ipo markets", "compute economics", "model ownership"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Panel/roundtable format rather than single-guest interview; discusses potential government backing of data center spending; notable for unusual strength of conviction in bearish SaaS thesis given market dominance."
+}

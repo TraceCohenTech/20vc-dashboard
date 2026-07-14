@@ -1,0 +1,27 @@
+{
+  "guest": "James Beshara",
+  "guest_role": "Co-founder, Tilt",
+  "approx_date": "Jan 2016",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks exploratory questions about product strategy and fundraising with some engagement, but rarely challenges James or introduces alternative viewpoints; mostly receiving posture.",
+  "question_style": "Open-ended and tactical. Harry explores product design decisions, market timing, fundraising journey, and personal growth. He probes the 'destinationless journey' comment with a skeptical question about selling to investors. Conversational and warm with good follow-ups, but no pushback or competing frameworks.",
+  "tone": "Warm and playful. This is 'Founder's Friday' so Harry is notably friendlier and more casual than typical VC episodes. There's genuine banter (beer pong challenge, mascot discussion). Energy is higher, more peer-to-peer, less formally reverent than earlier episodes.",
+  "depth": "Product and business strategy focused. Harry drills into onboarding simplification, customer retention loops, fundraising narrative, and personal founder evolution. Less philosophical than earlier episodes; more about tactical execution, product design, and journey-specific insights.",
+  "harry_quotes": [
+    "So could you tell us a little bit about that?",
+    "And what's it gonna take to get mass market crowdfunding?",
+    "And so was that a big part of the product design in terms of minimizing the onboarding process?",
+    "And how do you deal with customer attention then?"
+  ],
+  "learnings": [
+    "Crowdfunding remains in early adoption despite years of hype; mainstream success requires iterative product simplification (like blogging's shift from Blogger to Twitter) rather than revolutionary innovation.",
+    "Extreme simplicity in onboarding (15 seconds to start a campaign) enables non-technical users to access complex financial tools; this requires maniacal focus on UX rather than feature richness.",
+    "First experience matters enormously for retention and viral growth; Tilt's 82% success rate converts one-time users into advocates who recommend the platform for future collaborative spending.",
+    "Young founders without deep technical skills benefit from strong technical cofounders who can execute the vision; this complementarity is often more valuable than solo founder solo-ability.",
+    "CEO maturity requires shedding early-stage overconfidence and adopting daily assumption-questioning; flexibility and openness to being wrong are prerequisites for scaling beyond founder-led execution."
+  ],
+  "topics": ["crowdfunding", "tilt", "product design", "mobile-first", "fundraising", "user acquisition", "simplification", "founder journey"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 1,
+  "notable": "Founder's Friday episode (#031) with noticeably warmer, more playful tone than typical VCs format; includes beer pong challenge and lighter banter, suggesting Harry adjusts interpersonal style for founder-focused episodes."
+}

@@ -1,0 +1,26 @@
+{
+  "guest": "Michael Kim",
+  "guest_role": "Founder and Managing Partner of Sendana Capital (fund of funds investing in seed funds)",
+  "approx_date": "Jul 2016",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry repeatedly cites outside voices' contrary opinions (a panelist calling seed money 'dumb', Chris Douglas on LP/GP convergence, Dave McClure's portfolio-spread thesis) and asks Kim to respond/defend, going beyond pure reception.",
+  "question_style": "Structured, well-researched questions that often import a third party's counter-argument and ask the guest to rebut it directly; ends with a quickfire round. Harry doesn't interrupt, but he does plant others' theses against the guest's positions.",
+  "tone": "Warm, complimentary and matey ('such a pleasure', 'huge hand to Michael'), enthusiastic energy, heavy sponsor reads (Design Crowd) bookending the episode.",
+  "depth": "Reasonably technical on fund mechanics — ownership percentages, dilution math, portfolio construction, seed round composition, mortality rates — showing Harry tracks VC economics specifics rather than staying purely narrative.",
+  "harry_quotes": [
+    "Do you agree that even if it is dumb money, is that a bad thing?",
+    "So how do you respond to that, then? I'm intrigued.",
+    "What do you make of this kind of narrowing of the VC funding environment this year?"
+  ],
+  "learnings": [
+    "Kim argues seed funds succeed by leading rounds and writing the largest checks to secure 10-15% ownership, since small ownership stakes require billion-dollar exits to be meaningful.",
+    "He disagrees with a 'spray and pray' portfolio philosophy, contending concentrated ownership generates better fund returns than a large number of tiny positions.",
+    "LPs investing directly in startups face adverse selection risk, since the best deals rarely trickle down to LPs before top-tier VCs claim allocation.",
+    "Kim's actual seed-portfolio mortality rate has run under 10%, well below the 80% figure often assumed, though he expects it to normalize toward 25-30%.",
+    "He evaluates seed-fund GPs on three filters: ecosystem strength, portfolio construction discipline, and intangible factors like network and long-term platform ambition."
+  ],
+  "topics": ["fund of funds", "seed investing", "fund mechanics", "portfolio construction", "lp/gp dynamics", "venture returns"],
+  "repeat_guest_callback": "I had Jeff on the show a while ago. Jeff and Andy McLaughlin on the show a while ago.",
+  "sponsor_read_count": 2,
+  "notable": "Harry name-drops having interviewed Dave McClure the night before at a fireside chat and floats hosting a future roundtable between Kim and McClure to hash out their portfolio-construction disagreement live."
+}

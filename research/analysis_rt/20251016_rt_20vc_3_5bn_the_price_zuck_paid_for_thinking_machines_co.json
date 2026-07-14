@@ -1,0 +1,30 @@
+{
+  "approx_date": "Oct 16, 2025",
+  "panelists": ["Rory O'Driscoll", "Jason Lemkin", "Roger McNamee"],
+  "stories_covered": [
+    "Andrew Tullock leaves Thinking Machines for Meta ($3.5B)",
+    "Thinking Machines raised $2B at $10B post-money",
+    "SoftBank borrows $5B against ARM stock to invest in OpenAI",
+    "Industry Ventures acquired by Goldman Sachs for $665M ($970M with earnout)",
+    "Founder retention and vesting protection",
+    "One-turn vs multi-turn game theory in high-value exits",
+    "Asset purchase model becoming de rigueur for founder acquisitions"
+  ],
+  "harry_takes": [
+    "Tullock's departure represents a broken founder ethos; he abandoned the mission for personal financial gain when he already had significant wealth from 14 years at Meta",
+    "The sale of thinking machines reveals how venture now values founder optionality over commitment; if you can make $3.5B in a one-turn game, rational actors will defect",
+    "VCs failed to structure deals protecting against this; without extended vesting and repurchase rights, founders can abandon companies",
+    "Industry Ventures sale (10% of AUM valuation) shows secondary fund business is more monetizable than primary venture; Goldman is buying a platform and distribution channel"
+  ],
+  "harry_boldest_quote": "In the face of unprecedented wealth, I'm shocked to discover that most people behave badly.",
+  "predictions": [
+    "McNamee: Founders launching new funds face LP skepticism (are they still hungry?); VCs can't win—early funds face doubt, then success brings questions about motivation",
+    "Lemkin: Vesting and founder controls will become standard defensive measures; the era of founder trust without structure is over",
+    "Implied: More $3.5B exits will drive more founder departures; this becomes an asset-class risk factor as technical deep-tech talent proves flight-prone"
+  ],
+  "disagreements": "McNamee and Harry view Tullock's behavior as immoral and founder irresponsibility; Lemkin/Rory frame it as rational financial decision-making where $3.5B liquid vs $2B illiquid is an obvious choice. Harry counters wealth context matters; others argue one-turn games create perverse incentives regardless of prior wealth.",
+  "harry_role": "Harry drives the moral framework hard, viewing this as a founder ethos crisis. He challenges the \"it's rational\" counterargument by invoking wealth context and responsibility. Simultaneously, he ties it to VC structural failures (vesting, deal terms) and uses it to anchor the Industry Ventures discussion about asset manager exit economics.",
+  "topics": ["founder retention", "thinking machines", "meta acquisition", "vesting", "deal structures", "one-turn games", "industry ventures", "goldman sachs"],
+  "sponsor_read_count": 3,
+  "notable": "Episode features Roger McNamee's return to investing post-retirement, creating meta discussion about founder/investor commitment. Tullock departure mirrors the venture capital tensions between loyalty, rationality, and financial incentives."
+}

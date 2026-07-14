@@ -1,0 +1,22 @@
+{
+  "approx_date": "Mar 2026",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll"],
+  "stories_covered": ["Anthropic Pentagon contract dispute", "OpenAI $110B fundraise", "Block 40% layoffs", "SaaS profitability crisis", "Public company re-ratings"],
+  "harry_takes": [
+    "The state has a monopoly on violence and is more powerful than any tech company—Anthropic was naive to think it could impose principles on the Pentagon",
+    "Dario was trapped between his company's core principles and employee demands, but capitulating damages leverage long-term",
+    "The SaaS apocalypse is worse than most think because companies hid revenue deceleration behind retention and contract bundling",
+    "AI is forcing permanent reorganization of software companies every 6-9 months; those who don't adapt will disappear"
+  ],
+  "harry_boldest_quote": "The state is more powerful than Antropic.",
+  "predictions": [
+    "Lemkin: October IPO for OpenAI at 1.5 trillion valuation",
+    "Lemkin: Most public SaaS CEOs will give up on growth and chase profitability by year-end 2026",
+    "O'Driscoll: Companies trading at 8-9x next-year EBITDA have room to survive modest growth deceleration"
+  ],
+  "disagreements": "Rory argues that elected governments should make decisions about military AI deployment despite limited technical expertise; Jason argues government has the constitutional right and should decide, not tech founders.",
+  "harry_role": "Moderator playing devil's advocate. Challenges Jason's apocalyptic SaaS view while validating his core insight. Pushes both panelists to defend positions on state power vs tech company principles.",
+  "topics": ["ai-policy", "defense-tech", "saas-collapse", "venture-capital", "labor-power"],
+  "sponsor_read_count": 3,
+  "notable": "First major discussion of labor vs capital vs state power hierarchy in AI era—establishes that government force trumps everything."
+}

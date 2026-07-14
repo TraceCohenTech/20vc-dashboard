@@ -1,0 +1,27 @@
+{
+  "guest": "David Cohen",
+  "guest_role": "Founder and Co-CEO of Techstars",
+  "approx_date": "Feb 2019",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry regularly injects outside theses and other investors' contrasting data points (Mike Maples on bridges, Jeff Feigin on reserve stack-ranking) and asks David to react, but he never directly disputes David's answers, so it sits at occasional-challenge rather than sustained pressure-testing.",
+  "question_style": "Mostly open, prepared multi-sentence questions with natural follow-ups that build on the prior answer; Harry frequently plants a third party's competing view (a prior guest's stat or a Techstars partner's question) and asks David to respond to it, but rarely interrupts or directly contests David's own claims.",
+  "tone": "Warm, matey, and visibly starstruck — Harry repeatedly thanks David for being generous with his time, makes a self-deprecating joke about being single, and frames the episode as a fandom-driven 'round two' reunion.",
+  "depth": "Goes past surface pleasantries into specific investing mechanics — board composition and evolution, convertible note/safe cap negotiation as a truth-serum for founder confidence, runway length, and reserve-allocation strategy at accelerator scale — showing real command of venture structuring topics.",
+  "harry_quotes": [
+    "So what does the moment of integrity mean for you?",
+    "So David, what are the characteristics and traits of this pessimist?",
+    "What's your superpower, David?"
+  ],
+  "learnings": [
+    "Cohen sees the first moment someone is confronted about a mistake as the true test of character — owning it immediately preserves trust far more than eventually admitting it after denial.",
+    "Boards need a genuinely respected internal skeptic (often the CFO or general counsel), not just a naysayer, because founders and investors are both structurally biased toward optimism.",
+    "To gauge whether a founder truly believes their own 'bridge to a big round' story, Cohen proposes a fallback valuation cap that only kicks in if the anticipated round doesn't happen — resistance to that term reveals hidden doubt.",
+    "Techstars treats accelerator-stage investing as a distinct asset class from concentrated venture investing, managing reserves as one broad pool rather than stack-ranking individual companies at the seed stage.",
+    "Cohen advocates for longer runway targets (18-24 months) at seed and Series A so founders aren't pulled back into fundraising mode within just a few months.",
+    "In hindsight, Cohen would have separated Techstars' accelerator capital vehicle from its follow-on fund structure earlier, to capture more of the value created by the model instead of unifying capital structures later."
+  ],
+  "topics": ["board governance", "convertible notes", "bridge financing", "seed investing", "reserve allocation", "accelerators"],
+  "repeat_guest_callback": "David, it is beyond a pleasure to have you on the show again for a very special round two.",
+  "sponsor_read_count": 6,
+  "notable": "This is an explicit repeat-guest 'round two' episode, and Harry crowdsources several questions from Techstars insiders (partner Nicole, and Jamie Sperling) rather than asking only his own."
+}

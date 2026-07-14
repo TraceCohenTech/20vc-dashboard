@@ -1,0 +1,35 @@
+{
+  "guest": "Paul Sal",
+  "guest_role": "Founding Partner at Canvas Ventures",
+  "approx_date": "Apr 2018",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry introduces data points (female founder funding stats, capital raising thresholds) and asks substantive follow-ups, but primarily receives Paul's thesis without sustained contestation or external validation.",
+  "question_style": "Multi-sentence prepared questions with real follow-ups on marketplace mechanics, product-market fit, and founder psychology. Harry occasionally plants data (2.19% female founder stat, historical 500-company study). Exploratory rather than adversarial; no significant interruptions. Mostly probing for deeper understanding of Paul's framework.",
+  "tone": "Warm and deferential with genuine enthusiasm for the topic. Harry shows fan-like admiration (\"Huge thanks for joining\", \"you're far too kind\") while maintaining professional curiosity. Formal but friendly; self-deprecating praise acceptance (\"I will pay you later, I promise\").",
+  "depth": "Tracks multiple technical domains: marketplace chicken-and-egg problem, supply vs. demand dynamics, monthly repeat cohort analysis, product-market fit intuition vs. data, user survey methodology (Aswander), founder age correlations in 500 most-valuable companies study, capital efficiency vs. capital raising threshold ($85-100M). Specific follow-ups on distribution strategy (YouTube widget example), trust as underestimated lever, and historical founder age patterns.",
+  "harry_quotes": [
+    "What was your start?",
+    "What book would you most recommend that I read, Paul?",
+    "Can I ask, are you concerned by the extended window of privatisation that we have today?",
+    "Who's the best board member that you've worked with and why?"
+  ],
+  "learnings": [
+    "Successful marketplaces win by acquiring differentiated, concentrated supply (power users in a specific cluster) rather than spreading thin across a horizontal mass market",
+    "Early marketplace demand grows most effectively through existing distribution channels and offline community engagement, not pure digital marketing spend",
+    "Marketplace scaling follows a step-function growth curve tied to supply reaching critical mass, not linear growth; founders who distinguish between patience and stubbornness avoid premature pivots",
+    "Trust in payment, quality, and safety is frequently underestimated in early stages but becomes mission-critical, requiring proactive design rather than post-hoc scrambling",
+    "Among the 500 most valuable tech companies historically, 80% of founders launched their companies in their 20s or 30s, with 40% under 30, contradicting age-bias assumptions",
+    "Modern successful companies raise substantially more capital ($85-100M+) than older-era counterparts, reversing the prior emphasis on capital efficiency"
+  ],
+  "topics": [
+    "marketplaces",
+    "fundraising",
+    "founder-psychology",
+    "supply-demand",
+    "product-market-fit",
+    "diversity"
+  ],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 4,
+  "notable": "Part of a thematic feature week on marketplaces; Paul's portfolio skews notably female-founder (several exits named: Zola, Thrive Global, Roofstock, Flux Labs) despite ecosystem average of 2.19%, attributed to founders who under-promise and over-deliver."
+}

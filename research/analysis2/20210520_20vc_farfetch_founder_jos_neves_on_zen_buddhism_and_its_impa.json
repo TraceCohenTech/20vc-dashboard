@@ -1,0 +1,26 @@
+{
+  "guest": "Jose Neves",
+  "guest_role": "Founder, CEO and Chairman of Farfetch",
+  "approx_date": "May 2021",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks thoughtful, layered follow-up questions and even one 'potentially divisive' question about stubbornness, but he never pushes back, contests a claim, or plants an adversarial thesis — the tone is exploratory and receptive throughout.",
+  "question_style": "Open, philosophical, and personal in tone, often following the guest's own language back to him (e.g. picking up 'detachment' and 'right action'); Harry shares his own vulnerability (self-doubt) rather than challenging the guest, and there's no interruption or contestation.",
+  "tone": "Reflective, warm, and unusually personal/vulnerable for the format — Harry frames this as 'a very real conversation about what truly great leadership means' and opens up about his own self-doubt.",
+  "depth": "Goes deep into philosophy and psychology (Zen Buddhism, Antonio Damasio's neuroscience of emotion and decision-making, detachment during a stock crash) more than operational business detail; less technical/strategic and more introspective than typical episodes.",
+  "harry_quotes": [
+    "Do you think the ability to detach comes from bluntly financial security?",
+    "Can I ask one that's potentially divisive?",
+    "How do you deal with that loneliness today?"
+  ],
+  "learnings": [
+    "Neves treats Zen practice as continuous awareness of the present moment rather than a discrete meditation session, arguing it can happen even mid-activity (e.g. on a Peloton).",
+    "He cites Antonio Damasio's neuroscience research to argue that emotion and rational thought are not separable in good decision-making — patients who lose emotional processing but retain logic make catastrophic real-world decisions.",
+    "During Farfetch's stock being caught in the Archegos Capital unwind, he describes handling a 20% intraday drop with detachment rather than panic, framing it as proof he was never in control anyway.",
+    "He reframes self-doubt as a healthy, protective mental construct rather than something to eliminate — the same mental capacity that generates a negative scenario can be redirected to generate a positive one.",
+    "His approach to industry dealmaking is built around a 'win-win-win' ecosystem view (illustrated via the Off-White/Louis Vuitton/Virgil Abloh story) rather than zero-sum negotiation."
+  ],
+  "topics": ["leadership philosophy", "zen buddhism", "decision-making", "risk", "founder psychology", "fashion tech"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Unusually introspective, philosophy-heavy episode — first time Harry says he's had a Zen Buddhist guest, and he shares his own struggle with self-doubt rather than only asking about the guest's."
+}

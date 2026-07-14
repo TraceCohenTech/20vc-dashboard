@@ -1,0 +1,28 @@
+{
+  "guest": "Gil Penchina",
+  "guest_role": "Founder at Flight.VC, operator of the world's largest AngelList syndicate network",
+  "approx_date": "Feb 2016",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared, multi-part questions and follows up on specifics (pro rata, deal flow, VC behavior) but never challenges or contests any of Gil's claims.",
+  "question_style": "Mostly open, topic-guided questions that move through a checklist (background, syndicate model, deal flow, VC relationships, future outlook, quickfire); Harry occasionally quotes Gil's own past remarks from another podcast back to him to prompt elaboration, but he does not interrupt or push back on any answer.",
+  "tone": "Warm, matey, and fan-forward — Harry opens with excited personal news, praises Gil's track record, wishes him luck for an award, and closes with enthusiastic thanks; energy is upbeat throughout with light self-promotion for his own podcast ventures.",
+  "depth": "Mostly surface-to-mid level, covering syndicate mechanics (multi-vertical model, backer caps, pro rata rights, carry structure for scouts) rather than deep technical or financial detail; he does track structural venture/angel mechanics (syndicate caps, follow-on funds, blitzscaling) as recurring interests.",
+  "harry_quotes": [
+    "Why did you choose to go down the Angel List Syndicate route?",
+    "Do you insist on pro rata rights?",
+    "What's your investing ethos in a sentence?",
+    "Will it replace the archaic system of VC?"
+  ],
+  "learnings": [
+    "Running a multi-vertical syndicate model mirrors mutual fund families like Fidelity, letting different backer segments choose sectors they believe in rather than one generic fund.",
+    "AngelList syndicates cap each deal at 99 investors, so even with thousands of backers only a small fraction can get into any single deal.",
+    "Volunteers and scouts extend a syndicate's capacity, splitting into an analysis-focused group and a deal-sourcing group who earn carry for deals they originate.",
+    "A large backer base can be mobilized for small favors (intros, social shares) at scale, functioning as an informal operating bench for portfolio companies.",
+    "Many VCs oversell how much post-investment help they'll provide, and true pay-it-forward behavior (helping before any investment is made) is rarer and more valuable as a signal.",
+    "Lower barriers to starting a company have shifted the hard problem from creation to scaling, which is why disproportionate value now accrues to businesses that can reach massive scale."
+  ],
+  "topics": ["angellist", "syndicates", "angel investing", "fund structure", "vc relationships", "scaling"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Harry references and quotes Gil's simultaneous appearance on Jason Calacanis's 'This Week in Startups' podcast multiple times to prompt follow-up detail."
+}

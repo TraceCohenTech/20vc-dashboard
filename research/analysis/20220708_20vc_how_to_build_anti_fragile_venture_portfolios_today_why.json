@@ -1,0 +1,38 @@
+{
+  "guest": "Mike Chalfon",
+  "guest_role": "Solo GP with Chalfon Ventures",
+  "approx_date": "Jul 2022",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry plants his own investment thesis multiple times and asks Mike to defend ('Do you not find this misalignment with GPs and LPs?'), but does so intermittently rather than sustained throughout; primarily in receiving mode.",
+  "question_style": "Multi-sentence prepared questions with real follow-ups. Harry occasionally contests claims directly and references his own experience to challenge Mike, but remains conversational rather than adversarial. Interrupts politely and self-corrects.",
+  "tone": "Warm and matey—Harry calls Mike a close friend and mentor, shows genuine respect and high energy. Self-deprecating ('I'm permanently paranoid, Mike'). Maintains admiration without excessive fandom; treats Mike as a peer wisdom-holder.",
+  "depth": "Strong technical grounding: tracks unit economics, anti-fragile portfolio construction, founder psychology, board dynamics, capital allocation, and reserve management. Digs into specific concepts with follow-ups on reasoning; asks about outcomes and decision-making frameworks.",
+  "harry_quotes": [
+    "Do you not find this misalignment with GPs and LPs today?",
+    "Do you regret your increased pace of deployment in 21?",
+    "Can I ask Mike, my biggest fuck-ups in venture have always been, no, I'm not putting in more money.",
+    "I always say to founders construct your timetable like a sports team.",
+    "How does that impact how you think about investing today?"
+  ],
+  "learnings": [
+    "A solo GP model creates alignment between investor incentives and founder success, removing the career management motive that can override capital returns in larger partnerships.",
+    "Anti-fragile portfolio construction emerges from diversifying business model risks (go-to-market, capital requirements, market emergence) rather than simply scaling company count.",
+    "Early-stage investor value flows from frequent problem-solving conversations and standing cadences, not from formal board seats that often become reporting theaters rather than strategy forums.",
+    "Effective syndicate construction starts with founder goals for the round, then identifies investors who uniquely solve for those needs rather than maximizing any single investor's ownership.",
+    "Unit economics assessment at seed stage is less about proving existing numbers and more about imagining which business model levers must click into place for profitability."
+  ],
+  "topics": [
+    "solo vc",
+    "fund mechanics",
+    "portfolio construction",
+    "anti-fragile investing",
+    "founder psychology",
+    "unit economics",
+    "capital allocation",
+    "board dynamics",
+    "investor-founder alignment"
+  ],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "First episode after Harry had pursued Mike for 7–8 years. Mike shares unusually candid personal background—father's sudden death, divorce, firing from Apex—that shaped his empathetic investor philosophy. Episode includes duplicate sponsor reads (Notion and AngelList appear both at opening and closing)."
+}

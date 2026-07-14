@@ -1,0 +1,32 @@
+{
+  "guest": "Jeremy Liew",
+  "guest_role": "Partner, Lightspeed Venture Partners",
+  "approx_date": "Apr 2019",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared multi-sentence questions with real follow-ups but never contests Jeremy's claims or plants a thesis for him to defend.",
+  "question_style": "Harry asks prepared, exploratory questions about VC mechanics with thoughtful follow-ups. He probes for clarification and explores implications of Jeremy's points but adopts a receiving, learning posture throughout; he never challenges or contests the guest's perspective.",
+  "tone": "Warm and matey, with self-deprecating humor. Harry frames himself as a learner seeking Jeremy's guidance and expresses genuine appreciation for their relationship. The energy is collegial and admiring rather than neutral or formal.",
+  "depth": "Harry explores VC mechanics in detail: sourcing strategy (volume vs. selectivity, domain expertise, building relationships), evaluation methods (distinguishing good from great, acceptable risk), founder dynamics (avoiding micromanagement, the 'learning to drive' metaphor), scaling mistakes (channel saturation), competitive deal-winning, and time allocation. He asks process-oriented questions but doesn't dive into specific technical product domains.",
+  "harry_quotes": [
+    "How do you think about sourcing today?",
+    "How do you prevent yourself from supplanting your ideas to make something good, great?"
+  ],
+  "learnings": [
+    "Early-stage venture investors need high meeting volume to develop pattern recognition, while established investors can use selective filters to manage time without losing deal flow.",
+    "Distinguishing bad from good companies is straightforward for experienced investors, but identifying truly exceptional opportunities requires accumulated exposure to many companies to build reliable intuition.",
+    "Effective venture investors help founders avoid catastrophic mistakes but resist imposing their own strategic direction; this balance requires reading the founder's receptiveness and choosing the appropriate communication channel.",
+    "Consumer companies often fail by overinvesting in customer acquisition channels just as they approach saturation; recognizing when growth curves plateau is critical to maintaining unit economics.",
+    "Successful venture capitalists win competitive deals by leveraging specific, differentiated strengths (domain expertise, networks, prior investments) rather than attempting to be strong across all dimensions."
+  ],
+  "topics": [
+    "venture capital",
+    "sourcing",
+    "fund mechanics",
+    "founder relations",
+    "scaling",
+    "customer acquisition"
+  ],
+  "repeat_guest_callback": "Today's guest I interviewed over two years ago, since he's been an incredible source of advice and guidance to me, and I'm just so thrilled to be able to welcome Jeremy Liu back to the hot seat today.",
+  "sponsor_read_count": 3,
+  "notable": "Harry breaks from the typical interviewer-interviewee dynamic by asking Jeremy for personal career advice, revealing the relationship extends beyond the podcast format into a genuine mentorship."
+}

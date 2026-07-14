@@ -1,0 +1,28 @@
+{
+  "guest": "Ed Sim",
+  "guest_role": "Founding Partner at Bold Start Ventures",
+  "approx_date": "Nov 2015",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared, multi-sentence, well-researched questions with genuine follow-ups, but he never contests or challenges Ed's claims, staying in a receptive, admiring interviewer mode throughout.",
+  "question_style": "Questions are open-ended and topic-driven (deal sourcing, market sizing, East Coast vs West Coast investing), often set up with context Harry has clearly researched, but he rarely interrupts and never pushes back on an answer; he occasionally plants a light frame (e.g. contrasting Valley 'sharp' valuations with Bold Start's) but lets Ed's answer stand unchallenged.",
+  "tone": "Warm, matey, and fan-like — Harry opens with effusive praise for Ed's career and closes with gratitude; energy is enthusiastic and informal (laughs along with Ed's swearing) rather than neutral or clinical.",
+  "depth": "Mostly strategic/business-model depth (seed-stage economics, cap tables, sourcing networks, SaaS-vs-ASP history) rather than deep technical engineering detail; he does track specific enterprise trends like developer-driven buying, security-vs-velocity tension, and messaging-as-enterprise-UI.",
+  "harry_quotes": [
+    "How did you find the experience?",
+    "Do you get concerned that there's too much capital chasing too few deals?",
+    "What's your favorite blog or newsletter?",
+    "What's the most used app on your phone then?"
+  ],
+  "learnings": [
+    "Cloud infrastructure and open source removed the need for enterprise startups to spend millions building their own scaling infrastructure, which is why enterprise seed rounds shrank dramatically compared to the earlier ASP era.",
+    "Repeat enterprise entrepreneurs can reuse relationships and old customer rolodexes across companies in a way consumer founders generally cannot, making enterprise repeat success more achievable.",
+    "Bold Start's sourcing is overwhelmingly referral-driven (roughly three-quarters from founders and their networks) rather than from outbound scouting or platforms like AngelList.",
+    "The rise of micro-VCs stems from a market mismatch: large funds became too big to write small checks efficiently, while founders increasingly wanted smaller, less dilutive initial rounds.",
+    "Developers are becoming a bottom-up buying channel in enterprise software, adopting tools individually before pulling in IT/procurement, mirroring consumer-style adoption patterns.",
+    "New York seed valuations run structurally lower than Silicon Valley's at the time, reflecting a less overheated local market rather than lower quality deal flow."
+  ],
+  "topics": ["saas", "seed funding", "enterprise software", "venture capital history", "deal sourcing", "market sizing"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Harry references having previously interviewed Jeff Clavier (SoftTech VC) as a mutual friend of Ed's, showing an early instance of cross-referencing guests across episodes rather than a formal callback."
+}

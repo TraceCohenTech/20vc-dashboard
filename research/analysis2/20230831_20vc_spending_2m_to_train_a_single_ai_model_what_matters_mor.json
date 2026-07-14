@@ -1,0 +1,26 @@
+{
+  "guest": "Noam Shazeer",
+  "guest_role": "Founder and CEO, Character.AI (former 20-year Google Brain veteran)",
+  "approx_date": "Aug 2023",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry asks a genuinely hard, pointed challenge ('why is Character a standalone company and not a product of Facebook?') and probes tensions (generalist vs. specialized, open vs. closed, data vs. compute) but mostly lets Noam's answers stand without recontesting them.",
+  "question_style": "Largely open-ended, letting Noam narrate at length, but Harry inserts direct challenge questions ('do you not worry we're losing touch with other humans?', the Facebook question) and plants a thesis (specialization drives richer conversation) for the guest to respond to; light on interruption.",
+  "tone": "Enthusiastic and reverent toward a renowned technical figure, energetic fandom-tinged tone, some personal/reflective detours into parenthood and religion near the end.",
+  "depth": "Goes deep on technical AI topics: compute vs. data as the constraint, dense vs. sparse computation and hardware-matched architectures, mixture-of-experts history, hallucination as feature vs. bug, proprietary vs. web-scraped training data, and open vs. closed model ecosystems.",
+  "harry_quotes": [
+    "Do you not worry that we're losing touch with other humans?",
+    "Why is character a standalone company and not a product of Facebook?",
+    "What did you believe that you turned out to be wrong on?"
+  ],
+  "learnings": [
+    "Character.AI trained its production model for roughly $2 million in compute, with total training compute (size times duration) as the binding constraint rather than raw data volume.",
+    "The company deliberately launched a general-purpose product and let users discover unexpected use cases (like using a video-game character as an informal therapist) rather than picking a narrow vertical.",
+    "Noam sees hallucination as a feature to be embraced for entertainment/companionship use cases first, letting productivity applications mature later as the models improve.",
+    "Startups have an edge over incumbents like Facebook because large companies move slowly to protect existing products, though he expects room for many winners across both categories.",
+    "His early belief that sparse computation would be more efficient was wrong; the field's progress instead came from dense matrix multiplication matched to specialized hardware, which led him to design sparsity built from dense building blocks (mixture-of-experts)."
+  ],
+  "topics": ["ai", "llms", "compute infrastructure", "founder mindset", "open vs closed ai", "consumer ai"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Part two of a special 'feature week' pairing two AI company founders; ends with an unusually personal detour into parenthood, religion, and responsibility."
+}

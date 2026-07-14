@@ -1,0 +1,22 @@
+{
+  "guest": "Heather Fernandez",
+  "guest_role": "Founder and CEO, Solv",
+  "approx_date": "Aug 2018",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks thorough, investor-sourced questions with genuine follow-ups but consistently receives and validates rather than challenging or contesting the guest's claims.",
+  "question_style": "Open, warmly framed questions built from pre-show conversations with named investors (Pete Flint, Leila Sturdy, Theresa, James); follow-ups probe for specifics (e.g. which single metric she tracks) but Harry never pushes back or plants a competing thesis.",
+  "tone": "Very matey and admiring, personal and enthusiastic ('I feel like I know you well'), frequent praise and light humor, ends on personal/family territory.",
+  "depth": "Reasonably deep on operational specifics: marketplace supply/demand metrics, hiring-stage frameworks (0-10/10-50/50-100), board management, and the mechanics of a founder culture value ('constructive candor'); stays strategic/operational rather than technical.",
+  "harry_quotes": ["Would you agree with this kind of having run and operated solve now?", "How do the best CEOs manage their board?", "What gave you the confidence to do that, Heather?"],
+  "learnings": [
+    "Fernandez frames hiring needs in three stages of company growth: 0-10 people (self-directed culture-setting creators), 10-50 (team-builders providing leverage), 50-100 (infrastructure/expertise roles).",
+    "She argues stubbornness is warranted early in a marketplace because small data sets make traditional A/B testing statistically unreliable, so qualitative and cross-company validation matter more.",
+    "Her spending discipline rule: only 'pour gas' on growth once core action completion (e.g. bookings, not just traffic) is trending in the right direction on both supply and demand sides.",
+    "She credits sitting on Atlassian's board (while running her own) with teaching her to manage her own board through radical transparency rather than defensive positioning.",
+    "Culture values (e.g. 'constructive candor') must be authentic to the founder rather than copied from other startups' stated values, and are reinforced through deliberate rituals (offsites, quarterly team events), not just hiring."
+  ],
+  "topics": ["marketplaces", "company culture", "hiring", "board management", "healthcare", "growth metrics"],
+  "repeat_guest_callback": "We were lucky enough to have Sami and Pete on the show before.",
+  "sponsor_read_count": 3,
+  "notable": "Guest's prior career included being National Deputy Press Secretary for John McCain's 2000 presidential campaign, an unusual pre-startup background Harry highlights in the intro."
+}

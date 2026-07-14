@@ -1,0 +1,28 @@
+{
+  "guest": "Ian Siegel",
+  "guest_role": "Co-founder and CEO of ZipRecruiter",
+  "approx_date": "May 2022",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry occasionally contests a framing directly (pointing out that Ian's 'you never met me' persona claim contradicts real detachment) and shares his own vulnerabilities to draw out contrast, but mostly lets Ian's frameworks stand unchallenged and builds on them.",
+  "question_style": "Open-ended and reflective, often personal/confessional (sharing his own struggles with detachment and work-life balance) rather than adversarial; digs for specifics with layered follow-ups ('how long is long enough', 'do you start with full trust') but rarely disputes the guest's claims.",
+  "tone": "Warm, personal, vulnerable — Harry discloses his own anxieties about money, detachment, and parenting, creating an intimate, therapy-adjacent conversation rather than a formal interview.",
+  "depth": "Strong depth on leadership/management topics: delegation thresholds, hiring philosophy (pointy specialists over generalists), data-driven culture's blind spots for innovation, brand vs. product perception, and bootstrap-to-VC funding timing.",
+  "harry_quotes": [
+    "That you never met me doesn't really sound like you have much detachment.",
+    "How do you not lose an inch on performance and be a good dad and a good husband?",
+    "Do you give them that responsibility on day one though?",
+    "How long is long enough?"
+  ],
+  "learnings": [
+    "Siegel deliberately limits himself to making fewer than 10 CEO decisions a year, preferring to ask questions that force his team to articulate and own their own strategy rather than issuing directives.",
+    "ZipRecruiter's data-driven culture, while great for optimizing existing product, actively suppressed innovation on new products; the fix was throwing out data-first thinking and instead asking builders 'what product would you personally want to use.'",
+    "Increasing candidate volume per job posting (25 to 100+) actually hurt employer satisfaction, pushing the company to pivot from quantity to machine-learning-driven quality matching and toward flipping the market so employers pursue candidates first.",
+    "His biggest hiring-mistake lesson was favoring well-rounded 'five-tool' generalists who resembled himself, when in practice deep, narrowly obsessive 'pointy' specialists (like an ad-buying hire who found $1M in unbilled ad discrepancies on day one) delivered outsized value.",
+    "He deliberately delayed raising outside capital for four and a half years to preserve a disciplined, bootstrapped lifestyle-business culture, but in hindsight wishes he'd raised sooner to fund the shift from rules-based to machine-learning matching.",
+    "Going public was, contrary to widespread warnings, clarifying rather than constraining — quarterly cadence gave him a credible external framework for pushing internal progress on initiatives."
+  ],
+  "topics": ["leadership", "management", "hiring", "company culture", "bootstrapping", "recruiting/hr tech"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Unusually personal and confessional episode where Harry openly discusses his own struggles with detachment from his fund/media company and work-life balance, turning parts of the interview into a two-way exchange."
+}

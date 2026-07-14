@@ -1,0 +1,26 @@
+{
+  "guest": "Stewart Butterfield",
+  "guest_role": "Founder and CEO of Slack",
+  "approx_date": "Nov 2020",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry plants specific investor anecdotes and board member perspectives as context, occasionally probes with direct questions about vision and leadership doubts, and uses personal experience to reframe issues, but remains mostly receptive rather than adversarial.",
+  "question_style": "Harry asks thoughtful, multi-sentence questions that invite extended philosophical exploration rather than yes/no answers. He frequently establishes context by referencing specific investor quotes and board member anecdotes, and occasionally reframes topics using his own founder experience to probe deeper. He doesn't interrupt aggressively, instead allowing full responses and using follow-ups to extend the discussion.",
+  "tone": "Warm and deferential with genuine admiration for the guest; Harry expresses enthusiasm throughout (\"such a joy to have you on the show\") and occasionally self-deprecates about his early podcast days. The conversation is conversational and matey rather than formal, with Harry treating the exchange as a philosophical exploration between peers.",
+  "depth": "Harry engages in substantive, strategic questioning about founder identity, leadership philosophy, decision-making theory, and organizational culture. He probes deeply into topics like the tension between intuition and data-driven decisions, the unintended consequences of founder authority, and long-term versus near-term thinking, rather than asking surface-level operational questions.",
+  "harry_quotes": [
+    "How did you make your way into the world of startups and come to found Slack?",
+    "How do you think about and assess your relationship to money today?",
+    "How do you think about kind of vision as a constraint and how important do you weight vision?",
+    "Do you have like a leadership coach, a mentor, or an advisor for core leadership questions?",
+    "Do you cede the thoughts to let them come to the conclusion on their own first?"
+  ],
+  "learnings": [
+    "Founder-CEOs retain an inherent advantage in moral authority rooted in their connection to company origin, which allows influence to persist even without mastering traditional leadership skills.",
+    "Successful strategy emerges from experience and intuition rather than data alone; overreliance on A/B testing and metrics traps organizations into local optimization near the status quo.",
+    "A CEO's words carry disproportionate weight due to emotional impact and power dynamics, generating unintended consequences regardless of stated intent or content."
+  ],
+  "topics": ["leadership", "saas", "decision-making", "company culture", "product strategy", "founder psychology"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "This is a notably extended and philosophically-oriented episode where Harry engages Stewart in deep discussions about leadership theory, decision-making frameworks, and founder psychology rather than business milestones — much longer and more introspective than the typical 20-minute format."
+}

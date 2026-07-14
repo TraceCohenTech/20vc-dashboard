@@ -1,0 +1,26 @@
+{
+  "guest": "Arvind Narayanan",
+  "guest_role": "Professor of Computer Science at Princeton and Director of the Center for Information Technology Policy",
+  "approx_date": "Aug 2024",
+  "assertiveness": 7,
+  "assertiveness_why": "Harry repeatedly plants his own contrary thesis (e.g. 'GPs feel your elbow, you're not going to shove your smartphone up your nostril') and directly challenges Arvind's more sanguine views on misinformation and AGI hype, pushing him to defend positions rather than just receiving answers.",
+  "question_style": "Structured, thesis-driven questions that often stake out Harry's own opinion first (skepticism on AI doctors/tutors, worry about misinformation) and ask the guest to rebut it; he interrupts with direct counter-examples and does not simply accept the guest's first answer on contested points like deepfake risk.",
+  "tone": "Enthusiastic superfan energy ('one of your biggest fans on the Substack'), casual and blunt ('are you high?'), high energy but respectful, occasional self-deprecation about 'rambling' questions.",
+  "depth": "Genuinely technical and current: scaling laws, parameter counts, synthetic vs. real data, training vs. inference cost economics, Jevons paradox, model commoditization, LLM benchmark validity — Harry tracks and pushes on granular AI research/economics topics throughout.",
+  "harry_quotes": [
+    "Are we in an AI hype cycle right now?",
+    "How are you not skeptical that that's a real danger?",
+    "If you were CEO of Open AI for a day, what would you do?"
+  ],
+  "learnings": [
+    "Arvind argues that further LLM scaling is running into a data bottleneck since frontier models already train on nearly all available high-quality text, making step-changes like GPT-3.5-to-4 unlikely to repeat.",
+    "He distinguishes synthetic data used to patch quality gaps (useful) from synthetic data used purely to inflate training volume (self-referential and low value).",
+    "He frames the industry's shift toward smaller models as driven by cost and on-device deployment needs rather than a lack of capability headroom, and predicts total inference spend will still rise per Jevons paradox even as per-task cost falls.",
+    "He believes AGI predictions from CEOs echo a half-century pattern of premature 'one step away' claims, and sees OpenAI and Anthropic diverging into product-focused vs. superintelligence-focused strategies.",
+    "He argues most 'AI regulation' is better understood as regulating specific harmful activities (fake reviews, deepfake nudes) regardless of whether AI was the tool used, rather than needing AI-specific rules."
+  ],
+  "topics": ["ai scaling laws", "llm evaluation", "ai regulation", "agi", "misinformation", "model economics"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Ends with an unusually candid quickfire where the guest says if made OpenAI CEO for a day he would resign, arguing public transparency should override commercial interests."
+}

@@ -1,0 +1,43 @@
+{
+  "guest": "Gene Grocer",
+  "guest_role": "Head of Americas Revenue and Growth at Stripe",
+  "approx_date": "Mar 2022",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry asks prepared multi-sentence questions with real follow-ups and occasionally plants his own framings, but rarely contests claims directly and generally receives rather than pushes back.",
+  "question_style": "Harry structures questions as extended scenarios and roleplay setups (e.g., 'So Jean, you are luckily appointed to be my advisor for this hypothetical startup'). He follows up for specifics and asks about disagreements/trade-offs but lets the guest drive the conversation. He occasionally introduces his own perspective as a premise but doesn't pressure back when disagreed with.",
+  "tone": "Warm and collegial, with expressions of genuine enthusiasm ('I love it, yeah', 'I do wanna move into my favorite though'). Professional yet conversational. Respectful and grateful to the guest without fawning. Not self-deprecating but energetic throughout.",
+  "depth": "Very deep on tactical sales execution: hiring processes, interview structures, onboarding curricula, quota-setting mechanics, 90-day benchmarks, loss review cadence and structure, compensation models. Harry regularly asks 'how' and 'what signals' to get to concrete practices rather than abstract principles.",
+  "harry_quotes": [
+    "I always have the thought that the founder should build out the sales playbook. Do you agree?",
+    "What non-obvious characteristics do amazing sales reps have that I should look for?",
+    "How do I actually structure a hiring process?",
+    "Is traditional sales debt?"
+  ],
+  "learnings": [
+    "Founders often hang onto the salesperson role too long and underestimate sales as a distinct skill requiring experienced practitioners, not just founder effort.",
+    "Hiring two to three experienced reps before a head of sales allows pattern recognition and prevents the mistake of hiring the wrong sales leader profile early.",
+    "Early-stage sales reps must be product-oriented (able to dive deep on product and articulate vision), possess pattern-recognition ability to identify replicability, and align culturally with the founder's values.",
+    "Structured hiring processes with homework assignments and multiple interview rounds testing product mastery, sales skills, and cultural fit predict rep success far better than unstructured conversations.",
+    "New rep onboarding should involve customer calls from day one through shadowing and hands-on collaboration, not isolated product training; this builds practical judgment faster.",
+    "Sales quotas should be built bottom-up from a financial model showing what productivity must be achieved, paired with ramp curves that give reps breathing room early.",
+    "The first 90 days of a new rep's tenure should prioritize product mastery and establishing whether they understand the math required to hit their targets.",
+    "Sales, product, and customer success teams must have constant feedback loops; sales handoffs that don't account for deployment and ramp risk create downstream failures.",
+    "Even in PLG-driven companies, enterprise sales are essential for larger deals where customers need human validation and support, not just product self-serve.",
+    "Loss reviews should be learning exercises (not blame sessions) bringing sales, product, and CS together to identify whether messaging, operations, or product gaps are preventing wins."
+  ],
+  "topics": [
+    "sales playbook",
+    "hiring",
+    "onboarding",
+    "sales process",
+    "quotas",
+    "product-market fit",
+    "plg",
+    "loss reviews",
+    "sales ops",
+    "compensation"
+  ],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 6,
+  "notable": "This is a '20 Sales' episode (a spinoff of 20VC focused on sales leadership) rather than the main 20VC show, and Gene Grocer is interviewed as a case study in sales playbook design at Stripe, one of the most frequently cited reference companies in Harry's ecosystem."
+}

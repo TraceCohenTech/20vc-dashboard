@@ -1,0 +1,26 @@
+{
+  "guest": "Mike Jones",
+  "guest_role": "Co-founder and CEO at Science Inc. (launching Science Blockchain, first ICO blockchain incubator); ex-CEO of MySpace",
+  "approx_date": "Aug 2017",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry imports outside VCs' framings (Andy at USV, an unnamed guest's 'Filecoin is the landmark' binary thesis) and asks Jones to agree or disagree, which is a mild form of pressure-testing, but he never independently disputes a claim himself.",
+  "question_style": "Dense, well-briefed sequential questions that build a taxonomy (utility vs securitized tokens) and periodically pose a third party's competing view for the guest to react to; no interruptions, largely deferential once Jones is answering.",
+  "tone": "Warm and familiar (second appearance, 'I so enjoyed the first time'), high energy and genuinely curious about a fast-moving technical topic, ends with a friendly bitcoin-price wager.",
+  "depth": "Highly technical for the era: utility vs. securitized tokens, SEC crowdfunding compliance, token-flow-through incubator structuring, M&A implications of tokenized cap tables, and geographic capital flows into ICOs.",
+  "harry_quotes": [
+    "Do you agree with the roster, the kind of binary nature?",
+    "What are the companies it makes sense for, and what does it not?",
+    "Is it a substitute? Is it a compliment?"
+  ],
+  "learnings": [
+    "Jones distinguishes utility tokens (akin to an always-on global domain-name auction) from securitized tokens structured to comply with SEC crowdfunding rules.",
+    "Science Blockchain's structure passes portfolio companies' own tokens directly through to fund token-holders' wallets, giving LPs individual control absent in a traditional fund structure.",
+    "He sees three waves of capital entering crypto: early true-believer miners, then venture/tech insiders, then traditional LPs and family offices now moving in via trusted managers.",
+    "Tokenization only makes sense for businesses needing irrevocable digital ownership transfer, decentralized trust, or global value transfer — not as a universal fundraising replacement.",
+    "He flags an unresolved conflict for acquirers: how a Google or Facebook would handle acquiring a company whose token still floats on public exchanges post-acquisition."
+  ],
+  "topics": ["ico/tokenization", "crypto fundraising", "venture fund structure", "blockchain", "regulatory (sec)", "m&a"],
+  "repeat_guest_callback": "Mike, it's such a pleasure to have you on the show for round two. What can I say? I so enjoyed the first time that I had to have you back for the very exciting news.",
+  "sponsor_read_count": 2,
+  "notable": "Episode is a real-time snapshot of peak 2017 ICO mania, timed to launch 13 days ahead of an actual token presale, with a closing friendly bet on Bitcoin's price a year out."
+}

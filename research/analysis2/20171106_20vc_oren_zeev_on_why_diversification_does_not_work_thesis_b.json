@@ -1,0 +1,26 @@
+{
+  "guest": "Oren Zeev",
+  "guest_role": "Founding Partner at Zeev Ventures",
+  "approx_date": "Nov 2017",
+  "assertiveness": 2,
+  "assertiveness_why": "Harry asks warm, open-ended prepared questions and never challenges or contests any of Oren's claims, functioning almost entirely as an admiring receiver.",
+  "question_style": "Questions are open-ended and mostly single-sentence prompts ('I'd love to get started with...', 'I'm intrigued...') that invite long monologues; Harry never pushes back or contests a claim, occasionally references prior conversations with the guest, and closes with a scripted quickfire round.",
+  "tone": "Very matey and fan-like, heavy on flattery and gratitude toward the guest and the intro-giver (David Sacks), with long sponsor-read segments bookending the interview.",
+  "depth": "Mostly surface-level narrative prompts (origin story, portfolio deals, board behavior) rather than technical follow-ups; he does track fund structure/LP mechanics and portfolio construction as recurring topics.",
+  "harry_quotes": [
+    "How does that affect how you viewed portfolio construction diversification?",
+    "What do you see as the biggest problem in the current structure of VC firms?",
+    "How did the House deal come about and what was the story there?"
+  ],
+  "learnings": [
+    "Diversification fails in market crashes because everything becomes correlated, so Oren prefers concentrated bets in companies he deeply believes in.",
+    "Being highly active during frothy markets correlates with worse investment outcomes, per his own 1999 experience.",
+    "Larger VC partnerships suffer from internal politics and misaligned incentives that are often hidden from LPs.",
+    "Oren favors founders who are outsiders to an industry but insiders to the specific pain point, citing House, Audible, and Chegg as examples.",
+    "He avoids thesis-driven investing because popular theses attract too much competition; he prefers markets that look small until they suddenly aren't."
+  ],
+  "topics": ["fund mechanics", "portfolio construction", "board dynamics", "solo gp", "consumer", "founder psychology"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Episode is bookended by unusually long Raiden and Simba sponsor reads, and Harry credits David Sacks extensively for making the introduction possible."
+}

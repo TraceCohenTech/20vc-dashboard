@@ -1,0 +1,30 @@
+{
+  "guest": "Connor White-Sullivan",
+  "guest_role": "Co-founder and CEO at Roam Research",
+  "approx_date": "May 2020",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks probing questions about product paradigm, market positioning, and hiring philosophy, and follows up with curiosity. He brings up the bundling/unbundling framing and references Jeff Morris' cult question, but frames these as learning queries rather than challenges.",
+  "question_style": "Opens with personal story (wrestling, learning to win), then explores founding story and product philosophy deeply. Harry asks about low-floor/high-ceiling design tradeoffs, community building, go-to-market strategy, and hiring. He occasionally probes (e.g., bundling vs unbundling) but seeks Connor's perspective rather than challenging assertions.",
+  "tone": "Admiring and enthusiastic; Harry self-identifies as a fanboy of Roam. Warm and collegial with shared mission-orientation. Some self-deprecation about his legal degree. Respects Connor's long vision and persistence through years of relative obscurity.",
+  "depth": "Deep exploration of product philosophy (thinking tool vs note-taking, compound interest on thoughts), user experience design (low floor high ceiling, steep learning curve benefits), go-to-market strategy (starting with specific pain-filled cohort of AI safety researchers), hiring for grit and self-directed learning, team culture (living together, truth-seeking orientation), and long-term vision for knowledge graphs.",
+  "harry_quotes": [
+    "How do you think about that then and how do you advise founders on balance between sticking to vision and when something isn't working?",
+    "What is it about then and what end state you really want to achieve with Rome?",
+    "How do you think about building a software cult like you have done with Rome?",
+    "How do you think about your hiring philosophy?"
+  ],
+  "learnings": [
+    "Persistence requires both unwavering long-term vision and tactical flexibility on strategy; luck favors prepared minds, but the path to the goal may twist significantly.",
+    "Writing clarifies thinking through forced articulation; compound interest on thoughts comes from revisiting and building on past ideas, not creating new notes endlessly.",
+    "Low-floor, high-ceiling design (Excel is the model) serves both casual and power users; steep learning curves aren't friction if they lead quickly to capability and output.",
+    "Community crystallizes around shared philosophy and clear antagonists (nemesis effect: Evernote as wrong paradigm); this drives cult-like adoption more than algorithmic marketing.",
+    "Unfundable ideas find early capital by solving acute pain for a specific, sophisticated cohort (AI safety researchers); customer-funded go-to-market subsidizes product development during ideation phase.",
+    "Hiring for grit and dax (self-directed learning) predicts founder/builder success better than credentials; stressful selection processes reveal perseverance through discomfort (e.g., 42's 70% attrition filter).",
+    "Long-term team bonds (living together, shared mission) enable sustained effort on hard unsolved problems; knowing people as whole persons (not just workers) builds resilience for the haul.",
+    "Market positioning isn't binary (bundling vs unbundling); underlying data paradigm (graph vs relational) matters more than surface category definitions."
+  ],
+  "topics": ["product-design", "note-taking", "knowledge-management", "go-to-market", "hiring", "team-building", "startup-culture", "learning", "thinking-tools", "community-building"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": null
+}

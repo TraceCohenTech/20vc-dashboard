@@ -1,0 +1,22 @@
+{
+  "approx_date": "Mar 2026",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll"],
+  "stories_covered": ["Anthropic supply chain risk lawsuit", "Oracle/OpenAI data center scaling back", "Meta AI capex bets", "CrowdStrike earnings miss", "LaGora/Harvey/Intercom raises", "Junior developer job market collapse"],
+  "harry_takes": [
+    "Anthropic will likely win in court but lose politically—government will find other pretexts to freeze them out",
+    "The government's escalating definitions of supply chain risk are theater; real issue is Anthropic won't fully cooperate",
+    "Overinvestment in AI capex is real but will continue because six players (Meta, Google, Microsoft, Amazon, OpenAI, Anthropic) can't afford to stop",
+    "Everyone claims they don't need 40% of their team, but Block is the first to actually cut it—this resets expectations for all tech"
+  ],
+  "harry_boldest_quote": "The idea that you can just have all this shit for free is at some point going to stop because someone's gonna have to cover their nut.",
+  "predictions": [
+    "Lemkin: Era of gentle deceleration is dead; public markets will punish any SaaS company not re-accelerating",
+    "Lemkin: Every CEO believes they can cut 40% of team and maintain output via AI; this becomes the new baseline",
+    "O'Driscoll: Anthropic wins lawsuit on legal merits but settles politically for promise to stop blocking government business"
+  ],
+  "disagreements": "Lemkin believes junior developer unemployment is real and structural (0.2% of workforce but concentrated pain); Rory counters that historical tech adoption is slower than Silicon Valley assumes and people adapt over medium term.",
+  "harry_role": "Skeptical moderator. Challenges Lemkin's determinism about juniors disappearing while validating underlying trend. Asks specifics about what Figma Make is shipping. Bridges capital-intensive AI play (Meta) vs economics of actual AI deployment.",
+  "topics": ["ai-capex", "litigation-strategy", "saas-decline", "labor-market", "deployment-engineering"],
+  "sponsor_read_count": 3,
+  "notable": "Jason explicitly states the death of junior developers is real, immediate, and being willed into existence by employers who see no reason to train people when AI can replace the work."
+}

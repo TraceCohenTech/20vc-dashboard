@@ -1,0 +1,26 @@
+{
+  "guest": "José Neves",
+  "guest_role": "Founder, CEO and Chairman at Farfetch",
+  "approx_date": "May 2021",
+  "assertiveness": 2,
+  "assertiveness_why": "Harry asks exploratory, deferential questions ('how do you practice that?', 'how do you balance that?') without testing or challenging José's philosophical claims; mostly receives and follows José's train of thought.",
+  "question_style": "Harry uses invitation-to-explore phrasing ('Can I ask...', 'I'd love to hear...') rather than assertive inquiry. He asks about José's practices and beliefs, offering gentle pushback only once ('Do you think detachment comes from financial security?'). Questions are contemplative, inviting stories and reflection rather than defending positions.",
+  "tone": "Admiring, almost reverential. Harry explicitly abandons his schedule mid-episode and calls it 'quite rare to be able to have such a deep and honest conversation.' The energy is peer-philosophical rather than interviewer-subject; Harry is charmed by José's worldview and invites expansion rather than critique.",
+  "depth": "Philosophical and existential rather than operational. José explores Zen Buddhism, Damasio's neuroscience, meditation practice, decision-making frameworks (head/heart integration), entrepreneur risk psychology. Harry doesn't drill into Farfetch metrics or competitive positioning; instead, he explores José's inner life and leadership philosophy. Less tactical than the Sze or Eisenberg episodes.",
+  "harry_quotes": [
+    "Where did it all start for you?",
+    "What's the essence of a partnership of such strength and quality?",
+    "How do you practice that?",
+    "How do you balance that, leaping into the unknown?"
+  ],
+  "learnings": [
+    "Emotional and bodily intelligence are inseparable from pure rationality; brains without emotional integration (stroke patients) fail at social decision-making despite high IQ.",
+    "Entrepreneurs possess different risk circuitry than average people—they're 'risk curious' rather than risk-averse, and this remains valuable even as they mature and calibrate.",
+    "Self-doubt is a mental construct, not a limitation; observing it with detachment lets founders reframe it as valuable signal and even imagine opposite scenarios intentionally.",
+    "Ecosystem thinking (win-win-win, not zero-sum) enables complex multi-party negotiations; this worldview removes adversarial dynamics and makes seemingly competitive moves collaborative."
+  ],
+  "topics": ["Zen Buddhism", "leadership philosophy", "meditation", "neuroscience", "risk psychology", "decision-making", "founder mindset", "ecosystem thinking", "corporate culture", "luxury fashion"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Exceptionally philosophical for a tech founder; extensive discussion of Damasio's neuroscience and right-brain/left-brain integration; 27-year partnership with CTO Cipriano (never had co-founder); references Archegos Capital blowup on Farfetch stock with equanimity as example of practicing detachment; strong emphasis on family input (wife pulling him back to reality)."
+}

@@ -1,0 +1,24 @@
+{
+  "guest": "Anna Shedletsky",
+  "guest_role": "Founder and CEO at Instrumental",
+  "approx_date": "Apr 2017",
+  "assertiveness": 4,
+  "assertiveness_why": "Prepared multi-sentence questions with substantive follow-ups on hiring, prioritization, and fundraising, but never contests claims; mostly receptive and exploratory.",
+  "question_style": "Engaging follow-ups on operational topics (hiring methodology, FOMO creation, prioritization); Harry asks 'how' and 'why' questions inviting elaboration; no pushback or alternative perspectives; builds new questions from prior points.",
+  "tone": "Warm and collaborative; Harry expresses genuine interest (\"So many good things to dig into\"); friendly banter (Korean ribs joke); informal but not fan-worship; self-aware humor from both.",
+  "depth": "Medium; focuses on Anna's methodology (learning process, hiring, prioritization, fundraising); tracks machine learning applications in manufacturing but mostly strategic/operational; asks about specific processes and iterative outcomes.",
+  "harry_quotes": [
+    "How do you fabricate FOMO?",
+    "How do you look to build the relations then coming from an engineering background?",
+    "Were there any mishaps along the way or any stumbles?"
+  ],
+  "learnings": [
+    "A repeatable methodology for learning new things—identify goal, identify problem, research, define plan, iterate until success—allows startup founders without prior experience to scale knowledge acquisition faster than ad-hoc learning.",
+    "Creating artificial urgency through external time commitments (e.g., YC interview dates) can generate genuine investor FOMO without requiring manufactured term sheets or preemptive offers.",
+    "Transparent, public prioritization systems visible to the entire engineering team enable autonomous decision-making and team-level micro-ownership over work allocation."
+  ],
+  "topics": ["hardware", "manufacturing", "founder learning", "hiring", "fundraising", "product prioritization", "machine learning", "FOMO tactics"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Anna's systematic approach to learning and candid discussion of a pulled term sheet are uncommon for early 2017 episodes. She frames fundraising as an engineering problem with tactical levers rather than as an art form."
+}

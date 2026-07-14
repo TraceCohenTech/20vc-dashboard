@@ -1,0 +1,42 @@
+{
+  "guest": "Ian Segal",
+  "guest_role": "Co-founder and CEO of ZipRecruiter",
+  "approx_date": "May 2022",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared multi-sentence follow-up questions and reflective probes (e.g., 'Where are you not good at leadership?') but never contests Ian's perspectives, maintaining a respectful learning posture while occasionally sharing personal struggles for guidance.",
+  "question_style": "Exploratory and reflective; Harry asks for lessons learned and personal guidance; conversational and vulnerable; seeks to understand Ian's evolution; occasional mild disagreement (business class flights) but no sustained pushback or counter-thesis.",
+  "tone": "Warm, respectful, vulnerable; Harry admits his own struggles ('I'm fucking high when they do well, I'm on the floor when they do badly'); genuine interest in learning from 12-year journey; treats Ian as mentor; professional but personable.",
+  "depth": "Extensive discussion of storytelling discipline (user-centric framing), hiring philosophy (pointy experts vs generalists; example: media buyer saved $1M day-one), organizational scaling (specialization trap where experts defer to CEO), data-driven culture vs innovation, CEO decision-making (fewer than 10/year), delegation and autonomy, leadership evolution (confidence→humility), staying calm under pressure via parenting, values as hiring filter, intrinsic vs extrinsic motivation, work-life balance.",
+  "harry_quotes": [
+    "How did you make your way into the world of startups?",
+    "How do you feel about bringing a stance to product marketing?",
+    "What's been some of the biggest mistakes you've made in scaling?",
+    "Where do you think you're not good at leadership?",
+    "How do you not lose an inch on performance and be a good dad?"
+  ],
+  "learnings": [
+    "Storytelling discipline (user-impact framing, not feature description) is foundational to entrepreneurship; teaching teams to explain work so laypeople understand forces clarity and inspires external audiences.",
+    "Hire pointy people (deep domain experts) over generalists; example: media buyer unfamiliar to CEO saved $1M on first day by discovering audit logs on TV ad placements.",
+    "Data-driven culture optimizes existing products but inhibits innovation; new products require temporarily suspending data requirements and trusting founder hypothesis; rebalance only after product-market fit.",
+    "CEO's role: fewer than 10 decisions per year; create autonomy and accountability through questions, not directives; specialization trap means specialists become better than you but defer to you—ask questions to help them think aloud.",
+    "Leadership evolves from youthful confidence (I'm special) to intellectual humility (many right ways exist); parenting discipline (regulating emotions with irrational toddlers) transfers to workplace: suppress first reaction, think outcome.",
+    "Values (just three) function as cultural filter in hiring; embed in job ads and interview process; attract aligned people and repel mismatches.",
+    "Intrinsic motivation (building something meaningful for the country) outlasts extrinsic (money, title); mission-driven companies attract older, more experienced talent; work-life balance doesn't require detachment, it requires building teams that embody your values.",
+    "Staying calm under pressure is learnable skill from parenting; energy and perspective of leader feed the room; perspective (not sweating small stuff) is underrated leadership superpower."
+  ],
+  "topics": [
+    "storytelling",
+    "hiring and talent",
+    "organizational scaling",
+    "data-driven culture",
+    "leadership philosophy",
+    "delegation and autonomy",
+    "values and culture",
+    "staying calm",
+    "intrinsic motivation",
+    "work-life balance"
+  ],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "CEO describes self as 'spider at center of web' learning from everyone rather than day-to-day operator; mission-centric 12-year bootstrap journey; flipping job market thesis (employers go first, not job seekers apply first); emphasizes intrinsic over extrinsic motivation; evolution from hyperconfident founder to humble learner over 12 years."
+}

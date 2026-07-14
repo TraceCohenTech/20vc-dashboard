@@ -1,0 +1,27 @@
+{
+  "guest": "Connor White-Sullivan",
+  "guest_role": "Co-Founder and CEO, Roam Research",
+  "approx_date": "May 2020",
+  "assertiveness": 2,
+  "assertiveness_why": "Harry is an outspoken personal user of the product and asks purely open, admiring, curiosity-driven questions throughout, with no pushback or contested claims anywhere in the episode.",
+  "question_style": "Open-ended and personal, frequently prefaced by admissions of fandom ('I'm a huge fan of Roam') and drawing on prior guest quotes (Rahul from Superhuman) as connective tissue rather than as challenges; no interruptions or counter-thesis planting.",
+  "tone": "Extremely fannish and enthusiastic -- Harry openly says the episode 'feels a little bit of a fanboy episode' -- casual, warm, laced with self-deprecating jokes about his own accent and law-school dropout history.",
+  "depth": "Genuine product-strategy depth on onboarding design, go-to-market sequencing (the 'Tesla go-to-market' concept), and graph-database philosophy versus SQL-based tools, plus some hiring-philosophy depth; not technical/engineering level.",
+  "harry_quotes": [
+    "How do you build a software cult like you have done with Rome?",
+    "Did you think about doing the CPM style of onboarding?",
+    "Do you think we're a bit of bundling or unbundling?"
+  ],
+  "learnings": [
+    "Roam intentionally targeted a narrow niche of 'thinking about thinking' power users (AI-safety researchers, rationalists) for early customer-funded revenue rather than chasing mainstream simplicity from day one.",
+    "A steep learning curve can be an advantage if it lets committed users reach high proficiency quickly, following a 'low floor, high ceiling' model similar to Excel.",
+    "Writing ideas in your own words, and being able to revisit and link them later, compounds understanding over time in a way that passive reading or note storage does not.",
+    "The founder deliberately built an antagonistic public relationship with a rival tool's advocate on Twitter, which helped attract like-minded early users who shared the same frustrations.",
+    "Hiring emphasized grit and self-directed learning ability over credentials, using extreme tests (e.g. requiring a candidate to teach himself a new programming language in a month) as a filter.",
+    "The product philosophy favors graph-based, reusable-in-multiple-contexts data structures over the SQL-style tables/rows underlying most note and collaboration tools."
+  ],
+  "topics": ["product design", "note-taking/knowledge tools", "go-to-market strategy", "hiring philosophy", "graph databases", "company culture"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 4,
+  "notable": "Harry discloses the 20VC team actually uses Roam internally to structure show research, making this one of the most self-referential fan episodes in the sample."
+}

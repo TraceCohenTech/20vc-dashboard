@@ -1,0 +1,24 @@
+{
+  "approx_date": "May 2025",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll"],
+  "stories_covered": ["Insight's Build AI loss ($500M write-down from failed projections)", "Hinge IPO with stranded preferred stock blocking conversion", "Mountain (MNTN) IPO; Jim Andelman's 9.7% ownership vs today's dilution", "Jony Ive's design studio sold to OpenAI for $6B (partial-time role)", "Series A competitiveness spike vs seed ease", "YC's structural dominance (24% of all VC deals), 2X advantage over seed funds", "Dilution compounding over 15-year holds"],
+  "harry_takes": [
+    "Mega-funds cannot have fund returners by design; ownership concentration in 1-2 winners becomes necessity",
+    "Johnny Ive deal proves capital providers are fourth in hierarchy: genius engineers first, then executives, then brand/product leaders, then capital",
+    "Every software platform company gets hardware paranoia and wastes money on it; OpenAI following predictable pattern (like Microsoft, Facebook, Google)",
+    "Series A has become brutally competitive in AI sweet spots while 75% of non-AI companies starve for capital",
+    "YC has won as a business (not just a fund) because it meets an enduring market need at scale with 2X structural return advantage"
+  ],
+  "harry_boldest_quote": "The wars that you choose to engage in dictate what it has to take to win.",
+  "predictions": [
+    "Lemkin: OpenAI hardware device ships within a year, massively subsidized ($20-50), mainstream adoption 24-hour listening paradigm",
+    "O'Driscoll: Hardware play likely fizzles within 3-5 years despite Johnny Ive; historical precedent (Microsoft, Facebook, Google all tried)",
+    "Panel: Two-thirds dilution now baseline from seed to IPO (formerly 50%); foundation model companies see 9-10% annual employee dilution vs 6% traditional",
+    "Stebbings: Chime investors with auto-convert terms will record crystallized losses at IPO pricing; Hinge investors stuck with illiquid 1X preferred"
+  ],
+  "disagreements": "Lemkin bullish on hardware success with Ive; O'Driscoll skeptical based on historical failure rate of platform vendor hardware bets. Lemkin argues every company can succeed at non-AI markets; panel agrees AI markets demand different capital/dilution calculus.",
+  "harry_role": "Harry drives the episode with incisive takes on venture economics and capital hierarchy. He poses provocative questions about YC dominance and dilution compounding. Acts as moderator while also advancing strong analytical positions on fund structure and market dynamics.",
+  "topics": ["venture-capital", "ipos", "dilution", "yc-accelerators", "hardware-strategy", "openai", "late-stage-funding", "series-a", "europe-vs-us"],
+  "sponsor_read_count": 3,
+  "notable": "Extended discussion on capital hierarchy in AI race (engineers > executives > brand leaders > capital); debate on whether future is listening AI devices 24/7; critique of European tech ecosystem lagging US/China despite talent."
+}

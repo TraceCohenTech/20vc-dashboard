@@ -1,0 +1,27 @@
+{
+  "guest": "James Loftus",
+  "guest_role": "Corporate development lead, Square",
+  "approx_date": "Mar 2018",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks strong technical follow-ups on M&A operations, pricing, and decision-making, but mostly receives James's expertise without contesting or pushing back on claims.",
+  "question_style": "Multi-sentence technical questions focused on M&A operations and strategy. Harry asks for specific process details and elaboration. Some probing questions ('is it not also challenging for pricing?'), but mostly receives rather than plants thesis or contests.",
+  "tone": "Warm and respectful toward the expert guest. Harry defers to James's depth of experience across Google, Yahoo, Andreessen Horowitz, and Square. Appreciative of the specialized expertise.",
+  "depth": "Excellent technical engagement on M&A process mechanics, Corp Dev operations, founder psychology in M&A, pricing dynamics, and post-deal integration. Asks for specific operational details, decision-making frameworks, and metrics for measuring success.",
+  "harry_quotes": [
+    "Can I ask, is it not also challenging for you from a pricing perspective?",
+    "How do you operationalize the tracking of such a busy and proliferated landscape?"
+  ],
+  "learnings": [
+    "The saying 'companies are bought, not sold' oversimplifies reality; most successful M&A requires proactive relationship-building with potential acquirers before any acquisition discussion.",
+    "Corp Dev teams are overwhelmed by volume; founders should build relationships to get on the radar regardless of whether they intend to sell.",
+    "M&A can be grueling but isn't intentionally so; good Corp Dev leads manage the process to move quickly while respecting the founder's bandwidth.",
+    "Founders should maintain frank, open communication with acquirers during the process; if overwhelmed, they must raise their hand because acquirers often don't realize their burden.",
+    "The best VCs act as balancing and calming forces during M&A, providing emotional support and experienced perspective, not just advice.",
+    "Deal likelihood jumps dramatically once a term sheet is signed; most signed term sheets close, but deals under negotiation are below 50% likelihood.",
+    "Successful acquisitions should be measured against the original deal thesis (talent retention, tech integration, revenue targets) with regular check-ins rather than single metrics."
+  ],
+  "topics": ["M&A", "corporate development", "founder psychology", "deal-making", "acquisition strategy", "founder-acquirer relationships", "Corp Dev operations", "exit strategy", "pricing dynamics", "integration"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "James reframes Corp Dev's role as an ecosystem participant and advocate for founders, not just a buyer; he emphasizes providing value to startups even when not acquiring, which counters the adversarial M&A narrative."
+}

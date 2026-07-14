@@ -1,0 +1,26 @@
+{
+  "guest": "Michael Treskow",
+  "guest_role": "VC at Accel Partners",
+  "approx_date": "Sep 2015",
+  "assertiveness": 2,
+  "assertiveness_why": "Harry asks prepared, structured multi-part questions and follows up for clarification, but never challenges or contests any of Michael's answers.",
+  "question_style": "Mostly open, well-prepared questions that build logically through a fixed list of topics (background, market sizing, founder traits, quickfire); Harry occasionally asks a clarifying follow-up ('do you really deep dive on future market size?') but never pushes back or interrupts.",
+  "tone": "Formal and polite, deferential to the guest as an authority, enthusiastic reactions ('Absolutely,' 'Amazing, amazing') but no self-deprecation or matey banter.",
+  "depth": "Mostly surface-level and definitional (market sizing philosophy, stage-agnostic investing, founder tells) with light follow-up on future vs. present market sizing; no technical/product depth.",
+  "harry_quotes": [
+    "How big does the market have to be to make it an attractive investment for you?",
+    "Do you really deep dive on the future market size, or do you just look at present?",
+    "Do VCs like this simplification of business models?"
+  ],
+  "learnings": [
+    "Accel evaluates opportunity size rather than raw market size, since the addressable slice is always much smaller than the total market.",
+    "Founder domain fluency matters more in complex/regulated verticals like insurance than in simpler consumer categories.",
+    "A VC's value-add compounds over time through pattern recognition, network introductions, and hiring support rather than one-off advice.",
+    "Enterprise software is converging with consumer UX because employees are the same people who are consumers outside work."
+  ],
+  "topics": ["venture capital", "market sizing", "enterprise saas", "founder evaluation", "europe tech"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Includes a fixed 'quickfire round' segment (productivity tools, tech hub predictions, favorite book) that later becomes a recurring 20VC format staple.",
+  "harry_assertiveness_note": null
+}

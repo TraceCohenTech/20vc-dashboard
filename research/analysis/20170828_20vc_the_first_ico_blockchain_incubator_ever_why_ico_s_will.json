@@ -1,0 +1,24 @@
+{
+  "guest": "Mike Jones",
+  "guest_role": "Co-founder and CEO at Science Inc (incubator), former CEO at MySpace",
+  "approx_date": "Aug 2017",
+  "assertiveness": 4,
+  "assertiveness_why": "Prepared questions about ICO mechanics and tokenization with some probing ('Wild West?' 'substitute or complement?'), but mostly receptive. Harry is learning alongside Mike rather than challenging his framing.",
+  "question_style": "Open-ended questions on ICO mechanics, tokenization, crypto market dynamics; probing questions on whether ICOs feel like the Wild West and whether they substitute or complement venture; mostly learning-oriented; builds on Mike's explanations.",
+  "tone": "Collaborative and educational; Harry is exploring a new topic; warm but deferential to Mike's crypto expertise; respectful of complexity; engaged but not fawning; makes Bitcoin price prediction bet with Mike.",
+  "depth": "Very high on crypto/blockchain specifics; covers utility vs. securitized tokens, domain name analogy, ICO mechanics, token sale dynamics, $142B crypto market cap, 11 tokens with >$1B value, M&A complexity, management fee structures, international capital geography (80-90% non-US).",
+  "harry_quotes": [
+    "Why did you first choose this method of financing for the new fund and the incubator?",
+    "Do any elements remind you of the Wild West in terms of behavior and concerns?",
+    "Is it a substitute? Is it a compliment? How do you view it fundamentally changing venture?"
+  ],
+  "learnings": [
+    "Utility tokens function like domain name sales but with global liquidity and massive daily volume ($10M-$500M daily ICOs); mechanics are completely different from traditional equity financing.",
+    "ICO funding model removes venture capitalists' governance control over founder dilution and equity structuring, creating faster but riskier capital allocation compared to traditional venture.",
+    "M&A of tokenized companies creates unresolved legal and structural conflicts between equity holders and token holders that acquirers (Google, Facebook, etc.) have not yet figured out how to handle."
+  ],
+  "topics": ["blockchain", "ICOs", "cryptocurrency", "tokens", "venture capital", "fundraising", "market dynamics", "M&A implications", "global capital"],
+  "repeat_guest_callback": "Mike, it's such a pleasure to have you on the show for round two. What can I say? I so enjoyed the first time that I had to have you back for the very exciting news.",
+  "sponsor_read_count": 2,
+  "notable": "This episode is anchored to a specific news event—Science Inc's ICO presale launching in 13 days. Mike's data ($142B crypto market cap, 11 tokens >$1B, 80-90% international capital) and his M&A unresolved-conflicts observation were cutting-edge for Aug 2017. Harry even makes a Bitcoin price bet ($4,000 this time next year, above/below), showing unusual engagement for him at the topic."
+}

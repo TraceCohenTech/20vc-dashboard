@@ -1,0 +1,31 @@
+{
+  "approx_date": "Dec 2025",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll"],
+  "stories_covered": [
+    "Lightspeed $9B fundraise across six funds",
+    "SpaceX IPO valuation at $1.5T via Elon option value",
+    "ChatGPT most downloaded app in US, Disney $1B investment in OpenAI",
+    "Denise Desser leaves Slack CEO to join OpenAI as CRO, cliff vesting removal",
+    "Oracle shares down 15% on disappointing capex spend for OpenAI infrastructure",
+    "Broadcom down $300B on Anthropic chip order margins concerns",
+    "Cursor AI coding tool for designers, threat to Figma dominance",
+    "UiPath maiming by AI-first competitors under new leadership"
+  ],
+  "harry_takes": [
+    "Leaders staying private is the greatest gift to venture capital in our lifetimes, allowing VCs to capture value instead of public market investors",
+    "The growth super cycle is only available to those playing the big game with mega-funds; smaller players are effectively frozen out",
+    "Figma faces genuine disruption risk from cursor because the design and development toolchain will converge into one unified platform",
+    "Market volatility in Oracle and Broadcom reflects accurate pricing discovery about AI capex margins and sustainability, not irrational exuberance"
+  ],
+  "harry_boldest_quote": "If you're not playing that game, you're losing.",
+  "predictions": [
+    "Jason Lemkin: Cursor will likely win the unified design-to-code platform battle because of execution velocity and 160% NRR, despite Figma's installed base",
+    "Rory O'Driscoll: Oracle and Broadcom will rebound as the AI capex cycle continues, though they remain marginal providers vulnerable to downturns",
+    "Jason Lemkin: UiPath and other incumbents have 18-24 months to launch agentic products and re-accelerate before being permanently maimed by AI-first competitors"
+  ],
+  "disagreements": "Moderate disagreement on whether established SaaS vendors will be crushed or merely maimed by AI incumbents. Lemkin argues maiming is the real risk (slow NRR decay, new cohorts deferring purchases) while Rory is more optimistic that high GRR provides runway for incumbents to adapt.",
+  "harry_role": "Harry moderates actively, poses provocative questions, and challenges panelists to sharpen their positions. He drives toward contrarian takes on whether Oracle's decline is temporary vs structural and pushes the cursor-vs-Figma debate into specifics about platform convergence.",
+  "topics": ["spacex", "venture-capital", "openai", "ai-infrastructure", "design-tools", "software-maiming", "private-markets"],
+  "sponsor_read_count": 3,
+  "notable": "Compelling breakdown of how 55% of all enterprise AI spend flows to coding and coding-related tools, with enterprises spending only $15-16B while AI infrastructure players spend $400B, creating a revenue-recovery gap that will define the next 3-5 years."
+}

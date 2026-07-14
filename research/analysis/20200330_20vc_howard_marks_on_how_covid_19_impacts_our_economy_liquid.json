@@ -1,0 +1,29 @@
+{
+  "guest": "Howard Marks",
+  "guest_role": "Co-Chairman and Co-Founder of Oaktree Capital Management",
+  "approx_date": "Mar 2020",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry asks probing questions about crisis fundamentals, policy responses, and investment strategy. He brings up concerns from other sources (Bill Gurley, hedge fund managers) and explores specific challenges, but frames all as learning queries. Slightly more active than previous guests in bringing data points, but still deferential.",
+  "question_style": "Opens with analogy-based questions comparing to 2008 and dot-com. Harry probes on frameworks for uncertainty, policy recommendations, market bottom detection, and psychology. He references external voices (Gurley, hedge fund friend) to surface debate but asks Howard's expert counterpoint rather than challenging directly.",
+  "tone": "Serious and urgent given real-time COVID crisis. Harry respects Howard as elder statesman with 60 years of experience. Collaborative problem-solving energy rather than adversarial. Shows concern about generational impact. Not self-deprecating; acknowledges knowledge gaps.",
+  "depth": "Deep exploration of crisis mechanics (economic freeze + liquidity withdrawal), policy constraints (exhausted rate-cutting, pre-crisis deficits), differentiation from 2008, valuation lag between public/private, investing psychology, risk management under uncertainty, fund structure effects (closed-end vs redemption-pressure).",
+  "harry_quotes": [
+    "What in your mind is the fundamental economic crisis occurring here?",
+    "Are there frameworks one can use to analyze crisis events?",
+    "How long do you think it will take for valuations to correlate to the crisis?",
+    "How do you know when something's fallen enough to engage?"
+  ],
+  "learnings": [
+    "COVID crisis differs from 2008: health shock not financial; banks less leveraged; no subprime analog; but economic freeze + simultaneous liquidity withdrawal = severe dual threat.",
+    "Fiscal/monetary policy toolkit exhausted: rates at 1.5% preclude standard 5% cuts; pre-crisis $1T deficits limit further government spending; modern monetary theory untested and unproven.",
+    "Price discovery ripples asymmetrically: public markets repriced 35% down within days; private assets and real estate lag valuations, creating misprice opportunity.",
+    "Market bottoms are unknowable in real time (by definition, day before rise); waiting for certainty means sacrificing bargains; catching falling knives while they fall yields better entry than after dust settles.",
+    "Cheapness is defined by: price discount to intrinsic value + high prospective return + controlled risk; requires personal judgment, not algorithms or formulas.",
+    "Investor psychology is fundamentally counter-productive: buy high when giddy, sell low when panicked; above-average returns require resisting average psychology.",
+    "Fund structure shapes investing behavior: closed-end funds with lock-ups enable counter-cyclical aggression; redemption-pressure funds must hold cash defensively by structural necessity."
+  ],
+  "topics": ["market-cycles", "crisis-management", "valuation", "investing-psychology", "fiscal-policy", "monetary-policy", "risk-management", "value-investing", "counter-cyclical-investing", "covid-19"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Recorded during COVID-19 lockdown with unprecedented real-time economic crisis context; Harry references generational impact ('people in workforce have never seen anything like this')."
+}

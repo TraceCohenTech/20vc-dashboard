@@ -1,0 +1,29 @@
+{
+  "approx_date": "Jul 2026",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll"],
+  "stories_covered": [
+    "Brian Armstrong post on Anthropic/OpenAI spend cuts",
+    "Coinbase reduces AI token spend from peak back to November levels",
+    "Open source models gaining traction vs frontier models",
+    "Frontier model companies defending against low-cost alternatives",
+    "Microsoft's 30% stake in OpenAI amid competition",
+    "Company boards pushing back on AI CapEx budgets",
+    "Lack of revenue traction from AI spending"
+  ],
+  "harry_takes": [
+    "The real story is whether open source disruption will impact frontier model growth more than anyone predicted; companies are cutting spend because they're not seeing revenue lift",
+    "Frontier model companies are essentially defending their massive CapEx spend by attacking low-cost open source competitors as inferior rather than competing on features",
+    "When you move from oligopoly to competition, price erosion is inevitable; this threatens the moat of high-cost frontier models"
+  ],
+  "harry_boldest_quote": "AI is going to be like the oil situation in the Persian Gulf today.",
+  "predictions": [
+    "Companies spending on Anthropic/OpenAI will face board scrutiny; no revenue lift justifies continued high spend",
+    "Coinbase's spend reduction signals broader trend of AI spend optimization across enterprise",
+    "Open source alternatives will continue eroding frontier model pricing power"
+  ],
+  "disagreements": "Panelists debate whether frontier models' concerns about open source are justified or performative defense of CapEx spending; some argue the quality gap still justifies premium pricing while others see price erosion as inevitable in a competitive market.",
+  "harry_role": "Harry frames the episode around macro AI market dynamics, pushes panelists on whether frontier model concerns about open source are legitimate or defensive posturing, and synthesizes the Coinbase data as evidence of broader AI spend reality check.",
+  "topics": ["anthropic", "open-source", "frontier-models", "openai", "coinbase", "ai-spend", "token-costs", "cost-structure", "microsoft"],
+  "sponsor_read_count": 3,
+  "notable": "Brian Armstrong's post highlighting Anthropic/OpenAI spend concerns triggers board-level questions across portfolio; Coinbase case shows real companies cutting AI spending when ROI unclear. Deep point: frontier model companies may be attacking open source more to defend CapEx than due to quality gaps."
+}

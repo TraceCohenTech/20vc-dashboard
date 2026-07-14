@@ -1,0 +1,26 @@
+{
+  "guest": "Jason (likely Jason Lemkin of SaaStr) and Rory (likely Rory O'Driscoll of Scale Venture Partners)",
+  "guest_role": "Recurring news-roundup panelists / SaaS and venture investors",
+  "approx_date": "Feb 2026",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry frames pointed, thesis-laden questions and interjects with blunt personal reactions (e.g. on his own Microsoft losses), but mostly moderates a debate between two opinionated guests rather than sustaining adversarial pressure himself.",
+  "question_style": "Mostly open, agenda-setting prompts ('how should we read this,' 'help me understand this divergence') that plant a thesis for guests to confirm or complicate; he occasionally pushes with a sharper follow-up or a personal stake (his own Microsoft position) but rarely directly contests either guest's claims, instead letting Jason and Rory argue with each other.",
+  "tone": "Very matey and informal panel banter among three people who clearly know each other well, laced with profanity, jokes, and self-deprecation; energy is high and reactive rather than reverent.",
+  "depth": "Strategic/macro rather than technical: tracks capital markets mechanics (dilution, free cash flow multiples, RPO), SaaS growth-rate data, CRM/agentic go-to-market structure, and AI compute economics, pressing for concrete numbers (revenue multiples, churn data) rather than surface commentary.",
+  "harry_quotes": [
+    "How should we read and interpret this seemingly pretty batshit crazy news?",
+    "Has HubSpot hit the floor or is that further the fall?",
+    "What does that mean, Jason? Can you just play that out?"
+  ],
+  "learnings": [
+    "The panel frames the SpaceX-xAI merger as evidence private capital markets can no longer fund AI-scale compute alone, accelerating a return to IPOs for even the largest private companies.",
+    "Because compute spend converts almost one-to-one into AI revenue, capital poured into inference is functioning the way sales and marketing spend once did for SaaS companies.",
+    "Public SaaS multiples are compressing mainly because new customer and seat growth has stalled (market saturation plus AI budgets crowding out software spend), not because churn has meaningfully risen for sticky systems-of-record.",
+    "Venture investors are cutting portfolio companies loose faster than before because the opportunity cost of missing the next hyper-growth AI winner has become so high, pushing the bar toward '10x growth or unfundable.'",
+    "Newer agentic go-to-market products (like an AI SDR tool) are maturing past over-promising 'AI magic,' now actively turning away leads/deployments that lack the data infrastructure to succeed, to protect churn and service costs."
+  ],
+  "topics": ["spacex/xai merger", "ipo market rehabilitation", "saas multiple compression", "ai compute economics", "venture growth thresholds", "agentic crm"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 6,
+  "notable": "This is a news-roundup panel format (not a single-guest interview) featuring two recurring commentators, and closes with a tangent on the 'Moltbook' AI-agent social network including a guest reading an AI-generated fictional anecdote about an agent spending $441,000 on its owner's Amex."
+}

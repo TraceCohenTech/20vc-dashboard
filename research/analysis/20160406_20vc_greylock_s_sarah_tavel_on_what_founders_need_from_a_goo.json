@@ -1,0 +1,27 @@
+{
+  "guest": "Sarah Tavel",
+  "guest_role": "Partner, Greylock",
+  "approx_date": "Apr 2016",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks exploratory questions and gently challenges Sarah's 'founder friendly' framing and 10X-cheaper framework, but maintains receiving posture; slightly more engaged than earlier episodes but consistent with the pattern.",
+  "question_style": "Open-ended and exploratory with occasional framework testing. Harry asks about Pinterest sourcing discovery, Greylock fit, founder communication, personal branding, and investment thesis. He gently pushes back on her 'founder friendly' definition (implying it shouldn't just be saying yes) and questions whether 10X better always requires being cheaper. Warm follow-ups but no sustained pressure testing.",
+  "tone": "Warm and conversational. This is Greylock feature week, so Harry treats Sarah as a peer thought leader. There's genuine curiosity about her journey and framework. Energy is engaged and professional without the formality or deference of earlier VC interviews.",
+  "depth": "Strategic and operational with founder-centric focus. Sarah discusses founder spotting (Pinterest story), board member philosophy (truth-seeking over enablement), venture branding as freemium model, and investment thesis (10X better + cheaper, often tied to platform shifts or regulatory changes). Emphasizes founder-investor relationship dynamics over technical product analysis.",
+  "harry_quotes": [
+    "Now, I'd love to kick off today by hearing a little about you.",
+    "So I asked, what was it about VC that enticed you back?",
+    "And I love that KPI that you want to be the first person that the founders call.",
+    "I've always found taking relationships off email can help with kind of personalizing a relationship. Do you agree with that?"
+  ],
+  "learnings": [
+    "Exceptional product spotting comes from deep domain immersion; Sarah tracked Pinterest's early metrics and recognized visual-first social as novel before user metrics confirmed it.",
+    "The best board member role is truth-seeker, not enabler; pushing back on assumptions and asking hard questions creates more value than universal support.",
+    "VCs should adopt a 'freemium model' for founder engagement—publish insights and build personal brand so founders choose partnerships from informed positions rather than closed-door selling.",
+    "Founders thrive under board members with operating experience, even if such experience isn't technically required; empathy and operational context reshape what board mentorship can deliver.",
+    "Breakout consumer companies deliver either free services that previously cost money or 10X-better solutions at lower cost (Airbnb, Uber, WhatsApp); this constraint filters realistic unicorn candidates."
+  ],
+  "topics": ["venture capital", "greylock", "pinterest", "founder selection", "board dynamics", "personal branding", "marketplace businesses", "10x products"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 1,
+  "notable": "Sarah's 'VC as freemium model' framing is novel for 2016; her Pinterest sourcing story shows how domain expertise (e-commerce, social, recommendations) enabled early spotting; part of Greylock feature week emphasizing operator-investor model."
+}

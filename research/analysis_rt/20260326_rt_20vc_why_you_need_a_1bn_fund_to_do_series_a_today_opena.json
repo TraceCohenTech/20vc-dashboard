@@ -1,0 +1,22 @@
+{
+  "approx_date": "Mar 2026",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll"],
+  "stories_covered": ["Anthropic 73% of enterprise spending (RAMP data)", "OpenAI headcount doubling to 8000", "Sora folded into ChatGPT", "OpenAI acting wounded/inconsistent", "Coding lock-in effects", "Token cost optimization vs quality"],
+  "harry_takes": [
+    "OpenAI's internal drama is showing; it has an air of desperation that makes people not want to use their products",
+    "Anthropic is clear and consistent; OpenAI gets whiplash from conflicting product directions",
+    "Claude is establishing quality lock-in in coding and vibe coding; once you dial in agents, switching models is prohibitively expensive",
+    "Token costs matter only up to a certain percentage of revenue; when apps are 5-10% of revenue on tokens, optimizing down is pointless"
+  ],
+  "harry_boldest_quote": "I don't want to try their new products because of it, honestly.",
+  "predictions": [
+    "Lemkin: RAMP data is accurate—Anthropic is winning new enterprise spending decisively",
+    "Both: If Claude dominates coding/enterprise for another 6-12 months, OpenAI sacrifices lifetime value it cannot recover",
+    "O'Driscoll: Enterprises will not switch models once dialed in, regardless of token cost savings, creating durable moat"
+  ],
+  "disagreements": "Harry defends OpenAI's optionality and suggests refocus on consumer + enterprise coding could work; Jason and Rory argue lock-in effects mean delays are already damaging and unlikely recoverable.",
+  "harry_role": "Defending OpenAI against full bearishness. Argues they still own consumer. Cautions against overreading RAMP data (Cursor debate parallel—maybe only VC portfolio sees Claude). Pragmatist.",
+  "topics": ["competitive-moat", "market-share", "product-strategy", "token-economics", "enterprise-sales"],
+  "sponsor_read_count": 3,
+  "notable": "Lock-in of coding applications to Claude models occurs not from cost but from high soft costs of switching and retraining once dialed in—undermines commoditization thesis."
+}

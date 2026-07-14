@@ -1,0 +1,26 @@
+{
+  "guest": "Oliver Jay, Jordan Van Horn, Danny Herzberg, Zhenya Logunov, Lauren Schwartz, Carl Parrish",
+  "guest_role": "Multiple sales leaders compilation: OJ (former CRO, Asana), Jordan Van Horn (revenue leader, Monte Carlo), Danny Herzberg (partner, Sequoia; ex-Slack/HubSpot), Zhenya Logunov (CRO, Miro), Lauren Schwartz (VP Enterprise Sales, 5Chrome), Carl Parrish (VP Sales, Figma)",
+  "approx_date": "Nov 2022",
+  "assertiveness": 3,
+  "assertiveness_why": "This is the '20 Sales' compilation format with short, clarifying, mostly receptive questions ('just a dumb question', 'just pausing that') and light role-play hypotheticals, with no real contesting of any guest's claims.",
+  "question_style": "Mostly short clarifying and sequencing questions ('so we put them with product for a week?', 'when do we let them speak to customers?') designed to extract a structured playbook; Harry occasionally role-plays as a founder asking for guidance but does not challenge or push back on any answer.",
+  "tone": "Upbeat, efficient, and appreciative host-of-a-clinic tone; treats each guest as an expert to be mined for tactics rather than a subject to interrogate.",
+  "depth": "High tactical/operational depth on sales onboarding specifically: staged onboarding (product/support to market to sales), ramp timelines, red-flag detection in first 30-90 days, PLG vs enterprise onboarding differences, deal-review cadences.",
+  "harry_quotes": [
+    "Just so I get that right, so we put them with product, they sit with product for a week, a day?",
+    "Should I expect you to do it or should I give you the guidance?",
+    "What are the biggest signs in the first three months that I've fucked up this hire?"
+  ],
+  "learnings": [
+    "Early-stage onboarding should sequence product/support knowledge, then market context, then sales training last, since sales-specific habits are the hardest to unlearn once formed.",
+    "New enterprise reps should get low-risk customer exposure first (recorded calls, low-stakes accounts) before being trusted with major logos.",
+    "The clearest 30-90 day success signal is demonstrated impact, not activity metrics like pipeline coverage or a well-written book of business.",
+    "New sales leaders should spend their first month on a customer listening tour rather than internal strategy work, to build customer-oriented credibility.",
+    "PLG company reps must still be proactive (manufacturing outbound, synthesizing user interviews for outreach) rather than waiting passively for product-qualified leads."
+  ],
+  "topics": ["sales onboarding", "hiring", "sales leadership", "plg vs enterprise", "ramp time", "org design"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "This is a multi-guest compilation episode (20 Sales format) stitching together short segments from six different sales leaders rather than one continuous interview."
+}

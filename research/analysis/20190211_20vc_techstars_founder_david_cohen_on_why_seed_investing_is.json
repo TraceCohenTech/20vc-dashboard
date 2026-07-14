@@ -1,0 +1,28 @@
+{
+  "guest": "David Cohen",
+  "guest_role": "Founder and co-CEO of Techstars",
+  "approx_date": "Feb 2019",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry asks probing follow-ups on bridge financing and inconsistencies between founder confidence and deal terms, testing David's framing rather than purely receiving.",
+  "question_style": "Harry uses prepared multi-sentence questions with thoughtful follow-ups and occasional logical pushback (e.g., testing founders' confidence against their willingness to accept caps). He plants his own perspective on runway but mostly operates in receiving mode, letting David elaborate. Minimal interruption.",
+  "tone": "Respectful and warm with a returning guest; defers to David's expertise while maintaining interview rigor. Self-deprecating humor ('probably one of the many reasons I'm still single, David'). Conversational but professional throughout.",
+  "depth": "Balances strategic depth on venture mechanics—board dynamics, reserve allocation, bridge financing terms, and scaling challenges—with founder-centric breadth. Includes technical follow-ups on seed vs Series A runway but also personal rapid-fire questions.",
+  "harry_quotes": [
+    "So what does the moment of integrity mean for you?",
+    "What do you believe that most around you disbelieve?",
+    "What makes your best day and on the other side, what makes the worst day?",
+    "How do you think about bridge financing per se?",
+    "Tell me a story about a time that was transformational to you as an individual."
+  ],
+  "learnings": [
+    "Character reveals itself during moments of crisis; how someone responds to confrontation about mistakes shows whether they can be trusted or will hide problems.",
+    "Successful boards need a skeptic or contrarian voice; too much optimism among founders and investors leads to poor capital allocation and business failures.",
+    "Bridge financing terms should reflect the actual confidence in the stated outcome; if founders truly believe a big round is coming, they should be willing to accept caps tied to that prediction.",
+    "Seed and angel investing are fundamentally different from traditional venture capital, with different risk profiles, return characteristics, and management approaches.",
+    "Building global operations requires internal alignment on ambition and vision; geographic expansion can be harder than capital formation."
+  ],
+  "topics": ["seed investing", "fund mechanics", "board dynamics", "venture capital", "bridge financing", "founder integrity", "scaling"],
+  "repeat_guest_callback": "But to our guest today, and I had him on the show over two years ago for the first time, since he's enjoyed IPOs, billion dollar exits, and I could not be happier to welcome back David Cohen",
+  "sponsor_read_count": 3,
+  "notable": "David makes a strong foundational claim that seed and angel investing are fundamentally different from venture capital and shouldn't be lumped together—a recurring thesis throughout the episode that appears to be core to his investment philosophy."
+}

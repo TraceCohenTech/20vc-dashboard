@@ -1,0 +1,28 @@
+{
+  "guest": "Kyle Lui",
+  "guest_role": "Principal at DCM Ventures; former co-founder/CEO of ChoicePass (acquired by Salesforce)",
+  "approx_date": "Feb 2015",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared, multi-part questions with genuine follow-ups (e.g. probing how he learned to code, digging into the acquisition's emotional side) but never challenges or contests any of Kyle's claims.",
+  "question_style": "Mostly open, biographical and reflective questions delivered in multi-sentence setups, with Harry frequently adding a follow-up clause or reframing (e.g. asking both sides of a dichotomy like 'team over product?'); he does not interrupt or push back on any answer, and largely stays in receptive interviewer mode rather than planting a contrary thesis.",
+  "tone": "Warm, enthusiastic and slightly deferential/fan-like ('an absolute pleasure to have you on the show'), casual conversational energy with light banter, no self-deprecation but frequent gratitude and flattery toward the guest.",
+  "depth": "Mostly surface-level founder-story and career-narrative depth (learning to code, the acquisition experience, adjusting to a big company) with a bit more strategic depth in the investing section, where he asks Kyle to rank his three evaluation criteria (team, market, metrics) and to weigh team vs. product.",
+  "harry_quotes": [
+    "At this point, could you code?",
+    "How did you celebrate the acquisition?",
+    "Team over product?",
+    "What is a red flag?"
+  ],
+  "learnings": [
+    "Kyle transitioned from a finance/private-equity background into tech via a Harvard Business School course on launching tech ventures, not through a coding background.",
+    "ChoicePass pivoted away from its original mobile local-merchant membership concept toward a corporate perks/employee rewards platform after seed-stage data showed the first model wasn't working.",
+    "The acquisition by Salesforce was driven by strategic alignment with a new HR-cloud division (later Work.com) rather than ChoicePass hitting a growth ceiling.",
+    "Kyle evaluates startups on three pillars — founding team, market focus/depth, and metrics (engagement/growth for consumer, churn/MRR for enterprise) — and considers team the most important because a strong team can overcome most other weaknesses.",
+    "He views regulatory uncertainty (drones, marijuana tech, ridesharing) as a normal bet VCs must make rather than a reason to avoid a sector, citing his investment in medical-marijuana startup Eaze as an example."
+  ],
+  "topics": ["founder story", "m&a/acquisitions", "venture investing criteria", "regulation", "hr tech/perks", "career transition"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 0,
+  "notable": "The transcript consistently mis-transcribes the guest's name as 'Carl Louis'/'Karl' throughout, though the filename and bio (DCM Ventures, ChoicePass, Salesforce) confirm this is Kyle Lui.",
+  "error": null
+}

@@ -1,0 +1,33 @@
+{
+  "guest": "Derek Zanuto",
+  "guest_role": "General Partner, Capital G (Alphabet's growth investment fund)",
+  "approx_date": "Nov 2020",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry asks prepared questions with follow-ups and occasional pushback (e.g., on late-stage funds, on Derek's diplomatic answer about taking cash); mostly receives but shows critical engagement.",
+  "question_style": "Multi-sentence questions with genuine follow-ups and occasional light pushback. Harry voices skepticism on specific points (late-stage fund motivations, diplomatic answering style) but remains collaborative. Mix of inquiry and gentle challenge.",
+  "tone": "Warm, intellectually engaged, respectful of Derek's frameworks. Harry shows appreciation for Derek's rigor. Playful moments (notes Derek's diplomatic answer 'sounds like a politician'). High energy; positioned as keen learner of Derek's investment philosophy.",
+  "depth": "Deep strategic focus: capital dynamics and oversupply (10+ year trend), conviction and pricing, thesis development via customer research, market timing risk, SPACs, rolling funds, fund economics (management fees vs carry), board dynamics. Explores meta-questions about venture ecosystem structure and late-stage/early-stage fund behavior.",
+  "harry_quotes": [
+    "Sorry, can you educate me and unpack that?",
+    "We spoke about pricing there, and I loved it when you said that everyone's moaning.",
+    "My favorite statement in venture is the person before you is a gambler.",
+    "You mentioned consolidation and fragmentation there.",
+    "What's up with the later stage guys moving down and being Series A's first?",
+    "Question for you, Derek, tough one.",
+    "When there's cash on the table, do you take it?",
+    "Is there a sense of purity where you're aligned in motivations?"
+  ],
+  "learnings": [
+    "Oversupply of venture capital has persisted for 10+ years since 2008-09 Fed rate cuts; every stage complains about valuations yet lack alternative yield, keeping capital flooding into venture",
+    "Higher valuations require higher conviction; investors must do deep thesis work and customer research well in advance of capital events because fundraising timelines now compress dramatically",
+    "Market timing risk is real but manageable by anchoring to customer pain points first; a product solving a burning need is more predictive than whether the broader market is ready",
+    "Late-stage funds moving into early-stage (Series A) is fundamentally bad for entrepreneurs because they lack domain expertise, view early checks as loss-leaders for pre-IPO allocation, and can't provide hands-on help",
+    "Early-stage funds moving into later rounds makes strategic sense but entrepreneurs must evaluate whether the fund's economic incentives (stacked management fees on new funds) align with what the company needs",
+    "Capital G's single-LP model (Alphabet) creates unique 'purity'—no pressure to raise new funds every 3-4 years for fee stacking, enabling patient capital and deep engagement with fewer companies",
+    "Board members should view themselves as 'in the customer service business'; CEOs are the customers; availability and collaboration matter more than being the smartest person in the room"
+  ],
+  "topics": ["growth stage investing", "capital markets", "valuation dynamics", "thesis development", "market timing", "board dynamics", "fund economics", "venture ecosystem", "late-stage funds", "customer research"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Derek discloses Uber investment at $3B Series D valuation (then considered 'rich') and Airbnb at $10B in 2014. Notable framework: holds himself to personal financial test—'Would you invest your own money proportionate to your personal net worth?'—as accountability measure for every deal. Also emphasizes 'purity' of single-LP model at Capital G vs traditional fee-stacking in industry. References Tony Vincicuera (Sony Pictures chairman) as ideal board member archetype."
+}

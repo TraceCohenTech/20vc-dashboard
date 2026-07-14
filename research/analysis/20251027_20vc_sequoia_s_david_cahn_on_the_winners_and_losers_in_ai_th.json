@@ -1,0 +1,41 @@
+{
+  "guest": "David Cahn",
+  "guest_role": "Partner at Sequoia Capital, leading AI investor",
+  "approx_date": "Oct 2025",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry asks prepared multi-sentence follow-ups and plants theses about circular deals and market fragility, occasionally challenging David's views, but mostly receives rather than adversarially pressure-tests throughout.",
+  "question_style": "Harry employs prepared multi-sentence follow-ups on topics like cloud provider dominance, data center construction delays, and bubble dynamics. He gently challenges David's positions (e.g., on cloud companies as non-commodity businesses, on kingmaking efficacy) and sometimes plants his own analytical frameworks, but maintains a respectful tone without frequent interruptions or sustained adversarial pressure.",
+  "tone": "Warm and respectful despite formal structure; Harry expresses genuine admiration for David's work, uses some self-deprecating humor, and maintains high regard for the guest throughout. Professional but friendly, with moments of levity.",
+  "depth": "Substantial technical and strategic depth across data center economics, semiconductor supply chains, GDP impact modeling, AGI timeline debates, venture capital dynamics, gross margin structures, growth rate benchmarks, and defense technology consolidation. Harry tracks specific technical indicators and follows complex second-order effects.",
+  "harry_quotes": [
+    "What did you predict last year, David, that happened and we are seeing in action now?",
+    "Does its contribution to GDP growth go contra your $600 billion question?",
+    "Are three of the best businesses, not commodity businesses, in the form of Google Cloud, AWS, and Azure?",
+    "Do you think we're in an AI bubble?",
+    "When we play out your question there of the winners and the losers, who do you think will be winners?"
+  ],
+  "learnings": [
+    "AI infrastructure's critical bottleneck has shifted from algorithmic innovation to physical power availability and data center construction capabilities, making logistical execution a primary competitive moat.",
+    "Extreme talent acquisition valuations signal ecosystem desperation to justify massive capital deployment rather than rational productivity gains, reflecting psychological biases in estimating individual contribution probabilities.",
+    "Market survival depends on being a consumer of compute creating end-user value, not a producer of commoditized compute, since commodity producers face structural pricing pressure when supply scales.",
+    "Risk absorption capacity shifted from stable major tech companies to fragile players like CoreWeave and chip companies, introducing system-wide fragility as the demand-backing mechanism weakened.",
+    "Competitive market dynamics will prevent sustainable monopoly profits in AI despite massive GDP disruption, with benefits accruing primarily to workers and consumers rather than concentrating in a few companies.",
+    "Early-stage talent native to AI (23-25 year olds) can outperform experienced hires in rapidly evolving domains where prior expertise may become obsolete before creating value.",
+    "Defense AI will consolidate around national champions per country rather than supporting diverse vendor ecosystems, with most current dollars likely wasted on companies that won't achieve meaningful integration."
+  ],
+  "topics": [
+    "ai",
+    "venture capital",
+    "data centers",
+    "bubble economics",
+    "talent acquisition",
+    "defense tech",
+    "semiconductor supply chain",
+    "fund mechanics",
+    "gdp impact",
+    "market consolidation"
+  ],
+  "repeat_guest_callback": "I love your writing. Our episode last year was one of the most downloaded shows. I had like the CMO of Meta tell me that it is the single show that he has forwarded to more people and cites more often than any other.",
+  "sponsor_read_count": 3,
+  "notable": "This episode explicitly functions as a refresh of a highly downloaded prior appearance, with Harry and David reflecting on market changes over the intervening year. The conversation expands beyond pure AI infrastructure into defense technology as an emerging investment thesis, suggesting a notable shift in David's strategic focus."
+}

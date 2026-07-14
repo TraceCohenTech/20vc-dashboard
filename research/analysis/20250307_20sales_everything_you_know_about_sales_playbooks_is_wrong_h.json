@@ -1,0 +1,27 @@
+{
+  "guest": "Julian Teixeira",
+  "guest_role": "Chief Revenue Officer at 1Password",
+  "approx_date": "Mar 2025",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry challenges deal review meeting structures and the hunter-farmer model, plants his own thesis about sales leadership capability, and frequently interrupts for clarification or pushback, though he remains mostly receptive and collaborative rather than adversarial.",
+  "question_style": "Harry asks prepared multi-sentence questions with genuine follow-ups, plants his own frameworks (e.g., 'I'm a better sales leader than most'), contests Julian's reasoning on deal reviews and hiring (questioning the utility of hierarchical gatekeeping), and interrupts often to clarify or push back—maintaining an informal, peer-to-peer tone rather than seeking validation.",
+  "tone": "Matey and high-energy (frequent 'Dude,' 'for fuck's sake'), self-deprecating on imposter syndrome, genuinely curious rather than deferential, treats Julian as an equal with moments of friendly banter about hair and hotels.",
+  "depth": "Covers strategic and tactical foundations—deal review cadences, early-stage comp structures, outbound/inbound ratios (54/46 split), procurement mapping, customer success comp alignment, verticalization timing, and specific metrics (2-quarter enterprise close, 70% hit rate targets). Tracks emerging AI coaching tools (Momentum, Gong's evolution) and sales tech stack hygiene.",
+  "harry_quotes": [
+    "We always hear in sales, sales playbook. What is a sales playbook to you first?",
+    "Does this not seem a bit ridiculous? Can we not just get the AE to present directly?",
+    "If AEs are meant to generate their own pipeline, what the fuck are BDRs doing?"
+  ],
+  "learnings": [
+    "Sales playbooks are the repeatable anatomy of a win, but they're worthless without proper skills development and hiring discipline—a 20-page checkbox document misses the point entirely.",
+    "Founders must create the first sales playbook themselves to gain firsthand customer feedback and veto authority over future sales leaders, not abdicate to an outside head of sales.",
+    "Early go-to-market hires should prioritize hunger and curiosity over pedigree; recruit people with something to prove who thrive in constraint, not prestigious candidates expecting infrastructure.",
+    "Weekly deal reviews must cascade hierarchically (AE→sales lead→director→exec) to catch procurement surprises and maintain accountability, even when enterprise cycles span two quarters.",
+    "CFO involvement in all software spend has become non-negotiable post-2023; arm internal champions with CFO-level answers to budget questions upfront, don't expect them to sell the business case themselves.",
+    "Outbound pipeline closes at half the velocity of inbound but generates twice the deal size, because the salesperson frames the problem rather than responding to pre-existing customer awareness."
+  ],
+  "topics": ["sales playbooks", "sales leadership", "hiring strategy", "deal reviews", "compensation design", "outbound prospecting", "hunter-farmer models", "customer success", "AI sales coaching", "go-to-market", "procurement", "CFO spend controls"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "This is a 20Sales vertical episode (monthly format, not mainline 20VC); Julian delivers sharp critiques of tech sales mediocrity and the structural CFO centralization of software spend decisions post-2023, with notably candid pushback from Harry on middle-management deal-review gatekeeping."
+}

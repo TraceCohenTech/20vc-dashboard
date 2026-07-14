@@ -1,0 +1,34 @@
+{
+  "guest": "Ash Fontana",
+  "guest_role": "Managing Director at Zeta Venture Partners",
+  "approx_date": "Nov 2019",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry asks prepared multi-sentence questions with real follow-ups but never contests Ash's claims, remaining mostly receptive throughout.",
+  "question_style": "Harry poses detailed, prepared questions on technical machine learning topics and business model nuances, requesting clarification and follow-ups (e.g., on data fungibility and perishability). He plants occasional pushback (\"Are you as concerned as I am?\") but doesn't sustain adversarial pressure or challenge core premises. He rarely interrupts and maintains a receiving posture.",
+  "tone": "Warm and deferential, with genuine admiration for the guest (\"I'm such a pleasure to have you on the show\", \"I feel like I know you so well\"). Energy is conversational and matey rather than formal; Harry self-deprecates and builds rapport throughout.",
+  "depth": "Goes beyond surface-level into technical details—F1 scores, model stability, feature engineering accuracy thresholds, and data dimensionality. Explores strategic concepts like vertical integration, fungibility, perishability, and the SaaS-to-AI-first competitive shift with specificity.",
+  "harry_quotes": [
+    "Bluntly, Ash, what does AI first really mean today?",
+    "Can I ask, how difficult is it for incumbents to acquire AI first companies then integrate?",
+    "My word, 98% gross margin makes me incredibly excited.",
+    "Are you as concerned as I am or is it the new norm?"
+  ],
+  "learnings": [
+    "Vertical integration across data collection, model development, and customer delivery creates unassailable competitive advantages because it allows companies to capture all value created at each stage of production.",
+    "Data becomes a durable moat not through scarcity alone but through specific attributes—freshness, breadth, dimensionality, and resistance to substitution—that must be systematically evaluated during diligence.",
+    "AI-first companies tolerate early-stage margins of 40-50% but eventually reach 95%+ gross margins as initial machine learning and labeling costs become fixed, contrasting with SaaS companies that plateau around 70%.",
+    "Effective market sizing for early-stage companies requires bottom-up analysis connecting customer ROI impact per feature through to potential market cap, rather than top-down TAM estimates that ignore execution risk.",
+    "Long-term mastery in investing requires commitment to building a personal toolkit of evaluation models, checklists, and proprietary sourcing systems, combined with obsessive attention to detail in foundational analysis."
+  ],
+  "topics": [
+    "ai-first companies",
+    "venture capital",
+    "machine learning",
+    "data moats",
+    "business models",
+    "saas"
+  ],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Ash brings unusual technical depth for a VC guest, drawing on experience as a founder, AngelList operator, and farmer to articulate a coherent investment philosophy centered on data modes and vertical integration."
+}

@@ -1,0 +1,28 @@
+{
+  "guest": "John Duszewski",
+  "guest_role": "Founder and CEO at Star City",
+  "approx_date": "May 2019",
+  "assertiveness": 2,
+  "assertiveness_why": "Harry asks open-ended questions but explicitly seeks John's advice on his own challenges; no pushback, contestation, or independent thesis; very much in mentee role.",
+  "question_style": "Open-ended, mentorship-focused questions where Harry frequently asks John for personal counsel on mental health, work-life balance, and relationships. No pushback or challenges to any claims. Harry admits vulnerabilities and struggles, making this more conversational than journalistic.",
+  "tone": "Warm, deeply human, and mentoring. Harry admits personal struggles and vulnerabilities ('I'm exactly the image that you gave there'). John offers to help Harry find love. The episode feels more like peer mentorship than an interview—genuine affection and chemistry between both parties.",
+  "depth": "Tracks founder psychology including mental health practices, work-life balance, founder age/experience effects on leadership, and investor relationship dynamics. Follows John's frameworks on vulnerability as leadership strength and mental health as organizational leverage. Strong on founder wellbeing and soft skills.",
+  "harry_quotes": [
+    "Why don't founders forget about this part during their journey?",
+    "How can I achieve some balance and stabilisation?",
+    "What advice do you hear given most often that you maybe disagree with?",
+    "What keeps you up at night, John?"
+  ],
+  "learnings": [
+    "Star City solves urban affordability for $50-120K earners by distributing costs across shared living; co-living lets people afford cities they'd otherwise be priced out of",
+    "PropTech VC backing lagged because returns weren't visible until WeWork proved billion-dollar potential; asset-heavy models were previously considered VC-unfriendly",
+    "Investor selection is hiring a 10-year co-founder, not just valuation optimization; founder chemistry, investor behavior during fundraising, and alignment predict partnership quality",
+    "Founder mental health cascades through the organization—self-care creates team energy and productivity, while neglect spreads dysfunction throughout the company",
+    "Older/seasoned founders outperform younger ones due to humility, emotional regulation, and willingness to be vulnerable—ego-driven 20-year-olds lack the emotional tools for effective leadership",
+    "Continuous relationship-building with investors (not transactional fundraising mode) produces faster yeses, better alignment, and long-term partnership trust"
+  ],
+  "topics": ["proptech", "co-living", "urban affordability", "fundraising", "founder wellbeing", "mental health", "investor relations", "company culture", "vulnerability"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Unusual emphasis on mental health, therapy, and founder vulnerability in early 2019—John explicitly counters Silicon Valley 'hustle porn' culture. Harry and John blur interview boundaries into genuine mentorship/peer support, with Harry asking John for advice on his own life."
+}

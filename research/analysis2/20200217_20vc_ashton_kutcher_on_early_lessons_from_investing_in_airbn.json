@@ -1,0 +1,27 @@
+{
+  "guest": "Ashton Kutcher",
+  "guest_role": "Founder and General Partner, Sound Ventures",
+  "approx_date": "Feb 2020",
+  "assertiveness": 2,
+  "assertiveness_why": "Harry is visibly starstruck, asking exclusively open, admiring questions sourced from mutual friends and portfolio founders, with zero pushback or contested claims anywhere in the conversation.",
+  "question_style": "Entirely open and reverential, often prefaced with 'I've wanted to do this episode for a long time' or referencing what other founders told him about the guest; no interruptions, no counter-thesis, purely receptive throughout, including a long quickfire round.",
+  "tone": "Highly fannish and starstruck, formal admiration mixed with genuine curiosity, Harry repeatedly notes how long he's anticipated the interview and defers to Ashton's celebrity status.",
+  "depth": "Mix of strategic (fund economics, check-size evolution, sourcing via cultural trend-spotting) and product depth (UX/UI 'appification', friction vs simplicity in flows); largely conceptual rather than technical.",
+  "harry_quotes": [
+    "How did becoming a father impact your investing mentality?",
+    "What do you make of the rise of celebrity investing?",
+    "What do you want to build with Sound?"
+  ],
+  "learnings": [
+    "Sound Ventures sources deals by spotting broader cultural trends first (e.g. the Me Too movement) and then finding startups positioned to serve the resulting unmet demand.",
+    "Ashton screens potential investments partly by asking people to show him their phone home screen, looking for unfamiliar apps that keep recurring across many people's screens.",
+    "Good product design is about minimizing friction to the single most valuable action while intentionally adding friction to actions you don't want users taking.",
+    "As check sizes grow from angel-sized to fund-sized, the return-on-time math changes, forcing funds to justify check size against the value-add time they can realistically deliver.",
+    "Sound Ventures deliberately avoids board seats and outsized ownership demands, positioning itself as a value-add co-investor rather than a control-seeking lead.",
+    "Kindness invested in founders and companies doesn't always return directly from those specific relationships, but tends to pay off in unexpected ways elsewhere."
+  ],
+  "topics": ["celebrity/angel investing", "fund economics", "product design", "deal sourcing", "consumer trends", "venture check-size dynamics"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 6,
+  "notable": "Harry explicitly says he's wanted to book this guest since the show's start and sourced questions from an unusually large web of the guest's own portfolio founders and friends (Shaq, Daniel Ek, GitLab, Loom, Untitled)."
+}

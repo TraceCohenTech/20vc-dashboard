@@ -1,0 +1,26 @@
+{
+  "guest": "David Sze",
+  "guest_role": "General Partner at Greylock (investor in Facebook, LinkedIn, Roblox, Discord)",
+  "approx_date": "Apr 2021",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry surfaces his own worries directly ('what concerns me is bluntly...', 'Can I ask a really hard one') and pushes on sensitive topics like preemptive rounds and generational succession, but he still lets Sze fully drive each answer without contesting the substance.",
+  "question_style": "Structured, well-researched questions that build a throughline (career path to Facebook/LinkedIn pricing to leadership to partnership dynamics), occasionally framing his own anxiety or industry concern as the premise of a question rather than staying purely neutral; no interruptions, no real debate of the guest's claims.",
+  "tone": "Reverent and admiring throughout ('I've wanted to do this one for many years'), high energy, frequent flattery, treats the guest as a legend of the industry; personal touches (referencing sleep-tracking chats, mutual contacts).",
+  "depth": "Strong strategic depth — covers venture partnership design, price sensitivity on mega-deals, board membership evolution, generational succession at firms, insertion-point flexibility (early vs late stage) — with specific named examples (Facebook, LinkedIn, Roblox, Dig) rather than generic questions.",
+  "harry_quotes": [
+    "How do you feel about the rise of preemptive rounds?",
+    "Do you suffer from FOMO?",
+    "How do you think about your own vulnerability?"
+  ],
+  "learnings": [
+    "Sze argues venture returns increasingly require domain-focused investors who can move up and down a stack, rather than generalists confined to a single stage.",
+    "He frames founder-friendliness as active partnership and pushback, not blind deference — a lesson he says he learned the hard way.",
+    "Greylock's partnership culture deliberately forces senior partners to cede power and 'get out of the way' as a structural mechanism for successful generational transition.",
+    "His investment decision process moves from heart (conviction/love for the idea) to head (analysis) and back to heart, because spreadsheets can be twisted to justify almost anything.",
+    "He credits staying humble and tracking a mental 'box' of near-misses and false convictions (not just wins) as essential to long-term success in venture."
+  ],
+  "topics": ["venture partnership design", "board membership", "founder relationships", "generational succession", "pricing/price sensitivity", "consumer investing"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Guest credits a specific mentor (Peter Chernin) and recounts internal Greylock lore (an early CEO who stepped down after one year specifically to prevent a 'king on a throne' culture) as an origin story for the firm's succession philosophy."
+}

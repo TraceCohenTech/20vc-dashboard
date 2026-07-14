@@ -1,0 +1,26 @@
+{
+  "guest": "Simon Borrero",
+  "guest_role": "Founder and CEO of Rappi",
+  "approx_date": "Mar 2021",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks focused, well-sequenced follow-ups (unit economics, zone maturity, growth vs profitability) and occasionally probes emotionally ('do you struggle with self-doubt'), but he never challenges or contests any of Borrero's claims.",
+  "question_style": "Mostly open-ended, building logically from one answer to the next (donuts to zone economics to fundraising to expansion), with a few pointed personal questions about self-doubt and stress; no interruptions or contestation of the guest's numbers or claims.",
+  "tone": "Enthusiastic and warm, frequent affirmations ('I love that', 'I'm totally with you'), casual and energetic, treats it as a milestone episode (first LatAm guest in 5 years of the show).",
+  "depth": "Goes reasonably deep on operational specifics — unit economics per order, zone maturity timelines, driver economics, North Star metric choice — showing Harry tracks operational/growth metrics closely, though follow-ups stay descriptive rather than adversarial.",
+  "harry_quotes": [
+    "What did cracking unit economics look like?",
+    "Do you just struggle with self-doubt on a more personal leadership level?",
+    "How do you think about growth versus profitability in unit economics?"
+  ],
+  "learnings": [
+    "Rappi prioritized extremely tight geographic zones early on because delivery marketplaces need hyperlocal density on both restaurant and courier sides to work.",
+    "The company treats frequency of use, not GMV, as its core north-star metric because multi-vertical engagement predicts retention better than transaction volume.",
+    "Rappi expanded into on-demand cash delivery and other unconventional verticals by directly acting on unusual user requests rather than dismissing them.",
+    "Borrero frames growth-stage capital spending as a race to lock in high-value user cohorts before competitors, treating unspent runway as a wasted opportunity rather than prudence.",
+    "He attributes LatAm founders' early self-doubt vis-a-vis Silicon Valley to a mindset gap rather than a talent gap, citing Mercado Libre's scale as proof of the region's potential."
+  ],
+  "topics": ["last-mile delivery", "unit economics", "latam", "growth vs profitability", "fundraising", "marketplace competition"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Harry frames this as a milestone episode (first LatAm founder guest in the show's 5-year history) and repeatedly credits a mutual contact, Anu at YC Continuity, for supplying the questions."
+}

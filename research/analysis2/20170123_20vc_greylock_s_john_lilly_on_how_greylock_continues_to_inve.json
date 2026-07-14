@@ -1,0 +1,26 @@
+{
+  "guest": "John Lilly",
+  "guest_role": "Partner at Greylock Partners; former CEO of Mozilla",
+  "approx_date": "Jan 2017",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry brings in outside frames (asymco adoption charts, Fred Wilson's consumer-downturn thesis) and pushes for a definitive read on plateau-vs-boom questions, but never disputes Lilly's answers directly.",
+  "question_style": "Structured around crowdsourced questions from Lilly's Greylock partners (Josh Elman, Sarah Guo), plus personal tangents Harry admits aren't 'on the schedule.' He asks pointed follow-ups referencing outside data/theses (Fred Wilson, the asymco chart) to get Lilly to take a stance, but doesn't interrupt or contest responses.",
+  "tone": "Warm, appreciative, name-drop-heavy (thanks to multiple Greylock partners for intros), personal/vulnerable moment where Harry shares his own struggle maintaining a network at scale, ends with an extended quickfire.",
+  "depth": "Strong technical/strategic depth — platform adoption S-curves, mobile plateau debate, productivity-tool distribution advantages (Microsoft Office vs Adobe vs Google Apps), network effects vs marketplace dynamics — genuinely tracks tech-cycle theory.",
+  "harry_quotes": [
+    "How do you view growing one's tribe and then growing together through all of your careers?",
+    "Do you think another boom will lend to a market of consolidation or fragmentation?",
+    "Why are we seeing this rise in productivity tools beyond the traditional office and Google apps?"
+  ],
+  "learnings": [
+    "Lilly frames mobile adoption using a historical analogy (PC/Mac, Windows, web) of boom-plateau-secondary-boom cycles, arguing mobile may be at an early-90s-style plateau rather than a permanent ceiling.",
+    "He argues Microsoft lost its historic distribution advantage in productivity tools once creation shifted away from Windows machines to phones/tablets/Macs, opening room for Quip, Figma, and Dropbox.",
+    "He calls Google Apps a 'dancing bear' — impressive that it works at all on the web, not necessarily the best native product for the platform shift.",
+    "Lilly believes consumer network-effect products still have room to emerge (citing musical.ly and Medium as recent proof) despite skepticism about 'another blogging platform.'",
+    "On building a long-term network, he credits a professor's advice to invest early in relationships with people whose values you respect, since your generation becomes 'the fabric of Silicon Valley' 20 years later."
+  ],
+  "topics": ["venture capital", "productivity tools", "mobile platforms", "network effects", "fund strategy", "tech cycles"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Two of the interview questions were submitted directly by Lilly's own Greylock partners (Josh Elman and Sarah Guo) rather than written by Harry himself."
+}

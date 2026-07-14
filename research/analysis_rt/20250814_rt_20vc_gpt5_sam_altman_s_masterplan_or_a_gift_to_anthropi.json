@@ -1,0 +1,22 @@
+{
+  "approx_date": "Aug 2025",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll"],
+  "stories_covered": ["GPT-5 underwhelming release and pricing implications", "OpenAI's $500B valuation debate", "Perplexity pursuing Chrome acquisition for $34.5B", "Datadog record earnings and OpenAI concentration risk", "N8N $3B Series C on AI workflow automation wave", "Palantir's unprecedented 45% growth re-acceleration at scale", "Google Chrome's overlooked value as AI distribution layer"],
+  "harry_takes": [
+    "GPT-5 being underwhelming is actually positive because it kills AGI hype and forces focus on real business fundamentals and execution",
+    "The pricing competition from GPT-5 is a gift to companies like Cursor that can now offer cheaper tokens while maintaining margins",
+    "Chrome's true value isn't the browser itself but its ability to inject an AI product into billions of daily users' workflows",
+    "Big-ish tech winners (Palantir, Shopify, Datadog, HubSpot) will dominate the AI wave because they have distribution, profitability and defensible moats"
+  ],
+  "harry_boldest_quote": "If you think you're gonna win in B2B, if you're not ruthless, you're gonna lose.",
+  "predictions": [
+    "Rory: OpenAI can become a 1-2 trillion dollar company based on $20/month consumer subscriptions alone and advertising tier",
+    "Harry/Jason/Rory: OpenAI at $500B valuation is undervalued if they execute the subscription mass-market playbook",
+    "Jason: Palantir could decay in growth eventually but right now they are in a rare 2+ year re-acceleration window"
+  ],
+  "disagreements": "Rory and Jason debate whether Anthropic should be worried about OpenAI's lower token pricing. Jason argues it's a real competitive threat; Rory counters that if Anthropic's models are meaningfully better, they'll win long-term and pricing compression will affect everyone.",
+  "harry_role": "Harry moderates actively as a peer, not deferentially—he challenges Lemkin and O'Driscoll with probing questions, validates their takes when earned ('Jason nailed the first big one'), and injects strong opinions of his own on valuation and business strategy. He drives the show's direction by picking stories and forcing clarity on disagreements.",
+  "topics": ["gpt-5", "openai", "anthropic", "palantir", "ai-competition", "enterprise-software"],
+  "sponsor_read_count": 3,
+  "notable": "Recurring theme: Founders (Shopify's Toby, Palantir's Karp) are aggressively shedding employees even during growth—Harry explicitly states companies 'don't need half your company,' signaling a broader shift toward ruthless efficiency in the AI era."
+}

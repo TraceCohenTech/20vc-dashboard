@@ -1,0 +1,29 @@
+{
+  "approx_date": "Nov 2025",
+  "panelists": ["Jason Lemkin", "Tom Tungus"],
+  "stories_covered": [
+    "Cursor raises $2.3B at $29.3B valuation",
+    "Developer TAM sizing: 100-150M developers at $5K per year = $500B-$1T opportunity",
+    "Coding tool competition: Cursor vs Lovable vs Replit vs Microsoft vs Anthropic",
+    "Defensibility debate in horizontal AI products",
+    "Seed-stage investing in competitive AI spaces"
+  ],
+  "harry_takes": [
+    "The TAM for developer tooling is genuinely massive—at 100-200M developers paying $5K annually, you get a half-trillion to trillion-dollar market",
+    "Cursor's $30B valuation is justifiable when you model 100% developer penetration, even at conservative per-user spend assumptions",
+    "Defensibility doesn't exist at seed stage; the only reliable predictor is team quality, execution speed, and first-to-market advantage",
+    "At the seed stage, founders must accept they cannot build defensible moats and instead must race to scale before incumbents or other startups catch up"
+  ],
+  "harry_boldest_quote": "If you're not seeing massive TAM expansion, there's just no point in even playing as VCs.",
+  "predictions": [
+    "Tom: Cursor captures 40-60% market share within 5 years",
+    "Tom: Microsoft bundling will win enterprise, Anthropic will own 20% via Claude integration",
+    "Lemkin: Replit v3 is so good it disrupts established leaders; another player will emerge within 18 months that blows everyone out of the water",
+    "Lemkin: Once you've switched to an AI coding agent, you'll never go back—creates strong retention"
+  ],
+  "disagreements": "Tom was skeptical about disruptive challengers lasting once enterprise locks in; Lemkin argued the pace of AI improvement is so fast that new players can still emerge and win despite Cursor's lead.",
+  "harry_role": "Harry drove the TAM sizing discussion and forced clarity on what the real addressable market should be. He moderated between Tom's enterprise-stickiness thesis and Lemkin's disruption-is-fast thesis, keeping focus on market size as the ultimate justification for valuations.",
+  "topics": ["cursor", "coding", "ai-agents", "vibe-coding", "tam", "defensibility", "seed-investing", "developer-tools"],
+  "sponsor_read_count": 3,
+  "notable": "The group calculated that if 100M developers pay $400-500/month for coding assistance, it justifies valuations of $500B+ for a single player, making the $30B raise seem conservative despite looking expensive on revenue multiples."
+}

@@ -1,0 +1,26 @@
+{
+  "guest": "Derek Zanutto",
+  "guest_role": "General Partner at CapitalG (Alphabet's independent growth fund); previously TPG, Hellman & Friedman, GIC",
+  "approx_date": "Nov 2020",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry repeatedly introduces his own strong opinions (capital oversupply, bundling/unbundling, late-stage funds moving early) and directly presses Derek to agree or disagree, at one point re-asking 'do you not think it's bad for the entrepreneurs' after Derek hedges.",
+  "question_style": "Thesis-driven questioning where Harry frequently states a specific claim or framework of his own first ('my favorite statement in venture is...', 'I'm happy to take risk but not market timing risk') and asks Derek to react to it; he presses for a direct answer when Derek initially equivocates, though without interrupting.",
+  "tone": "Enthusiastic and admiring, name-drops mutual references (Felix, Florian, Yevgeny) to build rapport, generally professional/collegial with light self-deprecation about reading habits.",
+  "depth": "Highly technical and mechanistic: growth-investing risk underwriting, interest-rate/inflation effects on valuation multiples, fund economics (management fee vs. carry incentives across vintage years), data-stack consolidation/fragmentation history, and specific board-membership philosophy.",
+  "harry_quotes": [
+    "Do you not think it's bad for the entrepreneurs in those stages?",
+    "When there's cash on the table, do you take it?",
+    "Do you agree with me or do you think I'm missing something on the macro?"
+  ],
+  "learnings": [
+    "Growth investors face a rising conviction bar as prices climb, forcing deeper pre-built theses well before a company actually raises, since compressed timelines leave no room to build conviction during the round itself.",
+    "As venture funds age and stack more vintages, management-fee income becomes a larger share of GP economics relative to carry, subtly reducing alignment with fund performance over time.",
+    "CapitalG's single-LP (Alphabet) structure removes pressure to raise new funds every few years for fresh management fees, which the guest frames as giving the firm more 'purity' of incentive.",
+    "Late-stage hedge funds moving into early rounds treat those checks as a loss-leader to secure pre-IPO allocation cheaply, rather than to add the kind of hands-on value an early-stage-focused fund would.",
+    "A personal underwriting test — would you invest that percentage of your own net worth in this deal — creates more accountability than committee-based groupthink."
+  ],
+  "topics": ["growth investing", "fund economics", "macro/interest rates", "data infrastructure", "board membership", "capital markets structure"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Guest openly walks through CapitalG's single-LP (Alphabet) fund structure and its economic incentive differences versus traditional VC funds, a level of internal fund-mechanics transparency rare for the show."
+}

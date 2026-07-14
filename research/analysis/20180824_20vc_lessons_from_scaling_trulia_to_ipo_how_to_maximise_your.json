@@ -1,0 +1,31 @@
+{
+  "guest": "Heather Fernandez",
+  "guest_role": "Founder and CEO at Solve",
+  "approx_date": "Aug 2018",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared questions with thoughtful follow-ups and requests for clarification, but never challenges Heather's assertions or plants alternative viewpoints.",
+  "question_style": "Harry asks open-ended questions exploring Heather's frameworks (culture, scaling stages, marketplace dynamics). He requests specific examples and reasoning but does not contest ideas or introduce his own thesis.",
+  "tone": "Warm, admiring, and deeply engaged. Harry expresses genuine interest in Heather's journey from McCain campaign to Trulia to Solve. Collaborative and celebratory of her accomplishments.",
+  "depth": "Moderately deep. Harry explores culture building and constructive candor, marketplace supply-demand dynamics, hiring frameworks by company stage, personal scaling, board management, and productivity practices. Focus on operations and leadership philosophy rather than product or technical detail.",
+  "harry_quotes": [
+    "Can I ask, is there anything that you can do literally to enhance chances of constructive candor?",
+    "Can I ask if you were to focus on one number that you hone in on check daily?",
+    "What gave you the confidence to do that, Heather?",
+    "Can I ask how do the best CEOs manage their board?",
+    "How do you deal with shit hit the fan moments, Heather?"
+  ],
+  "learnings": [
+    "Culture functions as an operating manual defining core principles that guide team behavior consistently across all company sizes and situations",
+    "Constructive candor combines trust, directness, and alignment on goals; it resolves 80% of organizational drama by enabling effective communication",
+    "Early-stage product validation requires multiple data sources beyond AB testing: qualitative feedback, competitive analysis, and directional unit economics",
+    "Marketplace success requires accepting inherent trade-offs between supply and demand sides rather than optimizing exclusively for one",
+    "Hiring should match company stage: creators at 0-10 people (self-directed culture-setters), team leads at 10-50 (provide daily support/direction), infrastructure roles at 50-100 (organizational leverage)",
+    "Founders should take on unfamiliar roles by recognizing that successful people occupying those roles also started unprepared and learned through execution",
+    "Effective board management depends on transparency, honesty, and CEO vulnerability in seeking direct challenge from experienced directors",
+    "Scaling spend requires directional validation of unit economics, customer retention, and core action completion—not raw user growth"
+  ],
+  "topics": ["marketplace", "healthcare", "scaling", "culture", "board dynamics", "founder psychology", "hiring", "unit economics"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Heather shares how Sami Inkinen's unapologetic commitment to training at Trulia gave her confidence to be unapologetic about motherhood and career—a powerful reflection on leadership modeling and diversity in tech culture."
+}

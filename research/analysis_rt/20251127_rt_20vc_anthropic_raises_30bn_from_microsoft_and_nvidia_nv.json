@@ -1,0 +1,29 @@
+{
+  "approx_date": "Nov 2025",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll"],
+  "stories_covered": [
+    "Anthropic raises $15B from Microsoft and Nvidia at $350B valuation",
+    "$30B Azure compute commitment secured",
+    "Google launches Gemini 3 Pro with reported advantages on design tasks",
+    "Vertical integration: foundation models building own data centers",
+    "Nvidia customer concentration risk (4-5 customers represent 70-80% of revenue)"
+  ],
+  "harry_takes": [
+    "There is no stability in the model space—weekly Twitter sentiment swings between Gemini, ChatGPT, and Claude show the market hasn't settled",
+    "Nvidia's extreme customer concentration (70-80% revenue from 4-5 hyperscalers) makes them vulnerable to any single customer building their own chips",
+    "Google, Meta, and Amazon will eventually build their own chips; when they do, Nvidia loses those customers and massive margin dollars",
+    "The structural risk of chip substitution is more existential than any near-term competition between models"
+  ],
+  "harry_boldest_quote": "There's just no stability in seed investing.",
+  "predictions": [
+    "Lemkin: Google will offer TPUs to other cloud providers to defend against Nvidia concentration",
+    "Rory: At least one of Google/Meta/Amazon will build a chip good enough to 50% reduce their Nvidia spend within 5 years",
+    "Harry: Nvidia's margin profile becomes permanently compressed if even one large customer achieves 70% cost parity on own silicon",
+    "Rory: Credit market signals (Oracle CDS spike) suggest growing anxiety about overlevered CapEx plays"
+  ],
+  "disagreements": "Lemkin acknowledged the TPU risk but downplayed its probability; Rory and Harry treated it as imminent and existential. Lemkin emphasized model capability differentiation; Harry and Rory focused on infrastructure concentration as the primary risk.",
+  "harry_role": "Harry repeatedly surfaced the Nvidia concentration risk and forced the panel to quantify the customer defection threat. He pivoted away from model performance debates and anchored on the structural/economic risk of vertical integration.",
+  "topics": ["anthropic", "nvidia", "microsoft", "llm", "gpu", "customer-concentration", "chips", "tpu", "data-centers", "vertical-integration"],
+  "sponsor_read_count": 3,
+  "notable": "The group discovered that if Nvidia is spending 40% of Google's $90B capex budget ($36B), Google is essentially handing Nvidia $20B+ in annual profit—a threshold at which chip building becomes economically rational even for a $1-5B development spend."
+}

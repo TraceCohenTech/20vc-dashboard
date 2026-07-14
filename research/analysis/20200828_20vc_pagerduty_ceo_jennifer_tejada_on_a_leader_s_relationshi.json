@@ -1,0 +1,32 @@
+{
+  "guest": "Jennifer Tejada",
+  "guest_role": "CEO, PagerDuty (public company)",
+  "approx_date": "Aug 2020",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared questions and genuinely engages, but is purely in receiving mode; he affirms and requests elaboration on Jennifer's views without any pushback, challenges, or planted arguments.",
+  "question_style": "Mostly advisory in framing: asking Jennifer for wisdom and advice (e.g. 'What would you advise me?'). Open-ended, conversational, with follow-ups that deepen Jennifer's point rather than diverge from it. No challenges or contrarian stances.",
+  "tone": "Warm, respectful, and positioned as a learner. Harry is clearly soaking up Jennifer's wisdom and repeatedly affirms her views. Self-deprecating moments reveal his own struggles (risk, decision-making, self-doubt). Intimate and mentor-like dynamic rather than peer challenge.",
+  "depth": "Deep exploratory dive into leadership mindset and psychology: imposter syndrome, self-doubt, decision-making under uncertainty, intrinsic motivation, crisis response, building internal debate culture, board dynamics. Focuses on people, relationships, and philosophy over metrics or operations.",
+  "harry_quotes": [
+    "Okay. Tell me, what's the favorite book and why?",
+    "Tell me, what's the biggest challenge of your role with Page's duty today?",
+    "The best CEOs are the best resource allocators. Agree or disagree?",
+    "Who's your biggest mentor and what's been a big takeaway?",
+    "When I say success, who's the first person that comes to your mind, Jen?",
+    "What would you most like to change about tech and the Valley today?",
+    "Sorry, can I just, what can specifically be done?"
+  ],
+  "learnings": [
+    "Leaders who invest systematically in people development across all levels—entry, management, executive—build organizations that adapt faster and retain institutional capability across market cycles",
+    "Career decisions should be anchored to intrinsic motivation (learning, impact) rather than external status symbols (titles, money, fame); clarity about what drives you prevents misalignment and burnout",
+    "Board experience teaches decision-makers to act decisively with 10% of the data they want; consolidating what you know and trusting experience beats waiting for perfect information",
+    "A 'no surprises' transparency policy with boards transforms them from oversight into partners who help problem-solve; board composition should be curated intentionally for complementary skills, not optics",
+    "Building a culture of healthy debate requires deliberate trust-building, repeated practice, and clear agreements (e.g., 'disagree and commit'); this muscle doesn't develop naturally in high-growth companies",
+    "Advancing diversity and inclusion in tech requires treating it like a business initiative—setting measurable goals, allocating resources and leadership, executing programs, measuring, and adjusting—not as HR or CSR work",
+    "Self-doubt in leadership is universal and healthy; managing it comes from having data, surrounding yourself with great people, building psychological safety in teams, and reflecting on past decisions"
+  ],
+  "topics": ["leadership", "CEO psychology", "organizational culture", "decision-making", "board dynamics", "diversity and inclusion", "crisis management", "people development", "imposter syndrome", "founder mindset"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Harry explicitly acknowledges in outro: 'I literally asked the first question, which was on the schedule and then all the other questions you heard were not on the scheduler tool'—the entire conversation diverges from the planned rubric from question one. Also notable: Jennifer's unwavering emphasis on data-driven diversity initiatives and transparency as competitive advantage, not compliance work."
+}

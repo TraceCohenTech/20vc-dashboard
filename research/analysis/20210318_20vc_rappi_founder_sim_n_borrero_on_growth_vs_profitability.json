@@ -1,0 +1,26 @@
+{
+  "guest": "Simón Borrero",
+  "guest_role": "Founder and CEO at Rappi",
+  "approx_date": "Mar 2021",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks prepared follow-ups and gently probes strategy (growth vs profitability, competition handling) but doesn't contest claims; tone is more conversational than challenging, showing curiosity rather than skepticism.",
+  "question_style": "Harry uses a narrative interview style, inviting stories ('how did it start') and following with operational dives ('when did you know it was working'). He asks about tradeoffs (growth vs profitability) but frames them as open questions rather than challenges. He probes founder psychology ('do you struggle with self-doubt') but without pressure.",
+  "tone": "Warm, engaged, informal. Harry explicitly abandons his prepared schedule mid-episode and calls it 'very special.' Energetic and building on Simon's enthusiasm. Admiring but less deferential than the Eisenberg episode—more peer-like conversation.",
+  "depth": "Strong operational depth: unit economics, zone maturity timelines (3.5 months), dollar retention metrics vs DoorDash, customer frequency as north-star metric, multi-vertical expansion triggers. Less strategic/philosophical than Eisenberg; more tactical execution focus. Asks about talent acquisition and competitive response mechanisms.",
+  "harry_quotes": [
+    "How did it start and what was that founding moment for you with Rappi?",
+    "When did you know it was working when you were giving out donuts?",
+    "Can I ask, when you think about zone maturity how long does it take?",
+    "How do you think about the right way to analyze competition today?"
+  ],
+  "learnings": [
+    "Multi-vertical platform density (restaurants, pharmacy, groceries in same user app) compounds user frequency and retention far beyond single-category competitors through expanded daily utility.",
+    "Product expansion timing should follow user demand signals and feature requests rather than strategic planning; the blank-order field revealed user needs organically (restaurants, cash delivery).",
+    "Zone-level profitability and replicable unit economics must precede geographic scaling; mature zones demonstrate the model works before capital is deployed to new markets.",
+    "Competitive pressure accelerates innovation adoption (e.g., restaurant tablets, order automation); competitors are 'fuel' to move faster rather than existential threats."
+  ],
+  "topics": ["on-demand delivery", "unit economics", "geographic expansion", "multi-vertical strategy", "customer retention", "Latin American startups", "growth vs profitability", "competitive dynamics"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "20VC's first LATAM founder guest (noted by Harry); memorable sewage-truck Sequoia meeting anecdote; Simon explicitly frames company culture as 'Amazon-like' (hard work, no perks) versus Google; discusses building confidence in LATAM entrepreneurs after mercado libre's $100B valuation."
+}

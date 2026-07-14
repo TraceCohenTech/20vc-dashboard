@@ -1,0 +1,26 @@
+{
+  "guest": "Rahul Vohra",
+  "guest_role": "Founder and CEO at Superhuman",
+  "approx_date": "Feb 2019",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks well-prepared, sequential multi-part questions and probes with follow-ups, but never challenges or contests any of Rahul's claims or frameworks.",
+  "question_style": "Almost entirely open, generous questions that let Rahul narrate his product-market-fit framework step by step; Harry builds each question directly off the prior answer and occasionally interjects enthusiastic affirmations rather than pushback. He does not interrupt or contest claims, though he does ask one sharper scalability question near the end.",
+  "tone": "Warm, fannish, and complimentary throughout ('I absolutely love that', 'what an incredible list'), with heavy praise for the guest and product; energy is high but deferential rather than adversarial.",
+  "depth": "Goes deep on one specific topic (product-market-fit measurement) tracking Sean Ellis's 40% framework, HXC segmentation, and survey ninjutsu in real detail, plus a secondary thread on capital-efficient fundraising and onboarding; less range across other business topics.",
+  "harry_quotes": [
+    "How does one look to segment the user base?",
+    "Is that truly scalable picture a year out when there's 10,000 people a day?",
+    "Why is that so challenging?"
+  ],
+  "learnings": [
+    "Product-market fit can be measured via Sean Ellis's survey asking users how disappointed they'd be without the product, benchmarked at a 40% 'very disappointed' threshold.",
+    "Segmenting survey respondents into a 'highest expectation customer' persona reveals which user words to use in marketing and which feedback to prioritize.",
+    "Teams should split R&D roughly 50/50 between doubling down on what core fans already love and fixing what holds fence-sitting users back.",
+    "Raising capital ahead of need lets a company let investors come to them rather than running a time-consuming active fundraising process.",
+    "A high-touch, paid onboarding call that pre-qualifies users can be a deliberate filter as much as a service, screening out non-serious users."
+  ],
+  "topics": ["product market fit", "growth", "fundraising", "onboarding", "saas", "customer feedback"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "The episode is structured as an extended teaching session on a specific quantitative PMF framework (Sean Ellis's 40% metric plus HXC segmentation), functioning almost like a masterclass rather than a typical interview."
+}

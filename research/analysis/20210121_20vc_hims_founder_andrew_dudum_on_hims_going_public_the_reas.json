@@ -1,0 +1,34 @@
+{
+  "guest": "Andrew Dudum",
+  "guest_role": "Founder and CEO, Hims & Hers (telehealth company going public via SPAC)",
+  "approx_date": "Jan 2021",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared questions and follow-ups mostly in receiving mode; he affirms Andrew's views without challenging or pushing back; positioned as learner/admirer of Andrew's approach.",
+  "question_style": "Multi-sentence questions mostly asking for Andrew's advice, wisdom, or experience. Open-ended, conversational follow-ups that deepen Andrew's points rather than diverge from them. No skepticism or challenges.",
+  "tone": "Warm and admiring. Harry explicitly says 'Andrew, my friend' and 'I have to say, I just love Andrew' in outro. High energy, self-aware humor. Positioned as mentee learning from experienced operator rather than peer challenging.",
+  "depth": "Deep operator-focused dive: team building and talent acquisition (specialization, ego management, world-class exec recruiting), hyper-growth management (what breaks, crisis psychology, customer focus), SPAC vs IPO mechanics, time management philosophy, founder mindset/personal wealth, fatherhood and leadership evolution.",
+  "harry_quotes": [
+    "I do want to dive into the show itself.",
+    "I do have to ask, in terms of like you mentioned specialization there.",
+    "Totally. And they join you then and they join you on the journey.",
+    "What did you do well and what would you do differently?",
+    "Can I ask, in terms of like the first things to break?",
+    "Can I ask personally, like I'm sometimes good, sometimes terrible in crisis?",
+    "Why did you decide now was the right time to do it?",
+    "I'm intrigued, how do you think about your relationship to money?"
+  ],
+  "learnings": [
+    "Transition to specialization immediately after product-market fit (defined as people pulling out credit cards unprompted); specialists maintain and increase team quality even as company scales",
+    "Ego management is critical—culture must require every hire to be better at their job than founders could be; this forces managers beyond fiefdom-building and keeps quality concentrated",
+    "World-class talent is motivated by mission, opportunity for growth to bigger roles, and vision/passion—not primarily by compensation; founder emotional conviction matters in recruitment",
+    "In hyper-growth crises (supply chain breaks, website checkout fails, servers down), emotional leadership and blame-seeking make situations worse; calm focus on solution, empowerment, and post-mortems after stability is key",
+    "SPACs vs IPOs: SPACs enable faster timelines (6 months vs 18 months), eliminate negotiated pricing uncertainty, and avoid dilutive first-day pops (100% increases mean underpricing by ~50%); less hype but better long-term economics",
+    "Time management: break days into small units (before breakfast, breakfast-to-lunch, post-lunch blocks) instead of thinking in quarters/weeks; eliminates meeting delays and enables 4x output",
+    "Founder relationship to wealth evolves from necessity-driven (hitting salary milestones to live comfortably) to risk-averse (money threatens relationships/family/authentic feedback); intention to give most away",
+    "Fatherhood will sharpen leadership empathy by making example-setting conscious; son will watch how founder responds to setbacks, mistakes, and people's contributions"
+  ],
+  "topics": ["team building", "talent acquisition", "leadership philosophy", "hyper-growth management", "crisis management", "IPO vs SPAC", "time management", "founder mindset", "personal wealth", "fatherhood", "telehealth"],
+  "repeat_guest_callback": "For those that missed our first episode, tell me how did you make your way into the world of startups? And Andrew, my friend, this is such a joy to do from dinner in London to now recording this show.",
+  "sponsor_read_count": 3,
+  "notable": "Andrew going public via SPAC (transaction closing Tuesday per episode date, Jan 21, 2021). Early investors include Snoop Dogg, Alex Rodriguez, and Jennifer Lopez. Company growing 90-100% YoY, ~$150M revenue at IPO (3 years old), margins at 76%. Andrew becoming first-time father during IPO. Explicitly states he and wife plan to give most wealth away, not accumulate. Notable humility about hyper-growth failures (supply chain broke, website down, analytics broke, rebuilt company within 6 months)."
+}

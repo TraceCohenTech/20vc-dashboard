@@ -1,0 +1,24 @@
+{
+  "guest": "Pejman Nosad",
+  "guest_role": "Founding Managing Partner at Pear VC",
+  "approx_date": "Feb 2017",
+  "assertiveness": 3,
+  "assertiveness_why": "Prepared multi-sentence questions with real follow-ups, but never contests claims; primarily receptive and biographical in nature.",
+  "question_style": "Open-ended biographical questions that invite storytelling; Harry uses prior statements to build follow-ups (\"And you said...\") rather than challenging; no pushback or alternative perspectives offered; mostly building on guest's narratives.",
+  "tone": "Very warm and admiring; Harry opens with effusive praise (\"most inspiring guest\"); formal but friendly; high fandom; self-deprecating humor (\"sadly, I didn't write a check\").",
+  "depth": "Surface-level personal narrative with some strategic elements; focuses on Pejman's personal journey and founder assessment patterns; touches on dilution and fund structure but mostly biographical storytelling rather than technical depth.",
+  "harry_quotes": [
+    "So talk to me about how you arrived in Silicon Valley with $700 and a few words of English.",
+    "What do you think made you so brilliant at networking with those elite of tech society?",
+    "You've said before that you never invest without meeting the co founder."
+  ],
+  "learnings": [
+    "In-person relationship building and personal interaction are foundational to early-stage venture success, especially when the investor lacks formal credentials in tech.",
+    "Founder character traits like humility, visionary thinking, healthy paranoia, and team cohesion are as critical to investment outcomes as product quality.",
+    "Geographic presence in innovation epicenters and willingness to participate authentically in community-building can compound opportunity access for newcomers without traditional backgrounds."
+  ],
+  "topics": ["founder assessment", "seed-stage investing", "network building", "venture capital", "angel investing", "company building", "founder psychology"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Pejman's remarkable personal backstory (yogurt shop attic, rug salesman, $20B+ portfolio) dominates the episode, making it more biographical narrative than analytical VC interview. Early Harry (2017) still developing interview structure."
+}

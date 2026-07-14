@@ -1,0 +1,26 @@
+{
+  "guest": "Jason Lemkin and Rory O'Driscoll",
+  "guest_role": "Recurring news-roundtable panelists — Jason Lemkin (SaaStr founder/CEO), Rory O'Driscoll (Scale Venture Partners general partner)",
+  "approx_date": "Jun 2025",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry plants his own framing and thesis on nearly every topic and runs an adversarial quickfire round, but he never really contests Jason or Rory's analysis and mostly plays enthusiastic moderator across this regular news-roundtable segment.",
+  "question_style": "Mostly open, thesis-first prompts ('does it lead to the juggernauts', 'how do we avoid giving up the pop') that hand the floor to his panelists rather than pin them down; he occasionally injects his own opinion or joke mid-answer and runs a rapid-fire yes/no prediction round at the end, but he does not push back when Jason and Rory disagree with each other (he lets them contest one another instead).",
+  "tone": "Very matey and high-energy with running banter ('guys I'm so excited for this', jokes about wanting Twitter/OpenAI to pay him more) — clearly a comfortable, fannish rapport with two recurring co-hosts rather than a formal interview dynamic.",
+  "depth": "Strategic and mechanism-level throughout: IPO book-building and underpricing dynamics, capital concentration ratios in late-stage venture, SaaS TAM penetration math, and unit economics of AI replacing contact-center labor; Harry tracks these numeric arguments closely enough to ask informed follow-ups.",
+  "harry_quotes": [
+    "How do you avoid giving up the pop?",
+    "New York Times wins open AI lawsuit... yes or no?"
+  ],
+  "learnings": [
+    "IPO pricing is structurally inefficient because underwriters hold an information advantage over issuers, routinely leaving significant money on the table for sellers.",
+    "US public markets remain the cheapest and deepest source of growth capital globally, which is why even strong private companies eventually go public.",
+    "SaaS growth is decelerating mainly because core markets have reached high penetration (e.g., CRM, collaboration tools), a trend independent of AI's effect on budgets.",
+    "AI only meaningfully expands a market's TAM when pricing captures a real share of the labor cost saved; matching cost dollar-for-dollar doesn't move the needle.",
+    "Late-stage venture capital concentration is rising because only a small number of true breakout companies can absorb very large follow-on checks efficiently.",
+    "SpaceX's business is resilient to political controversy because the government has no substitute launch provider, while Tesla is more exposed since it depends on consumer brand sentiment."
+  ],
+  "topics": ["ipo market", "fund mechanics", "sass slowdown", "ai economics", "elon musk", "media licensing"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 6,
+  "notable": "This is not a single-guest interview but a recurring weekly news-roundtable format with two regular panelists (Jason Lemkin, Rory O'Driscoll), covering IPOs, SaaS slowdown, and Elon's companies rather than a dedicated Elon deep-dive despite the episode title."
+}

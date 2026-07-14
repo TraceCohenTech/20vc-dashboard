@@ -1,0 +1,29 @@
+{
+  "approx_date": "Mar 2025",
+  "panelists": ["Julia Hoggett, CEO London Stock Exchange"],
+  "stories_covered": [
+    "Will Revolut and Monzo list on London Stock Exchange",
+    "Stamp duty as a perverse tax on UK stock investment",
+    "UK capital market competitiveness vs US listings",
+    "Pension fund reform to drive domestic capital investment",
+    "Regulatory changes to listing rules and research incentives",
+    "UK regulatory disconnection from retail and institutional investors"
+  ],
+  "harry_takes": [
+    "The UK has structurally disconnected society from capital markets through 20-30 years of regulatory and pension reforms",
+    "Stamp duty is a counterproductive tax that penalizes UK investors and companies compared to US/European alternatives",
+    "The narrative that US listings are superior is empirically false: 9 of 20 large UK companies that listed in US have already delisted, only 4 trading up",
+    "UK capital markets offer better liquidity and index inclusion than commonly perceived, with free-float turnover in London exceeding S&P and NASDAQ"
+  ],
+  "harry_boldest_quote": "Stem duty is a perversity in the UK.",
+  "predictions": [
+    "Julia: UK pension funds have committed to investing 5% of assets in private companies by 2030, predominantly in UK",
+    "Julia: If regulatory and pension reforms are executed, UK will become the default choice for great UK companies at significant scale",
+    "Julia: Revolut and Monzo will likely list in London rather than US if proper capital market incentives are in place"
+  ],
+  "disagreements": "Harry gently challenges Julia's claims on UK competitiveness (e.g., questioning whether Deliveroo or companies at Revolut/Monzo's scale would be valued differently in US), but these are exploratory rather than fundamental disagreements. Julia systematically reframes the narrative with data.",
+  "harry_role": "Harry moderates as a skeptical but receptive interviewer, asking probing questions and occasionally challenging Julia's market-competitiveness claims. He sets the episode's anti-US-narrative frame but defers to Julia's expertise on market structure and data. He plays devil's advocate without taking a hard position.",
+  "topics": ["fintech", "ipo", "listings", "uk-markets", "regulation", "pension-reform", "capital-markets", "stamp-duty", "growth"],
+  "sponsor_read_count": 3,
+  "notable": "Episode recorded at LSE headquarters with the LSE CEO; the interview is entirely one-on-one (no Jason Lemkin or Rory O'Driscoll). Julia makes a data-driven case for UK market competitiveness using specific examples (ARM, Wise, TransferWise) to directly counter the media narrative."
+}

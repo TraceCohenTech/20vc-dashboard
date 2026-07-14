@@ -1,0 +1,26 @@
+{
+  "guest": "Jason Calacanis",
+  "guest_role": "Angel investor (author of 'Angel'), host of This Week in Startups, founder of Launch Festival, ex-Sequoia scout",
+  "approx_date": "Aug 2017",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry directly surfaces a contradiction with a prior guest's opposing thesis ('companies are bought and not sold' vs. Josh Felser's 'sold and not bought') and asks a pointed moral question ('Do you blame founders for selling out early?'), but otherwise lets Calacanis's long monologues run without further challenge.",
+  "question_style": "Mix of open-ended prompts and a few pointed, almost confrontational questions that set two thinkers against each other; Harry lets Calacanis talk at extreme length uninterrupted once he starts, rarely re-directing.",
+  "tone": "Very matey and jokey (banter about episode counts, Star Wars analogies), high energy, clearly a returning-guest rapport, minimal formality.",
+  "depth": "Goes beyond surface into specific operating frameworks: Calacanis's four pre-investment questions ('what are you working on', 'why are you doing this', 'why now'), YC's cherry-picking mechanics, SAFE note manipulation tactics, and market-cycle/valuation analysis (Blue Apron IPO pricing).",
+  "harry_quotes": [
+    "Do you blame founders for selling out early?",
+    "Is successful investing a game of picking or is it a game of access?",
+    "What do you make of YC scaling?"
+  ],
+  "learnings": [
+    "Calacanis argues companies are 'bought, not sold' — durable growth and engagement metrics attract acquirers rather than founders actively shopping the company.",
+    "He treats early liquidity for founders as a retention tool: letting founders sell a small stake early keeps them motivated for a much longer, bigger outcome rather than causing them to coast.",
+    "His two go-to diligence questions ('what are you working on' and 'why are you doing this') are designed to surface founder-level obsession and resilience rather than factual information.",
+    "He views YC's scale-up as a mixed bag: its partners quietly cherry-pick the best cohort companies well before demo day, leaving retail investors mostly competing over weaker deals.",
+    "He criticizes founder culture for over-indexing on conference/summit attendance as a distraction from the real work of reaching profitability."
+  ],
+  "topics": ["angel investing", "diligence questions", "yc/accelerators", "founder liquidity", "market cycles", "wealth creation"],
+  "repeat_guest_callback": "Jason it's such a pleasure to have you on the show again as I said to you before, I've so enjoyed having you on so thank you so much for joining me again",
+  "sponsor_read_count": 2,
+  "notable": "Episode explicitly departs from Harry's usual structured format ('slight fly on the wall show... willing to go off schedule') to accommodate a long-form, book-promotion conversation."
+}

@@ -1,0 +1,28 @@
+{
+  "guest": "Girish Mathrubootham",
+  "guest_role": "Founder and CEO of Freshworks (NASDAQ-listed, ~$596M ARR, $5.2B market cap); founder of Together Fund and co-founder of SaaSBoomi",
+  "approx_date": "Apr 2024",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks well-prepared, structured follow-ups and occasionally frames a mild challenge ('Is this not a product marketing nightmare?', playfully reclassifying a 'kind' angel check as an investing mistake) but never sustains pushback or contests Girish's core claims.",
+  "question_style": "Open, systematic questions moving through a clear narrative arc (origin, pricing, geography, hiring, culture); Harry occasionally injects a counter-framing or outside quote (Andreessen on pricing, an ancient fable) to prompt reflection rather than to contest the guest.",
+  "tone": "Warm, admiring, notably marks this as a milestone episode ('first Indian guest in seven years'), light banter at the end (marriage advice, tennis), no self-deprecation beyond acknowledging he'd have given bad advice on globalization.",
+  "depth": "Strong operational depth: CAC structure differences between US and Indian SaaS, PLG/SEO-to-GEO transition, twin-engine (SMB + mid-market) go-to-market tension, multi-product sequencing, and specific hiring-mistake mechanics.",
+  "harry_quotes": [
+    "Is this not a product marketing nightmare, Girish?",
+    "Do you think it's much easier to start low and go up?",
+    "Why do you have 13% then beneath?",
+    "What's the biggest investing mistake you've made?"
+  ],
+  "learnings": [
+    "Girish built Freshworks around a deliberate 'minimum desirable product' priced far below incumbents ($9-29/month) to win SMB customers first, arguing that starting cheap and moving upmarket works far better than starting enterprise and moving down.",
+    "Freshworks went global from day one partly because Indian enterprise buyers historically expect a services/customization relationship that would have hijacked an early-stage product roadmap.",
+    "A 'twin-engine' go-to-market split (inbound PLG for SMB, direct sales for mid-market) creates recurring internal tension over pricing transparency, product usability standards, and leadership hiring, which Girish manages by keeping pricing public company-wide.",
+    "He evaluates founders on three signals: an authentic 'right to win' in the problem domain (not idea-shopping via a spreadsheet of options), product/craft quality, and demonstrated ability to recruit a strong team.",
+    "He credits an early board-approved narrative discipline (killing a marketing product, reframing a second product as 'help desk for employees') for successfully expanding Freshworks into a multi-product company without confusing investors.",
+    "SaaSBoomi's growth (40 SaaS companies in 2016 to 6,000+ today) and recent large exits/IPOs (Flipkart-Walmart, Freshworks NASDAQ listing, Zomato/PayTM local listings) are cited as evidence India's SaaS liquidity problem is resolving."
+  ],
+  "topics": ["saas", "fund mechanics", "pricing strategy", "india tech", "go-to-market", "hiring"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Girish reveals Freshworks' viral origin traces to a personal customer-service complaint about a broken shipped TV, inspired partly by the 'United Breaks Guitars' YouTube video."
+}

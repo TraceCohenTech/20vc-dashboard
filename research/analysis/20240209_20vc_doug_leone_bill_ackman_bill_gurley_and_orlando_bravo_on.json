@@ -1,0 +1,29 @@
+{
+  "guest": "Multiple investors (Doug Leone, Bill Ackman, Bill Gurley, Orlando Bravo, Marcello Claw, et al.)",
+  "guest_role": "VCs/growth/buyout investors discussing valuation frameworks across fund stages",
+  "approx_date": "Feb 2024",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry actively curates and frames pricing debate; asks probing follow-ups and connects divergent viewpoints. More assertive than passive moderator but not adversarial.",
+  "question_style": "Harry stitches investor clips thematically, asking targeted follow-ups that push guests to clarify frameworks. Less interrogative than connective—he's building narrative threads across multiple perspectives rather than challenging individuals.",
+  "tone": "Professional, neutral curator. Harry steps back to let investors speak but guides the overall argument structure. Businesslike rather than warm.",
+  "depth": "Very strategic. Digs into pricing across funnel stages, market structure theory (Glengarry Glen Ross winner-takes-most), ownership vs. cost-of-capital math, portfolio-level risk, and scenario modeling. Tracks how frameworks differ between seed and late-stage investing.",
+  "harry_quotes": [
+    "Can I ask where it doesn't matter?",
+    "How do you feel about that?",
+    "Have you seen the movie?",
+    "Do you still want to get involved?",
+    "I want your feedback on how we can make the show better for you."
+  ],
+  "learnings": [
+    "Market size matters more than entry price when opportunity is genuinely massive; founders should focus on huge TAMs first, unit economics second",
+    "Price sensitivity must increase the further down the funnel you invest; seed can be loose, but series B-D requires discipline or valuations compound into bad returns",
+    "Ownership percentage heuristics (20%) obscure the real goal: cost-of-capital returns. A smaller piece of a 100-billion-dollar exit beats a larger piece of a dead company",
+    "Work backwards from target returns (typically 25%+ in 5 years) to determine fair entry price; this avoids FOMO-driven overpayment",
+    "Market structure dominance (winner-takes-most in many tech verticals) means you should only pay premium prices for founders/companies likely to capture category leadership",
+    "Portfolio-level price awareness matters more than deal-by-deal rigidity; consistency in entry multiples matters, but individual outliers can still work if conviction is extreme"
+  ],
+  "topics": ["pricing", "valuation", "venture capital", "market structure", "portfolio construction", "ownership", "cost of capital", "fund mechanics"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Compilation episode featuring 12+ legendary VCs (Leone, Ackman, Gurley, Bravo, Claw, Perak, Escobarri, Fishner-Wolfson, Vanister, Gerstner, Tisch, George) discussing price frameworks. Harry serves as curator/moderator rather than traditional interviewer. Format weaves together thematic clips into narrative debate."
+}

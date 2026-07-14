@@ -1,0 +1,33 @@
+{
+  "guest": "Julian Teixeira",
+  "guest_role": "Chief Revenue Officer at 1Password (formerly Head of Global Sales at Lightspeed Commerce)",
+  "approx_date": "Mar 2025",
+  "assertiveness": 7,
+  "assertiveness_why": "Harry repeatedly plants his own blunt theses (calling multi-layer forecast rollups 'ridiculous', asking why not just 10x SMB accounts, challenging Gong's product direction) and demands the guest defend or rebut them rather than just receiving answers.",
+  "question_style": "Mostly rapid-fire, prepared tactical questions structured as a founder-role-play ('I'm a young founder, what do I do'), but Harry frequently interjects blunt personal opinions and mild profanity to contest the guest's framing (team goals, forecast rollups, CS comp) before letting him respond; he rarely lets a claim pass without a pointed follow-up.",
+  "tone": "Casual and matey with frequent swearing and self-deprecating asides (e.g. comparing himself to a bad sales leader, joking about his own hiring), high energy throughout, clearly enthusiastic fan of the guest and the vertical format.",
+  "depth": "Tactically deep on sales operations specifics — ramp timelines, hunter/farmer models, ACV bands by segment, comp plan design, pipeline inspection cadence, outbound-vs-inbound close rates — and tracks granular go-to-market mechanics rather than staying at a strategic surface level.",
+  "harry_quotes": [
+    "Why has Gong fallen asleep at the wheel?",
+    "Do you hire people from layoffs?",
+    "Should we hire two at a time?",
+    "Why don't you 10 times them?",
+    "Are people still buying software like they used to?"
+  ],
+  "learnings": [
+    "A sales playbook is worthless without hiring people who have the right curiosity, discipline and skill base; process alone can't compensate for weak talent.",
+    "Early go-to-market hires should be scrappy underdogs with something to prove, not polished operators with a resume of prior wins.",
+    "Team-based quotas work only in the earliest months before baseline data exists; they should give way to individual targets within about a year.",
+    "Quotas should be pitched high enough that only around 70% of reps hit them, keeping pressure on performance instead of sandbagging goals.",
+    "Layoff pools can contain strong hidden talent, especially when whole product lines or teams were cut rather than individuals for underperformance.",
+    "Effective outbound requires real per-prospect research to capture attention, and AI should accelerate that research rather than automate generic blasts.",
+    "Hunter/farmer team splits make sense when product penetration within an account base is low, but should merge into a hybrid model once the product line expands and land-and-expand dynamics dominate.",
+    "Selling should lead with a problem the buyer already prioritizes rather than trying to convince them of a brand-new priority or educate them into caring.",
+    "Weekly, granular pipeline inspection and pre-arming a champion with likely internal objections (e.g. from a CFO) prevents late-stage deal slippage caused by hidden procurement stakeholders.",
+    "Software buying has shifted from loose budget-holder trust to heavy CFO-level scrutiny and cost-rationalization, ending the previous decade's easy up-and-to-the-right sales era."
+  ],
+  "topics": ["sales leadership", "hiring", "sales playbooks", "compensation", "sales tech stack", "gtm strategy"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 6,
+  "notable": "This is a '20Sales' spin-off format (monthly tactical sales-leader interview) structured as a founder role-play Q&A rather than a standard 20VC narrative interview, and closes with a personal/lifestyle rapid-fire segment (hair stylist, hotel habits, deal war stories) atypical of the main show."
+}

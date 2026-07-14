@@ -1,0 +1,28 @@
+{
+  "guest": "Rishi Sunak",
+  "guest_role": "Prime Minister of the United Kingdom",
+  "approx_date": "Jun 2023",
+  "assertiveness": 1,
+  "assertiveness_why": "This is a deferential, celebratory sit-down at Downing Street with zero pushback, no contested claims, and entirely open, softball questions befitting an interview with a sitting head of government.",
+  "question_style": "Entirely open and admiring questions on policy, upbringing, and a closing quickfire personal round; Harry never challenges a claim or plants a counter-thesis, functioning purely as a receptive host.",
+  "tone": "Reverential and starstruck ('one of the greatest honours...'), formal but warm, heavy fandom framing, no self-deprecation beyond light personal banter in the quickfire round.",
+  "depth": "Surface-level policy discussion covering AI regulation, the £100M AI Safety Taskforce, visa programs for tech talent, and STEM education reform, without technical follow-up or scrutiny of implementation details or funding allocation.",
+  "harry_quotes": [
+    "How much do you think the success can cost?",
+    "What's the conversation and how's it going down?",
+    "What do you want your legacy to be?",
+    "What's the worst part of being PM?"
+  ],
+  "learnings": [
+    "The UK government created a dedicated Department for Science, Innovation and Technology to signal it is taking the tech/AI agenda seriously and to attract private-sector talent into government.",
+    "The UK's new AI Taskforce, funded at £100 million, is modeled on the UK's vaccine taskforce -- deliberately kept semi-independent from government to move faster on AI safety research.",
+    "The government sees success in tech policy as measurable through venture capital raised, unicorn creation, and whether major firms (a16z, Palantir, Anthropic, OpenAI) choose to open UK offices.",
+    "New visa categories -- an innovator founder visa, a scale-up visa, and a 'high potential individual' visa for top-50 university graduates -- are meant to win the global war for technical talent.",
+    "The government wants to extend mandatory maths education to age 18 (rather than 16) because financial and mathematical literacy is increasingly relevant across all industries, including creative fields.",
+    "Sunak sees personalized AI tutoring as one of the most promising uses of AI in education, since individualized human tutoring is historically too costly to scale."
+  ],
+  "topics": ["ai policy", "uk tech ecosystem", "regulation", "education", "immigration policy", "politics"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 0,
+  "notable": "This episode is a sit-down at 10 Downing Street with the sitting UK Prime Minister during London Tech Week, entirely departing from 20VC's usual founder/investor format and containing no sponsor reads."
+}

@@ -1,0 +1,26 @@
+{
+  "guest": "Andrew Dudum",
+  "guest_role": "Founder and CEO of Hims & Hers (just gone public via SPAC); co-founder of Atomic",
+  "approx_date": "Jan 2021",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks well-prepared, curious questions and occasionally injects a light challenge (e.g. on the IPO 'pop'), but the conversation is close and friendly, with virtually no direct contesting of Andrew's claims.",
+  "question_style": "Open, generous questions clearly informed by conversations with mutual friends/investors named beforehand (Jules Molts, Alex Bard, Jack Abraham); one notable moment where he pushes on whether skipping the IPO 'pop' concerns Andrew, but otherwise receives answers without friction.",
+  "tone": "Very personal and matey — the two are established friends ('from dinner in London to now recording this show'), high energy, playful asides (Snoop Dogg story, baby jokes), minimal formality.",
+  "depth": "Goes fairly deep into operational and financial mechanics: SPAC vs. traditional IPO trade-offs, pricing efficiency and the cost of a first-day 'pop', margin structure of a pharma subscription business, and time-management/specialization-vs-generalist team-building philosophy.",
+  "harry_quotes": [
+    "Do you worry about not having the pop... is that a concern?",
+    "How do you think about your relationship to money and how's that changed over time?",
+    "How did you get Snoop Dogg involved so early on?"
+  ],
+  "learnings": [
+    "Hims & Hers deliberately moved from generalist to specialist hiring almost immediately after reaching product-market fit, rather than waiting, because specialization compounds value once there's a proven thing worth selling.",
+    "A first-day IPO 'pop' is framed as evidence of mispricing and unnecessary founder dilution rather than a genuine signal of success, which is why the SPAC's front-loaded pricing with committed public investors appealed to the company.",
+    "Deliberately compressing planning language from quarters/weeks down to same-day windows (before breakfast, after lunch, post-caffeination) meaningfully increases how much a team actually executes.",
+    "Requiring every hire to be better at their specific job than the hiring manager keeps talent density rising as the company scales, even though it's psychologically uncomfortable for junior managers.",
+    "The company's healthy ~76% margins and 90% recurring revenue stem from selling pharmaceutical subscriptions with long lifetime retention, giving room to balance growth and profitability rather than choosing one."
+  ],
+  "topics": ["healthtech", "ipo/spac", "team building", "founder mindset", "consumer subscription", "time management"],
+  "repeat_guest_callback": "For those that missed our first episode, tell me, how did you make your way into the world of startups?",
+  "sponsor_read_count": 3,
+  "notable": "Recorded literally the week Hims & Hers went public via SPAC, with the guest speaking as a newly public CEO about the process in near-real time."
+}

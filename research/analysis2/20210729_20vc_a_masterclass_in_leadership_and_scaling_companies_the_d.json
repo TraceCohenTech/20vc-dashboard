@@ -1,0 +1,26 @@
+{
+  "guest": "Krista Quales",
+  "guest_role": "CEO at Corel Corporation (previously CEO at OpenTable, Chief Business Officer at Nextdoor, SVP at Disney Interactive)",
+  "approx_date": "Jul 2021",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks sharp, well-constructed follow-ups that dig into operating mechanics (scaling breakpoints, plate-adder/remover framing, board management), but he stays fully receptive throughout with no pushback or contested claims.",
+  "question_style": "Open and layered, frequently building directly off a prior answer or an outside quote/tweet from Quales, occasionally personal ('how do you rebuild', 'do you ever sit back and appreciate what you've done'); no interruptions or adversarial framing.",
+  "tone": "Effusive and admiring ('one of the best operators in the valley today'), casual asides about going off-schedule repeatedly because he's so engaged, warm and personal register.",
+  "depth": "Strong operational and organizational depth — company breakpoints at 50/150/500 employees, psychological safety and prefrontal cortex/amygdala framing of being 'stuck,' board communication and retention limits, CEO-only decisions — shows Harry tracking management/scaling theory specifically.",
+  "harry_quotes": [
+    "How long do you give it as a test before you go, cut it guys?",
+    "What are the decisions that only a CEO can make?",
+    "How do you rebuild when that happens?"
+  ],
+  "learnings": [
+    "Quales identifies recurring organizational 'breakpoints' (roughly 50, 150/Dunbar's number, 500, 2000+ employees) where prior informal decision-making styles stop working and must be redesigned.",
+    "At OpenTable she fixed founder-level learned helplessness by changing what she explicitly rewarded, making risk-avoidance the unsafe choice rather than risk-taking.",
+    "She frames being organizationally 'stuck' as more dangerous than failing, describing her own experience of psychological unsafety shutting down prefrontal-cortex functioning and reducing effective performance.",
+    "Only three categories of decisions belong strictly to a CEO in her view: setting brand/mission narrative, building the executive team, and managing board relationships — everything else should be delegated.",
+    "She distinguishes 'plate removers' (proactive executives who identify and solve problems unprompted) from 'plate adders' who create more work for leadership, and says she now hires and promotes explicitly for that trait."
+  ],
+  "topics": ["leadership", "scaling organizations", "org design", "board management", "executive hiring", "psychological safety"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Framed explicitly by Harry as a leadership masterclass rather than an investing-focused episode, and he repeatedly abandons his prepared question schedule because the conversation pulls him elsewhere."
+}

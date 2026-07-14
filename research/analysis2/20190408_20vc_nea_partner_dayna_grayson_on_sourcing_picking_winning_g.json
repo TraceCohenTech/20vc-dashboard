@@ -1,0 +1,26 @@
+{
+  "guest": "Dayna Grayson",
+  "guest_role": "Partner at NEA",
+  "approx_date": "Apr 2019",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry mostly asks structured, sequential open questions but occasionally injects his own opinions or personal deal dilemmas (e.g. on round compression and TAM concerns) and asks Dayna to weigh in on his own live situation, going slightly beyond pure reception.",
+  "question_style": "Primarily open, well-sequenced questions following the arc of a deal from sourcing to board service, with Harry frequently sharing his own related anecdotes or asking Dayna to advise him personally on his own investing struggles rather than pure detached interviewing; he doesn't contest her answers or interrupt.",
+  "tone": "Friendly, appreciative and slightly self-deprecating (jokes about his own dating life and being 'stuck' on tricky deal decisions), with high energy and clear admiration for the guest.",
+  "depth": "Goes deep into venture process mechanics: sourcing philosophy, conviction-building, expert-reference bias, price sensitivity by stage, and board dynamics, with specific NEA operational detail (partner meetings, associate involvement, TAM/ACV concerns).",
+  "harry_quotes": [
+    "Are we seeing the end of the generalist investor?",
+    "How am I being fair?",
+    "Do you see the same round compression?"
+  ],
+  "learnings": [
+    "Miniaturization and commoditization of industrial equipment (e.g. cheaper 3D printers) is enabling a SaaS-like distributed purchasing model in manufacturing, similar to software's past decade.",
+    "Early-career investors should take many meetings to calibrate judgment on people even when the resulting businesses fail, building a personal pattern-matching dataset.",
+    "Relying too heavily on outside industry experts during diligence can bias investors against genuinely disruptive ideas, since experts will naturally defend the status quo.",
+    "Price sensitivity should differ by stage: it barely matters at Series A given power-law return dynamics, but matters much more as valuations approach or exceed unicorn territory.",
+    "Investors should decline rounds where they can't offer real value (e.g. avoid multi-stage funds writing token seed checks with no intention to follow on) because it erodes trust and wastes both sides' time."
+  ],
+  "topics": ["sourcing", "venture strategy", "board dynamics", "fundraising", "manufacturing tech", "pricing"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Harry breaks format partway through to ask Dayna to advise him directly on a live deal dilemma he's personally facing, blurring the line between interviewer and mentee."
+}

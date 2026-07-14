@@ -1,0 +1,26 @@
+{
+  "guest": "Anna Khan",
+  "guest_role": "General Partner at CRV (formerly 6 years at Bessemer; founder/CEO of Launchx Ventures)",
+  "approx_date": "Aug 2020",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry frequently states his own contrarian view (e.g. on multi-stage vs seed competition, on analyst gatekeeping) and explicitly frames one exchange as a debate against her stated position, though he ultimately concedes rather than sustaining pressure.",
+  "question_style": "Prepared, structured questions organized around clear themes (analysts, sourcing, decision-making, diversity), but Harry plants his own opinions and past Twitter takes as bait for her to react to, and directly says 'I'd love to have this debate with you' when he disagrees with her early-stage thesis.",
+  "tone": "Warm, matey, effusive with praise ('I've been a big fan of her writing'), self-deprecating about his own Twitter mishaps and habits (sleep, deleting a tweet after backlash), high energy throughout.",
+  "depth": "Goes beyond surface into venture mechanics: analyst incentive structures, price optimization at seed vs Series A, fund-size constraints on early-stage strategy, and diversity-in-VC structural critique (the 'pipeline problem' framing, carry allocation to female GPs).",
+  "harry_quotes": [
+    "Are analysts important in venture for founders to speak to and meet?",
+    "So why are very few firms doing it in your mind?",
+    "How do you think about going against them in such competitive environments?"
+  ],
+  "learnings": [
+    "Analysts are not just gatekeepers but often become the strongest internal advocates who push firms to fund deals partners would otherwise miss.",
+    "Founders can differentiate themselves to junior investors by responding with specific asks (introductions, sector opinions) rather than pleasantries, testing whether a firm will actually do work for them.",
+    "Because multi-stage funds already hold ownership at seed, they're not incentivized to price a company up at Series A, whereas a seed-only or early-stage-only investor is aligned to maximize the next round's valuation.",
+    "The 'pipeline problem' explanation for the lack of women in VC is overstated, since technical degrees are not a strong predictor of investing success, and networks — not talent supply — are the real constraint.",
+    "Women in venture tend to get promoted based on already-proven deal results, while men are more often promoted on perceived future potential."
+  ],
+  "topics": ["venture fund strategy", "diversity in vc", "sourcing", "early-stage investing", "fund structure", "multi-stage funds"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Harry describes deleting one of his own tweets after facing public criticism, and admits he is unusually sensitive to Twitter pushback."
+}

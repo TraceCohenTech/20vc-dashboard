@@ -1,0 +1,33 @@
+{
+  "guest": "Hunter Somerville",
+  "guest_role": "Partner at Stepstone",
+  "approx_date": "Mar 2023",
+  "assertiveness": 5,
+  "assertiveness_why": "Occasional direct challenges and personal data points on secondary spreads and GP commits, but mostly receives Hunter's expertise rather than sustaining adversarial pressure.",
+  "question_style": "Multi-sentence prepared questions with real follow-ups on technical topics like cap tables, runway analysis, and valuation methodology. Harry occasionally plants his own perspective and gently contests claims, but doesn't pursue confrontational follow-ups. Collegial rather than adversarial tone throughout.",
+  "tone": "Warm and appreciative, using casual language like \"Dear God, please let it rain,\" admitting when going off-topic, showing personal regard for the guest. High energy and genuine intellectual curiosity rather than skepticism.",
+  "depth": "Strong technical engagement on secondaries mechanics, cap table analysis, TVPI vs DPI valuation differences, fund sizing strategies, fee structures (invested vs committed capital), and GP-led restructurings. Asks about underlying fundamentals and specific market metrics.",
+  "harry_quotes": [
+    "What are the three types of secondaries?",
+    "How is 2023 going to be better?",
+    "Is there not a misalignment here between GP and LP?",
+    "What would you most like to change about the world of Venture?",
+    "What's the trend most investors are not seeing?"
+  ],
+  "learnings": [
+    "Secondary markets span three distinct structures: direct company secondaries from early shareholders and employees, LP-interest fund positions driven by portfolio rebalancing, and GP-led restructurings (strip sales, tender offers, continuation funds) that unlock liquidity at scale.",
+    "The denominator effect forces LPs to rebalance when public markets decline faster than private ones; this creates over-allocation to venture that can only be fixed through secondaries, markdowns, or reduced future allocations.",
+    "Effective markdown strategy requires segmenting portfolio by runway: near-term fundraisers warrant steep writedowns to realistic pricing, while 3-5 year runway companies can hold valuations if they're compounding without need to raise.",
+    "Continuation funds solve the vintage-fund problem where best assets take longest to exit; by creating a new entity to extend fund life and provide LP liquidity, managers can avoid fire-sale pressure and LPs can redeploy or lock in returns.",
+    "Secondary discounts widened dramatically from 12% average in 2021 to 34% in 2022, with LP-interest positions trading 30-45% off and company secondaries 20-35% off, creating genuine arbitrage without the organizational trauma of down rounds.",
+    "Direct relationships with company management and existing fund board members are critical; cold-outreach to departed employees yields poor information granularity and high failure risk, while warm introductions from board-level GPs enable scaled aggregation of employee/founder liquidity.",
+    "Growth fund oversizing relative to deployment capacity creates strategic risk; mega-funds with multi-year dry powder face fee pressure and competition, while 3-5 year concentrated deployments are more market-appropriate.",
+    "Emerging LPs entering venture in boom years face concentrated vintage risk; funds raised in 2020-21 will cluster negative returns if not diversified by stage and manager quality.",
+    "International capital (Middle East particularly) will expand LP base, favoring growth/late-stage funds over 12-15 year early-stage commitments due to duration and check-size alignment.",
+    "TVPI becomes unreliable benchmark when managers use heterogeneous valuation policies; DPI is more defensible because it reflects realized exit proceeds regardless of carry structure."
+  ],
+  "topics": ["secondaries", "fund mechanics", "lp strategy", "venture capital", "liquidity", "gp-led restructurings", "valuation"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Production glitch: Harry calls guest 'Rui' during quick-fire round ('What's the trend most investors are not seeing, Rui?'); Harry repeatedly references prior conversations and personal relationship, indicating a returning guest despite no explicit prior-episode callback."
+}

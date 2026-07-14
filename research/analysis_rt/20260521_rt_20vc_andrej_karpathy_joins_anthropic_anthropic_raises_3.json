@@ -1,0 +1,28 @@
+{
+  "approx_date": "May 2026",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll"],
+  "stories_covered": [
+    "Anthropic raises $30B at $900B valuation, Andrej Karpathy joins",
+    "Datadog up 31%, Figma accelerates to 50% growth",
+    "Cerebrus IPO smashes to $300, biggest US tech IPO since Snowflake",
+    "SpaceX announces June 12 IPO at $1.75T valuation raising $75B",
+    "Public market enthusiasm for AI companies, SaaS bottoming"
+  ],
+  "harry_takes": [
+    "AI companies need to hire thousands to avoid social unrest as the trend faces political resistance",
+    "Anthropic's valuation is justified at 18X ARR given their growth trajectory compared to peer multiples",
+    "Token spend at 4% of engineering payroll is table stakes and likely undercounting actual adoption across companies",
+    "The $1.75T SpaceX valuation is madness, pricing in pie-in-the-sky AI ambitions, though Elon has earned the right to make the bet"
+  ],
+  "harry_boldest_quote": "We see no signs that there's a short-term crash coming.",
+  "predictions": [
+    "Jason: Salesforce token spend will increase 3-4X over the next two years as they move from 4% to potentially 12-15% of R&D budget",
+    "Rory: Cerebrus IPO success doesn't open the window for companies below that level; only mega companies can IPO in this environment",
+    "Jason: SaaS is no longer getting attention; public market focus has shifted entirely to AI companies and semiconductors"
+  ],
+  "disagreements": "Minor tension on whether SaaS recovery is durable: Jason more skeptical that underlying growth challenges remain despite short-term repricing, Rory willing to buy the reacceleration story for AI-attached companies.",
+  "harry_role": "Harry moderates as traffic controller, asking pointed clarifying questions on valuation metrics and implications. He defers to Jason on fund mechanics and Rory on market positioning but challenges the SpaceX narrative directly.",
+  "topics": ["anthropic", "valuation", "token spend", "spacex", "public markets", "saas"],
+  "sponsor_read_count": 3,
+  "notable": "Harry claims Anthropic's approach to fundraising (clean $30B check) versus OpenAI's complexity (staged tranches, Amazon/SoftBank contingencies) reveals philosophical founder differences on capital timing."
+}

@@ -1,0 +1,26 @@
+{
+  "guest": "Ryan Holmes",
+  "guest_role": "Founder and CEO of Hootsuite",
+  "approx_date": "Oct 2016",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared, multi-sentence questions inviting philosophy and storytelling but never challenges Ryan's claims or presents contrasting data; purely receptive despite some topical depth.",
+  "question_style": "Harry structures questions to draw out leadership philosophy ('How do you retain entrepreneurial mojo?', 'How do you approach product decisions?'). Questions are warm and personal, establishing kinship before diving into business topics. Harry introduces concepts (Alphabet structure, Reed Hoffman's embarrassed shipping) for Ryan to respond to, but doesn't test or challenge his answers.",
+  "tone": "Warm and deferential with personal kinship-building. Harry notes he's 'a big user of Hootsuite' and creates common ground on university dropout status. Enthusiastic and supportive tone, celebrating Ryan's initiatives (OriStand). Peer-like but with clear deference to Ryan's experience leading a billion-dollar company.",
+  "depth": "Moderate-to-substantial. Ryan covers leadership at scale (entrepreneurial spark preservation), organizational design (labs division), product strategy (dark launches, A/B testing, beta opt-in), meeting efficiency, and fundraising context (2008-2009 competitive landscape). Harry asks informed follow-ups on organizational structure and product prioritization.",
+  "harry_quotes": [
+    "Talk to me about your founding story of Hootsuite and how the company came about.",
+    "How do you look to retain that same creativity and entrepreneurial mojo?",
+    "How do you approach product in terms of which features go through the funnel?"
+  ],
+  "learnings": [
+    "Founding in adjacent sectors (restaurant, agency) builds a holistic skill set across functions; scaling requires identifying personal strengths and hiring specialists for passion areas outside your wheelhouse.",
+    "Over-systemization (compliance, legal, policy) demotivates entrepreneurial staff at scale; creating protected innovation groups with exemption from standard accountability preserves startup culture within large organizations.",
+    "Meeting dysfunction typically stems from undefined purpose and unclear participant value; basic filters (who called it, why, who should attend, does it add value) eliminate most waste.",
+    "Product strategy balances embarrassingly simple first versions against release velocity; at scale, dark launches, A/B testing, and opt-in beta releases allow rapid iteration without alienating existing users.",
+    "In competitive venture markets, differentiation requires positioning clarity; Ryan positioned Hootsuite as 'Basecamp for social media' rather than competing with consumer-focused social browsers like TweetDeck."
+  ],
+  "topics": ["entrepreneurship", "scaling", "organizational structure", "product management", "meeting efficiency", "venture capital", "SaaS"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "This is a special 'Founders Friday' episode format. Harry explicitly mentions he is a 'big user of Hootsuite.' Ryan discusses his side project OriStand (cardboard standing desk)."
+}

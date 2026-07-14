@@ -1,0 +1,28 @@
+{
+  "guest": "Leo Polovets",
+  "guest_role": "General Partner at Susa Ventures",
+  "approx_date": "Nov 2018",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry mostly receives and builds warm follow-ups, but the dedicated 'controversial captions' segment has him plant explicit contrarian theses (warm intros are fake, moats are obsolete, price doesn't matter) and demand Leo defend against them.",
+  "question_style": "Mostly open, well-prepared multi-sentence questions that build directly on the prior answer, with a distinct format where Harry states a provocative claim and asks the guest to agree or disagree and defend their view; no real interruption, and pushback is polite rather than adversarial.",
+  "tone": "Warm, matey, and openly fannish (calls Leo 'my friend', gushes about Susa's portfolio and Leo's Twitter), high energy with self-deprecating jokes about his own accent and busy schedule.",
+  "depth": "Strategic/mechanics-focused rather than technical: dissects the mechanics of warm intros vs. cold outreach, the economics of margins and moats, ownership/reserves math, and investor feedback loops, pushing for specifics (e.g., asking exactly when in a company's life moats should be considered).",
+  "harry_quotes": [
+    "So starting at the very beginning, why are these warm intros done?",
+    "Success in investing, picking or access?",
+    "What's the biggest misnomer about VC, Leo?",
+    "So ownership is built on first check, Leo."
+  ],
+  "learnings": [
+    "Most 'warm' intros are weak signals because the connector often barely knows either party, so investors gatekeeping via intros end up limiting their own deal flow and are structurally late to any deal.",
+    "The best cold outreach emails are short, specific, clearly explain the product, cite one or two compelling proof points, and show the sender has actually researched the investor's stated thesis.",
+    "Moats should be considered from day one even though they typically compound gradually over years, because things like effort or a single domain expert provide only a temporary edge, not a durable one.",
+    "Sending a thoughtful, specific pass is better than ghosting founders; direct pushback on that feedback is rare, and how a founder reacts to critical feedback is itself a useful signal about future workability.",
+    "Making a large enough initial bet drives most of a fund's returns; follow-on capital helps mostly at the margin and is usually earned by being genuinely helpful to the founder, not guaranteed.",
+    "Collecting structured post-meeting feedback from founders (a practice borrowed from First Round) revealed that Susa wasn't clearly communicating its investment thesis, prompting Leo to now open every meeting with a short summary of what the fund looks for."
+  ],
+  "topics": ["fundraising process", "cold outreach", "moats and defensibility", "portfolio construction", "investor feedback", "venture capital"],
+  "repeat_guest_callback": "Leo, my friend, it's such a pleasure to have you on the show for a very special  round two.",
+  "sponsor_read_count": 6,
+  "notable": "This is an explicit repeat-guest 'round two' episode, and it features a distinctive 'controversial captions' segment where Harry poses thesis-driven provocations (on warm intros, moats, and portfolio concentration) for the guest to rebut."
+}

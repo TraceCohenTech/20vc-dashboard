@@ -1,0 +1,42 @@
+{
+  "guest": "Ishan Merkaji",
+  "guest_role": "Co-founder and CEO of Rox (AI sales productivity platform); previously Chief Growth Officer at New Relic",
+  "approx_date": "Apr 2025",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry poses structured follow-up questions with genuine curiosity but remains almost entirely receptive without pushing back on Ishan's claims or presenting contrary evidence.",
+  "question_style": "Prepared questions about specific mechanisms (PLG channels, SEM strategy, comp models, ramp timelines). Harry frequently asks clarifying 'what does that mean' and 'how do you think about' but never contests assumptions. He occasionally interjects with his own commentary and personal anecdotes but doesn't plant a thesis or challenge the guest's framing.",
+  "tone": "Conversational and impressed, eager to learn ('Dude, it's lovely to do this'). Harry positions himself as a student of the guest's expertise ('I totally get you there', 'Yeah, he's spot on'). Some self-aware humor about his own irrationality and emotional decision-making.",
+  "depth": "Technical follow-ups on PLG mechanics (channel concentration, free-tier misclassification), go-to-market execution (organic content, SEM keyword strategy), sales compensation structures, and AI's impact on sales ramp and team sizing. Tracks specific topics: product-led growth metrics, sales commission alignment, consumption-based revenue models, ramp compression via AI, outbound personalization.",
+  "harry_quotes": [
+    "Is it possible for early stage companies to do PLG and enterprise at the same time?",
+    "Will sales teams be dramatically smaller in the future?",
+    "What can I do to dramatically increase sales efficiency with AI today?",
+    "Do you not kill data providers like Zoom Info?"
+  ],
+  "learnings": [
+    "Concentrate marketing spend on the audience segment where you already have brand equity rather than spreading thin across multiple channels; dominance in one channel compounds better than mediocrity in many.",
+    "Free tiers and trials should be classified as 'consideration' tools (like better websites) not converted customers; this reframing changes how you measure success.",
+    "Enterprise software sales will always require humans because customers want non-transactional, long-term partnerships to solve their problems, not just buy products.",
+    "AI-powered productivity tools will compress sales teams from current size to 10-20% of headcount, with the remaining top performers handling 2-3x larger customer books.",
+    "Consistency in fundamental go-to-market decisions (customer segmentation, pricing model, rep comp structure) compounds value far more than constantly reinventing these foundations.",
+    "Sales rep compensation must be structured so that sellers have 'owner's mindset' with real commission-based skin in the game, not just fixed salary.",
+    "Early-stage repeatable sales motion requires proving two autonomous steps: lead-to-first-meeting and first-meeting-to-close without founder assistance.",
+    "AI tools can compress sales ramp from 2.5 quarters to 1.5 by giving reps instant access to deep customer research and internal company context.",
+    "Successful enterprise deals now depend on 'time to value'—landing at low six figures, proving ROI in 30 days, then expanding; this cycle drives both revenue quality and product stickiness.",
+    "Chat interfaces work for consumer AI but task-oriented workflow UIs (not chat) are necessary for B2B knowledge work where users want software to automatically surface prioritized outputs."
+  ],
+  "topics": [
+    "product-led growth",
+    "sales",
+    "enterprise sales",
+    "ai",
+    "go-to-market",
+    "sales compensation",
+    "sales enablement",
+    "content marketing",
+    "sem/seo"
+  ],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Extended discussion on AI's impact on sales team sizing and skill distribution; Ishan argues sales will compress to 10-20% of current size with power-law acceleration, shifting hiring and training philosophy entirely."
+}

@@ -1,0 +1,33 @@
+{
+  "guest": "Hunter Somerville",
+  "guest_role": "Partner at StepStone (formerly GP at Greenspring, which merged with StepStone in 2021)",
+  "approx_date": "Mar 2023",
+  "assertiveness": 7,
+  "assertiveness_why": "Harry repeatedly plants his own data points and theses (secondary discount anecdotes, markdown adequacy, GP/LP misalignment on secondary sales, GP commit mechanics) and directly asks Hunter to defend or react against them rather than just receiving answers.",
+  "question_style": "Harry mixes open prompts with pointed, thesis-driven challenges, citing his own anecdotal data (a secondary buyer requiring 60% discounts, endowment pullback patterns) to test Hunter's claims, and explicitly names perceived misalignments (GP-led secondaries, GP commits) for Hunter to rebut. He rarely interrupts mid-answer but frequently reframes or escalates with a harder follow-up.",
+  "tone": "Warm and familiar (long personal relationship implied, thanks Hunter for past support), high energy with rapid-fire quickfire round at the end, occasional self-deprecating asides ('sorry, going off piste').",
+  "depth": "Strong technical/strategic depth — tracks specific secondary-market mechanics (strip sales, tender offers, continuation funds), fund economics (TVPI vs DPI, GP commits, carry kickers, fee basis on invested vs committed capital), and macro LP dynamics (denominator effect, vintage-year diversification, endowment liquidity constraints).",
+  "harry_quotes": [
+    "What are the three types of secondaries?",
+    "Do you think venture investors have marked down their books adequately enough?",
+    "Is there not a misalignment here between GP and LP?",
+    "Do you feel now is the time to be greedy when others are fearful, Hunter?",
+    "Do you think we'll see an increase in that demand for those management company positions?"
+  ],
+  "learnings": [
+    "Secondary transactions split into company secondaries (early investors/employees seeking liquidity) and fund secondaries (LP interest sales and GP-led restructurings like strip sales, tender offers, and continuation funds).",
+    "The denominator effect pushes LPs into over-allocation on the private side as public markets fall faster than private marks, forcing rebalancing via secondaries rather than markdowns alone.",
+    "Average venture fund markdowns were roughly 15-20% by early 2023, with StepStone's approach focused on discounting companies with short runway needing to raise soon versus leaving longer-runway companies alone.",
+    "DPI is becoming the critical benchmark over TVPI because LPs increasingly distrust inflated unrealized valuations and can't easily assess true underlying value across managers.",
+    "Secondary discounts moved from roughly 12% off last round in 2021 to about 34% in 2022 at an industry level, with LP-interest deals trading at deeper discounts (30-45%) than company secondaries (20-35%).",
+    "StepStone avoids blind/opaque company secondaries, insisting on warm introductions from GPs already on the cap table to get real information and relationships rather than cold-calling departed employees.",
+    "Carry kickers should generally not go below a 3x net hurdle, and overly complex multi-tiered kicker structures are viewed unfavorably.",
+    "Large GP commits funded by recycled management fees can be counterproductive, diverting capital that should go to team and fund-building; GP commit size should scale with a partner's net worth, not an arbitrary dollar target.",
+    "Expect increased international (especially Middle Eastern) LP capital flowing into US growth and later-stage funds because those investors want shorter duration than typical 12-15 year early-stage fund lifecycles.",
+    "GP-led secondaries (like continuation funds) often arise around year 12-13 of a fund's life when one or two remaining assets dominate NAV and aren't yet ready to go public."
+  ],
+  "topics": ["secondaries", "fund mechanics", "lp dynamics", "venture valuations", "dpi/tvpi", "fund economics"],
+  "repeat_guest_callback": "Many don't know the support you've shown me over the years. I so appreciate it.",
+  "sponsor_read_count": 2,
+  "notable": "The episode is almost entirely a single deep-dive technical/mechanics conversation on secondaries with minimal small talk, ending in an extended personal quickfire round reflecting an established, close guest relationship."
+}

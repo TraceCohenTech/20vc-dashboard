@@ -1,0 +1,37 @@
+{
+  "guest": "Martin Casado",
+  "guest_role": "General Partner at Andreessen Horowitz, leads the firm's $1.25 billion infrastructure fund",
+  "approx_date": "Jul 2025",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry occasionally challenges Martin on specific claims (playing the game on field, Claude dominance risks) and plants his own theses, but maintains a primarily receptive, collaborative interviewing stance without sustained pressure-testing.",
+  "question_style": "Harry uses open-ended multi-sentence questions with setup context and occasionally pushes back on specific points, challenging Martin to defend his positions. He plants his own thesis about Claude dominance and asks defensive follow-ups, but rarely interrupts and maintains a conversational rather than confrontational tone. Follow-ups are thoughtful and exploratory rather than adversarial.",
+  "tone": "Conversational and friendly with occasional edge. Harry uses casual language, expresses his own views directly, admits his own mistakes transparently, and shows genuine intellectual curiosity. He treats Martin as a peer rather than an authority, demonstrating respect without deference.",
+  "depth": "Harry tracks technical details of the AI stack including model distillation, coding efficiency metrics, margin dynamics, and competitive positioning. He asks substantive questions about China's open-source advantages, national security implications, developer productivity gains, and the distinction between infrastructure and application businesses.",
+  "harry_quotes": [
+    "How do you evaluate where we're at today in the AI investing landscape?",
+    "Do you agree with the playing the game on the field sentiment?",
+    "Do you think they make 1X engineers 10X or 10X engineers 100X?",
+    "When does the importance of brand and brand recognition dwindle?",
+    "What is the ownership you need?"
+  ],
+  "learnings": [
+    "Zero-sum thinking has been systematically wrong in AI—every layer of the stack has gained value and produced winners, not just the dominant players at the top.",
+    "Model provider dominance is episodic rather than structural; models distill easily and lose advantages quickly, making an oligopoly (like cloud computing) more likely than a lasting monopoly.",
+    "Brand effects create outsized advantages during rapid market expansion when new users reach the frontier and adopt household names without extensive evaluation; this advantage erodes when market growth slows.",
+    "Margin compression in AI applications is a rational tactical choice during land-grab phases, not endemic to the business model—founders rationally sacrifice margins for distribution, repeating a pattern seen in every technology cycle.",
+    "Application-layer differentiation will emerge through domain expertise, regulatory understanding, and use-case-specific optimization rather than fundamental model quality differences."
+  ],
+  "topics": [
+    "ai",
+    "venture-investing",
+    "models",
+    "open-source",
+    "coding",
+    "market-dynamics",
+    "infrastructure",
+    "national-security"
+  ],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Martin takes a contrarian stance on AI safety, arguing that open-source models are most dangerous because China executes better at open-source development, not because openness is inherently unsafe—directly contradicting prevailing VC sentiment that frames open-source as a security liability."
+}

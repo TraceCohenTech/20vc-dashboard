@@ -1,0 +1,29 @@
+{
+  "approx_date": "July 2025",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll"],
+  "stories_covered": [
+    "Windsurf/Google licensing deal structure",
+    "Cognition acquiring Windsurf's remaining assets",
+    "Grok benchmark performance vs competitors",
+    "Vibe coding market (Lovable, Replit, Cursor)",
+    "Developer tool market consolidation",
+    "AI model access and competitive moats"
+  ],
+  "harry_takes": [
+    "The Google-Windsurf deal structure exemplifies how FTC concerns force creative M&A workarounds rather than traditional acquisitions",
+    "People significantly underestimate the stickiness of legacy brand distribution in early-stage developer tools markets",
+    "Benchmark's continued portfolio strength across AI companies (McCore, Heygen, Fireworks) proves partner departures matter far less than investors fear",
+    "The vibe coding market TAM could be 50-100x larger than pro developer tools because it targets non-developers with minimal training needs"
+  ],
+  "harry_boldest_quote": "People greatly over exaggerate the impact that this has on Benchmark.",
+  "predictions": [
+    "Jason: Lovable and Replit will capture most value in vibe coding due to brand lock-in despite larger TAMs",
+    "Lemkin: Developer spend per employee will grow from 200 to 10000 dollars monthly over next 2-3 years",
+    "Panel: Direct listing would have solved little; mega IPO pops are natural intermittent market phenomena not pricing failures"
+  ],
+  "disagreements": "Mild debate over whether Windsurf founders could have recovered Claude access post-OpenAI deal collapse; panel aligned that deceleration from 100M to 82M ARR forced rapid exit timing.",
+  "harry_role": "Harry moderates, asks clarifying questions, and synthesizes panel arguments rather than advocating strong positions. He defers to Jason and Rory's deeper expertise on venture/startup mechanics but challenges details and pushes for nuance.",
+  "topics": ["windsurf", "google", "m&a", "ai", "developer-tools", "vibe-coding", "venture"],
+  "sponsor_read_count": 3,
+  "notable": "Extended unpacking of FTC-driven creative deal structures and their second-order legal/operational risks, with detailed explanation of why Cognition's simultaneous acquisition avoids clear FTC violations."
+}

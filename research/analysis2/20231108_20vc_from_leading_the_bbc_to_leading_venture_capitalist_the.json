@@ -1,0 +1,26 @@
+{
+  "guest": "Danny Cohen",
+  "guest_role": "President of Access Entertainment (Len Blavatnik's investing practice), former Director of Television at the BBC",
+  "approx_date": "Nov 2023",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks thoughtful, occasionally challenging follow-ups (e.g. questioning whether the BBC's approach to young audiences is 'wank and aware') but mostly lets the conversation roam broadly across media, investing, and personal life without sustained contestation.",
+  "question_style": "Wide-ranging and exploratory rather than tightly scripted — Harry abandons his own planned structure mid-interview ('I'm just going to ignore it'), asks open reflective questions, and occasionally injects a mild challenge or contrarian framing, but rarely presses hard when the guest pushes back.",
+  "tone": "Warm, curious, and unusually personal — ventures into marriage, having no children, loneliness, and romance in a way not typical of standard 20VC episodes; genuine admiration for the guest's cross-industry background.",
+  "depth": "Covers media/entertainment strategy in real depth (content discovery, short-form vs. long-form economics, Broadway vs. West End capitalization costs, IP rights across touring productions) alongside venture/talent-evaluation frameworks, blending industry-specific and general investing insight.",
+  "harry_quotes": [
+    "Do you not think that's kind of a wank and aware?",
+    "Have you ever thought someone was brilliant and you were wrong?",
+    "Does attention and eyeballs ever not lead to financial value creation?"
+  ],
+  "learnings": [
+    "Access Entertainment invests thematically around 'attention and eyeballs' across film, TV, theatre, and gaming rather than committing to one format or vertical.",
+    "Financing costs for a West End production can run roughly four times cheaper than an equivalent Broadway show, largely due to higher union costs, which is making Broadway backers increasingly risk-averse.",
+    "Danny's biggest investing lesson was declining to double down on a second opportunity in a thesis area he already believed in, missing what would have been an 8x exit in 15 months.",
+    "The best founders and best stage talent share traits like extreme drive, quality focus, and flexibility of mind, though performers additionally take on public reputational risk that founders don't.",
+    "Owning theatre real estate (like the Haymarket) provides a downside floor unlike a typical startup, since the physical asset retains value even if a production fails."
+  ],
+  "topics": ["media", "entertainment investing", "venture capital", "talent evaluation", "brand storytelling", "content discovery"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Notably personal episode — extended discussion of the guest's marriage, decision not to have children, and views on loneliness, which is atypical for the show's usual venture/business focus."
+}

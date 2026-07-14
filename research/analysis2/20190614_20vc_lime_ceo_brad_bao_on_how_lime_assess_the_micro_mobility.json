@@ -1,0 +1,26 @@
+{
+  "guest": "Brad Bao",
+  "guest_role": "Co-founder and CEO at Lime",
+  "approx_date": "Jun 2019",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks several pointed, skeptic-flavored questions (unit economics, profitability timelines, whether markets show loyalty or fragmentation) but frames them as genuine curiosity rather than contesting Brad's answers, and accepts each response without follow-up pushback.",
+  "question_style": "Structured, well-researched questions that move logically from origin story to competitive landscape to unit economics to team and culture; he directly names investor skepticism ('there are some skeptics around... the unit economics') as a premise but doesn't press further once Brad answers.",
+  "tone": "Professional, admiring, and enthusiastic, with light personal color (jokes about Brad's grueling daily schedule and his youthful appearance), staying deferential throughout.",
+  "depth": "Goes reasonably deep on operational specifics: multi-market profitability drivers, hardware iteration cycles and the classic cost/durability/feature tradeoff, and go-global-vs-focus strategic tension, though follow-ups are generally single-layer rather than compounding.",
+  "harry_quotes": [
+    "How do you view the landscape today from your mindset?",
+    "What's the biggest determinant?",
+    "What's the record time to get to profitability?"
+  ],
+  "learnings": [
+    "Lime treats hardware iteration as a core competitive advantage, releasing four major vehicle generations in twelve months versus a typical two-to-five-year industry cycle.",
+    "In physical hardware products you generally can only optimize two of three variables (best experience, durability, lowest cost) at once, and Lime is trying to push on all three simultaneously as a deliberate differentiator.",
+    "Brad frames micro-mobility's addressable market as still under 1% of urban short trips, arguing the opportunity is expanding the category rather than fighting competitors for share.",
+    "Lime deliberately skipped the common 'launch first, negotiate with the city later' playbook used by ride-hailing, opting for upfront regulatory engagement instead.",
+    "Trust between co-founders built over years prior to founding (in this case an eight-to-nine-year prior relationship) was cited as the key ingredient enabling fast, low-friction major decisions."
+  ],
+  "topics": ["micro mobility", "unit economics", "hardware", "global expansion", "founder relationships", "team building"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Brad reveals Lime's fastest market reached profitability in just two weeks, a striking and unexpected data point Harry visibly wasn't anticipating."
+}

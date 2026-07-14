@@ -1,0 +1,30 @@
+{
+  "guest": "Rick Heitzmann",
+  "guest_role": "Founder and Partner at FirstMark Capital",
+  "approx_date": "Nov 2019",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks prepared, thoughtful questions with good follow-ups on investing philosophy and consumer strategy, but frames concerns as requests for help rather than challenges. He defers to Rick's 20 years of experience.",
+  "question_style": "Opens with personal discovery questions before diving into investment strategy. Harry identifies specific concerns (CAC scalability, consumer exit multiples, preemptive rounds) and asks Rick to help him overcome them, but never directly contests his assertions. Frames disagreement as curiosity.",
+  "tone": "Respectful, almost deferential to Rick's pedigree and experience. Harry admits knowledge gaps (hasn't read enough). Conversational and warm without being self-deprecating. Energy is focused on learning.",
+  "depth": "Deep exploration of venture capital as an asset class, preemptive investing dynamics, portfolio construction theory, pricing discipline, board effectiveness, and consumer company differentiation. Harry tracks specific portfolio companies (Airbnb, Pinterest, Hubble, Crisp) and asks about the decision-making behind them.",
+  "harry_quotes": [
+    "How did you make your way into the world of venture and come to found FirstMark?",
+    "How have you seen yourself change as an investor over the last two decades?",
+    "How do you think about time allocation across your portfolio?",
+    "What have been your biggest lessons on what it takes to truly win the best deals?"
+  ],
+  "learnings": [
+    "Entrepreneurial experience builds genuine empathy for founders; you understand that organizational decisions have real human impact beyond PowerPoint presentations.",
+    "Preemptive investing is now the norm; proactive outreach and term sheets define deal-winning strategy, not reactive responses to fundraising announcements.",
+    "Price discipline matters on a curve: being 20-30% off on early-stage valuations has minimal impact, but 50%+ overpayment directly reduces portfolio shots-on-goal.",
+    "Temporal diversification across your fund investment period (typically 3 years) reduces market timing risk; focus on finding the best companies, not predicting macro cycles.",
+    "Reserve capital should back proven winners and help losers exit gracefully, not provide downside protection for mid-tier companies.",
+    "Board effectiveness requires calibrating your altitude; early-stage boards should drill deep on details, but growth-stage boards must focus on strategic guidance.",
+    "Consumer companies win by building proprietary supply chains or exclusive capabilities that differentiate from customer acquisition channel competition.",
+    "The best portfolio companies show neither obvious early nor clear signals; great teams and clear market understanding matter more than product-market validation."
+  ],
+  "topics": ["venture-capital", "investing-philosophy", "consumer", "marketplace", "board-management", "founder-empathy", "pricing-discipline", "portfolio-construction", "preemptive-rounds"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": null
+}

@@ -1,0 +1,29 @@
+{
+  "guest": "Wayne Chang",
+  "guest_role": "Serial entrepreneur and angel investor, co-founder of Crashlytics (acquired by Twitter, then Google)",
+  "approx_date": "Sep 2017",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks prepared multi-sentence questions with genuine follow-ups and occasionally poses a direct challenge (e.g. on the VC-boardroom stereotype and dilution math) or cites another guest's thesis against Wayne's, but he never contests an answer or presses further after a deflection.",
+  "question_style": "Mostly open, warmly framed questions that build on prior off-air conversations with the guest, but Harry does insert a few pointed challenges ('do you not think that stereotype of VC... is dying?', 'does it not mean you have to dilute yourself significantly?') and once cross-references another guest's (Mike Dawber's) claim to test Wayne's thesis; he does not interrupt or repeatedly contest answers.",
+  "tone": "Casual and clearly fannish toward the guest, with effusive thanks for the introduction and personal support Wayne gave Harry; energetic and matey with some self-deprecating asides ('I have absolutely no idea what this means').",
+  "depth": "Mostly strategic/operational rather than technical: hiring recruiters early, team culture, fundraising psychology and competitive dynamics, warm intros vs cold email, and a product/design concept ('Delta of Wow') rather than any deep technical engineering discussion.",
+  "harry_quotes": [
+    "So what is the delta of wow?",
+    "Do you not think that that stereotype of VC... is really an era of VC that's dying?",
+    "How do you put a round together as quick as possible?",
+    "How do you feel about the warm intro? Is it necessary today?"
+  ],
+  "learnings": [
+    "Founders should hire a recruiter as one of the first hires so leadership time is freed for product, culture, and design rather than resume-screening.",
+    "Rapid team-building only works if paired with deliberate social bonding (outings, retreats) so a fast hire doesn't sacrifice cohesion.",
+    "Product experience quality should be measured relative to the baseline expectation within an industry, not in absolute terms — exceeding a low baseline creates outsized word-of-mouth impact.",
+    "Of the classic cost/speed/quality tradeoff, founders should protect speed and quality and accept higher cost, since burn happens regardless of progress.",
+    "Meeting investors off their home turf (outside the boardroom) levels the power dynamic and turns a pitch into a more human, memorable conversation.",
+    "Fundraising leverage comes from creating perceived competitiveness (without lying) so investors chase the founder rather than the reverse.",
+    "Warm intros matter far more for founders approaching investors than for investors approaching founders, who can often succeed with cold outreach."
+  ],
+  "topics": ["fundraising", "hiring", "startup operations", "venture capital", "product design", "angel investing"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Harry references a claim from a different guest (Mike Dawber of Amplify) mid-interview and asks Wayne to react to it, an early instance of cross-episode thesis-testing rather than pure single-guest reception."
+}

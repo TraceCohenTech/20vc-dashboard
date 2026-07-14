@@ -1,0 +1,34 @@
+{
+  "guest": "Maor Shlomo",
+  "guest_role": "Co-founder of Base44 (sold to Wix for $80M)",
+  "approx_date": "Nov 2025",
+  "assertiveness": 7,
+  "assertiveness_why": "Harry repeatedly contests Shlomo's claims directly ('With the greatest of respects, that's wrong'), presses him on uncomfortable topics like margins and valuation, and imports other guests' counter-arguments for him to rebut.",
+  "question_style": "Harry mixes open strategic questions with blunt direct challenges, frequently planting a contrary thesis ('That's wrong', 'Are you serious?') and citing other named guests' opinions (Ev Randall, Misha from Fiverr, Michael Eisenberg) to pressure-test the guest's claims; he rarely lets a big claim pass without at least one pushback, though he ultimately remains warm and lets Shlomo fully respond.",
+  "tone": "Casual and matey ('dude' used repeatedly), high energy and genuine fandom ('I'm a fan of Base44'), with self-deprecating asides about being 'susceptible' to flattery and joking about his own investing FOMO.",
+  "depth": "Strong strategic and business-model depth — tracks unit economics, model-routing costs, vertical integration as moat, and market-structure questions (winner-take-all vs fragmented); technical depth is lighter, staying at the level of infrastructure/backend architecture rather than code specifics.",
+  "harry_quotes": [
+    "With the greatest of respects, that's wrong.",
+    "Do you think small businesses give a shit about that?",
+    "Educate me, does no one share it because it's so bad?",
+    "Will Salesforce be bigger or smaller in 10 years time?",
+    "How much weight should I as an early stage investor place on revenue today?"
+  ],
+  "learnings": [
+    "Shlomo sold Base44 to Wix instead of raising venture capital because it tripled his odds of building something impactful while letting the product team stay lean and offload legal, support, and marketing overhead onto Wix's infrastructure.",
+    "He believes vibe coding will make software 'more liquid,' letting buyers customize or rebuild their own tools instead of buying one-size-fits-all SaaS, though this shift will take years for complex or enterprise use cases.",
+    "Base44's core moat is a fully vertically integrated backend (built-in database, auth, integrations) rather than relying on third parties like Supabase, making it very hard for competitors to replicate or for customers to migrate away from.",
+    "Switching costs between LLM providers are now nearly zero — a single code change can shift huge spend from Anthropic to OpenAI to Google overnight depending on which model performs best for a given task.",
+    "Because he expects model prices to keep falling toward zero, Base44 deliberately avoids over-investing in cost optimization today, planning instead to route simple prompts to cheaper or open-source models later to improve margins.",
+    "He argues raw revenue growth is a weak signal for early-stage investors; better predictors of a healthy business are vertical integration (harder to commoditize) and margin/retention health, not just a fast top-line hockey stick.",
+    "He predicts smaller, moat-less SaaS tools (a front-end over a database with basic integrations) will get eliminated by AI app builders, while giant incumbents like Salesforce survive by embedding their own vibe-coding layer.",
+    "He does not see the AI app-building market as winner-take-all; he expects many players (Base44, Lovable, Replit, Cursor, Cognition) to each carve out large, durable niches rather than one company dominating.",
+    "He thinks the biggest new opportunity is building AI-native, vertically integrated operating businesses (a law firm, a hospital, a bank) rather than thin software wrappers, since operating businesses are far harder for model providers to commoditize.",
+    "Base44 measures product success by real-time sentiment analysis of user chat messages (praise vs. cursing) rather than by deployment or publish rates, since simply publishing a working app has become a saturated, uninformative benchmark."
+  ],
+  "topics": ["vibe coding", "saas", "ai model economics", "moats", "m&a", "venture investing"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "The guest's name is repeatedly mistranscribed in the transcript (as 'Mayall' and 'Nao' instead of Maor), likely an ASR artifact rather than an actual episode anomaly.",
+  "error": null
+}

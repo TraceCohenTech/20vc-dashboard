@@ -1,0 +1,38 @@
+{
+  "guest": "Mike Hudack",
+  "guest_role": "CPO and CTO at Deliveroo, CPO at Monzo, co-founder of Sling",
+  "approx_date": "Sep 2024",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared, multi-sentence questions and follows up well, but remains largely receptive—exploring Mike's thinking without contesting claims or planting his own thesis.",
+  "question_style": "Harry asks thoughtful follow-ups about product decisions, strategy, and philosophy. He's curious and engaged but doesn't challenge positions; mostly seeks deeper understanding. Includes a quick-fire round at the end.",
+  "tone": "Warm and collegial. Harry mentions meeting Mike years ago and wanting to do this interview for a long time. Long-form, conversational, respectful throughout.",
+  "depth": "Very deep. Covers team structure, product simplicity vs features, data interpretation and misuse, A/B testing, team morale, regulatory constraints, founder mode, competition strategy, launch psychology, and work-life integration. Meanders through multiple companies and philosophies.",
+  "harry_quotes": [
+    "Is simplifying product always better?",
+    "How do you feel about founder mode?",
+    "What was the best product decision you made at Facebook?"
+  ],
+  "learnings": [
+    "Product excellence means helping users achieve goals with minimal effort; optimal teams are 6-8 people—mostly engineers, plus one data scientist and designer, PM optional.",
+    "Develop a theory of the world before building; most theories are partially wrong, but shipping reveals where; the hard part is iterating through misunderstanding rather than giving up early.",
+    "Feature bloat has hidden costs (maintenance, explanation, opportunity cost); 'nice to have' features almost always cost more to build and return less value than expected.",
+    "Product is art guided by science; intuition about user psychology must be grounded in quantitative experiments and metrics, not pure data or pure instinct.",
+    "Real-time logistics (food delivery) creates urgency and rapid iteration culture different from social media; brand promise (32-minute delivery) requires infrastructure discipline that changes product thinking.",
+    "Regulatory constraints change incentive structures; being a bank shifted thinking from 'maximize engagement' to 'build trust and stability as societal goods,' which enabled different product bets.",
+    "Fewer, more targeted product bets often outperform competitors shipping faster; conviction in the theory of the world matters more than matching feature velocity."
+  ],
+  "topics": [
+    "product-strategy",
+    "team-structure",
+    "simplicity",
+    "data-driven-decisions",
+    "regulation",
+    "experimentation",
+    "founder-mode",
+    "team-morale",
+    "distribution"
+  ],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Mike discusses obsessive behavior (checking a transaction Slack channel every 3-4 minutes) and the importance of distinguishing between healthy 'hard work' and unhealthy 'obsessive theater'; also extensively addresses balancing fatherhood with startup intensity, including gardening as a mental reset."
+}

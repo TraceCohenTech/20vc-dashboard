@@ -1,0 +1,27 @@
+{
+  "guest": "Arteen Arabshahi",
+  "guest_role": "VC at Carlin Ventures (enterprise software, commerce, marketplaces)",
+  "approx_date": "Aug 2015",
+  "assertiveness": 2,
+  "assertiveness_why": "Harry asks warm, open-ended, mostly single-clause questions and follow-ups but never challenges or contests anything the guest says.",
+  "question_style": "Almost entirely open questions inviting the guest to expand on his story, cold-email strategy, and investment thesis; Harry adds light follow-up prompts (e.g. asking for the conversion rate on personalized emails) but never pushes back, contests a claim, or inserts his own competing thesis; no interruptions.",
+  "tone": "Warm, matey, and fan-like throughout — Harry opens with 'I can't tell you how excited I am to have you on the show' and peppers in enthusiastic affirmations ('absolutely', 'that's tremendous'); very low-friction, purely appreciative energy with a quickfire round to close.",
+  "depth": "Mostly surface-level and narrative-driven, tracking career path, cold-emailing tactics, and marketplace investment thesis; goes one layer deeper on market-sizing heuristics and vertical vs. horizontal marketplace theory, but doesn't press on numbers, fund performance, or portfolio specifics.",
+  "harry_quotes": [
+    "How did you manage to get the emails of these kind of top tier VCs?",
+    "So you emailed like info at Carlin Ventures?",
+    "How big a market does it have to be to really get you excited?"
+  ],
+  "learnings": [
+    "Cold outreach worked best when volume-optimized rather than fully personalized, since the highest-value targets rarely respond to cold emails regardless of personalization effort.",
+    "Guessing standard email-address formats (firstname@domain) was usually sufficient to reach people directly, and tools like Rapportive could verify addresses before sending.",
+    "Emailing generic info@ addresses at VC firms is a low-probability approach compared to reaching an individual directly.",
+    "Carlin Ventures favors vertical marketplaces over horizontal ones since most large horizontal opportunities (ride-sharing, home-sharing) are already claimed, while vertical niches can still have strong unit economics.",
+    "Market size conviction is largely a gut/binary judgment for investors — if a founder has to work hard to convince an investor the market is big enough, that's often itself a bad sign.",
+    "Managing self-doubt is highly individual; the guest personally coped by channeling anxious energy into disciplined, productive action (like structured outreach campaigns) rather than through a single universal framework."
+  ],
+  "topics": ["cold outreach", "vc career path", "marketplaces", "market sizing", "founder mental health", "techstars"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "The episode includes an extended, candid segment on founder/investor mental health and self-doubt, unusual for the tactical focus of the show's early era."
+}

@@ -1,0 +1,29 @@
+{
+  "guest": "Ed Sim",
+  "guest_role": "Founder of Boldstart Ventures",
+  "approx_date": "Oct 2023",
+  "assertiveness": 6,
+  "assertiveness_why": "Active pushback on market trends with his own thesis (AI bubble, capital efficiency concerns); expresses skepticism before agreeing; questions Ed's framework rather than just receiving; uses data to support positions (multiples compression, deal flow trends); more debate-like sparring than pure inquiry.",
+  "question_style": "Probing questions on framework specifics; challenges market dynamics with his own perspective; asks for clarification and evidence; pushback on founder behavior and valuations; collaborative debate stance rather than deferential inquiry.",
+  "tone": "Warm but edgy; uses profanity liberally ('fuck it, fuck thing, what the fuck'); self-deprecating ('I'm a podcaster for a living'); peer-like sparring partner rather than deferential interviewer; willing to contest and propose alternate views.",
+  "depth": "Expert venture capital perspective: inception investing model architecture, three-tier seed round taxonomy, fund sizing economics ($150-250M vs legacy $100M model), ownership dilution mechanics, capital efficiency over runway, AI startup valuation bubble analysis, public-market SaaS multiples compression (35x→6.8x→10-14x normalization), M&A dynamics, founder psychology around capital.",
+  "harry_quotes": [
+    "Can you just help me understand why do you think that's happening more and more now?",
+    "What worries me is people don't think longer term on the jumbo rounds.",
+    "Is seed immortal to macro externalities?",
+    "Do you agree that too much cash too early has a net negative impact?"
+  ],
+  "learnings": [
+    "Inception investing (pre-incorporation founder engagement) creates three seed round tiers: discovery (<$2M, first-time explorers), classic ($3-5M, proven founders who prefer constraints), jumbo ($6-10M+, serial founders reinventing markets); each requires different investor posture.",
+    "Constraints accelerate better decisions; excessive capital extends runway but encourages wasteful hiring and feature creep, worsening outcomes; smart founders deliberately choose lower checks to maintain pressure.",
+    "Seed fund economics have inverted; maintaining 15% ownership across 20-25 portfolio companies requires $150-250M funds with ability to write checks from $500K to $10M+, plus meaningful follow-ons into Series B.",
+    "AI startup boom is a dot-com echo; 85% of current deal flow claims 'AI-first' positioning but most are LLM API wrappers with no data moat; real value emerges in companies with genuine differentiation (data, regulatory advantages, distribution).",
+    "Enterprise SaaS multiples have normalized from 35x ARR at 2021 peak to 6.8x today; likely sustainable level is 10-14x; founders must optimize around realistic exit multiples, not inflated reference points.",
+    "Preemptive round chains without sufficient de-risking between closes lead to overexposure; ownership preservation matters but cannot override valuation discipline; third+ consecutive checks require clear de-risking signals.",
+    "M&A windows shift based on interest-rate environments; compressed multiples create one-X exit opportunities for earlier investors to redeploy capital; strategic acquisitions by growth-stage companies drive consolidation."
+  ],
+  "topics": ["seed funding", "venture capital", "inception investing", "fund economics", "ownership", "dilution", "ai startups", "exit multiples", "capital efficiency"],
+  "repeat_guest_callback": "I know we've been planning this for a while and I think this is number three on your show.",
+  "sponsor_read_count": 3,
+  "notable": "Harry frames this as 'more conversational' and 'real-time' versus traditional 20VC format; he actively expresses his own investment thesis rather than pure inquiry; Ed compliments Harry's interviewing evolution at episode close, noting he's 'learning and iterating' while maintaining his own perspective—a shift from purely receptive interviewing."
+}

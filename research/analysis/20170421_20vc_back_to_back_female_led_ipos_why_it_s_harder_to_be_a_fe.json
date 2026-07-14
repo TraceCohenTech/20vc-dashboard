@@ -1,0 +1,24 @@
+{
+  "guest": "Lira Fine",
+  "guest_role": "Founder and CEO of Laurel & Wolf",
+  "approx_date": "Apr 2017",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared multi-sentence questions with genuine follow-ups but never contests claims; mostly in reception mode, allowing the guest to elaborate.",
+  "question_style": "Open-ended, prepared questions with thoughtful follow-ups on business strategy and leadership. Harry doesn't push back or plant his own thesis; he enables the guest to develop her answers. No interruptions; conversational and supportive.",
+  "tone": "Professional yet warm and matey. Harry shows genuine interest and connects with Lira over shared fandom (Pride & Prejudice). Formal sponsor reads bookend a casual, friendly conversation with no self-deprecation.",
+  "depth": "Explores business strategy including founding origin, female CEO challenges, board selection criteria, communication structures, marketplace mechanics (three-sided model), and frequency/lifecycle dynamics. Strategic but not deeply technical; focuses on organizational and marketplace strategy rather than metrics or implementation details.",
+  "harry_quotes": [
+    "What does being challenged the right way look like?",
+    "Where do you gain your inner strength from when times are tough?",
+    "Can I ask, is the element of frequency a challenge for you in terms of it's not like an Uber?"
+  ],
+  "learnings": [
+    "Female CEOs face a behavioral double standard where the same assertiveness or aggression tolerated in male leaders is perceived as anger or emotional instability in women",
+    "In a marketplace with underutilized supplier capacity, starting with supply (designers) rather than demand (consumers) reduces risk because suppliers are more patient with gradual scaling",
+    "Home design has higher repeat frequency than assumed because customers decorate room-by-room and lifecycle events (marriage, babies, moves every 5 years) trigger regular home updates"
+  ],
+  "topics": ["interior design", "marketplaces", "female founders", "fundraising", "board management"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Episode explicitly addresses female-led IPOs as a potential catalyst for systemic change; Lira predicts multiple back-to-back female CEO IPOs within 1-2 years that could materially shift venture ecosystem visibility."
+}

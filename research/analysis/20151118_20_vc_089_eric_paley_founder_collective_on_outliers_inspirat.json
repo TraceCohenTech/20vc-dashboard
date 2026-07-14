@@ -1,0 +1,27 @@
+{
+  "guest": "Eric Paley",
+  "guest_role": "Managing Partner, Founder Collective",
+  "approx_date": "Nov 2015",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared follow-up questions and explores Eric's philosophy deeply, but never introduces counter-arguments or tests claims against alternative data.",
+  "question_style": "Open-ended and exploratory with strong follow-ups. Harry drills into the seed fund thesis, founder alignment, and portfolio strategy. He asks probing questions about missed upside and uniqueness, but remains in receiving mode. No pushback or competing frameworks.",
+  "tone": "Warm and admiring. Harry treats Eric as a founder peer and thought leader. The conversation has friendly rapport and genuine curiosity about Eric's philosophy. Energy is engaged but measured, showing respect for Founder Collective's track record.",
+  "depth": "Strategic and philosophical. Harry explores Founder Collective's thesis, founder alignment mechanisms, why they avoid follow-ons, ticket sizing rationale, and the founder relationship aspect (personal struggles, emotional involvement). Focuses on fund dynamics and decision logic rather than individual portfolio companies or technical innovation.",
+  "harry_quotes": [
+    "Now I'd love to hear a little about your backstory and how you got into the wonderful world of venture.",
+    "Do you feel that you miss out then financially by not doing the follow on rounds?",
+    "And how do you measure your successes of VC?",
+    "And then your most recent investment and why you said yes."
+  ],
+  "learnings": [
+    "Founders who have previously failed still bring valuable perspective; the experience of struggling to build companies is itself an education.",
+    "Small seed checks outperform through alignment and disciplined focus; following on at later stages actually reduces returns per dollar and dilutes founder partnership.",
+    "The venture returns business is fundamentally outlier-driven; most funds' performance comes from a small number of exceptional companies, not average deal quality.",
+    "Founders at seed stage bet primarily on the person, not the product; investor alignment on personal struggles and emotional challenges is essential.",
+    "Seed-focused funds avoiding later-stage capital can capture 80%+ of upside in winner companies while maintaining cleaner founder relationships."
+  ],
+  "topics": ["venture capital", "seed investing", "founder alignment", "founder collective", "follow-on rounds", "portfolio strategy", "founder mentorship"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 0,
+  "notable": "Part 2 of Founder Collective feature (part 1 with David Frankel aired Monday); Eric speaks unusually openly about the emotional and personal dimensions of founder investing, suggesting this was a deeper-than-typical episode."
+}

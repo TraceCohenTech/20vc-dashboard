@@ -1,0 +1,31 @@
+{
+  "guest": "Bastian Lehmann",
+  "guest_role": "Founder/former CEO, Postmates (Uber acquisition, now TipTop CEO)",
+  "approx_date": "Apr 2024",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry asks substantive follow-ups and occasionally plays devil's advocate (AI incumbents debate), but mostly collaborative. More receiving than challenging overall.",
+  "question_style": "Opens with personal/biographical questions, then probes acquisition mechanics, market structure, and future tech. Harry occasionally pushes back (incumbents vs. startups) but maintains exploratory tone. Natural conversation flow with strong follow-ups.",
+  "tone": "Warm, admiring, respectful. Harry clearly enjoys the exchange ('fantastic discussion'). Some humor and levity. Conversational rhythm with genuine back-and-forth.",
+  "depth": "Very deep across personal history, company operations, M&A mechanics, market structure, AI technology, and founder psychology. Technical on financial instruments (breakup fees, clawback, stock-price collar). Ambitious scope covering 10-year journey to acquisition to second founding.",
+  "harry_quotes": [
+    "I wanna go back to your childhood. I think great entrepreneurs are shaped early.",
+    "Can I ask you, I always struck with the question of skill versus luck in life?",
+    "What was the biggest oh shit moment?",
+    "Do you think that's actually the case, dude?",
+    "Why could you not have done more, Basi?"
+  ],
+  "learnings": [
+    "Most companies fail via founder surrender, not market conditions; sustained refusal to quit is the primary differentiator between winners and losers",
+    "In competitive high-burn markets (delivery), fundamental unit economics and capital efficiency matter more than pure capital raised; market leadership requires both discipline and scale",
+    "Successful acquisitions leverage non-headline terms (deal certainty, equity upside participation via stock-price collar) more than headline valuation to create outsized actual returns",
+    "Second-time founders with capital can move faster operationally but cannot replicate the psychological hunger that drove first success; financial security paradoxically dampens ambition",
+    "VC value-add is primarily marketing/positioning; best VCs acknowledge they don't change outcomes and stay out of the way (Board seats = downside, little upside)",
+    "Founder-CEOs maintain organizational velocity that non-founder CEOs struggle to replicate; continuity of founder vision correlates with long-term dominance",
+    "Incumbents become vulnerable when internal culture shifts and founder momentum fades; disruption appears as toys that look ridiculous until they're dominant",
+    "AI risk is underdevelopment and insufficient adoption, not overbuilding; societies need rapid AI to solve climate/existential challenges without delay"
+  ],
+  "topics": ["startup acquisition", "venture capital", "founder psychology", "market structure", "ai technology", "personal computing", "fund mechanics", "delivery marketplace", "post-acquisition integration", "second-time founders"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Bastian candid about early hacking story (social engineering phone fraud for free internet in Germany). Highly critical of VC industry ('sheep,' '99% idiots'). Detailed acquisition breakdown: $2.65B announced, ~$5B actual with Uber stock appreciation ($31→$53+ by close). Negotiated deal with no breakup clause and 'no color' (no collar) on exchange ratio to benefit from Uber stock rise. Controversial AI takes: phone is dead, personal inference computers needed (not cloud), Vision Pro will fail, incumbents overstated (Apple caught in innovator's dilemma). Direct debate with Harry on whether incumbents or startups win in AI; Bastian argues internal culture decay precedes external disruption."
+}

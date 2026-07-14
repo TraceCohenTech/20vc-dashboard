@@ -1,0 +1,30 @@
+{
+  "guest": "Nikolai Tanjen",
+  "guest_role": "CEO, Norges Bank Investment Management (world's largest sovereign wealth fund, $1.5T+ AUM)",
+  "approx_date": "Mar 2024",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry is warm and exploratory, asking personal/biographical questions first, then philosophy. No pushback or direct challenges; conversational and deferential to Nikolai's wisdom.",
+  "question_style": "Harry opens with unusual personal questions (childhood, school, first money), then transitions to investment philosophy. Follows natural conversation flow. Open-ended questions like 'What were you like as a child?' and 'How do you think about measuring greed?' with minimal leading frames.",
+  "tone": "Warm, respectful, genuinely curious. Harry expresses admiration and gratitude. Conversational, natural rhythm. Self-aware ('meandering questions'). Conducted live in-person in London, creating intimate dynamic.",
+  "depth": "Very deep on philosophy and human psychology. Probes the paradox of time and patience (younger people rush more), how to measure market cycles (fear via VIX/media, greed via sentiment), organizational change management, vulnerability in leadership, and family. Less technical analysis, more wisdom-focused.",
+  "harry_quotes": [
+    "What were you like as a child?",
+    "Did you feel you didn't have friends?",
+    "Did you always have this self-assured confidence?",
+    "When did you find the love of finance?",
+    "Did the enormity of the position hit you?"
+  ],
+  "learnings": [
+    "Paradoxically, patience increases with age despite having less time left; younger people should recognize their abundance of time and adopt long-term thinking",
+    "Best investors combine stubbornness (conviction to hold positions) with agility (willingness to change when facts shift); this pairing is rare and powerful",
+    "Market cycles can be measured by tracking fear (VIX, media negativity spread) and greed (sentiment extremes, price disconnects from fundamentals); when things feel too simple, greed is high",
+    "Tech industry concentration via platform economics creates winner-takes-most dynamics; once a company achieves scale and data advantage, competitive moats become nearly unbreakable",
+    "Organizational transformation fails when leaders move too fast and trigger institutional immune response; successful change requires building consensus, involving people across levels, and incremental progress",
+    "Psychological safety is built when leaders admit their own mistakes; vulnerability paired with genuine competence paradoxically increases trust and follower confidence",
+    "Large portfolio owners cannot escape systemic risks (climate, geopolitics); owning 1.5% of all listed companies means every portfolio problem surfaces somewhere"
+  ],
+  "topics": ["sovereign wealth investing", "long-term investing", "contrarian investing", "investor psychology", "fear and greed", "market structure", "organizational leadership", "climate risk", "geopolitics", "ai opportunity"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Episode conducted live in-person in London. Opens unusually with personal biographical questions (childhood, loneliness, early ambitions). Nikolai hosts fund's own podcast personally (2,700+ episodes, not delegated to marketing). Openly discusses likely 'lackluster returns' ahead despite managing world's largest sovereign fund—unusual transparency about market headwinds. Discusses organizational change management as 'triggering immunity system' if moved too fast."
+}

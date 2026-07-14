@@ -1,0 +1,28 @@
+{
+  "guest": "Nicolai Tangen",
+  "guest_role": "CEO of Norges Bank Investment Management (Norway's sovereign wealth fund, ~$1.5 trillion AUM)",
+  "approx_date": "Mar 2024",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry repeatedly plants his own view and outright disagrees (e.g. 'I'd be too disagree here', 'Honestly, to me this feels different...') and presses Tangen on tough framing (tech concentration, discomfort, regulation) rather than just receiving answers, though he never sustains adversarial pressure for long.",
+  "question_style": "Open, wide-ranging, and personal (childhood, psychology, fatherhood) mixed with pointed macro/portfolio questions; Harry contests a few claims directly and injects his own counter-thesis, and occasionally interrupts with a quick reactive follow-up rather than a scripted next question.",
+  "tone": "Warm, personal, almost therapeutic at times (loneliness, happiness, fatherhood), high mutual respect and some genuine banter (Tangen turns the tables and asks Harry about his own interviewing growth); notably intimate for a CEO interview.",
+  "depth": "Covers macro/rates thinking, portfolio concentration in Big Tech, sovereign fund constraints (no private equity, no Bitcoin), climate/ESG rationale for full-market ownership, and reflections on decision speed and change management — substantive but not deeply technical/quantitative.",
+  "harry_quotes": [
+    "Honestly, to me this feels different",
+    "Would you do Sam's new $7 trillion?",
+    "Do you think you have a good culture at the firm?",
+    "Is there too much regulation?"
+  ],
+  "learnings": [
+    "Tangen frames long-term investing discipline around gauging societal 'fear' (measurable via volatility/media sentiment) versus 'greed' (harder to quantify, seen in frothy behavior and FOMO).",
+    "He argues sovereign-scale full-market ownership forces genuine climate engagement, since externalities from one holding show up elsewhere in the same portfolio.",
+    "He deliberately keeps a countdown clock of days left in his five-year term to manufacture urgency and speed up organizational decision-making.",
+    "Early in his tenure he over-indexed on driving change too fast across the organization, comparing it to triggering an organization's 'immune system' against a new leader.",
+    "He is skeptical that AI/short-term disruption threatens durable consumer habit businesses (cosmetics, elevators) the way it threatens pure tech incumbents.",
+    "His biggest investment mistake was a subprime-adjacent lender pre-financial-crisis, leading to a personal rule to avoid ethically compromised businesses since 'bad businesses attract bad people.'"
+  ],
+  "topics": ["sovereign wealth funds", "macro investing", "portfolio construction", "leadership", "climate/esg", "tech concentration"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 5,
+  "notable": "The guest turns the interview around partway through to ask Harry about his own growth as an interviewer, producing an unusually reflexive, meta discussion about podcast craft."
+}

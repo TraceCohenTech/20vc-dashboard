@@ -1,0 +1,26 @@
+{
+  "guest": "John Dyszewski",
+  "guest_role": "Founder and CEO at Starcity",
+  "approx_date": "May 2019",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry explicitly plants contrarian VC theses twice (the 'asset-heavy, no thanks' PropTech objection and the 'am I too VC' critique of compressed fundraising timelines) and asks the guest to defend against them directly, though most of the rest of the interview remains open and receptive.",
+  "question_style": "Mostly open, warm questions, but Harry twice frames a deliberately contrarian VC-perspective challenge ('can I be a super contrarian with you') and pushes the guest to rebut a specific critical view rather than simply narrate; he does not interrupt but does insert his own opinions into questions.",
+  "tone": "Very matey and informal, heavy self-deprecation about his own dating life, high energy, genuine personal rapport with the guest including an extended personal mental-health/advice exchange.",
+  "depth": "Moves beyond company mechanics into softer strategic territory: PropTech capital market timing, valuation and investor-selection tradeoffs, founder mental health, and founder age/maturity, with real follow-up threads on each rather than surface-level Q&A.",
+  "harry_quotes": [
+    "Why did it take so long for PropTech to become hot with VCs?",
+    "Am I wrong in thinking this? Am I too VC in thinking this?",
+    "Why don't founders forget about this part during their journey as an entrepreneur, do you think?"
+  ],
+  "learnings": [
+    "PropTech only became fundable at scale once WeWork demonstrated a category-defining outcome, after earlier web-era players like LoopNet and Zillow were treated as simple websites rather than venture-scale opportunities.",
+    "Founders should treat investor selection like a hiring decision, since a partner's behavior during the pitch process (e.g. how they act under pressure) previews how they'll behave on the board for years afterward.",
+    "Compressed, all-in-one-week fundraising processes often stop founders from building any real relationship with investors before selecting one to sit on their board long-term.",
+    "Founder mental health and daily habits cascade into company culture, so prioritizing self-care (exercise, gratitude journaling, therapy, peer support groups) has a direct multiplier effect on team morale.",
+    "Older, more experienced founders may perform better than very young founders because family life forces genuine detachment from work and produces more humility and less ego-driven decision-making."
+  ],
+  "topics": ["proptech", "fundraising", "valuation", "founder mental health", "investor selection", "co-living"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "The second half of the episode is explicitly split into a 'tangible vs intangible' structure, with an unusually long, therapy-like exchange on founder mental health and personal wellbeing."
+}

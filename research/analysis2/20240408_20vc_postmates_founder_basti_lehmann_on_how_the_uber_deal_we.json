@@ -1,0 +1,28 @@
+{
+  "guest": "Bastian (Basti) Lehmann",
+  "guest_role": "Postmates founder and former CEO; now founder of a new startup (TipTop)",
+  "approx_date": "Apr 2024",
+  "assertiveness": 8,
+  "assertiveness_why": "Harry directly contests multiple claims in real time (challenges the 'Postmates was running out of cash' narrative, disputes on-demand delivery unit economics, and runs a sustained multi-turn debate citing Microsoft's cash-flow and data advantages against Basti's incumbents-are-vulnerable thesis) rather than simply receiving answers.",
+  "question_style": "Mostly open and conversational but Harry repeatedly interjects blunt challenges ('Do you think that's actually the case, dude?', 'Those are weak examples, you can do better than that'), plants his own counter-data, and pushes back hard on the AI-incumbents debate rather than deferring to the guest's view.",
+  "tone": "Very matey and irreverent ('Fuck me', 'dude'), high energy, self-deprecating about prying into personal history, clearly comfortable enough with the guest to argue and rib him throughout.",
+  "depth": "Goes deep on deal mechanics (exchange-ratio structuring, no-collar negotiation, DOJ clearance timeline), unit economics of on-demand delivery, and a substantive AI hot-takes segment covering inference compute economics, personal/edge AI hardware, and incumbent vs. startup dynamics.",
+  "harry_quotes": [
+    "Someone said that Postmates was running out of cash.",
+    "Why? Like, why could you not have done more, Basti?",
+    "Those are weak examples. You can do better than that, Bastie.",
+    "Would you be a buyer of OpenAI at 90 billion?"
+  ],
+  "learnings": [
+    "Basti argues Postmates negotiated an uncapped exchange ratio in the Uber deal, so the rising Uber share price turned the announced $2.65B sale into nearly $5B by close.",
+    "He contends on-demand delivery unit economics were sound at scale by the Series B/C stage, and that the era's massive ad spend was a rational land-grab given clear paths to market-level profitability.",
+    "He frames the best VCs (citing Brian Singerman/Founders Fund) as those who accept they add little operational value and deliberately avoid board seats, contrasting with 'value add' as largely a talent/LP marketing tool.",
+    "His prediction on AI is that near-term benefits accrue to incumbents, but a wave of new giant companies will emerge from what today looks like toy-like, overlooked applications.",
+    "He advocates for personal, on-device/edge inference computers over cloud-hosted personal AI, arguing proximity to data source lowers cost and improves real-time performance.",
+    "He believes the phone's dominance has peaked and that Apple faces an innovator's dilemma around on-device AI hardware."
+  ],
+  "topics": ["m&a", "on-demand delivery", "venture capital", "ai", "founder psychology", "fundraising"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Basti recounts running a teenage phone-phishing scam to get free US dial-up internet access as the origin story of his career in tech."
+}

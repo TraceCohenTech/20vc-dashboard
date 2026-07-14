@@ -1,0 +1,26 @@
+{
+  "guest": "Eric Ries",
+  "guest_role": "Author of The Lean Startup and The Startup Way; Founder/CEO of the Long-Term Stock Exchange",
+  "approx_date": "Nov 2017",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry follows a clearly prepared, structured framework (four components from the book) with real substantive follow-ups, but he never challenges or contests Eric's claims.",
+  "question_style": "Structured, book-driven questions that build logically on prior answers ('so what are the core challenges with it'), with genuine follow-ups probing mechanisms, but always receptive rather than adversarial; no interruptions or contested claims.",
+  "tone": "Fan-like and admiring ('I grew up with your teachings'), enthusiastic and energetic, treats the guest's books as personal must-reads, ends with a scripted quickfire round.",
+  "depth": "Reasonably deep on organizational/management theory — tracks matrix management, metered vs entitlement funding, career equity, and promotion incentive structures across several connected follow-up questions.",
+  "harry_quotes": [
+    "What are the core challenges with it and does it insert the right levels of accountability?",
+    "How do you insert a culture of accountability without fear?",
+    "Do you need the unbundling of financial budgets within large corporations?"
+  ],
+  "learnings": [
+    "Traditional matrix management, built on forecasting and accountability to targets, breaks down under the high uncertainty of new entrepreneurial ventures.",
+    "Companies need a formal 'missing function of entrepreneurship' the same way they have finance or marketing functions, seeded early rather than bolted on later.",
+    "Career equity (future promotion prospects) usually outweighs current compensation as a motivator once a company passes ~50-100 employees, driving risk-averse behavior.",
+    "Entitlement-style corporate budgets (a 'spigot' that rarely goes to zero) create incentives to delay shipping and to over-scope projects to avoid accountability.",
+    "Real organizational change happens when innovation adoption becomes a factor in senior promotion evaluations, even quietly, not through public manifestos."
+  ],
+  "topics": ["management theory", "org design", "lean startup", "accountability", "corporate innovation", "incentives"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Guest is a non-VC author brought on despite the show's usual format, explicitly acknowledged by Harry as 'bending the rules'."
+}

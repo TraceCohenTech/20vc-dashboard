@@ -1,0 +1,28 @@
+{
+  "guest": "Jennifer Hyman",
+  "guest_role": "Co-founder and CEO of Rent the Runway; also serves on the boards of Estee Lauder and Zalando",
+  "approx_date": "Jun 2023",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry directly says 'I disagree' and defends paid marketing as a legitimate discovery channel against Jennifer's thesis that it 'ruined a generation of startups,' and separately challenges her comparison of subscription businesses by citing a rival guest's (ButcherBox) contradicting claim.",
+  "question_style": "Structured business-analysis questioning built around specific quotes Jennifer had made pre-interview, with real contestation on paid marketing/growth hacking and subscription-business generalizations, plus cross-referencing other episodes to pressure-test her framing.",
+  "tone": "Warm, admiring, high energy, openly fanboyish about her board seat at Estee Lauder ('I'm like the biggest fanboy'), collegial rather than combative even when disagreeing.",
+  "depth": "Highly technical on public-company financial metrics -- gross margin percentage vs. inventory cost as percentage of revenue, SG&A restructuring, CAC/LTV mechanics of paid marketing, and cohort-level subscription economics -- reflecting deep P&L literacy.",
+  "harry_quotes": [
+    "When you say about the paid marketing, I disagree because it's a form of discovery.",
+    "Is that not growth?",
+    "What does the street not get then?",
+    "Do brands like you?"
+  ],
+  "learnings": [
+    "Running a business 'as if private' by emphasizing uniqueness can obscure real operating problems that only become visible once benchmarked against public-market peers with the same P&L structure.",
+    "Rent the Runway's core competitive advantage is that its rental model gives it a much lower inventory cost as a percentage of revenue than typical apparel retailers, even after accounting for the heavy logistics costs of reverse fulfillment.",
+    "Becoming a public company forced a financial transformation that roughly doubled gross margins by exposing an oversized SG&A base relative to peers at similar revenue scale.",
+    "Growth hacking (micro-optimizing UI details) and paid performance marketing, both popularized in the 2011-2013 VC era, often generate short-term metric gains without building durable brand loyalty or improving the actual customer experience.",
+    "The strongest consumer brands (Amazon, Airbnb) grow primarily through organic/word-of-mouth demand built on superior customer experience rather than paid acquisition.",
+    "Effective hiring for 'founder mentality' comes from probing personal life history and resilience through hardship, not resume-based career questions."
+  ],
+  "topics": ["d2c/subscription economics", "public markets", "hiring", "marketing strategy", "board governance", "ai"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Part of the 'Memo' recurring format profiling one company's scaling journey in depth, with an unusually candid public-company financial breakdown (specific gross margin and SG&A figures) from a sitting CEO."
+}

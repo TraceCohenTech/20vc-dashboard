@@ -1,0 +1,26 @@
+{
+  "guest": "David Sze",
+  "guest_role": "General Partner at Greylock Partners",
+  "approx_date": "Apr 2021",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks thoughtfully-prepared strategic questions and acknowledges his own concerns ('what concerns me is...') but never challenges David's reasoning directly; mostly receives and explores his philosophy.",
+  "question_style": "Harry leads with open-ended strategic and philosophical questions ('how do you think about...', 'what concerns me is...') that invite reflection rather than defense. He references David's specific deals and partner experiences, showing deep prep. No adversarial probing; instead, Harry explores tensions and paradoxes David describes.",
+  "tone": "Reverential and intellectually engaged. Harry states he's 'wanted to do this one for many, many years' and calls the discussion 'just incredible.' Admiring but not obsequious—they're peers in a philosophical conversation about venture strategy, though clearly unequal in experience and track record.",
+  "depth": "Exceptional strategic depth. Covers market timing and sector cyclicality, founder founder psychology (learning, conviction, humility), board member effectiveness, partner incentive alignment, firm generational transition, FOMO and failure, and the role of luck vs. signal. David uses real deals (Facebook at $500M pre, LinkedIn as a Series B) as case studies. Highly conceptual.",
+  "harry_quotes": [
+    "How did you make your way into the world of venture?",
+    "How did that impact your investing mindset having seen such a transition?",
+    "How do you think about your own relationship to price and price sensitivity?",
+    "How do you think about your own vulnerability?"
+  ],
+  "learnings": [
+    "Cyclical sector downsides can mask long-term category defensibility—consumer looked dead in 2000-2002 but had structural advantages (brand, user clustering) that weren't temporary fads.",
+    "Great founders combine unwavering mission focus with intellectual humility and curiosity; they learn from advisors with different viewpoints and evolve their thinking without losing conviction.",
+    "Board effectiveness is inversely correlated with frequency of advice-giving; quieter partners with few, well-timed statements create more impact than frequent advisors.",
+    "Venture success requires simultaneous humility (most investments fail), paranoia (edges erode constantly), and conviction (able to place bets despite uncertainty); the tension between these is productive."
+  ],
+  "topics": ["venture capital", "founder-investor relations", "market timing", "consumer investing", "board management", "partnership dynamics", "generational transition", "pricing discipline", "investor psychology", "company culture"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "David nearly left Greylock in 2003 over its consumer-skepticism; his pitch to stay led to Facebook/LinkedIn thesis and vindicated his contrarianism. 17-year Roblox journey emphasized as counter-narrative to 'startup speed'; features rich anecdotes about team members (Craig Donato, Ari Stamen) and culture-holders, not just founders."
+}

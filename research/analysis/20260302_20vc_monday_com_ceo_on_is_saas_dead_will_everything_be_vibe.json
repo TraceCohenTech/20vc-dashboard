@@ -1,0 +1,30 @@
+{
+  "guest": "Aaron Zindman",
+  "guest_role": "CEO of Monday.com",
+  "approx_date": "Mar 2026",
+  "assertiveness": 8,
+  "assertiveness_why": "Harry aggressively pushes back on contradictions (opex growth vs efficiency claims), plants his own theses (everyone cutting headcount, public market is roulette), and repeatedly challenges Aaron to defend positions. More confrontational than warm.",
+  "question_style": "Highly adversarial and pointed. Harry probes for contradictions, tests whether arguments hold logically, asks uncomfortable follow-ups (why not cut headcount faster), and doesn't accept surface answers. Skeptical tone throughout.",
+  "tone": "Challenging and intellectually rigorous but not hostile. Harry expresses doubt about several of Aaron's claims, uses sarcasm (e.g., about CNBC journalist vibe-coding), and shows skepticism toward public market strategies. More confrontational than other episodes.",
+  "depth": "Deep technical dive: five SaaS doomsday scenarios, pricing model transitions, headcount-vs-software spend tradeoffs, agent-human collaboration platforms, historical AWS/SaaS comparisons, public market dynamics and sentiment vs fundamentals.",
+  "harry_quotes": [
+    "In a world of agents, will Monday become a valueless database or does it have a future in an agent economy?",
+    "Why does Monday not become a layer that gets extracted away?",
+    "Why are we not being more aggressive with headcount cuts if efficiency is the play?",
+    "Can I push you on the pricing? What does it change to?",
+    "Why not buy shares back personally if you believe in this upside so much?"
+  ],
+  "learnings": [
+    "AI is reshaping SaaS fundamentally: software must do 70-80% of work, not 10-20% like before, or it becomes obsolete.",
+    "No-code/vibe-coding won't replace enterprise software because maintaining and evolving tools across organizations requires coordination and institutional knowledge.",
+    "Foundation model companies won't capture all enterprise value because enterprise sales process, support needs, and implementation complexity are fundamentally different from consumer PLG.",
+    "TAM expansion: software spend will grow dramatically if companies shift budgets from headcount to software, since compliance and efficiency demand agent-native tools.",
+    "The competitive moat shifts from feature-richness to platform orchestration: winner is who manages human-agent collaboration, not who builds most features.",
+    "Public markets are mispriced SaaS on sentiment, not fundamentals; businesses retain customers well, but investors can't pick winners in AI transition so they exit to cash.",
+    "Incumbent incumbents (Salesforce, ServiceNow) may have higher ability to change than assumed because they have distribution, trust, and execution culture."
+  ],
+  "topics": ["saas", "ai", "agents", "work-management", "enterprise", "pricing", "platform-companies", "vc"],
+  "repeat_guest_callback": "Thanks for having me, it's great to be here again.",
+  "sponsor_read_count": 6,
+  "notable": "Aaron reframes Monday's $3.9B valuation as opportunity, not disaster. Shares replacing 100 SDRs with AI (24h→3min response). Personal touch: therapist's advice on vulnerability helped him communicate better with wife. Aaron holds 80%+ founder shares since IPO; reveals psychological toll of stock collapse but expresses confidence in offensive AI pivot."
+}

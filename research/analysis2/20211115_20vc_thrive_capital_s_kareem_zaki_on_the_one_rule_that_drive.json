@@ -1,0 +1,26 @@
+{
+  "guest": "Kareem Zaki",
+  "guest_role": "General Partner at Thrive Capital",
+  "approx_date": "Nov 2021",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry repeatedly interrupts to inject his own experience and pointed challenges (loss of focus, momentum investing, Tiger comparisons) rather than just receiving answers, but the tone stays admiring and he never truly contests Zaki's claims.",
+  "question_style": "Mostly open, thesis-driven questions where Harry frequently surfaces his own parallel experience as a VC before asking Zaki to respond or defend a position; he interrupts a couple of times and asks blunt questions about momentum/Tiger-style investing, but rarely disputes the answers given.",
+  "tone": "Warm, fannish, and highly complimentary throughout (opens by calling the guest a rare top-NPS interview and says the conversation is 'such a joy'), with high energy and no self-deprecation.",
+  "depth": "Mostly strategic rather than technical: fund philosophy, portfolio construction, deployment speed/momentum investing, and organizational culture; goes deeper on VC-specific mechanics like tailwind-based investment theses and the shift from product analysis to team-building than on any product/technical detail.",
+  "harry_quotes": [
+    "Can I ask, do you worry about our loss of focus?",
+    "How do you respond to the people that say it's momentum investing?",
+    "What's the hardest element of your role with Thrive today?"
+  ],
+  "learnings": [
+    "Thrive operates on a single guiding rule -- back category-defining companies with multi-decade tailwinds -- instead of rigid stage or sector allocation, which Zaki argues sharpens focus rather than diluting it.",
+    "Because Thrive builds relationships with founders and markets well before a raise, the firm can move quickly on surprise term sheets without needing to be first in the door.",
+    "Zaki's biggest miss was passing on an early DoorDash round over unit-economics concerns; he now believes strong, broadening usage data across cohorts usually signals a market is larger than initial models suggest.",
+    "As he's matured as an investor, Zaki has shifted time away from market/product analysis and toward the much harder, ongoing work of organizational alignment and culture-building post product-market fit.",
+    "He frames the rise of fast, high-velocity investors like Tiger as an inevitable byproduct of venture becoming a provable, competitive asset class rather than a niche one insiders used to dominate passively."
+  ],
+  "topics": ["venture capital", "fund strategy", "thrive capital", "momentum investing", "founder partnership", "work-life balance"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Harry frames this as an unusually rare booking, claiming it's one of the first times any Thrive Capital team member has done a podcast and that the guest has a 'top three NPS' among thousands of VCs interviewed."
+}

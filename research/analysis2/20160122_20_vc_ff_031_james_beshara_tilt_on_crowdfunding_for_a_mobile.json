@@ -1,0 +1,26 @@
+{
+  "guest": "James Beshara",
+  "guest_role": "Co-founder and CEO of Tilt",
+  "approx_date": "Jan 2016",
+  "assertiveness": 2,
+  "assertiveness_why": "Harry asks friendly, well-prepared narrative questions and follow-ups drawn from prior interviews, but never challenges Beshara's claims or numbers.",
+  "question_style": "Open, conversational questions that build a growth narrative (crowdfunding market size, product simplicity, fundraising story); references outside material (Product Hunt interview) but doesn't press or interrupt.",
+  "tone": "Very matey and playful -- includes a running beer-pong bet bit, casual banter, high energy fandom for the investor cap table.",
+  "depth": "Mostly surface/narrative with some retention/growth-metric probing (82% success rate, 192% average raise) but no deep technical or strategic pressure-testing.",
+  "harry_quotes": [
+    "How do you deal with customer attention then, I mean with raising money for a particular project?",
+    "How do you sell a startup to an investor when there's no clear exit strategy?",
+    "Was that a big part of the product design in terms of minimizing the onboarding process?"
+  ],
+  "learnings": [
+    "Beshara frames crowdfunding's maturation curve as analogous to blogging's shift from clunky early platforms to simple, bite-sized tools like Twitter.",
+    "Tilt deliberately narrowed scope to small, casual group-funding use cases (office gifts, trips) rather than large campaign-style crowdfunding.",
+    "A brutal early fundraising grind in Austin, far from Silicon Valley, forced the team to compress their pitch to 90 seconds, which paid off in later rounds.",
+    "Beshara argues founders benefit from letting go of early-stage overconfidence as the company matures, since certainty without data blocks other leaders from growing."
+  ],
+  "topics": ["crowdfunding", "product design", "fundraising", "consumer growth", "founder mindset"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 0,
+  "notable": "Episode includes a running personal bet/gimmick (a beer-pong challenge between Harry and the guest) rather than a standard ad read, an early Founders Friday format entry.",
+  "harry_assertiveness_note": null
+}

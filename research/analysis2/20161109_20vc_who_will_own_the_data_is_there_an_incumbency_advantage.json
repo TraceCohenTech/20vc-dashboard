@@ -1,0 +1,26 @@
+{
+  "guest": "Rudina Seseri",
+  "guest_role": "Founder and Managing Partner of Glasswing Ventures (Boston AI-focused fund)",
+  "approx_date": "Nov 2016",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry builds a tight logical chain of thesis-driven follow-ups (data ownership -> incumbency advantage -> defensibility -> business models) and probes predictions, but never directly disputes or contests any of Seseri's answers.",
+  "question_style": "Structured and thesis-building — each question extends logically from the guest's prior answer (e.g., moving from data ownership to incumbency advantage to AI business models), plus a prediction-focused segment on ASI and driverless cars. No interruptions or pushback, but clearly plants a chain of reasoning for her to respond to.",
+  "tone": "Polished and enthusiastic, genuine intellectual curiosity about AI, matey but slightly more formal/topical than personality-driven episodes; heavy sponsor reads (Headspace, Luma).",
+  "depth": "Fairly technical/strategic for the era — covers data ownership vs. privacy regulation, narrow vs general AI, data incumbency and defensibility, AI-native business models vs SaaS, and disruption-cycle timing (web to social-mobile to AI adoption curves).",
+  "harry_quotes": [
+    "Do you think in terms of ownership these will be in the form of public data sets... or privately owned?",
+    "Do you think there is a really significant data incumbency advantage to the likes of... Microsoft or Google or Facebook?",
+    "How long do you think until artificial super intelligence comes to the forefront?"
+  ],
+  "learnings": [
+    "Seseri frames the AI wave as the third major tech disruption cycle after the web and social-mobile, expecting a shorter adoption curve driven by younger, tech-native users.",
+    "She argues large incumbents (Microsoft, Google, Facebook) have a data advantage but it's surmountable because incumbents' own bureaucracy and revenue-cannibalization fears slow their response.",
+    "She believes proprietary data matters but treating consumers well around data trust can itself become a brand-level barrier to entry.",
+    "She sees AI-powered products as reshaping performance and technology within existing monetization models (e.g., still SaaS) rather than requiring wholly new business models.",
+    "She predicts winner-take-most (not winner-take-all) dynamics in autonomous vehicles, expecting three or so major players rather than pure consolidation."
+  ],
+  "topics": ["ai", "fund strategy", "data ownership", "autonomous vehicles", "enterprise saas", "cybersecurity"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Seseri discloses her own portfolio company (Jibo, a social robotics startup) mid-answer as a live example of the category she's betting on."
+}

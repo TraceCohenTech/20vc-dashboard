@@ -1,0 +1,34 @@
+{
+  "guest": "Barry Eggers",
+  "guest_role": "Founding Partner, Lightspeed Venture Partners; Chair, National Venture Capital Association (NVCA)",
+  "approx_date": "Nov 2020",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry asks prepared questions and occasionally pushes back on Barry's claims (e.g., questioning SPAC universality, rolling fund impact, fund mortality speed); more challenging than previous episodes but still mostly collaborative.",
+  "question_style": "Multi-sentence questions with follow-ups and occasional pushback. Harry voices skepticism (rolling funds inflating prices, SPAC downsides), asks direct personal question about voting with wallet vs heart. Mix of inquiry and light challenge.",
+  "tone": "Warm and respectful (returning guest); Harry explicitly mentions Barry has been supportive of his career. High energy, collaborative but with more critical edge than typical. Genuine affection between interviewer and guest.",
+  "depth": "Deep macro/policy and micro-venture mechanics: presidential policy implications (immigration, climate, capital gains taxes), capital markets evolution (IPO vs direct listing vs SPAC vs rolling fund mechanics), solo capitalists, diversity initiatives, board dynamics, fund building challenges.",
+  "harry_quotes": [
+    "Can I ask a really tough one?",
+    "How does one think about voting with their wallet versus voting with their heart?",
+    "Do you think this is a game of the 1%?",
+    "How do you keep your head when everyone around you is losing theirs?",
+    "Can I ask a final one before the quick fire?",
+    "You said leverage and overhead there. How do you determine between the two?",
+    "Tell me the rise of impact investing.",
+    "Will cleantech come roaring back in the 2020s?"
+  ],
+  "learnings": [
+    "Biden administration likely to invest in infrastructure/internet, support immigration-friendly policies like startup visas, and tackle climate via venture-backed solutions, but may increase capital gains taxes; Trump administration shows difficult immigration policy but known quantity",
+    "Oversupply of venture capital drives prices up at every funding stage and reduces returns unless compensated by liquidity bubbles; classic 'buy low sell high' model becoming 'buy high sell higher'",
+    "SPACs function as hybrid between acquisitions and IPOs—faster than IPOs, better pricing than direct listings, enable capital raise unlike direct listings—and will likely persist as important liquidity mechanism as quality companies adopt them",
+    "Solo capitalists emerged because large funds moved upstream; they fill gaps below institutional investors and can create value for founders if operators with strong track records",
+    "Rolling funds solve capital-raising friction for founders but may accelerate oversupply and pricing inflation; industry consolidation inevitable as not all funds will survive",
+    "Diversity in VC must be pursued as business strategy, not PR—broader networks reach better deal flow and produce better returns; Lightspeed Scout Program achieved this (350 minority applicants for 25 spots, scaled to 42)",
+    "Board members maintain composure by recognizing every company is a long-term journey with ups and downs, avoiding overreaction to short-term news, and prioritizing founder perspective over own interests",
+    "Cleantech will resurge if paired with government support for capital gaps and market development; technology solves problems but needs policy partnership"
+  ],
+  "topics": ["venture capital", "policy and politics", "climate change", "immigration", "capital markets", "SPACs", "rolling funds", "solo capitalists", "diversity in vc", "board dynamics", "fund strategy"],
+  "repeat_guest_callback": "Barry, it's such a pleasure to have you on the show once again. What can I say? A lot has changed since we last spoke, especially with the new role at NVCA.",
+  "sponsor_read_count": 3,
+  "notable": "Episode airs day before 2020 presidential election and explicitly addresses policy implications of Biden vs Trump administrations. Harry asks direct personal question about voting with wallet vs heart—rare political introspection. Barry discloses Lightspeed Scout Program detail: 2020 cohort 100% racial minorities, received 350 applications for 25 spots, expanded to 42. Notable self-reflection on board calmness and people management weakness in VCs."
+}

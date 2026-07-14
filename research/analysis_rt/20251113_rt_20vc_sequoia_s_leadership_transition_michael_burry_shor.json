@@ -1,0 +1,29 @@
+{
+  "approx_date": "Nov 2025",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll"],
+  "stories_covered": [
+    "Sequoia's leadership transition: Roeloff replaced by Pat Grady and Alfred Lin",
+    "Michael Burry's $1.1 billion short on Nvidia and Palantir",
+    "Gamma raises $100M at $2.1B valuation with $100M ARR",
+    "AI revenue traction and growth validation",
+    "Vibe coding competition and market dynamics"
+  ],
+  "harry_takes": [
+    "Sequoia's leadership change signals the firm feels behind in AI and must evolve or risk irrelevance in a faster-paced market",
+    "Revenue for AI companies is already showing up substantially—we should stop being cynical about phantom demand and acknowledge traction is real",
+    "The pace of AI evolution is so fast that knowledge from six months ago becomes obsolete; VCs must constantly update their mental models",
+    "Michael Burry's bearish bet on AI capex, while intellectually sound, is nearly impossible to profit from due to timing and execution risk"
+  ],
+  "harry_boldest_quote": "The pace of evolution is so fast.",
+  "predictions": [
+    "Lemkin: Palantir at 110-120x revenues will face significant correction within next two years",
+    "Lemkin: AI capex boom will undergo meaningful correction at some point, but will remain at scale",
+    "Lemkin: More VCs should step aside today; most from the last 15 years won't be right for the next decade",
+    "Rory: Gamma will become a billion-dollar ARR business if they keep shipping at current pace"
+  ],
+  "disagreements": "Lemkin expressed skepticism about AI valuation sustainability and highlighted bubble dynamics, while Harry pushed back with data showing revenue is actually materializing and growth is real. Lemkin worried about overcorrection risk; Harry argued revenue justifies the optimism.",
+  "harry_role": "Harry moderated between Lemkin's cynicism and validated revenue growth, pushing back with specific data points (Anthropic, Gamma, OpenAI revenue projections) to argue that actual traction exists. He challenged the doom-and-gloom narrative while letting Lemkin's skepticism create necessary tension.",
+  "topics": ["sequoia", "venture-leadership", "ai", "michael-burry", "nvidia", "palantir", "gamma", "vibe-coding", "ai-capex"],
+  "sponsor_read_count": 3,
+  "notable": "Michael Burry filed his short position early (unusual strategy) to signal conviction and potentially move the market; his filing strategy shows tactical intent beyond passive investing."
+}

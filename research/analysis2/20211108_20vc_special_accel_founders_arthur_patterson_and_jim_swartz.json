@@ -1,0 +1,28 @@
+{
+  "guest": "Arthur Patterson and Jim Swartz",
+  "guest_role": "Co-founders of Accel Partners (venture capital firm founded 1983)",
+  "approx_date": "Nov 2021",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry brings in outside framing (Doug Leone's question on the 17-year cycle, third-party views on Accel's culture), directly calls out Arthur ('Bullshit. I can't believe Arthur actually said that') and repeatedly presses on the tension between conviction and firm politics rather than simply receiving answers.",
+  "question_style": "Largely open-ended and historically framed, but Harry injects other insiders' questions/opinions as his own probes, contests a claim in real time, and follows up with pointed 'how do you square X with Y' challenges (e.g., risk-taking vs. losing a 'chip').",
+  "tone": "Reverent and honored ('huge honor', 'I'm a student of venture'), formal given the guests' stature, but still willing to be blunt and even needle them with a laughing challenge.",
+  "depth": "Strong strategic/historical depth: venture cycle economics, fund-focus vs. diversification, LP fundraising mechanics across decades, partnership governance/equal-ownership structures, and international expansion models (Accel London, Accel India).",
+  "harry_quotes": [
+    "It's different this time. Bullshit.",
+    "Do you play a game on the field or do you try and be smarter than the market?",
+    "What do you mean we're at the beginning of one right now?",
+    "Do you ever worry that there's a loss of focus?"
+  ],
+  "learnings": [
+    "Accel's early edge came from sector specialization (communications and software) at a time when most VC portfolios were scattered across every industry, which became viable only once the market had grown large enough by 1983 to support focused strategies.",
+    "Their hardest fundraise was their third fund in 1989, done with no major exits yet to point to, requiring painstaking due-diligence exercises like filling out value-add matrices for LPs.",
+    "The partners see this cycle as structurally different from prior ones because it isn't driven by a single secular force like falling semiconductor costs, but by years of near-zero interest rates inflating all asset classes simultaneously.",
+    "Their firm's longevity rests on enforced equal partnership and horizontal decision-making, deliberately re-distributing ownership to younger partners every few years instead of senior partners entrenching control.",
+    "International offices (Accel London, Accel India) succeeded because of deep culture-transfer efforts (requiring new hires to embed in Palo Alto first) rather than simply exporting capital.",
+    "Individual partners can green-light a deal even without full internal buy-in, but doing so 'spends a chip' of credibility if it fails — a system meant to preserve individual conviction while maintaining collective accountability."
+  ],
+  "topics": ["venture history", "fund cycles", "firm culture", "fund mechanics", "international expansion", "partnership governance"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "A rare joint interview with two co-founders who almost never do media, tracing the full 38-year history of Accel Partners from its 1983 founding."
+}

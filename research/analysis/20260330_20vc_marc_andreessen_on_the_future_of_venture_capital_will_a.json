@@ -1,0 +1,31 @@
+{
+  "guest": "Marc Andreessen",
+  "guest_role": "Co-founder and Leader, Andreessen Horowitz ($90B AUM)",
+  "approx_date": "Mar 2026",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry is deferential and respectful throughout this long-awaited interview (waited 10 years and 3000 episodes). Questions are open-ended and exploratory rather than confrontational. Harry asks Mark to explain his thinking but doesn't push back or plant opposing theses.",
+  "question_style": "Open-ended and invitational. Harry asks Mark to elaborate on his philosophies (copywriting process, founder selection, AI impact). Focus is on understanding Mark's worldview rather than testing it. Some probing on how he stays grounded despite influence.",
+  "tone": "Reverent and curious. Harry treats this as a milestone conversation after a decade of trying. Collaborative rather than adversarial. Both are thinking out loud about venture, AI, and founding.",
+  "depth": "Strategic and philosophical rather than tactical. Discussions on founder psychology (likability vs execution), labor displacement myths, venture market concentration, founder incentives, the role of disagreeable founders, AI impact on employment.",
+  "harry_quotes": [
+    "I started this show when I was 18 years old with no money and you were one of my three dream guests.",
+    "Your voice carries such weight in the industry, how do you ensure people will fight back?",
+    "You are probably the best copywriter of our time, what is your copywriting process?",
+    "Do you need to like the founders you invest in?",
+    "Life just gets a lot simpler if you assume everything is your own fault."
+  ],
+  "learnings": [
+    "Every time Andreessen Horowitz passed on a promising venture company over price concerns, it turned out to be a mistake in hindsight.",
+    "Labor displacement narratives about AI are completely incorrect; large companies are typically overstaffed by 75% and could absorb productivity gains.",
+    "The tech industry is more centralized in Silicon Valley than ever despite claims of geographic distribution.",
+    "Unlikely founders who alienate mainstream VCs due to orneryness and disagreement often become the biggest successes.",
+    "Great founders don't need to be likable; history shows many successful founders and creative geniuses were difficult people.",
+    "The most compelling copywriting or positioning emerges from sustained internal frustration about misperceptions in the market.",
+    "Venture leaders must be careful not to impose their views as directives when partners or CEOs have better information.",
+    "There's structural value in being able to write a compelling narrative about a future you believe in."
+  ],
+  "topics": ["venture-capital", "ai", "labor-displacement", "founder-selection", "market-efficiency", "positioning"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "This is a milestone episode for Harry—his dream guest from age 18, reached after 10 years and 3000 episodes. The interview spans foundational VC philosophy, AI labor impact, and Mark's copywriting process. Mark emphasizes he competes mainly with himself and judges success by portfolio outcomes rather than sentiment."
+}

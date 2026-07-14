@@ -1,0 +1,31 @@
+{
+  "guest": "Neil Young",
+  "guest_role": "Founder and CEO of Network (mobile games maker/publisher); previously founder of NGMoco (sold to DeNA) and producer/exec at Electronic Arts",
+  "approx_date": "Jan 2018",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry consistently frames questions by citing other investors' and guests' theses (Elad Gill, Benedict Evans, Peter Fenton, James Currier, Fred Destin) and asks Neil to react, but he never directly contests or challenges Neil's answers.",
+  "question_style": "Questions are prepared and multi-sentence, frequently importing a named third party's stated view or data point as a springboard ('X said this on the show, what do you think?'), which plants an implicit thesis for the guest to engage with. Harry rarely interrupts and never overtly disagrees with Neil's responses; follow-ups build on and probe deeper into what Neil just said rather than contesting it.",
+  "tone": "Warm, matey and fan-forward — Harry opens with effusive praise for the guest's pedigree and repeatedly thanks the referring investors (Bing Gordon, Mike Maples) by name; light self-deprecating humor (jokes about mojitos and his own body not being a temple).",
+  "depth": "Substantive and strategic rather than technical: covers platform-shift timing, paid vs organic distribution economics, CAC/LTV-driven org design, M&A decision-making, and board composition/dynamics. Harry tracks specific frameworks (LTV vs CAC, freemium/IAP history, direct-to-retail distribution) well enough to ask informed follow-ups.",
+  "harry_quotes": [
+    "Did you communicate when the alignment wasn't there and is there a right way to do that?",
+    "How do you think about paid versus organic and has that maybe changed over the years?",
+    "What's the biggest book recommendation for me?",
+    "An inflection point in your life that changed the way you think."
+  ],
+  "learnings": [
+    "At large companies, career outcomes track how well you understand and align with the organization's prevailing agenda, not just the merit of your own ideas.",
+    "Mass-market products succeed by first winning over a hardcore niche audience, which then provides the authentic base the broader audience builds on.",
+    "Underlying audience appeal (e.g. a beloved franchise) can outweigh execution quality in determining a product's commercial performance.",
+    "Platform shifts get overhyped in the short run and underestimated in the long run, so timing entry requires asking when the shift becomes real and what user behavior has actually changed.",
+    "Closed platforms slow innovation when the platform owner's incentives diverge from users' (e.g. Apple delaying free-to-play/IAP adoption held back the freemium market).",
+    "As distribution shifted from viral/organic to paid, successful companies had to reorganize entirely around an LTV-versus-CAC discipline spanning UA, product, and monetization.",
+    "Selling a company is a deliberate choice, not something that merely happens to you; the decision should hinge on whether valuation is right and whether the acquirer offers a genuinely enriching next chapter.",
+    "A well-built board is composed of people with complementary, non-overlapping strengths, and a CEO should listen carefully both to individual board members and to the group's collective signal.",
+    "VCs waste founders' time with noncommittal 'stay in touch' responses; a fast yes or no is far more respectful of entrepreneurs' time than a slow-rolled maybe."
+  ],
+  "topics": ["gaming", "platform shifts", "distribution", "paid vs organic growth", "m&a", "board dynamics"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Harry's questions are structured almost entirely around name-checking other 20VC guests' prior statements (Elad Gill, Benedict Evans, Peter Fenton, James Currier, Fred Destin) as prompts for Neil to respond to, a distinctive interviewing crutch in this episode."
+}

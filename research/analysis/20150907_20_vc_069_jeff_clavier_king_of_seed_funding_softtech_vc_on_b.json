@@ -1,0 +1,27 @@
+{
+  "guest": "Jeff Clavier",
+  "guest_role": "Founder and managing partner of SoftTech VC",
+  "approx_date": "Sep 2015",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks strategic case-study questions about Fitbit and seed strategy but never challenges Jeff's frameworks or introduces alternative investment theses.",
+  "question_style": "Harry poses exploratory questions on career transition, Fitbit's capital efficiency appeal, Brad Feld relationship-building, deal sourcing strategy, seed round sizing, and Series A preparation tactics. He follows up with specifics (investor lists, preemption dynamics) but remains receptive throughout. No pushback or alternative perspectives; interview focuses on understanding Jeff's decision-making philosophy.",
+  "tone": "Warm, admiring, and deferential. Harry frames Jeff as \"a true legend of the industry\" and \"a titan of industry,\" expressing genuine enthusiasm (\"I'm absolutely ecstatic to have you on the show\"). Conversational and earnest; no challenge or playfulness. Frames himself as learning from Jeff's pioneering seed-stage philosophy.",
+  "depth": "Exceptional depth on seed-stage VC mechanics and founder support. Harry covers Jeff's background and Reuters corporate VC experience, the capital-efficiency insight applied to hardware (Fitbit 2008 investment rationale), Fitbit's fundraising challenges and Brad Feld persuasion (email strategy, team due diligence, Series A success), deal sourcing model (3,000 companies/15 annual investments = 200:1 filter), importance of referrals and market specialization, 18-month runway philosophy for seed strategy, average check sizes ($2M software, $3-4M hardware), portfolio company support in Series A preparation, preemption dynamics (avoiding bidding wars), investor relationship mapping by sector. Highly specific on SoftTech's operations and investing discipline.",
+  "harry_quotes": [
+    "Can you tell us a bit about your start, your entrance into the VC industry?",
+    "What attracted you to Fitbit when it wasn't to others?",
+    "How did you convince Brad then?",
+    "Why encourage companies to raise large seed rounds?"
+  ],
+  "learnings": [
+    "Capital efficiency—requiring hundreds of thousands vs. millions—applies to hardware as well as software, enabling companies to prove concept before massive manufacturing spend",
+    "Seed investors must triage through 3,000+ companies/year using strong referral signals; trusted introductions from CEOs and founders are determinative of meeting priority",
+    "18-month runway for seed companies enables iteration on failed strategies and market pivots before Series A hurdles; average seed rounds are $2M (software) to $3-4M (hardware)",
+    "Active seed fund support in cultivating Series A relationships 6+ months pre-raise enables preemption term sheets that avoid drawn-out bidding wars",
+    "VCs passing on companies at early stages often regret decisions when market validation eventually confirms opportunity; Fitbit's $10B IPO is painful reminder of early pass decisions"
+  ],
+  "topics": ["seed funding", "capital efficiency", "hardware companies", "deal sourcing", "seed round sizing", "series a preparation", "founder support", "investor relations"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 1,
+  "notable": "Fitbit investment narrative reveals power of capital-efficiency thesis in unexpected category (hardware); 3,000-to-15 investment filter ratio emphasizes scarcity of high-signal deal sourcing; preemption as anti-bidding-war mechanism shows shift in Series A dynamics."
+}

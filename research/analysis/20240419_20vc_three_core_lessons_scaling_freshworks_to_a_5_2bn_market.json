@@ -1,0 +1,31 @@
+{
+  "guest": "Girish Mathrubutham",
+  "guest_role": "Founder/CEO, Freshworks (SaaS, $596M ARR, $5.2B market cap); co-founder SaaS Boomi; founder Together Fund",
+  "approx_date": "Apr 2024",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks engaged follow-ups and occasionally plays devil's advocate, but is mostly collaborative and receptive. Deferential to Girish's deep experience and rarely challenges viewpoints.",
+  "question_style": "Opens with biographical questions, then strategic probes into product development, pricing, GTM, hiring, multi-product strategy. Some direct challenges ('Is this a product marketing nightmare?') but mostly exploratory and open-ended. Strong follow-up questions.",
+  "tone": "Warm, admiring, respectful. Harry notes Girish is 'the first Indian guest we've had on the show in seven years' and calls him 'a great character.' Natural conversational rhythm with genuine curiosity.",
+  "depth": "Very deep across product strategy, pricing dynamics, SMB vs. enterprise divergence, hiring/leadership, multi-product expansion, ecosystem/investing. Technical on unit economics, product-led growth, CAC, ARR dynamics. Spans entire company journey (2010-present) plus broader ecosystem work.",
+  "harry_quotes": [
+    "We look at Freshworks today and it's this incredible business. Every business starts somewhere. 2010, it was not obvious.",
+    "Take me to the founding moment of Freshworks.",
+    "Were you embarrassed of your V1 when you look back now?",
+    "Why did you decide to be global from day one?",
+    "What are your biggest lessons on pricing?"
+  ],
+  "learnings": [
+    "Extreme low pricing ($9-29/mo) paired with product excellence creates defensible moat; competitors cannot undercut without destroying unit economics",
+    "SMB and enterprise are fundamentally different markets; serving both requires dual go-to-market motions with separate sales models, not a single-playbook approach",
+    "First product must achieve excellence before suite expansion; adding products too early dilutes focus and confuses market (board advice that initially seemed right)",
+    "Product-led growth (SEO, self-serve checkout) bypasses expensive sales infrastructure and works globally at scale for SMB segment with strong unit economics",
+    "Hiring leadership requires close CEO oversight during onboarding period; 'hands-off' management works after transition but not during critical integration",
+    "SMB customers appear small individually but expand via multi-product adoption over time; long-tail + enterprise-whale model sustains higher LTV than single-segment focus",
+    "Pricing strategy signals target market positioning; low price attracts SMB/self-serve buyers, enabling upmarket evolution as product matures and complexity can scale",
+    "Multi-product expansion roadmap (500 fresh domains booked in 2010) can work if underlying business model (inbound PLG) is truly portable across use cases"
+  ],
+  "topics": ["saas", "product-led growth", "pricing strategy", "geographic expansion", "enterprise vs smb", "hiring and leadership", "multi-product strategy", "indian tech ecosystem", "venture investing", "founder psychology"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "First Indian SaaS CEO on 20VC in seven years. Girish spent 10 years building prior products before Freshworks founding. Launched on Hacker News story (March 2011), got viral traction, went from 0 to 100 customers in 100 days without VC funding. Founded SaaS Boomi ecosystem (40 companies in 2016 → 6,000+ companies by 2024, 1,600 founders at 2024 event). Founded Together Fund ($150M, operator-led VC focused solely on SaaS/AI from India). Multiple product failures (FreshConnect took 2+ years, built before Slack/Teams adoption, lost market; Freshmarketer killed pre-launch on investor advice). Candid about leadership weaknesses: doesn't hold people accountable, prefers inspiration. Advocates strongly for Indian SaaS going global day-one, rejecting 'India first' narrative. Personally invested in FC Madras (sports academy) and software academy for underserved students."
+}

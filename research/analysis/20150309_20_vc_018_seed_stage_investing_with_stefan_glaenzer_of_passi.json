@@ -1,0 +1,27 @@
+{
+  "guest": "Stefan Glaenzer",
+  "guest_role": "Founding partner of Passion Capital",
+  "approx_date": "Mar 2015",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared, strategic follow-ups on investment criteria and pitch dynamics but never challenges Stefan's frameworks or plants competing hypotheses.",
+  "question_style": "Harry probes seed-stage investment thesis (working prototype focus, equity expectations, portfolio management), founder selection, and pitch dynamics through open-ended questions. He follows up conversationally (e.g., on fintech disruption) but remains neutral and receptive throughout. No pushback or alternative viewpoints introduced.",
+  "tone": "Warm and deferential. Harry expresses genuine enthusiasm (\"It's an absolute pleasure\") and validates Stefan's points with affirmations (\"that's amazing\"). Conversational but professional; no playfulness or self-deprecation.",
+  "depth": "Strategic focus on seed-stage mechanics. Harry covers investment thesis (working prototype + first institutional capital), check sizes (£100-300k for 15-25% equity), founder engagement model (co-working space advantage), pitch dynamics (dialogue vs. data-driven), market opportunity (fintech disruption), and investment red flags (false competitive positioning). Business-model focused rather than technical.",
+  "harry_quotes": [
+    "How would you like entrepreneurs to connect with you?",
+    "When it comes to pitching, how do you think they can show enthusiasm?",
+    "Do you think there's a formula for success in a pitch?",
+    "What are your red flags when seeing a company pitch?"
+  ],
+  "learnings": [
+    "Seed-stage capital targets teams with working prototypes or closed beta (50-500 users), not concepts, positioning as first institutional money in the startup ecosystem",
+    "Co-locating investments in a shared workspace reduces formal board-meeting overhead by enabling VCs to observe company health and culture organically",
+    "P2P lending and fintech sectors offer exceptional disruption opportunities because incumbent financial institutions move slowly and customers suffer poor service",
+    "Founder passion for solving real problems through technology emerges through dialogue and discussion, not polished pitch performance",
+    "False competitive positioning (claiming unchallenged market space or exaggerated market dominance) is a major red flag; acknowledging real competitors is healthier"
+  ],
+  "topics": ["seed stage investing", "founder quality", "pitch dynamics", "fintech", "p2p lending", "equity check sizes", "investor-founder relationship"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 0,
+  "notable": null
+}

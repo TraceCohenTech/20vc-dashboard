@@ -1,0 +1,27 @@
+{
+  "guest": "Eric Paley",
+  "guest_role": "Managing Partner at Founder Collective",
+  "approx_date": "Nov 2016",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks well-prepared, multi-part questions and probes on valuation math and ambition, but never contests Eric's claims or brings outside data to challenge him.",
+  "question_style": "Mostly open, thesis-seeking questions delivered in multi-sentence setups (e.g. framing the 'billion dollar exit' math before asking his view); Harry occasionally interjects a follow-up mid-answer but never pushes back or disputes an answer, and lets Eric's framings stand unchallenged.",
+  "tone": "Warm, fannish and matey — repeatedly calls Eric a friend/mentor, opens by saying he was 'desperate' to have him back, closes with mutual praise; energetic and enthusiastic throughout, minimal self-deprecation.",
+  "depth": "Strategic rather than technical: tracks venture fund mechanics (fund-size-to-exit math, ownership percentages, return multiples), capital efficiency, valuation step-up expectations, and mega-fund dynamics, showing genuine familiarity with VC economics though no product/technical depth.",
+  "harry_quotes": [
+    "Can I ask you a question at what time is the transition between a bearable burn rate",
+    "Does that mean founders are potentially too ambitious today?",
+    "What do you make of the rise of the mega funds?"
+  ],
+  "learnings": [
+    "Overemphasis on venture validation can push founders toward capital that isn't actually a good fit for their business.",
+    "Rising burn rates driven by excess capital create a dependency where failing to hit growth expectations makes a company effectively unfundable.",
+    "A study of 71 tech IPOs found no meaningful correlation between capital raised and outcome quality — efficient, lightly-capitalized companies often outperformed.",
+    "A rough governing heuristic for venture-backed startups is tripling valuation roughly every two years to justify continued investor expectations.",
+    "Because fund sizes have grown, only very large exits (multiples of fund size) are truly meaningful to a VC's returns, pushing funds toward bigger swings.",
+    "Founder ambition for huge valuations is often 'bravado' rather than a genuine read of the business's future upside potential."
+  ],
+  "topics": ["venture capital", "fund mechanics", "capital efficiency", "valuations", "founder strategy", "seed investing"],
+  "repeat_guest_callback": "Similar to Monday, we have a guest that I so enjoyed the first time that I was simply desperate to have back on the show",
+  "sponsor_read_count": 2,
+  "notable": "This is an explicit repeat appearance (Eric Paley's second time on the show), and Harry closes by noting Eric has personally mentored him."
+}

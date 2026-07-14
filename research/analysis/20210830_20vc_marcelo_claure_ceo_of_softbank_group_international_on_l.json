@@ -1,0 +1,24 @@
+{
+  "guest": "Marcelo Claure",
+  "guest_role": "CEO of SoftBank Group International and CEO of SoftBank Group Corp",
+  "approx_date": "Aug 2021",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry plants theses on VC incentives and pricing discipline, occasionally challenges copycat-business criticism, but mostly receives Marcelo's answers without sustained adversarial pressure.",
+  "question_style": "Harry uses open-ended multi-sentence questions with prepared follow-ups, referencing external sources (Masa calling Marcelo a terrible investor). He occasionally plants his own theses on venture mechanics and pricing math but doesn't sustain pressure-testing. Conversational rather than confrontational.",
+  "tone": "Warm and matey throughout. Self-deprecating about his own investment decisions ('that's my dumb for investments'). Genuine fandom balanced with neutrality; upbeat energy without formality.",
+  "depth": "Tracks technical venture mechanics: deployment cycles, portfolio construction, conflict management in competitive spaces, pricing sensitivity by market size, and exit strategies. Digs into SoftBank's Latin America strategy and differentiated capital-deployment model with specific portfolio examples.",
+  "harry_quotes": [
+    "How do you think about Tiger today?",
+    "Can I ask where it doesn't matter do you still want to get involved?",
+    "Can I ask do you think VCs in general are South American banks too large?"
+  ],
+  "learnings": [
+    "Founder-operators who have built, managed, and invested in companies develop a 360-degree perspective unavailable to pure finance-trained investors, enabling superior pattern recognition across founders.",
+    "Latin America had equivalent entrepreneurial talent and market size to China or India, but lacked patient capital; once provided, companies scale across multiple verticals beyond fintech alone.",
+    "Deploying large patient capital with minimal deployment cycles or LP pressure structures is a durable competitive advantage allowing founders to be backed on founder quality rather than valuation discipline."
+  ],
+  "topics": ["venture capital", "fintech", "latin america", "emerging markets", "deployment strategy", "founder-focused investing"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 6,
+  "notable": null
+}

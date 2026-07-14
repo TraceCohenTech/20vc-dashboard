@@ -1,0 +1,31 @@
+{
+  "guest": "Kim Groves",
+  "guest_role": "Head of Sales, Pre-Sales, Customer Success and Renewals at Notion; previously 7 years at Slack and time at Salesforce; co-founder of 20 Sales",
+  "approx_date": "Jun 2025",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry drills into specifics with structured hypotheticals and roleplay scenarios and occasionally probes edge cases ('can you be off so badly it's irredeemable'), but he rarely contests her claims and mostly affirms with 'totally agree.'",
+  "question_style": "Harry builds extended hypothetical scenarios (playing a technical PLG founder, a new hire, a rep facing objections) to force concrete, tactical answers, and chains rapid-fire follow-ups drilling into numbers and specifics; he interjects his own experience and opinions often but seldom pushes back or contests her points, functioning more as an enthusiastic co-explorer than an adversarial interviewer.",
+  "tone": "Very warm, matey and informal given their real friendship and shared co-founding of 20 Sales, high energy, liberal profanity and self-deprecating British humor throughout.",
+  "depth": "Strong operational depth on sales mechanics — deal-stage mindsets, ICP/firmographic segmentation for PLG-to-enterprise motion, the REKS mishire-diagnosis framework, account prioritization thresholds, cold-calling tactics, and where AI sales agents currently succeed vs. fail in enterprise selling.",
+  "harry_quotes": [
+    "What would you tell yourself knowing all that you know now?",
+    "How do reps fuck up curious investigator?",
+    "Can you be off so badly in one that it's irredeemable?",
+    "What outbound channel do you think is most underrated right now?",
+    "What did you believe about sales that you now no longer believe?"
+  ],
+  "learnings": [
+    "Sales stages work better when framed as mindsets to embody (e.g. 'curious investigator', 'value articulator') rather than rigid checklists, making reps more adaptable.",
+    "PLG companies should build their enterprise ICP from firmographic signals (industry, company size, location) rather than raw product-usage signals like seat count, which can mislead toward low-value segments like communities.",
+    "Early sales hires should be generalist 'Renaissance reps' focused on learning the business and cross-functional collaboration, not specialists executing a pre-built playbook.",
+    "A useful framework for diagnosing underperforming reps is results-effort-knowledge-skills (REKS), which isolates whether the real gap is motivation, competence, or a role/skill mismatch.",
+    "Cold calling is under-leveraged precisely because it's uncomfortable and most competitors avoid it, making it a disproportionately effective channel.",
+    "AI sales agents currently work only for simple, transactional, single-stakeholder deals, not complex multi-threaded enterprise sales.",
+    "Enterprise AI adoption remains stuck in experimental-budget mode, gated mainly by security and legal concerns rather than lack of interest.",
+    "When a champion refuses to introduce other stakeholders, that's a strong signal the deal isn't real and reps should force multi-threading through other people at their own company."
+  ],
+  "topics": ["sales", "plg", "enterprise sales", "hiring", "ai", "go-to-market"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 6,
+  "notable": "Guest is a personal friend and co-founder of 20 Sales with Harry, giving the episode an unusually personal, informal register compared to typical 20VC interviews."
+}

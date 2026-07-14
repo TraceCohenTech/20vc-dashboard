@@ -1,0 +1,28 @@
+{
+  "guest": "Brad Bao",
+  "guest_role": "Co-founder and CEO at Lime",
+  "approx_date": "Jun 2019",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared follow-up questions on profitability, hardware, and team strategy but never contests or pushes back on Brad's claims; remains receptive throughout.",
+  "question_style": "Prepared multi-sentence questions with substantive follow-ups on unit economics, hardware innovation cycles, and market strategy. Harry asks clarifying questions ('What's the biggest determinant?') but doesn't challenge underlying claims. No interruptions or alternative theses planted.",
+  "tone": "Formal but warm. Harry references prior conversations with other Lime investors and expresses admiration for the team assembled. Professional and collaborative, though less intimate than founder-centric episodes.",
+  "depth": "Tracks micro-mobility market dynamics (1% penetration today vs. 50% in Copenhagen/Amsterdam), hardware innovation velocity (four versions in 12 months vs. 2-5 year industry standard), profitability drivers, unit economics, team assembly principles, and organizational scaling challenges. Strong on operations and hardware strategy.",
+  "harry_quotes": [
+    "How do you think about launching new cities?",
+    "Can I ask, what's the biggest determinant?",
+    "What's the record time to get to profitability?",
+    "When is the right time to assemble an exact team?"
+  ],
+  "learnings": [
+    "Lime's organic growth relies on Tencent-inherited culture: obsessive user experience focus + zero paid marketing (best product sells itself) + emotional connection to journeys",
+    "Micro-mobility expands total addressable market rather than cannibalizing—1% of trips today vs. 50% in Copenhagen/Amsterdam; competition validates sector and pushes regulation/infrastructure forward",
+    "Vertical hardware integration enables rapid iteration: four major versions in 12 months (vs. 2-5 year industry norm); combining durability, low cost, and advanced features simultaneously requires management discipline across supply chain",
+    "Senior talent requires real scope within 12 months; hire 12 months before the team they'll need to build, giving time to develop structure rather than hiring too early (no platform) or late (missing impact)",
+    "Team alignment and collaborative culture outperform raw talent; all-star players lose to cohesive teams; alignment across diverse backgrounds/opinions is harder than identifying breaking points",
+    "Trust between founders (built over years on shared values, not months) prevents second-guessing and enables decisive decision-making across distance (e.g., co-founders 6,000 miles apart investing tens of millions)"
+  ],
+  "topics": ["micro-mobility", "hardware innovation", "unit economics", "profitability", "team building", "founder dynamics", "market expansion", "supply chain", "vertical integration"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Brad claims profitability in dozens of markets and a two-week record time to profitability, yet Harry doesn't probe or push back on these remarkable claims. Brad's daily schedule (8am-2am, 15-20 years) represents extreme hustle culture, contrasting sharply with earlier show discussions on founder wellbeing."
+}

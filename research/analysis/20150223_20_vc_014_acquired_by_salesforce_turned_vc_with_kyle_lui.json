@@ -1,0 +1,27 @@
+{
+  "guest": "Kyle Lui",
+  "guest_role": "Principal at DCM Ventures, co-founder and CEO of ChoicePass (acquired by Salesforce)",
+  "approx_date": "Feb 2015",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared follow-up questions and probes the guest's experience, but never contests claims or plants his own thesis.",
+  "question_style": "Open-ended, exploratory questions focused on the guest's journey and investment philosophy. Harry receives information and asks clarifying follow-ups without pushing back or challenging claims. The conversation is conversational rather than adversarial.",
+  "tone": "Respectful and admiring with genuine curiosity. The energy is warm and conversational; Harry shows enthusiasm for the guest's story without self-deprecation or casual banter.",
+  "depth": "Covers the guest's career transition and three-part investment framework (team, market, metrics) but stays largely at surface level. Harry asks about specific portfolio companies (AnyPerk, Ease) but doesn't pursue technical or strategic challenges beyond the pivot story.",
+  "harry_quotes": [
+    "And at this point, could you code?",
+    "And how long were you at Salesforce for again?",
+    "And where do you see the future of incentivizing people, and how important do you feel it is?",
+    "If you could give entrepreneurs starting a company one piece of advice, what would it be?"
+  ],
+  "learnings": [
+    "Team quality is the primary determinant of startup success because strong founders can solve problems and execute, whereas weak teams face insurmountable challenges.",
+    "Pivoting based on customer feedback and data validation is critical—Kyle's original daily-deal model failed, so he locked down with his co-founder to identify a market need (corporate rewards) that customers actually wanted.",
+    "VC investors gain competitive advantage by developing deep expertise in specific sectors rather than being generalists; this allows them to provide strategic counsel beyond capital.",
+    "Regulatory risk is an inherent part of venture investing, particularly in emerging markets; the key is determining whether regulations will evolve favorably for the opportunity.",
+    "Founder quality assessment requires repeated in-person interaction—Kyle meets entrepreneurs a dozen or more times before investing to understand their strategy, commitment, and alignment."
+  ],
+  "topics": ["venture capital", "startups", "team dynamics", "product strategy", "pivoting", "acquisitions", "on-demand services"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 0,
+  "notable": null
+}

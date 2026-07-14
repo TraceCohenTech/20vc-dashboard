@@ -1,0 +1,26 @@
+{
+  "guest": "Sam Altman",
+  "guest_role": "President of Y Combinator; co-chair of OpenAI; founder of Hydrazine Capital",
+  "approx_date": "Jan 2018",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry runs a tightly structured thematic interview with sharp, well-researched follow-ups and occasional pointed questions, but he never directly contests or challenges Sam's answers.",
+  "question_style": "Highly structured around a pre-announced theme (greatness/leadership) with layered follow-ups that press for specifics ('what did you see in those observations'), incorporates crowdsourced questions from Sam's brother, but remains fundamentally receptive rather than adversarial.",
+  "tone": "Reverent and enthusiastic, treats the guest as a long-awaited dream booking, matey banter about Sam's brother, light self-deprecating humor about diet and mojitos in sponsor reads.",
+  "depth": "Solid strategic depth on VC/startup topics — probes founder evaluation methods, partnership dynamics, seed-to-Series-A distinctions, pricing/underpricing logic, and growth-stage investing critique with real follow-through across multiple exchanges.",
+  "harry_quotes": [
+    "What do you think makes PG the truly special leader that he is?",
+    "How do you distinguish between a treatable wart and an untreatable wart?",
+    "Are you concerned by the excess capital entering the market?"
+  ],
+  "learnings": [
+    "Sam evaluates founders best by shadowing them for a day or two rather than through pitch meetings, since observed behavior reveals far more than rehearsed narratives.",
+    "He deliberately ignores which other investors are backing a deal, having been burned by following the crowd early in his investing career.",
+    "Great founders exhibit a productive form of paranoia, constantly war-gaming what could go wrong even while succeeding.",
+    "Treatable company flaws (poor onboarding funnels) are good investment opportunities, but a product genuinely disliked by users is an untreatable flaw to avoid.",
+    "Sam sees seed-stage returns compressing industry-wide as excess capital floods in, and hopes YC's growth-stage program can push later-stage investors toward better founder-friendly behavior."
+  ],
+  "topics": ["y combinator", "leadership", "founder evaluation", "fund mechanics", "growth investing", "china/global talent"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Several questions were submitted by Sam's brother Jack, who made the introduction, including a personal closing question about which of the two brothers is more 'lovable'."
+}

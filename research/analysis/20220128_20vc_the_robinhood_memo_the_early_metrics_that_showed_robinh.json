@@ -1,0 +1,38 @@
+{
+  "guest": "Scott Sandell and Rick Yang",
+  "guest_role": "General Partners at NEA; Scott led Robinhood Series B and serves on board; Rick heads consumer investing and led follow-on rounds",
+  "approx_date": "Jan 2022",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry poses occasional direct challenges (questioning cost efficiency sources, probing zero CAC sustainability, asking about churn risk at higher AUM) while remaining mostly in exploratory, receptive mode.",
+  "question_style": "Exploratory questions probing early-stage metrics and business model assumptions; some direct challenges to their claims but no planted counter-thesis; conversational tone with genuine curiosity about their decision-making.",
+  "tone": "Warm, collaborative exploration of the investment memo; Harry shows genuine interest in understanding their thesis; moments of levity (acknowledging his crude comment about retail investors will be edited out); professional but personable.",
+  "depth": "Technical deep dive into Robinhood's early metrics (DAU/MAU, day-1 retention 30-40%, account-value growth during beta), business model (zero commission, cost structure 1.35x vs E-Trade at 100 employees vs 3500), market segmentation (younger demographics), product evolution strategy, and team dynamics; explores how disruption worked across customer acquisition, infrastructure, and support.",
+  "harry_quotes": [
+    "Can I ask, what was it that so excited you in that first meeting?",
+    "What was the metric that got you excited on usage in particular?",
+    "Do you worry they're going to churn out with increased wealth?",
+    "How are they 1.35 times cheaper than E-Trade? What's driving that?",
+    "Can you tell me about one board moment that was a real needle-mover?"
+  ],
+  "learnings": [
+    "Founder mission authenticity attracts users organically without paid acquisition; network effects and superior product experience drive growth, not marketing.",
+    "Business model innovation (free trading) disrupts incumbents more effectively than technology alone; the real moat is cost structure, not just mobile.",
+    "Early-stage behavioral metrics (cohort day-1 retention, deposit growth during beta) more predictive than traditional financial projections; younger customers expand AUM over time if product stickiness is high.",
+    "Cost structure automation (self-serve, minimal support, no branches) enables sustainable free offerings; every competitor must either match or find alternative monetization.",
+    "Customer retention risk from wealth accumulation is mitigated by continuous product innovation (new platforms, options, crypto) that keep users culturally relevant and embedded.",
+    "Founder recruiting power comes from mission resonance and founder credibility, not compensation; Vlad and Beju attracted senior talent from larger competitors by conviction.",
+    "Financial super-apps require best-in-class UX across all products; expansion into adjacent offerings succeeds only if each new product matches the quality bar of the core."
+  ],
+  "topics": [
+    "fintech disruption",
+    "business model innovation",
+    "user acquisition metrics",
+    "cost structure moat",
+    "product strategy",
+    "founder dynamics",
+    "market expansion"
+  ],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Rare 'Memo' format episode deconstructing NEA's early Series B investment; Scott highlights pivotal board moment comparing Robinhood's 100-person cost structure (1.35x E-Trade) to market cap gap as proof of disruption; mentions unprecedented $3.5B 5-day fundraise in February 2021 to support user surge."
+}

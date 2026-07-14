@@ -1,0 +1,26 @@
+{
+  "guest": "Jim Scheinman",
+  "guest_role": "Founder and Managing Partner at Maven Ventures",
+  "approx_date": "Mar 2016",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry directly quotes Fred Wilson's public claim that consumer mobile is 'super hard' and asks Jim to defend his consumer-focused thesis against it, a clear plant-and-defend moment beyond simple reception.",
+  "question_style": "Mostly open narrative questions about background and thesis, but includes one notable pressure-test citing an outside investor's contrarian view (Fred Wilson on consumer) and asks Jim to respond directly; otherwise doesn't interrupt or contest.",
+  "tone": "Enthusiastic and admiring ('huge congratulations,' fandom for the unicorn track record), energetic and conversational, no self-deprecation.",
+  "depth": "Goes past surface into platform-timing thesis (mobile/AR-VR cycles), consumer growth mechanics, and the 'vision worth fighting for' framework; tracks specific sectors like AR/VR, esports, drones, and consumer health tech.",
+  "harry_quotes": [
+    "Why is this space so hard, do you think, and can you think of any that have sustained it?",
+    "What are the barriers then to this adoption, do you think?",
+    "What do you think about drone delivery?"
+  ],
+  "learnings": [
+    "Scheinman ties consumer investing success to platform timing -- each new hardware/distribution wave (internet, mobile, now AR/VR) creates a fresh window before the space matures and gets crowded.",
+    "He argues sustainable consumer products need to be dramatically better than existing alternatives, not incrementally better, since users are resistant to learning new habits.",
+    "Maven's investment framework prioritizes 'vision worth fighting for' plus team quality as the controllable 20% of consumer startup success, with luck/timing as the uncontrollable 80%.",
+    "He points to failed and successful platform bets (missing Waze but later funding a weather-data equivalent, missing Airbnb but later funding a home-cooked-food marketplace) as how pattern recognition compounds over time."
+  ],
+  "topics": ["consumer startups", "ar/vr", "platform timing", "growth", "fund thesis"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 0,
+  "notable": "Guest claims four separate unicorn outcomes across his career (Bebo, NBCi, Check, Tango), giving the episode an unusually dense pedigree framing.",
+  "harry_assertiveness_note": null
+}

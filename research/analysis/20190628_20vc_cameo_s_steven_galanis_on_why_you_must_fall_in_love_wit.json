@@ -1,0 +1,27 @@
+{
+  "guest": "Steven Galanis",
+  "guest_role": "Founder and CEO, Cameo",
+  "approx_date": "Jun 2019",
+  "assertiveness": 4,
+  "assertiveness_why": "Prepared follow-up questions with occasional direct thesis-planting (consumer acquisition concerns) and one respectful contest of the guest's 'quit your job' advice, but mostly receives the narrative.",
+  "question_style": "Mix of open-ended and prepared follow-ups with occasional hooks. Harry plants his own perspective ('I'm terrified by the lack of free and open distribution...') and invites the guest to defend against it, but avoids hostile pressure-testing. Minimal interruption.",
+  "tone": "Warm, conversational, and genuinely engaged with light humor; professional energy without self-deprecation or deference. Feels like a peer conversation rather than fandom.",
+  "depth": "Strategic focus on marketplace dynamics, founder psychology, scaling challenges, hiring philosophy, and international expansion. Explores business fundamentals and founder decision-making but avoids technical depth.",
+  "harry_quotes": [
+    "How have you dealt with letting go of responsibilities?",
+    "How do you determine what to say yes and no to?",
+    "What do you think you did so well to make this happen?",
+    "If an investor can provide one value to you, what is it other than capital?"
+  ],
+  "learnings": [
+    "Entrepreneurial success hinges on personal conviction strong enough to override financial security—the decision to fully commit (quitting your job) separates founders from those merely exploring ideas.",
+    "The most durable product strategy separates deep attachment to your mission from flexibility about implementation, allowing founders to iterate and pivot how they execute while staying true to why they're building.",
+    "Marketplace flywheel effects can eliminate customer acquisition costs if one side of the network (talent with existing followers) is incentivized to distribute to the other side (fans), turning every transaction into organic amplification.",
+    "Scaling a team requires hiring for the current stage of the company rather than endlessly seeking the 'perfect' person; every hire either improves or degrades culture, making deliberate hiring discipline critical.",
+    "Founders achieve scale by ruthlessly focusing on their highest-leverage activities (vision-setting, executive hiring, fundraising, public brand) and replacing themselves in everything else with stronger talent."
+  ],
+  "topics": ["marketplace", "product philosophy", "founder commitment", "scaling", "hiring", "organic growth"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Cameo's $50M Series C from Kleiner Perkins (led by Ilya) closed in the week of this recording, making this a fresh news announcement interview."
+}

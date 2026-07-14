@@ -1,0 +1,27 @@
+{
+  "guest": "Jim Scheinman",
+  "guest_role": "Founder and Managing Partner, Maven Ventures",
+  "approx_date": "Mar 2016",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks exploratory questions about platform shifts and consumer software but maintains receiving posture; quotes Fred Wilson but uses it to set up Jim's answer rather than as a challenge.",
+  "question_style": "Open-ended and exploratory. Harry asks about social networking history, platform shifts to VR/AR, barriers to adoption, why consumer software is hard, and Maven's value-add philosophy. He follows up thoughtfully but never introduces alternative viewpoints or pushes back against Jim's frameworks.",
+  "tone": "Respectful and admiring. Harry clearly reveres Jim's consumer expertise and multiple unicorn track record. The conversation feels like a masterclass in consumer investing from an authority. Warm but formal, with clear deference to deep experience.",
+  "depth": "Strategic and market-focused. Harry explores Jim's thesis on platform shifts (internet → mobile → VR/AR), consumer software challenges, the role of timing and luck, and the philosophy of selecting founders with \"vision worth fighting for.\" Focuses on framework and long-term thinking rather than specific portfolio companies.",
+  "harry_quotes": [
+    "Now, I'd love to kick off today by hearing a bit about you.",
+    "Fantastic. But how do you then evaluate the social scene today?",
+    "And what are the barriers then to this adoption, do you think?",
+    "And then I have to talk about kind of the mobile space. How have you seen it develop and evolve?"
+  ],
+  "learnings": [
+    "Major technology shifts (internet, mobile, next platforms like VR/AR) create new consumer opportunity windows; success requires recognizing timing and building for the emerging platform, not the current one.",
+    "Consumer product success requires a 'vision worth fighting for'—combining genuine passion, massive addressable market, and true innovation (not incremental improvement on existing behaviors).",
+    "Most consumer app failures come from building something slightly better than incumbents; consumers require either 10x better execution or entirely new interaction paradigms (Snapchat vs WhatsApp model) to change habits.",
+    "Seed-stage consumer venture success is 20% execution (vision, team, culture, marketing) and 80% luck and timing; founders must have persistence to survive through uncertain years.",
+    "Effective seed investors in consumer focus deeply on founder qualities (vision + team fit) and market timing, then build a portfolio betting on eventual platform shifts that unlock new categories."
+  ],
+  "topics": ["venture capital", "maven ventures", "consumer software", "platform shifts", "vr/ar", "founder selection", "vision", "timing"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 1,
+  "notable": "Jim articulates a sophisticated 'next platform' thesis and explicitly frames success as 80% luck/timing; his book recommendation (The Boys in the Boat) is unusual and reveals thinking about team, leadership, and persistence over technical innovation."
+}

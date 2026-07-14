@@ -1,0 +1,34 @@
+{
+  "guest": "Matt Clifford",
+  "guest_role": "Co-founder of Entrepreneur First, Chair of ARIA (UK's advanced research and innovation agency)",
+  "approx_date": "Jul 2024",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared follow-up questions and explores Matt's ideas, but never contests claims or plants his own thesis—mostly receptive.",
+  "question_style": "Harry opens with prepared multi-sentence questions and follows up with exploratory inquiries about AI scaling, geopolitics, and founder talent. He asks directly but doesn't push back or challenge assumptions; his approach is to understand Matt's thesis more deeply rather than test it.",
+  "tone": "Warm and matey, referencing their eight-year friendship (\"I remember exactly where it was. It was the Hockston Hotel\"). Conversational energy, celebratory of their anniversary together, not formal or adversarial.",
+  "depth": "Mixes surface and strategic discussion. Drills into technical AI topics (S-curves, multimodality, compute vs data vs algorithms) and geopolitical angles (China policy, UK regulatory positioning). Touches on founder psychology and capital allocation but doesn't go deep into methodology.",
+  "harry_quotes": [
+    "Is that an S curve in the application layer then?",
+    "Would you be a buyer of open AI at 90 billion?",
+    "Do you think China is two years behind?"
+  ],
+  "learnings": [
+    "The value of marginal compute and data in LLMs is plateauing, creating opportunity for startups built on novel ideas rather than pure scale.",
+    "UK has regulatory advantages over the EU in AI because it imposes less prescriptive regulation than the EU AI Act, making it a better place to build AI companies.",
+    "Talent allocation and belief capital, not funding availability, limit tech company formation in Europe; the best minds still gravitate toward high-paying finance jobs.",
+    "Peak individual performance in founding teams matters more than synergies; the best founder is often more predictive of success than team chemistry.",
+    "Forced entrepreneurs (those pushed into starting companies by lack of alternative employment) often outperform voluntary founders in adjacent years.",
+    "China's AI regulation is paranoid and restrictive to maintain CCP control, not permissive for rapid industrial policy—this slows their advantage despite other strengths."
+  ],
+  "topics": [
+    "ai-scaling",
+    "llms",
+    "uk-tech-ecosystem",
+    "founder-talent",
+    "china-geopolitics",
+    "regulation"
+  ],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Matt discusses writing immersive murder mystery games as a personal passion, an unusually creative hobby for a VC to mention in an investor-focused podcast."
+}

@@ -1,0 +1,27 @@
+{
+  "guest": "Jennifer Hyman",
+  "guest_role": "Co-founder and CEO of Rent the Runway (first publicly traded company with female founder/CEO/COO/CFO)",
+  "approx_date": "Jun 2023",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry asks prepared questions but directly challenges Jennifer's central premise that paid marketing ruined a generation of startups. Engages in substantive debate on growth vs growth-hacking, questions necessity of expenses, and plants his own perspective while remaining respectful.",
+  "question_style": "Multi-sentence prepared questions with direct disagreement and counterarguments. Harry challenges Jennifer's framework (paid marketing critique) while seeking to understand her reasoning. Engages in back-and-forth intellectual debate rather than pure reception. Questions explore both personal (hiring philosophy) and business economics (margin drivers).",
+  "tone": "Warm and intellectually rigorous. Harry clearly respects Jennifer's leadership journey and company but doesn't defer on disagreements. Shows genuine admiration for her strategic thinking while maintaining critical perspective. Professional but personable; celebrates her accomplishments while probing rigorously.",
+  "depth": "Very deep business model analysis covering: product cost as percentage of revenue (30% vs 55% apparel competitors), gross margin trajectory (30% Q4 21 → 44% Q4 22), SG&A restructuring and path to profitability, competitive advantages (reverse logistics, data, high inventory ROI), working capital dynamics of rental model, public vs private company thinking, paid marketing philosophy, customer acquisition economics (80%+ organic), brand strategy, AI applications in fashion discovery, hiring for missionary mentality, board experience insights.",
+  "harry_quotes": [
+    "When you think about hiring mistakes, you learn a lot over time. Have you made any hiring mistakes?",
+    "When you say about the paid marketing, I disagree because it's a form of discovery.",
+    "Is that not growth? We have growth in between the world's biggest growth leaders."
+  ],
+  "learnings": [
+    "Going public forces ruthless P&L benchmarking; comparing to apparel peers revealed 20-point gross margin advantage (44% vs 25%) and identified SG&A as largest fix, not product economics.",
+    "Paid marketing and growth hacking (A/B testing button colors) waste resources on pseudo-metrics with no lasting customer impact; only organic growth and brand building sustain.",
+    "Rental model unique economics: 30% inventory cost (vs 55% traditional retail) because rental generates 2-3x ROI per garment through multiple rentals before disposal.",
+    "Working capital burden of rental (laying out capital before customer payment) requires absolute discipline on SG&A; high-growth company spending doesn't fix broken unit economics.",
+    "Hiring for founder mentality requires personal history probing (siblings, family resilience, life challenges) not resume scanning; missionary vs mercenary shows in how people discuss their lives.",
+    "Designer brands view Rent the Runway as acquisition funnel; 98% of customers rent brands they've never owned, then 70% purchase after wearing (try-before-buy dynamic)."
+  ],
+  "topics": ["fashion", "subscription", "margins", "marketing", "growth", "public company", "AI"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Jennifer makes strong contrarian claim that paid marketing ruined a generation of startups; Harry directly disagrees and debates her on this. Rare moment in series where host and guest substantively challenge each other's strategic premises. Jennifer reflects deeply on private-to-public company mental model shift."
+}

@@ -1,0 +1,16 @@
+{
+  "guest": "Kareem Zaki",
+  "guest_role": "General Partner at Thrive Capital; co-founder of Cedar",
+  "approx_date": "Nov 2021",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks prepared, multi-sentence questions with real follow-ups but rarely contests claims; he explores ideas rather than planting his own thesis for pushback.",
+  "question_style": "Harry asks probing, prepared questions on strategy and competitive dynamics. He occasionally challenges assumptions (e.g., on loss of focus and momentum investing criticism), but mostly receives and explores rather than drives adversarial pressure-testing.",
+  "tone": "Warm and deferential; Harry is clearly a fan ('I've wanted to do this for a very long time'). The conversation feels collaborative and respectful, with mutual admiration. Energy is positive but not aggressive.",
+  "depth": "Harry explores firm philosophy, asset allocation, competitive strategy, and founder relationships at a strategic level. Questions are broad rather than deeply technical; he probes 'why' and explores rationale but not specific operational mechanics.",
+  "harry_quotes": ["Can I ask, do you worry about our loss of focus?", "What does Josh do in terms of tutelage, mentorship to build such great investors?", "How has your style of investing changed over time, Karim?", "How do you respond to the people that say it's momentum investing?"],
+  "learnings": ["A single, clear investment principle (backing transformative companies with long tailwinds) paradoxically creates MORE focus and clarity by filtering opportunity noise, not less.", "Venture firms that build talent internally and prioritize enabling risk-taking outcompete those who poach; the culture and mentorship of young talent is a sustainable competitive moat.", "Pricing and entry timing matter far less than being in the right transformative company with the right founder; compounding of exceptional companies dominates returns regardless of valuation.", "As investors mature, focus shifts from analyzing products and markets toward understanding founder psychology—their vulnerabilities, ambitions, and personality—as the core predictive signal for success.", "The venture industry is segmenting into distinct competitive strategies (SoftBank's capital intensity, Tiger's founder-friendly approach, Blackstone's buyout power) rather than one dominant model."],
+  "topics": ["venture capital", "fund strategy", "founder psychology", "team building", "investor mentorship", "competitive dynamics"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Kareem notably avoids Twitter, and despite ranking high in Thrive's NPS, this appears to be his first podcast appearance—a rare, reserved venture partner willing to do media."
+}

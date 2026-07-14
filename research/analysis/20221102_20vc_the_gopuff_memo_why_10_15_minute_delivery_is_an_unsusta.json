@@ -1,0 +1,28 @@
+{
+  "guest": "Raf Illishayev",
+  "guest_role": "Co-founder and CEO at Go Puff",
+  "approx_date": "Nov 2022",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry routinely plants his own business thesis and asks Raf to defend against it, particularly on capital intensity and cost-cutting tradeoffs, with sustained pushback on key claims.",
+  "question_style": "Multi-sentence prepared questions with genuine technical follow-ups. Harry contests the 'capital-intensive, low-margin' characterization, challenges the sustainability of 10-15 minute delivery, and probes price elasticity on the FAM subscription. He lets Raf develop answers but interjects with counter-arguments; the dynamic is collaborative rather than adversarial.",
+  "tone": "Friendly and matey (\"this is such a joy to do\", treats Raf as peer), high energy with self-deprecating humor (\"Now I'm like, what the fuck is that?\"), mostly neutral and analytical with respect for operationally excellent founders.",
+  "depth": "Strong technical depth on unit economics, batching efficiency, ODH (orders per driver per hour), AOV progression, gross margins by category, and CAC-payback timelines. Tracks cohort behavior and retention signals (e.g., multi-category ordering). Explores specific tensions between growth and profitability.",
+  "harry_quotes": [
+    "My take was bluntly that as cost of capital went up, capital-intensive, low-margin businesses became more problematic.",
+    "Does batching actually change the economics?",
+    "What worries me is customer service disappears, delivery times triple, inventory depletes.",
+    "How do margin levels vary from your strong Philadelphia market to new European markets?"
+  ],
+  "learnings": [
+    "Ten to fifteen minute delivery is unsustainable because it prevents order batching; customers prefer consistent 30-minute delivery with low variance over unpredictably fast service.",
+    "Batching density can create a 50% swing in cost-per-order between high and low density markets, making it the primary driver of profitability at scale.",
+    "Founders who nail unit economics before scaling vastly outperform those pursuing growth-at-all-costs; capital market downturns punish the latter group disproportionately.",
+    "Multi-category adoption on first purchase is a stronger retention signal than raw order frequency; customers ordering across three categories spend six hundred dollars more annually.",
+    "Diversification into adjacent categories (ads, kitchens, alcohol) and subscription (FAM) improves both gross margins and retention while spreading unit economics risk.",
+    "Building for recession by studying historical spending patterns—alcohol sales, convenience, vices—allows proactive assortment and pricing without reactive margin destruction."
+  ],
+  "topics": ["instant delivery", "unit economics", "capital markets", "profitability", "batching", "scaling strategy", "customer retention", "subscription", "business model", "pricing"],
+  "repeat_guest_callback": "Harry, thanks for having me. Second time around. I guess I did something right the first time to get invited the second time.",
+  "sponsor_read_count": 2,
+  "notable": "This is the 'Memo' format (monthly deep dive on one company's business model); aired during late-2022 capital downturn as traditional VC funding dried up; Raf explicitly discusses pivoting from growth-at-all-costs to profitability-first strategy."
+}

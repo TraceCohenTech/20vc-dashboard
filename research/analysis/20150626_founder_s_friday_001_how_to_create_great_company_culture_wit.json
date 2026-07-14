@@ -1,0 +1,27 @@
+{
+  "guest": "Anand Sanwal",
+  "guest_role": "Co-founder and CEO of CB Insights",
+  "approx_date": "Jun 2015",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks exploratory questions on funding philosophy, hiring strategy, and culture-building tactics but never challenges Anand's views or introduces alternative frameworks.",
+  "question_style": "Harry uses open-ended questions to understand Anand's non-VC funding approach, hiring evolution, culture-building tactics, and growth metrics. He follows up genuinely (e.g., \"Would you say rigor is necessary for all startups?\") but remains receptive and learning-focused. No pushback, leading questions, or alternative hypotheses. Interview is mentor-seeking rather than testing.",
+  "tone": "Warm, respectful, and learning-focused. Harry expresses genuine appreciation (\"It's a great honour to have you here,\" \"It's been an absolute pleasure\"). Conversational and earnest; no playfulness or adversarial challenge. Frames himself as learning from Anand's unconventional bootstrap approach.",
+  "depth": "Strong operational and organizational depth. Harry covers CB Insights business model (Bloomberg for private companies), non-VC funding philosophy (revenue-funded, autonomy-preserving), hiring evolution (reference rigor, cultural fit vs. skills), culture-building mechanics (pitch/demo days, cross-team breakfasts, $100 gift cards), scaling challenges, and consumer metrics (virality, DAU/MAU engagement). Strategic rather than tactical; focuses on philosophy and systems rather than specific tools.",
+  "harry_quotes": [
+    "Can you start off by telling us a little bit about yourself and the origins of CB Insights?",
+    "Why did you choose to not take VC funding?",
+    "Would you say that rigor is necessary for all startups?",
+    "What would you say is the most challenging problem you are facing today?"
+  ],
+  "learnings": [
+    "Bootstrapped SaaS businesses can achieve product-market fit and scale without VC capital by prioritizing customer revenue and founder autonomy over rapid growth",
+    "Company culture must be deliberately engineered through consistent practices and hiring for cultural alignment; culture is not perks or happy hours but shared values and working norms",
+    "Hiring rigor compounds over time; reference checks in later hiring stages can eliminate 1/3 of candidates and prevent cultural misalignment that early hiring luck may have obscured",
+    "Consumer tech success depends on virality loops and sustained engagement (DAU/MAU) rather than initial download buzz or media attention",
+    "VC models will evolve as technology becomes cheaper to build, but will be augmented rather than replaced by complementary funding and data approaches"
+  ],
+  "topics": ["company culture", "hiring", "bootstrapping", "saas", "team building", "scaling", "consumer metrics", "founder autonomy"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 1,
+  "notable": "First Founders Friday episode; Anand's revenue-funded CB Insights approach contrasts sharply with typical VC-backed startups; strong emphasis on culture as operational system, not perks."
+}

@@ -1,0 +1,26 @@
+{
+  "guest": "Jeff Clavier",
+  "guest_role": "Founder and Managing Partner of SoftTech VC",
+  "approx_date": "Sep 2015",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks well-prepared, specific multi-sentence questions with genuine follow-ups (Fitbit story, Brad Feld relationship, seed round sizing) but never challenges or contests any of Jeff's claims.",
+  "question_style": "Sequenced, well-researched questions building on prior answers (Fitbit backstory, deal flow prioritization, seed round sizing, preemption), with light playful asides ('Has Brad brought you a present since?') but no interruptions or pushback.",
+  "tone": "Highly complimentary and fan-like ('true legend of the industry', 'ecstatic to have you'), energetic and warm, includes a sponsor read at open and close.",
+  "depth": "Good tactical/strategic depth on seed fund mechanics: deal flow volume and referral prioritization, 18-month runway sizing by sector, and preemptive term sheets — reflects real familiarity with venture mechanics though not adversarial.",
+  "harry_quotes": [
+    "How did you convince Brad then?",
+    "Has Brad brought you a present since?",
+    "Do you play a very dominant role in raising that money?"
+  ],
+  "learnings": [
+    "Fitbit was nearly universally passed on by VCs at every round despite strong early demand signals, illustrating how consensus can be badly wrong on hardware.",
+    "SoftTech prioritizes warm introductions from trusted portfolio founders over cold inbound, since deal volume (3,000+/year) makes referral strength the main filter.",
+    "Seed rounds are deliberately sized for about 18 months of runway (more for hardware) so founders get room to iterate through a failed plan A before hitting a series A wall.",
+    "About a third of SoftTech's portfolio companies get preemptive term sheets rather than running a formal fundraising process, which VCs now use to avoid bidding wars rather than to get a cheap price.",
+    "Seed investors deliberately map which of a handful of series A firms specialize in a company's specific sector (hardware, marketplaces, etc.) and cultivate those relationships months in advance."
+  ],
+  "topics": ["seed funding", "fund mechanics", "hardware investing", "deal flow", "fundraising strategy", "preemption"],
+  "repeat_guest_callback": "I recently had Brad Feld on the show and obviously he mentioned you alongside him in the Fitbit IPO.",
+  "sponsor_read_count": 2,
+  "notable": "Features a detailed, first-hand account of nearly every VC repeatedly passing on Fitbit despite its eventual multi-billion dollar IPO."
+}

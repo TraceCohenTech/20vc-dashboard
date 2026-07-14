@@ -1,0 +1,27 @@
+{
+  "guest": "Sam Altman",
+  "guest_role": "President, Y Combinator; co-chair, OpenAI",
+  "approx_date": "Jan 2018",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry structures the interview with a clear theme and asks substantive follow-ups that occasionally probe deeper (on conviction vs. stubbornness, on capital flooding concerns), but mostly receives Sam's answers.",
+  "question_style": "Well-organized multi-part questions with clear theme framework. Harry asks follow-ups and asks Sam to elaborate with examples. Some questions probe deeper (differentiate conviction from stubbornness, concern over excess capital), but Harry doesn't contest or plant his own thesis.",
+  "tone": "Highly deferential and admiring ('wanted to have you on the show since our very first interview over 1300 interviews ago'). Respectful throughout. Warm but less self-deprecating than earlier episodes.",
+  "depth": "Strong technical follow-ups on leadership philosophy, founder evaluation methodology (shadowing), investing psychology, pricing dynamics, and YC scaling strategy. Asks about partnership dynamics with 17 partners, capital dynamics and market compression, sector expansion philosophy.",
+  "harry_quotes": [
+    "How do you differentiate between a brilliant product vision and then stubbornness when something's wrong?",
+    "Do you think that's going to be a persistent theme in a lot of investments today in the Valley?"
+  ],
+  "learnings": [
+    "Great leaders have conviction around non-consensus ideas and can convince strong people to pursue them despite widespread skepticism.",
+    "Shadowing a founder for 12-14 hours reveals far more about their capabilities and judgment than any pitched meeting.",
+    "Most investors make the critical mistake of being swayed by what other investors are doing; independent judgment is essential for outsized returns.",
+    "The best founders combine paranoia (awareness of what can go wrong) with naivety (willingness to attempt supposedly impossible things).",
+    "Investors should look for 'fixable warts'—surface-level product problems like bad signup flow—not fundamental issues like no market demand.",
+    "Seed investing returns have compressed because capital flooded the space once it proved successful; truly great returns come from contrarian bets in new areas.",
+    "Most growth-stage investors make stressful situations worse rather than better; behaving well and providing genuine support is rare and valuable."
+  ],
+  "topics": ["leadership", "founder evaluation", "venture capital", "investment philosophy", "pricing strategy", "market dynamics", "Y Combinator scaling", "sector expansion", "capital flooding"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Sam candidly discusses systemic risks (excess capital making bad companies viable) while expressing confidence in contrarian opportunities; this mirrors PG's own approach to conviction."
+}

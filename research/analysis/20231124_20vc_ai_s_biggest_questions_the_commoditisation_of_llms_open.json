@@ -1,0 +1,30 @@
+{
+  "guest": "Multi-guest panel (curated from prior episodes)",
+  "guest_role": "AI experts: E-Mad (Stability), Des Travers (Intercom), Jan Lekoun (Meta), Richard Sotcher (You.com), Chris Ware (Runway), Tom Tungus (Theory Ventures), Miles Grimshaw (Benchmark), others",
+  "approx_date": "Nov 2023",
+  "assertiveness": 2,
+  "assertiveness_why": "Harry is in curator/moderator role rather than interviewer; asks transitional topic questions but explicitly maintains neutrality between competing expert viewpoints; does not contest or plant theses; format fundamentally non-comparable to traditional single-guest interviews.",
+  "question_style": "Curator/moderator questions introducing topics ('Will we see commoditization?', 'How important is model size?'); transitions between expert speakers; occasional synthesis ('That's interesting'); facilitates debate rather than drives inquiry.",
+  "tone": "Warm but removed; host/curator role rather than peer interviewer. Treats speakers as equal experts. Ends by asking audience feedback on experimental format and whether to repeat. Neutral facilitator stance.",
+  "depth": "Exceptional breadth across AI topics: LLM commoditization timelines, model size/parameters efficiency, open vs closed source dynamics, infrastructure (AWS, cloud) vs application layer value distribution, pricing model shifts (seat→consumption→outcome-based), co-pilot incumbent strategy vs agent disruption, incumbent positioning (Apple privacy, Google search threat, Amazon speed), AI's societal/jobs impact.",
+  "harry_quotes": [
+    "Will we see the commoditization of LLMs?",
+    "How important is the size of these models?",
+    "Where does the value accrue—infrastructure or application layer?",
+    "What does the pricing model and business model look like for next-gen AI?"
+  ],
+  "learnings": [
+    "5-6 foundational model companies will survive; LLMs commoditizing but narrowing gap is slow (close but not yet parity across providers).",
+    "Model size decreasing in importance; smaller models fine-tuned with proprietary data outperform; can run on-device/laptop (Jan Lekoun's position vs Richard Sotcher's counterpoint on parameter importance).",
+    "Open source eventually competes with proprietary; universities and researchers creating open alternatives; Meta leading open-source push; economics of scale currently favor OpenAI but window closing.",
+    "Infrastructure layer (3 winners: AWS, GCP, Azure) and application layer (100+ companies) capture equivalent market cap; odds of success higher in applications due to diversity of needs.",
+    "Pricing shifts from seat-based → consumption-based → outcome-based (SLA on work delivered, not software uptime); work shifts from users doing data entry to AI agents doing work.",
+    "Co-pilots are incumbent defensibility strategy; disruptive opportunity is agent/pilot that replaces application rather than augments it.",
+    "Apple best positioned for on-device LLM privacy; Siri becomes useful; Google existentially threatened by search disruption (Alt: sponsored injection ads into LLM answers); Amazon moving fast via Bedrock.",
+    "AI job displacement is not technological inevitability but political/social distribution problem; every tech revolution creates more jobs but profits concentrate without policy intervention (income tax, social programs)."
+  ],
+  "topics": ["ai commoditization", "llm scaling", "open vs closed", "infrastructure vs applications", "pricing models", "co-pilots and agents", "incumbent strategy", "ai society impact"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 0,
+  "notable": "Thanksgiving special experimental format: curated audio clips from multiple prior 20VC episodes edited into thematic panel debate. Harry is curator/moderator, not traditional interviewer. Explicitly asks audience feedback on format repeatability. No traditional sponsor reads. Harry's role is fundamentally different—editorial curation vs direct engagement—making assertiveness rubric non-comparable to single-guest episodes."
+}

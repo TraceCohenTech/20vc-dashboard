@@ -1,0 +1,26 @@
+{
+  "guest": "Jay Acunzo",
+  "guest_role": "VP of Platform at NextView Ventures",
+  "approx_date": "May 2015",
+  "assertiveness": 2,
+  "assertiveness_why": "Harry runs through open, curious prepared questions and follow-ups without ever contesting or pushing back on Jay's points.",
+  "question_style": "Open-ended and topic-hopping (career path, VP of Platform role, blogging tactics, Twitter, PayPal Mafia), with natural follow-up questions but no interruptions, no planted counter-thesis, and no challenges to claims.",
+  "tone": "Friendly, complimentary and enthusiastic ('incredible episode', 'I love that you found that'), conversational and curious rather than formal, no self-deprecation.",
+  "depth": "Solid tactical depth on content marketing specifics (evergreen content, blog traffic compounding, Twitter etiquette) reflecting genuine interest in the marketing/platform trend, though not adversarial or data-challenging.",
+  "harry_quotes": [
+    "Do you have any urge ever to move into that sector?",
+    "Is it simply enough to buy a domain off GoDaddy?",
+    "What do you think it was about PayPal that created this?"
+  ],
+  "learnings": [
+    "VC 'platform' roles emerged as firms needed differentiation once seed capital became commoditized by many new microfunds.",
+    "Effective startup content marketing means matching content topics to the same problem the product solves, not chasing design polish.",
+    "Evergreen blog posts can keep driving the majority of traffic and leads a year or more after publishing, so early 'failures' may later become top performers.",
+    "Twitter works best for content marketers as a relationship-building 'handshake,' not a direct sales or engagement-farming channel.",
+    "The PayPal Mafia's success is attributed less to some special magic and more to strong early recruiting of talented people who'd have succeeded regardless."
+  ],
+  "topics": ["content marketing", "vc platform roles", "startup blogging", "twitter strategy", "recruiting", "fund differentiation"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 0,
+  "notable": "Guest is a marketing/platform operator rather than an investor or founder, an early example of Harry expanding beyond the standard VC/founder guest format."
+}

@@ -1,0 +1,40 @@
+{
+  "guest": "Todd Jackson",
+  "guest_role": "New Venture Partner, First Round Capital",
+  "approx_date": "Feb 2020",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry demonstrates occasional direct challenges, especially on early-stage LTV/CAC metrics, and plants his own thesis, but remains mostly in receiving mode without sustained pressure-testing.",
+  "question_style": "Harry asks prepared, multi-sentence open-ended questions with real follow-ups. He pushes back directly on pre-seed metrics focus and expresses frustration. Conversational tone throughout; minimal interruptions; mostly allows guests full responses without contestation.",
+  "tone": "Warm and matey throughout, using casual language like 'my word, chaps.' Genuinely excited about the announcement. Self-deprecating during sponsor reads. Shows clear admiration for Finn and Josh. Conversational energy, friendly fandom balanced with professional inquiry.",
+  "depth": "Strong strategic follow-ups on product philosophy (Gmail's Consumer UI Review process, 30-40ms delay scrutiny), business model evolution (bottom-up SaaS, LTV:CAC ratios at scale), founder DNA and culture. Explores product-market fit framework in detail. Asks about coaching methodology and transition from angel to institutional investing. Follows the arc from product to organization building.",
+  "harry_quotes": [
+    "How did you make your way into the world of venture then as of the news today?",
+    "What advice would you give to Todd sitting around this fire with Amaretto in hand?",
+    "What would they be and how do you think they impacted your mindset?",
+    "What are your thoughts on product market fit today?",
+    "Todd, what does it take to be a great coach to founders, do you think?",
+    "How do you think your mindset will shift with the change from angel to institutional investing?"
+  ],
+  "learnings": [
+    "Building high-quality products demands rigorous design review processes and obsessive attention to performance, even microsecond-level delays warrant scrapping and restarting implementation.",
+    "Successful scaling requires aligning business model to product; Dropbox's shift from consumer to bottom-up SaaS unlocked efficient growth and venture-scale revenue predictability.",
+    "Company culture and decision-making patterns naturally reflect founder values and should be intentionally codified and communicated to align with market demands.",
+    "At pre-seed/seed stages, investors should assess founder orientation toward metrics rather than demand precise LTV/CAC predictions.",
+    "Product-market fit emerges from addressing both functional needs (why users try) and emotional needs (why they share), in large underserved markets.",
+    "The single most important founder decision is selecting the right market, as it constrains all other choices.",
+    "Effective angel coaching requires listening and guiding founders through their own problem-solving rather than imposing solutions.",
+    "VC firms avoid generational transition failures by adopting team-based decision-making without individual portfolio attribution, prioritizing firm franchise over personal scorecards."
+  ],
+  "topics": [
+    "venture capital",
+    "product management",
+    "product market fit",
+    "saas",
+    "founder mentorship",
+    "firm dynamics",
+    "early-stage investing"
+  ],
+  "repeat_guest_callback": "If you haven't listened to Finn's prior episode, then that really is a must.",
+  "sponsor_read_count": 3,
+  "notable": "First 20VC episode ever to feature two simultaneous guests; announcement-driven format celebrating Todd Jackson's transition to Venture Partner at First Round Capital."
+}

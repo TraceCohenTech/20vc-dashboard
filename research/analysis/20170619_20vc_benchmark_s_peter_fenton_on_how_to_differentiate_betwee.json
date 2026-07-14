@@ -1,0 +1,24 @@
+{
+  "guest": "Peter Fenton",
+  "guest_role": "General Partner at Benchmark",
+  "approx_date": "June 2017",
+  "assertiveness": 5,
+  "assertiveness_why": "Occasional direct questions on valuation and market creation; deeper follow-ups on substantive philosophy; mostly receptive but shows homework. Harry challenges Peter's framing without data-driven pushback.",
+  "question_style": "Very prepared questions referencing prior work and interviews; explores tensions in Peter's investment philosophy (optimism vs. caution); asks about specific investments and evolution; mostly exploratory rather than challenging.",
+  "tone": "Very respectful and engaged; Harry signals extensive preparation (\"stalking 1500 hours\"); warm but formal; intellectual peer-level rather than fan-worship; collaborative exploration of complex ideas.",
+  "depth": "Very high; covers investment philosophy, valuation psychology, market creation, founder assessment, board dynamics, evolution as investor; discusses specific companies (Docker, Snapchat, Zenly); explores nuances; asks about implicit bias and parenting.",
+  "harry_quotes": [
+    "How do you view the potential end of this tech cycle that we're currently in?",
+    "How do you think about that in comparison to the investment decision making process?",
+    "What have been the inflection points in your learnings?"
+  ],
+  "learnings": [
+    "Attempting to define sector trends and cycles as 'over' causes investors to miss breakthrough companies just as the cycle appears to end (Google funded in 1999 when search was 'over').",
+    "Early-stage venture success is determined by founder purpose, team chemistry, and authentic point of view more than market size estimates, which are almost always wrong for category-creating companies.",
+    "The Socratic method and building trust-based board dynamics (frequent communication, vulnerability, prose pre-reads over PowerPoint) generates far more value than advisory overreach."
+  ],
+  "topics": ["venture capital", "founder assessment", "investment philosophy", "valuation", "board dynamics", "market creation", "founder psychology", "company purpose"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Peter's nuanced discussion of valuation as a 'mental trap' and his emphasis on founder purpose over market sizing is unusually sophisticated for mid-2017. He anchors arguments with 1500+ hours of board experience. This is significantly more philosophical and strategic than earlier episodes."
+}

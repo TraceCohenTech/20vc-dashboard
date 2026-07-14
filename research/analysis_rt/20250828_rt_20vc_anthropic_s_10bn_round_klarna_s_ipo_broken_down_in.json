@@ -1,0 +1,22 @@
+{
+  "approx_date": "Aug 2025",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll", "Mark Benioff"],
+  "stories_covered": ["Anthropic raises $10B at $100B valuation", "Klarna reprices down to $13-15B IPO range from $45B peak", "Figma's $20B IPO pop validated high private multiples", "Meta reorganizes AI division under Alex Wang, Nat Friedman reports to him", "Salesforce Agentforce reaches $1B revenue in first year post-launch"],
+  "harry_takes": [
+    "SaaS is not dead—Mark Benioff showed Salesforce added $400M AI revenue in one quarter, proving legacy software giants can capture AI upside",
+    "Nat Friedman giving up autonomy to report into Meta's structure trades direct fund carry for seat-at-table influence on OpenAI M&A decisions",
+    "Klarna filing at 20% growth rate puts it at the hard deck for IPO—deceleration mid-public journey, though Sequoia's repricing from $45B to $6.5B was shrewd",
+    "Anthropic at 4X oversubscribed means growth stage capital is desperate to own LLM exposure; even at $100B, the round clears if growth is real"
+  ],
+  "harry_boldest_quote": "Wall Street is the madman in the backseat. In the end, the thing that bails out our incompetence is your growth rate.",
+  "predictions": [
+    "Benioff: By Dreamforce, Salesforce will launch Agentforce sales that will be transformational; agentic software will dominate all future enterprise products",
+    "Panel: Klarna will trade like a mature FinTech at modest multiples (7-8X revenue) post-IPO because it's profitable but low-growth versus the Databricks/Anthropic cohort",
+    "O'Driscoll: Anthropic will hit $30B revenue run rate by next year if 9X growth holds; at that point, $100B valuation becomes 3-4X next-year revenue—still defensible"
+  ],
+  "disagreements": "Lemkin challenges Benioff on whether SaaS is truly capturing AI upside (versus Palantir stealing share), while Benioff reframes: Salesforce already has $1B AI revenue and massive installed base. O'Driscoll and Lemkin also debate whether Meta's $20B talent spend and Scale acquisition are value-accretive or a cautionary tale of founder compensation misalignment.",
+  "harry_role": "Harry asks provocative questions that force Benioff to defend legacy software's role in AI (rather than accepting dismissal), questions Nat Friedman's reorg decision, and frames Klarna's deceleration as evidence that IPO readiness requires 20%+ sustainable growth. He defers technical details to panelists but drives macro thesis.",
+  "topics": ["saas-renaissance", "anthropic-valuation", "ipo-market", "FinTech", "meta-reorganization", "salesforce-ai"],
+  "sponsor_read_count": 3,
+  "notable": "Mark Benioff opens by dismissing AGI hype—'extremely suspect of anybody who uses those initials'—then details Agentforce's real $1B revenue in <1 year, a sharp reality check on AI euphoria that frames the entire panel."
+}

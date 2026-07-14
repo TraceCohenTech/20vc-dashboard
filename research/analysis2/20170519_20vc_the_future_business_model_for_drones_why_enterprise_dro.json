@@ -1,0 +1,26 @@
+{
+  "guest": "Jonathan Downey",
+  "guest_role": "Founder and CEO at Airware; General Partner at Commercial Drone Fund",
+  "approx_date": "May 2017",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks tightly sequenced, well-researched industry questions with real follow-ups, but accepts every answer at face value without challenging or contesting any claim.",
+  "question_style": "Structured, mostly open-ended industry-analysis questions that build on prior answers ('Can I ask...' repeated as a drill-down device); no interruptions, no pushback, and he does not plant a competing thesis for the guest to defend.",
+  "tone": "Professional, enthusiastic and complimentary ('never before has a founder quite so embodied product-founder fit'), moderate energy, minimal self-deprecation, treats guest as clear domain authority.",
+  "depth": "Genuinely technical and market-structural: business model taxonomy (hardware vs software vs drone-as-a-service), regulatory/FAA constraints, machine learning applications in inspection data, beyond-visual-line-of-sight tech, and M&A rationale (Redbird acquisition).",
+  "harry_quotes": [
+    "What's the fundamental differences between the two softwares?",
+    "How do you perceive the state of the commercial drone market at present?",
+    "What are the current barriers, potentially, to the adoption?"
+  ],
+  "learnings": [
+    "The commercial drone market has settled into three distinct business models: hardware manufacturing (DJI-style), enterprise software/data platforms (Airware's approach), and drone-as-a-service operators.",
+    "Enterprise drone software succeeds by being as automated and 'boring' as possible, in direct contrast to consumer drone products which sell on flying fun and photography.",
+    "Machine learning models trained on inspection data (e.g., detecting roof corrosion for insurers) transfer surprisingly well across verticals like mining and construction.",
+    "Large incumbents increasingly choose to partner rather than build in-house once they decide aerial data capability is 'context' rather than 'core' to their business.",
+    "Interviewing senior, polished candidates requires deliberately tailored, progressively deeper questions rather than a standard script, since polish can mask lack of hands-on ownership."
+  ],
+  "topics": ["drones", "enterprise software", "machine learning", "regulatory/FAA", "business models", "m&a"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Guest's own hiring/interviewing philosophy (tailoring questions, digging past polish) mirrors Harry's own interviewing style, which the quickfire section explicitly surfaces."
+}

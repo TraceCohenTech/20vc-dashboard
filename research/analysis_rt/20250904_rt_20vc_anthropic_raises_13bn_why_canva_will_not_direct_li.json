@@ -1,0 +1,22 @@
+{
+  "approx_date": "Sep 2025",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll", "Cliff O'Bryk"],
+  "stories_covered": ["Anthropic raises $13B (up from $10B two weeks prior) at $180B post-money", "OpenAI acquires StatSig for $1.1B in stock at same price as prior round", "NVIDIA projects $3-4T AI infrastructure opportunity over five years", "Canva at $42B valuation, 40% growth, considering IPO timing vs. direct listing", "B2B SaaS reacceleration: Mongo up 27%, Box, Okta, Zoom showing AI-driven growth"],
+  "harry_takes": [
+    "Anthropic's 4-5X oversubscription shows capital is inexhaustible for frontier AI; at $13B on 9X growth trajectory, even 3X revenue multiple next year feels cheap",
+    "Klarna down from $45B to $13-15B IPO, Figma up 3X day-one—direct listing would have printed $40, not $75; bankers are pricing efficiency, not maximizing founder/employee wealth",
+    "NVIDIA's $3T CapEx projection implies software vendors will spend 10% of revenue on inference; Cliff and others must ruthlessly optimize costs or margins evaporate",
+    "B2B SaaS is staging a comeback because they were undervalued at 5-6X revenue; Mongo beat expectations at modest 24% growth and popped 45%—expectations, not fundamentals, drive stock moves"
+  ],
+  "harry_boldest_quote": "It is Atio and it takes less than a minute. Sync your email, your calendar and you'll instantly get all your relationships enriched in real time.",
+  "predictions": [
+    "O'Driscoll: If Anthropic grows from 1B to 9B this year and then 30B next year (3X growth down from 10X), valuation compresses to 8-9X next-year revenue—still justified by trajectory",
+    "Cliff: Canva will launch new AI products in October; costs will 'eat into margins very significantly' if not carefully priced; consumption-based model needed beyond seat licenses",
+    "Panel: Software vendors paying 10% of revenue to model/GPU providers will drop to 5% as distillation and on-device optimization mature; 'orders of magnitude' cost reduction likely in 12-24 months"
+  ],
+  "disagreements": "Harry and O'Driscoll debate whether Lovable and Replit stepped up 2X in valuation in 13 days due to real new information or just Andreessen/Excel markup war; O'Driscoll argues companies likely hit their raised plans, so no new info. Lemkin counters Anthropic and Lovable out-accelerated plans—reacceleration at scale is unprecedented. Cliff reframes: Canva sees AI as marketing spend initially, not core COGS.",
+  "harry_role": "Harry drives the Figma direct-listing critique (inefficiency of IPO pop), challenges the $3T NVIDIA thesis with math ('where's the $800B annual profit?'), and grills Cliff on whether Canva can justify 10% revenue spend on inference. He moderates but is intellectually rigorous, pushing panelists to quantify claims.",
+  "topics": ["anthropic-valuation", "ipo-vs-direct-listing", "ai-cost-structure", "saas-reacceleration", "canva-strategy", "gpu-inference-costs"],
+  "sponsor_read_count": 3,
+  "notable": "Cliff discloses Canva was worth $40B in 2021 at 50X revenue, fell to $26B in 2022, now at $42B—humbling reminder that market-cap swings dwarf company fundamentals; focus on compounding growth and margins, not multiples."
+}

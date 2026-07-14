@@ -1,0 +1,27 @@
+{
+  "guest": "Shreyas Doshi (multi-guest panel: also Annie Pearl, David Lieb, Marty Kagan, Lenny Rachitsky, Aparna Pragada, Scott Belsky, Kayvon Beykpour)",
+  "guest_role": "Shreyas Doshi, former Stripe first PM manager; panel includes CPO Calendly, ex-Google Photos lead, founder SVPG, Lenny's Newsletter author, former CPO Robinhood, CPO Adobe, and Twitter product/eng/design lead",
+  "approx_date": "Feb 2023",
+  "assertiveness": 2,
+  "assertiveness_why": "Harry asks short, prepared, topical questions to string together clips from seven different guests without ever challenging or contesting any answer.",
+  "question_style": "Entirely open, prompt-style questions (often just a few words) designed to hand the floor to each guest; no pushback, no planted thesis, occasional light callbacks referencing what a prior guest in the same episode said.",
+  "tone": "Enthusiastic, matey, fan-like framing of each guest ('Shreyas is just incredible', 'I loved having David on the show'), high energy, no self-deprecation, clearly a produced compilation format (20product monthly show).",
+  "depth": "Surface-level facilitation rather than deep technical probing, though the topic itself (PM/CPO hiring frameworks, competency models, interview structures) is strategically substantive because the guests drive the depth, not Harry's questioning.",
+  "harry_quotes": [
+    "What's the craftsperson in terms of like that profile then?",
+    "When does that transition happen from not needing the operator to needing the operator?",
+    "Should the founder not be the visionary and the CPO not be the craftsperson?"
+  ],
+  "learnings": [
+    "Product leaders tend to fall into three archetypes -- operator, craftsperson, visionary -- and most people default to one primary mode even if they can flex into others.",
+    "Hiring an operator too early, before product-market fit, is a common failure mode because operators excel at scaling process, not generating original product insight.",
+    "The best default first senior product hire pre-PMF is a craftsperson, since founders usually want to keep the vision themselves while delegating execution.",
+    "A strong signal it's time to hire a first PM is chronic bottlenecks, misalignment, or a founder needing bandwidth to explore a new side opportunity.",
+    "Domain experience is often anti-correlated with top PM performance; outsiders untainted by 'domain dogma' frequently produce the most innovative product thinking.",
+    "The riskier mistake in product hiring is an act of commission (hiring the wrong senior leader) rather than omission (waiting too long to hire)."
+  ],
+  "topics": ["product management", "hiring", "cpo", "leadership", "org design", "saas"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "This is a compilation-format '20product' episode splicing short interviews with seven different product leaders around one theme, rather than a single continuous 20VC guest conversation."
+}

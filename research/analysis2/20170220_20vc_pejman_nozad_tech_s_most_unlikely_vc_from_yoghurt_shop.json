@@ -1,0 +1,26 @@
+{
+  "guest": "Pejman Nozad",
+  "guest_role": "Founding Managing Partner at Pear VC",
+  "approx_date": "Feb 2017",
+  "assertiveness": 2,
+  "assertiveness_why": "Harry asks warm, admiring, mostly chronological biographical questions with zero pushback or contested claims throughout.",
+  "question_style": "Almost entirely open-ended, narrative-prompting questions ('talk to me about how you arrived...', 'what was behind that decision?') that invite storytelling; Harry never challenges a claim, plants no competing thesis, and does not interrupt.",
+  "tone": "Extremely warm, fan-like and reverent ('one of the kindest, most genuine... guests I've had'), high energy, some light self-deprecating banter about Chelsea vs Man United.",
+  "depth": "Surface-to-narrative depth focused on biography and relationship-building philosophy rather than technical or strategic operating detail; light follow-up on fund mechanics (prorata, dilution in Danger) and fund structure/naming.",
+  "harry_quotes": [
+    "What perspective did he give you when you saw him?",
+    "Was that a big learning curve for you?",
+    "So what was behind that decision?"
+  ],
+  "learnings": [
+    "Nozad built his entire deal flow and reputation through in-person relationship building rather than pattern-matching resumes or decks.",
+    "Losing prorata rights on Danger due to lack of follow-on capital taught him that maintaining ownership through reserves is critical to fund economics.",
+    "He evaluates founders by spending unstructured time with them outside the office (e.g., long dinners) to assess character, not just the product.",
+    "Founding teams with pre-existing personal history and shared struggle tend to build enduring companies.",
+    "He deliberately built an affinity network (Persian-American founders and students) as a distinct sourcing edge."
+  ],
+  "topics": ["seed investing", "founder evaluation", "immigrant story", "networking", "fund mechanics", "early silicon valley history"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Guest's origin story (undocumented immigrant, rug salesman, early Dropbox/Danger investor) is unusually extraordinary and dominates the episode over any investing-craft analysis."
+}

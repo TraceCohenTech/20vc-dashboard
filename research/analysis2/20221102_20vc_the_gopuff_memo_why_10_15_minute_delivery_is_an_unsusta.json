@@ -1,0 +1,29 @@
+{
+  "guest": "Rafael (Raf) Ilishayev",
+  "guest_role": "Co-founder and CEO of GoPuff",
+  "approx_date": "Nov 2022",
+  "assertiveness": 7,
+  "assertiveness_why": "Harry repeatedly plants his own thesis (capital-intensity/low-margin critique, the 'three dimensions' of cost-cutting failure, batching skepticism) and directly asks Raf to defend or refute it rather than just receiving answers.",
+  "question_style": "Harry mixes open scene-setting questions with pointed, thesis-driven challenges — e.g. summarizing his own view of why the space is unsustainable and asking Raf to confirm or contest it, and pressing on whether batching really moves the needle economically; he interrupts occasionally for clarification (e.g. asking what CPO means) but lets Raf run long uninterrupted answers.",
+  "tone": "Warm, matey, and fan-friendly (tequila banter, calling Raf 'my friend'), with genuine enthusiasm for the format ('such a joy to do'), but layered with blunt personal color commentary (e.g. admitting he churns between delivery apps).",
+  "depth": "Strategic and unit-economics-focused rather than surface-level: Harry tracks CPO, ODH, AOV, gross margin by category, batching mechanics, subscription (FAM) elasticity, and cohort/retention definitions, pushing for specifics on how each metric moves the business.",
+  "harry_quotes": [
+    "Would you agree with that summarization?",
+    "How does batching actually change the economics?",
+    "Why did you pull out of Spain?",
+    "Sorry, what's CPO?",
+    "Do you see what I mean? And does that concern you?"
+  ],
+  "learnings": [
+    "GoPuff concluded that ultra-fast 10-15 minute delivery is structurally unsustainable because it prevents order batching, and that consumers actually value delivery consistency over raw speed.",
+    "Batching drastically cuts cost per order primarily by needing far fewer drivers to fulfill the same order volume — a difference that can reach roughly 50% in well-batched markets versus new, low-density ones.",
+    "Customers who purchase across three or more product categories in their first order have dramatically higher first-year spend than single-category buyers, so GoPuff redesigned onboarding to drive broader category discovery early.",
+    "GoPuff's subscription program grew from 11% to 30% of order volume in two quarters and management believes steady-state penetration could exceed 55-60%, with live price-elasticity testing underway on the monthly fee.",
+    "Expanding into Spain (via an acquisition) is viewed in hindsight as a bull-market overreach mistake; the company's proven playbook is to fully dominate one market before entering the next, which it didn't follow in Europe.",
+    "Historical recession data suggests alcohol and convenience categories are resilient in downturns, though basket composition shifts toward lower-priced, higher-quantity items rather than premium single purchases."
+  ],
+  "topics": ["instant delivery", "unit economics", "logistics and batching", "subscription models", "recession strategy", "m&a"],
+  "repeat_guest_callback": "I want to start for those that maybe missed the first show, two to three minutes.",
+  "sponsor_read_count": 4,
+  "notable": "This is a 'Memo' format episode — a single-company deep dive rather than a standard interview — recorded during the 2022 downturn, notable for Raf's unusually candid admissions that the 10-15 minute delivery model was a mistake and that Spain should never have been entered."
+}

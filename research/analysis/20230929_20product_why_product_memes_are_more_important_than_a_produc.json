@@ -1,0 +1,29 @@
+{
+  "guest": "Kevin Napaco",
+  "guest_role": "VP of Product at Twilio",
+  "approx_date": "Sep 2023",
+  "assertiveness": 4,
+  "assertiveness_why": "Prepared questions with deep follow-ups and occasional light challenges (e.g., 'That's contrarian' on committee hiring, pushback on speed-quality tradeoff); mostly receiving and exploring Kevin's expertise rather than planting contrary positions or data.",
+  "question_style": "Open-ended exploration of product fundamentals and process; asks for specifics and examples; light challenges or 'that's contrarian' pushbacks on certain claims; collaborative rather than adversarial tone throughout.",
+  "tone": "Warm, engaged, willing to use profanity ('fuck it, I love this discussion', 'this is really fucking competitive'); self-deprecating ('I'm a podcaster for a living'); genuine curiosity about craft and process without fandom or deference.",
+  "depth": "Strong product operations focus: four-state product team model, strategic hiring practices for product roles, weekly demo culture and feedback loops, PRD writing as forcing function, asynchronous product reviews, three-horizon product allocation framework, integration quality management, product-market fit signals.",
+  "harry_quotes": [
+    "You said there are four states to product teams—what are they?",
+    "That's contrarian—most people say interview panels are useful.",
+    "How do you balance hearing everyone's feedback without losing velocity?",
+    "Why is writing so important for product people?"
+  ],
+  "learnings": [
+    "Speed and quality are not opposed; shipping faster accelerates learning feedback loops and enables faster quality improvement through real customer validation.",
+    "Hiring product leaders requires clarity on role-specific 'spikes' rather than seeking balanced generalists; hiring managers must retain decision power rather than defaulting to committee consensus.",
+    "Weekly low-stakes demos with one-week-ahead commitments create forcing functions that prevent over-polishing and accelerate feedback; asynchronous recording works for distributed teams.",
+    "Writing PRDs forces idea testing by exposing whether concepts have substance or are surface-level; it's a compression exercise revealing memes and mental models.",
+    "Product memes (memorable distillations of ideas like 'Project Roomba') drive organizational alignment and spread faster than long roadmaps; humor and real-time relevance enhance retention.",
+    "Product leaders in product-led companies must be generalists solving problems across sales, engineering, and go-to-market; specialized domain expertise is less critical than learning velocity.",
+    "The three-horizon framework (core/emerging/future product investment) helps balance innovation and scaling; allocation ratios shift as companies mature, e.g., 90-10-0 early, then 30-40-30."
+  ],
+  "topics": ["product management", "hiring practices", "demo culture", "product strategy", "writing", "product-market fit", "organizational alignment", "roadmapping"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "This is a '20 Product' episode (not 20VC) focusing on product craft fundamentals; Harry's casual profanity signals comfort with Kevin and experimentation with conversational tone; discussion centers on systems and processes rather than business outcomes."
+}

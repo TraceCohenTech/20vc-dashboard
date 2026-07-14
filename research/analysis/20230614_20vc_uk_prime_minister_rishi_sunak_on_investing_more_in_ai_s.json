@@ -1,0 +1,27 @@
+{
+  "guest": "Rishi Sunak",
+  "guest_role": "Prime Minister of the United Kingdom",
+  "approx_date": "Jun 2023",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry adopts notably deferential approach appropriate to the guest's office. Asks respectful exploratory questions without challenge, pushback, or thesis-planting. Reception-focused rather than adversarial; appropriate for a head of state interview.",
+  "question_style": "Multi-sentence open-ended questions that are exploratory and respectful. Harry allows Rishi extended space to answer thoughtfully without interruption or follow-up pressure. Personal and policy-focused questions sequenced to build rapport. No pushback, challenges, or planted theses. Very different tone from venture/startup interviews.",
+  "tone": "Reverential and warm. Harry shows genuine respect for Rishi's office and vision. Professional but personable; includes personal touches (family time, exercise, favorite food) to build rapport. Engaged listener rather than probing interviewer. Clear admiration for Rishi's tech-friendly approach to leadership.",
+  "depth": "Comprehensive coverage of UK tech policy and AI strategy: £100M AI safety research investment (globally leading), visa innovation (high-potential individual visa, founder visa, scale-up visa), domestic talent attraction programs (AI masters funding, scholarships, special AI talent program targeting 100 global AI experts), education reform (mathematics to age 18), AI applications in education (personalized tutoring). Also personal background (parents in healthcare, small business), family life (children, spouse), exercise routine, preferences (breakfast, concerts, cricket).",
+  "harry_quotes": [
+    "How do we think about working together most effectively between these two? Not as all opposing, but just different?",
+    "How do we think about creating a regulatory structure or regulation that actually allows for great innovation and to let London blossom?",
+    "Are you ready for a quick fire round?"
+  ],
+  "learnings": [
+    "UK government positions itself as global leader in AI safety research with £100M investment greater than any other nation, establishing intellectual and geographic home for AI regulation.",
+    "Visa innovation (high-potential individual visa allowing top-50-university graduates to enter UK without job offer) serves as unique talent attraction lever unavailable to competing nations.",
+    "AI applications in education (personalized tutoring via language models, teacher burden reduction) represent most transformative near-term opportunity for societal impact.",
+    "Talent war for AI engineers most acute challenge; requires dual strategy of domestic education investment (AI masters programs, math to age 18) plus international attraction.",
+    "UK regulatory approach historically achieves balance between innovation support and protective guardrails; government believes this balance is embedded in national DNA since Industrial Revolution.",
+    "Tech ecosystem momentum compounds: major company openings (Anthropic, OpenAI, Palantir, Andreessen Horowitz, DeepMind) create self-reinforcing flywheel attracting further talent and investment."
+  ],
+  "topics": ["AI", "UK tech", "regulation", "education", "talent", "policy"],
+  "repeat_guest_callback": "We last did this in COVID on Zoom to do this in person",
+  "sponsor_read_count": 0,
+  "notable": "Unusually high-profile guest for venture podcast; Prime Minister of a country. Harry's interviewing style noticeably more deferential than other episodes, appropriate to head of state. Part of London Tech Week. Includes personal quick-fire round (scrambled eggs, concert preferences, cricket fandom, exercise routine). Different dynamic showcases Harry's ability to adjust approach based on guest status and context."
+}

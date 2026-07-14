@@ -1,0 +1,29 @@
+{
+  "guest": "Anuradha Khan",
+  "guest_role": "General Partner, CRV (formerly Bessemer Venture Partners)",
+  "approx_date": "Aug 2020",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks prepared follow-up questions and occasionally voices his own views, but mostly receives rather than challenges; he affirms Anna's positions rather than contesting them.",
+  "question_style": "Multi-sentence questions with genuine follow-ups, mostly open-ended. Harry occasionally interjects with his own opinions (tweets about market compression) but doesn't push back hard or plant counterarguments. Conversational and collaborative.",
+  "tone": "Warm and fan-like; Harry says upfront 'I've been a big fan of her writing for a while now.' High energy, self-deprecating about Twitter criticism weakness. Frequently affirms Anna's points with enthusiastic agreement.",
+  "depth": "Strategic and philosophical: early-stage vs multistage fund dynamics, sourcing strategies, deal timing under market compression, founder-market fit, founder psychology, diversity and access in VC, analyst role in deal-making. Less on metrics/technical depth, more on people and relationships.",
+  "harry_quotes": [
+    "Tell me, I want to move down the funnel a little bit there.",
+    "But I do want to move into a quick fire round. I could talk all day.",
+    "Tell me how does the decision making differ when comparing crv to bassima both incredible firms but different?",
+    "Tell me what moment in your life served as an inflection point?"
+  ],
+  "learnings": [
+    "Analysts are the true gatekeepers and fiercest advocates in deal-making because partners are stretched across 10+ board seats and fundraising; great deals happen when analysts pound the table for founders.",
+    "First impressions and thoughtful outreach stick with founders for years; a founder remembers the email where you showed genuine interest in them personally, not just metrics.",
+    "Successful founders respond honestly to initial contact, are transparent with their numbers, and respect analysts—this character trait predicts long-term success.",
+    "Thesis-driven sourcing through product/engineering leaders and publishing content about your investment thesis generates organic founder inbound, whereas happy hours with other VCs waste time and reveal only rejected deals.",
+    "Early-stage funds win against multistage heavyweights by spending concentrated time with founders, demonstrating deep sector expertise, and offering incentive alignment that late-stage investors cannot match.",
+    "Diversity in VC is a conviction problem, not a pipeline problem—firms must educate female founders, hire female analysts to access new networks, and grant partnership with carry to women to validate their work meaningfully.",
+    "The person matters far more than traction at early stage; great founders pivot and make new markets, so understanding who they are and why they're building is more predictive than ARR."
+  ],
+  "topics": ["venture capital", "early-stage investing", "sourcing", "founder psychology", "diversity in vc", "female founders", "analyst role", "fund strategy", "founder-market fit", "multi-stage vs early-stage"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Anna explicitly positions early-stage funds as superior on founder intimacy and relationship-building; she also states a firm belief that 'operators don't make good vcs' because they repeat playbooks rather than staying exploratory. Hash of political answers vs honest framing on diversity."
+}

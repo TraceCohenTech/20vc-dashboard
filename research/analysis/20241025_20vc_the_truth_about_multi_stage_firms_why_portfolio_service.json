@@ -1,0 +1,38 @@
+{
+  "guest": "Mark Goldberg",
+  "guest_role": "Partner, Chemistry (new $350M seed and Series A fund); formerly partner at Index Ventures",
+  "approx_date": "Oct 2024",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry plants his own thesis about VC value and pushes back on Mark's portfolio-services defense, but mostly receives and asks follow-up questions rather than sustaining adversarial pressure throughout.",
+  "question_style": "Harry asks prepared multi-sentence questions with real follow-ups, occasionally plants his own data (90% of VCs add no value), and directly contests Mark's claims about portfolio-service value. He challenges Mark to defend chemistry's fund size and reserve model but rarely interrupts.",
+  "tone": "Matey and friendly with genuine respect for Mark; self-deprecating humor (\"I was actually young\"). References their personal friendship and uses casual language (\"dude,\" \"shit\"). Maintains professional neutrality despite the warmth.",
+  "depth": "Covers strategic and tactical topics: fund mechanics, LP dynamics, portfolio construction, Series A check sizing, reserve models, hiring at scale, competitive markets, AI investing. Tracks specific technical details like valuation multiples, reserve peanut-buttering, and founder lifecycle stages.",
+  "harry_quotes": [
+    "Why did you feel like the world needed another one?",
+    "Do you only take common shares then?",
+    "What is the bureaucracy of a large institution?",
+    "What was your most recent disagreement as a partnership?",
+    "What will you break first, check size or ownership?"
+  ],
+  "learnings": [
+    "Portfolio services at large multi-stage firms primarily benefit the fund's own operational leverage, not founders, who prefer direct relationships with experienced investors.",
+    "Smaller, focused funds with stage specialization allow senior investors to dedicate meaningful time to early-stage founders, a constraint that grows acute at large institutions.",
+    "The venture industry has industrialized over the past decade, shifting from boutique partnerships where founders knew the investors to asset-management models where firms employ large teams but founders may not know the actual check writers.",
+    "First-time founders' naivety and hunger to innovate can outweigh the benefits of serial founder experience, especially when paired with founders who have resilience from a failed prior attempt.",
+    "Hiring—particularly at leadership and go-to-market levels—is the primary limiter to scaling companies from product-market fit onward, making founder judgment on talent selection critical.",
+    "A founder's conviction in winning a category winner justifies paying above-market valuations, because category leaders generate outsized returns and early convictions often win.",
+    "Smaller fund sizes with lighter reserve models and single-trigger decision-making can reduce groupthink and focus investor time, though they sacrifice portfolio protection and consensus alignment."
+  ],
+  "topics": [
+    "fund mechanics",
+    "founder relationships",
+    "portfolio construction",
+    "hiring and talent",
+    "ai investing",
+    "fintech",
+    "venture capital strategy"
+  ],
+  "repeat_guest_callback": "When we last did one, I was actually young. So this is a joy.",
+  "sponsor_read_count": 3,
+  "notable": "This is Chemistry's only podcast episode as part of their fund launch announcement, making it an exclusive news vehicle for their new $350M fund."
+}

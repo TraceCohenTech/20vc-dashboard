@@ -1,0 +1,30 @@
+{
+  "approx_date": "Sep 2025",
+  "panelists": ["Rory O'Driscoll", "Jason Lemkin"],
+  "stories_covered": [
+    "Nvidia invests $100B into OpenAI",
+    "Notion hits $500M ARR",
+    "AI capex boom ($600B annual) vs AI revenue reality ($30-40B)",
+    "Data labeling companies thriving on capex spending",
+    "Nvidia's aggressive $60B buyback program",
+    "Triple triple, double double growth expectations now standard",
+    "Web 1.0 parallels and unlimited capital mentality"
+  ],
+  "harry_takes": [
+    "The capex boom is separate from the app-level AI revolution; infrastructure plays are winning from capex spending regardless of revenue outcomes",
+    "Comparison to Web 1.0 bubble is apt but differs critically: then there was no money, now capital is guaranteed by leaders buying capacity in advance",
+    "Growth expectations have fundamentally reset; what was considered unbounded (Notion, Airtable) now must justify itself on fundamental revenue multiples and free cash flow",
+    "No diligence is being done on AI deals; decisions made on Saturday with purely backward-looking analysis of early success"
+  ],
+  "harry_boldest_quote": "History doesn't repeat. It rhymes. But it's more like 99 than anything else I've seen.",
+  "predictions": [
+    "Lemkin: The capex will remain insulated from reality for several more years due to vendor financing guarantees and oligopolistic spending coordination",
+    "Panel consensus: Data labeling remains profitable despite low moat because the six major customers (OpenAI, Anthropic, etc.) are too focused on speed to optimize costs",
+    "Implied: Companies that rode 2021 valuations will face a reckoning; there's a threshold where even structural tailwinds can't sustain hyper-valuations"
+  ],
+  "disagreements": "Minor: Lemkin pushes back on whether the comparison to Web 1.0 really holds, noting capital guarantees make this structurally different. Harry counters that the mentality and risk-taking behavior are the same. Both agree the scale is unprecedented but context differs.",
+  "harry_role": "Actively moderating and steering analytical framework. Harry drives the core thesis around capex vs revenue reality, pulls Lemkin on risk parallels, and repeatedly challenges the \"unlimited potential\" narrative by flagging the buyback math and vendor financing as warning signs.",
+  "topics": ["nvidia", "openai", "ai capex boom", "valuations", "data labeling", "growth multiples", "vendor financing", "web1.0 bubble"],
+  "sponsor_read_count": 3,
+  "notable": "Core debate centers on whether unlimited capital from hyperscalers creates a genuinely new paradigm or merely delays a reckoning; the capex spending structure (Nvidia guaranteeing CoreWeave capacity purchases) becomes crucial to the thesis."
+}

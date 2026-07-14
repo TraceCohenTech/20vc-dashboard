@@ -1,0 +1,31 @@
+{
+  "approx_date": "Sep 2025",
+  "panelists": ["Rory O'Driscoll", "Jason Lemkin", "Jeff Lawson"],
+  "stories_covered": [
+    "Elon Musk's $1 trillion pay package",
+    "Anthropic pays $1.5B to author settlement",
+    "OpenAI secondary sale $10B liquidity event",
+    "Ramp hits $1B ARR milestone",
+    "Brex $700M ARR at 50% growth",
+    "Sierra AI $10B valuation with Brett Taylor",
+    "Kleiner Perkins $100M into Anthropic at $13B",
+    "Mistral/ASML $14B investment"
+  ],
+  "harry_takes": [
+    "Traditional venture capital has ceded dominance to late-stage investing; 20% early-stage VC, 80% late-stage growth/public equivalent capital",
+    "Elon's pay package will raise aspirations and demands across the industry, creating a high watermark effect on CEO compensation",
+    "Founder CEOs are becoming mercenaries who abandon companies for lucrative lateral moves, signaling a fundamental shift in founder mentality",
+    "Companies like Atlassian and Kleiner feel compelled to make deals whether they're optimal or not, driven by FOMO rather than conviction"
+  ],
+  "harry_boldest_quote": "This is venture capital today. Most of the money in venture capital is late stage.",
+  "predictions": [
+    "Lemkin: Elon compensation will push up other founder/CEO demands, though likely won't become the norm",
+    "O'Driscoll: If growth slows on Ramp/Brex, they'll be valued as financial services companies rather than tech",
+    "Implied by panel: Without sustained AI/VC-fueled revenue growth, many current boom-era companies won't survive"
+  ],
+  "disagreements": "Jeff Lawson defends founder exits to Meta/OpenAI as rational financial decisions and best exits for shareholders; Lemkin and Harry characterize them as mercenary moves that betray startup culture. O'Driscoll frames both perspectives as valid under different circumstances.",
+  "harry_role": "Actively moderating and challenging across the panel. Harry drives the debate forward with sharp questions, pushes back on logic gaps, and frequently challenges both Lemkin and O'Driscoll's takes. He's not just facilitating—he's debating as an engaged participant who disagrees openly.",
+  "topics": ["elon musk", "compensation", "venture capital", "late-stage investing", "founder retention", "secondary markets", "ai funding", "corporate ventures"],
+  "sponsor_read_count": 3,
+  "notable": "Jeff Lawson, Twilio founder, serves as special guest and provides founder-operator perspective that conflicts with investor/analyst takes on founder behavior and startup values."
+}

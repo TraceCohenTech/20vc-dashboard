@@ -1,0 +1,26 @@
+{
+  "guest": "Eric Paley",
+  "guest_role": "Managing partner at Founder Collective",
+  "approx_date": "Nov 2016",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry asks prepared follow-up questions and challenges some claims (on founder ambition, capital-success correlation) but mostly receives rather than sustains adversarial pressure.",
+  "question_style": "Multi-sentence prepared questions with substantive follow-ups. Harry challenges guest claims directly (e.g., asking if founders are too ambitious) but doesn't sustain adversarial questioning or plant his own competing thesis. Minimal interruptions.",
+  "tone": "Friendly and formal with evident personal respect; high-energy enthusiasm about having Eric back on; self-deprecating humor about his own blog; genuinely respectful of guest expertise without fandom.",
+  "depth": "Highly technical and strategic throughout. Harry tracks specific fund economics (20% ownership targets, 3x LP return expectations, billion-dollar exit thresholds), burn-rate mechanics, runway planning, and references specific IPO data analysis. Deep dives into VC math and founder incentive misalignments.",
+  "harry_quotes": [
+    "So how did you make your initial steps into the wonderful world of venture capital?",
+    "Does that mean founders are potentially too ambitious today?",
+    "What do you make of the rise of the mega funds?"
+  ],
+  "learnings": [
+    "Customers, not venture capitalists, validate a business; overemphasizing VC validation leads founders to mistake capital influx for endorsement and make inefficient, dilutive investments.",
+    "Excessive capital creates unsustainable burn rates pegged to VC expectations rather than market evidence, trapping founders in a dependency spiral where cost-cutting becomes increasingly painful and risky.",
+    "Analysis of 71 recent tech IPOs showed zero correlation between capital raised and exit success; lighter-capitalized companies actually outperformed their heavily-funded peers.",
+    "Maximizing founder efficiency and capital discipline preserves ownership while paradoxically reducing company risk—the inverse of what inflated valuations and large rounds typically produce.",
+    "Mega-fund math forces unrealistic expectations down-stack: billion-dollar funds need billion-dollar exits just to return 1/5 of capital, compelling portfolio companies to chase implausible billion-dollar valuations."
+  ],
+  "topics": ["seed funding", "capital efficiency", "burn rate", "fund mechanics", "founder control", "exit valuations"],
+  "repeat_guest_callback": "the first time around was so special I had to have you on again",
+  "sponsor_read_count": 2,
+  "notable": "Eric is explicitly a repeat guest brought back because Harry was so impressed the first time; Harry also reveals Eric has been a significant personal mentor to him as the show has grown."
+}

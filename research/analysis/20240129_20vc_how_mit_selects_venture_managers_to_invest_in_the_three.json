@@ -1,0 +1,29 @@
+{
+  "guest": "Ryan Aquina",
+  "guest_role": "Partner, MIT Investment Management Company (endowment manager)",
+  "approx_date": "Jan 2024",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks well-prepared follow-ups but rarely contests Ryan's views; mostly collaborative and receiving rather than challenging.",
+  "question_style": "Harry poses multi-sentence questions with thoughtful follow-ups, probing frameworks like see/pick/win and direct-invest mechanics. He doesn't plant his own thesis or push back adversarially—more Socratic than combative.",
+  "tone": "Formal yet warm; Harry defers consistently to Ryan's expertise. Respectful, non-self-deprecating, displaying genuine curiosity about LP strategy and endowment fund mechanics.",
+  "depth": "Very strategic follow-ups. Harry digs into manager evaluation criteria, direct co-invest structures (Kupang case), liquidity constraints, three-tier portfolio approach, and generational transitions. Tracks technical specifics like capital-structure protections.",
+  "harry_quotes": [
+    "Do you agree with me or do you think we do get back to the more boutique industry?",
+    "When we think about the evaluation of new firm managers, what is it that we're honing in on?",
+    "What do you think is the most important?",
+    "How do you think about position sizing and building a portfolio book of funds?",
+    "Do you ever think about selling positions in managers?"
+  ],
+  "learnings": [
+    "Strong deal flow and picking ability are now table-stakes; competitive advantage accrues to managers who win founder allocation and deliver exceptional post-investment service",
+    "Track record matters less for emerging managers than founder fit and likeability—since partnerships span years, personal chemistry often trumps pure credentials",
+    "Firms stumble when scaling too fast, losing intellectual honesty after early wins, or failing to sustain hunger; sustained motivation is a primary evaluation signal",
+    "Direct co-investments in known companies at attractive valuations yield higher conviction than blind-pool funds, especially with favorable downside-protected capital structures",
+    "Effective LP portfolios require three tiers: 6-8 large core relationships ($50-150M), ~20 mid-market ($10-20M), and emerging seeds ($1M) to capture potential across fund lifecycle",
+    "Generational firm transitions fail most often; winners practice early mentorship, thoughtful economics-sharing with emerging partners, and resist over-scaling"
+  ],
+  "topics": ["fund mechanics", "lp investing", "manager evaluation", "direct investing", "portfolio construction", "venture strategy", "china geopolitics", "generational transitions"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Ryan candidly discusses a major oil-and-gas co-investment loss (recovered ~33% of capital) and his biggest regret: passing on OpenAI. Episode unusually deep-dives into endowment fund mechanics and LP portfolio strategy, rarely aired in venture media."
+}

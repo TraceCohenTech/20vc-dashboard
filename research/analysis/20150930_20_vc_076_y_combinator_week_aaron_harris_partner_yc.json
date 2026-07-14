@@ -1,0 +1,28 @@
+{
+  "guest": "Aaron Harris",
+  "guest_role": "Partner at Y Combinator, host of Startup School podcast",
+  "approx_date": "Sep 2015",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks prepared, multi-part questions with solid follow-ups but rarely contests claims or challenges Aaron directly—maintaining a receptive, exploratory stance throughout.",
+  "question_style": "Harry uses open-ended multi-part questions that explore different angles, building naturally on Aaron's answers. He shows preparation by referencing Aaron's podcast and prior YC content, but maintains a learning posture without pushing back or planting his own counterarguments.",
+  "tone": "Warm and admirational; Harry expresses genuine fandom for Aaron's podcast and discloses his own startup vulnerabilities. The dynamic is conversational and peer-like rather than formal or skeptical, with Harry positioning himself as a fellow founder seeking wisdom.",
+  "depth": "Harry explores strategic YC philosophy (mentorship, product-market fit, growth, fundraising) with some tactical specificity about early user validation and investor dynamics. He references Paul Buchheit and Gmail, showing research, but stays at operational/strategic level rather than pursuing technical depth or industry-specific expertise.",
+  "harry_quotes": [
+    "So what do you think is the biggest value out of YC?",
+    "Is it the pure capital?",
+    "And how do you get them to do that with that laser focus then?",
+    "how would you recommend that founders go about attaining those mentors?"
+  ],
+  "learnings": [
+    "YC's primary value lies in creating a structured environment for intense focus on product and vision, not in any single program or capital amount",
+    "Successful founders synthesize diverse mentor feedback with their own judgment rather than becoming paralyzed by conflicting advice through rapid iteration and measurement",
+    "Validating product-market fit demands deep understanding of a small user cohort first; paid products need deliberate user iteration while social products grow unpredictably until they hit critical mass",
+    "Measurable growth is a symptom of achieving product-market fit and cannot be engineered in isolation; high growth targets are meaningless without fit established",
+    "Time is a startup's scarcest finite resource, making efficient fundraising that minimizes distraction more valuable than maximizing capital raised",
+    "Outstanding co-founders are the single highest-leverage factor in startup success"
+  ],
+  "topics": ["y combinator", "product market fit", "growth", "fundraising", "mentorship", "startups"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Harry interviews Aaron Harris, who simultaneously serves as a YC partner and podcaster, creating a meta-interview format; Harry also frames himself as a startup founder personally affected by legal vulnerabilities, lending authentic credibility to the Vidar Law sponsor integration."
+}

@@ -1,0 +1,26 @@
+{
+  "guest": "Anna Shedletsky",
+  "guest_role": "Founder and CEO at Instrumental (ex-Apple Watch product design lead)",
+  "approx_date": "Apr 2017",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks structured, well-prepared multi-part questions with genuine follow-ups (e.g. pressing on how she 'fabricated FOMO'), but never disputes or pressure-tests any of her claims.",
+  "question_style": "Mostly open-ended prompts that invite frameworks and stories ('talk to me about your methodology'), with follow-up drill-downs on specific details (culture screening, diversity, FOMO mechanics); no interruption or contesting of claims, occasional light joking asides.",
+  "tone": "Casual and matey, lots of playful banter ('Korean ribs', 'so many good things to dig into here'), enthusiastic and fannish about her Apple pedigree and fundraising story.",
+  "depth": "Goes past surface bio into tactical operating detail — stack-ranking engineering priorities, structured learning methodology, term-sheet mechanics and pulled term-sheet risk — showing real interest in operational process, not just headline story.",
+  "harry_quotes": [
+    "How do you fabricate FOMO?",
+    "How did you look to build those relationships?",
+    "Were there any mishaps along the way?"
+  ],
+  "learnings": [
+    "She uses a repeatable five-step framework (identify goal, identify problem, research, define plan, iterate) to rapidly onboard into unfamiliar functional areas like hiring or fundraising.",
+    "A public, continuously-updated stack rank of engineering initiatives tied to a single top-line revenue goal keeps the team aligned without top-down micromanagement.",
+    "She engineered investor urgency indirectly by scheduling a YC interview and using it as leverage in conversations with VCs she'd already been cultivating, rather than starting from a term sheet.",
+    "Founder-hosted dinners were her primary mechanism for building a venture network from zero, since founder referrals carry more weight with VCs than cold outreach.",
+    "Even a strong term sheet can be pulled late in diligence, so she advises keeping at least two live high-conviction conversations in parallel rather than shutting down alternatives early."
+  ],
+  "topics": ["fundraising strategy", "hardware/manufacturing tech", "hiring", "engineering prioritization", "founder networking", "term sheets"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Episode centers on a genuinely novel fundraising tactic (using a scheduled YC interview to manufacture investor FOMO without an existing term sheet)."
+}

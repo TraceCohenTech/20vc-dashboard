@@ -1,0 +1,31 @@
+{
+  "approx_date": "Aug 2025",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll", "Brian Halligan"],
+  "stories_covered": [
+    "Figma IPO 250% pop (38 to 98 opening, later settled higher)",
+    "IPO pricing mechanics and Fidelity/long-only investor dynamics",
+    "Meta and Microsoft blowout quarters and free cash flow paradox",
+    "CEO compensation structure (RSUs vs PSUs vs moonshot grants)",
+    "HubSpot Series C timing during 2008-09 recession",
+    "SMB vs enterprise AI product feasibility",
+    "Direct listing vs traditional IPO comparison"
+  ],
+  "harry_takes": [
+    "Mega IPO pops reflect market euphoria and retail FOMO, not fundamental mispricing; direct listings would still price at normal multiples and avoid the pop entirely",
+    "CEO comp tied to hyperinflated valuations creates perverse incentives; stock price triggers already hit before vesting due to IPO timing",
+    "Long-only institutional investors are rational and durable; public market discipline is underrated compared to venture board pressure",
+    "SMB AI adoption will require pre-trained, pre-configured solutions because small businesses lack teams to customize enterprise deployments"
+  ],
+  "harry_boldest_quote": "The stunning thing is if you had to pick one, I'd prefer to buy Google, short Amazon.",
+  "predictions": [
+    "Brian: Figma would struggle to direct list; pop phenomenon is natural market inefficiency absent traditional IPO mechanics",
+    "Panel: CEO moonshot grants will face waiver requests when stock price targets miss despite business performance",
+    "Jason: Every top developer will eventually spend 8-10K monthly on AI credits; total addressable market for Claude/Anthropic is 50x larger than consensus",
+    "Brian: Timing matters more than strategy; HubSpot's 2009 Series C at upturn vs Zendesk's downturn shaped 10-year cap table durability"
+  ],
+  "disagreements": "Rory skeptical of mega moonshot CEO packages sustainable across cycles; Jason bullish on their normalization. Mild tension on whether SMB AI adoption requires training infrastructure or pre-baked solutions.",
+  "harry_role": "Harry asks probing operational questions, synthesizes complex concepts (IPO mechanics, CEO comp structures, hyperscaler tradeoffs), and drives narrative between Jason's bullish takes and Rory's contrarian discipline. Defers heavily to Brian's HubSpot IPO experience.",
+  "topics": ["figma", "ipo", "meta", "microsoft", "ceo-comp", "hyperscalers", "smb", "capital-markets"],
+  "sponsor_read_count": 2,
+  "notable": "Brian Halligan's real-time IPO experience (pricing committee dynamics, Fidelity negotiations, the 6-hour settlement period on NYSE floor) grounds abstract VC theory in lived founder reality; extended behind-the-scenes narrative rarely aired publicly."
+}

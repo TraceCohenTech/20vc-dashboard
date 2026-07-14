@@ -1,0 +1,33 @@
+{
+  "approx_date": "Jun 2025",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll"],
+  "stories_covered": [
+    "Nat Friedman and Daniel Gross join Meta",
+    "Harvey legal AI raises at $5B valuation",
+    "Canva delays IPO despite 3B+ ARR",
+    "Navan files for IPO",
+    "Circle IPO pops then spirals upward to 57x revenue",
+    "Oracle buyback strategy shifts to CapEx under Larry Ellison",
+    "Replit raises with 10-100M ARR in 5.5 months",
+    "Loveable, Cluely, and AI developer tool competition",
+    "Ligora legal AI as Harvey competitor"
+  ],
+  "harry_takes": [
+    "Meta's acquisition of Nat Friedman and Daniel Gross is insurance spending; $100B AI M&A budget is 8% of market cap and reasonable given existential chat GPT attention risk",
+    "California non-compete laws enable talent arbitrage and knowledge transfer unlike other states with enforcement; this allows founders to monetize insider knowledge",
+    "Canva's delay is rational because they're cash-flow positive and can buy out investors without IPO; being post-capital removes urgency",
+    "The legal AI market is over-segmented by practice area; true value only emerges if AI eats the work, not just augments productivity"
+  ],
+  "harry_boldest_quote": "I wouldn't know what to do. I hate working with someone else. I would be miserable doing that.",
+  "predictions": [
+    "Jason: Harvey will become valuable only if it eats lawyer work and captures that labor value; market fragmentation limits traditional legal software TAM",
+    "Lemkin: Circle will correct significantly once lockup expiration hits in six months",
+    "Rory: Navan is top 0.1% but concentration only works with generational companies at attractive prices",
+    "Consensus: IPO supply surge will continue; 62% more IPOs this year, all will likely go public in next 12 months"
+  ],
+  "disagreements": "Harry emphasizes Canva can stay private indefinitely with strong cash generation, while Lemkin notes the math of buyouts and private perpetuity is legitimate but unusual. On Harvey's market size, Rory worries about fragmentation killing value while Jason argues the only path to returns is eating lawyer labor entirely, creating a winner-take-most dynamic.",
+  "harry_role": "Harry moderates as host, asking strategic questions about Meta's rationale, legal tech market dynamics, and IPO timing. He pushes back on conventional wisdom (why IPO when you're printing cash?), shares personal vulnerability about joining Meta ($1B wouldn't be enough), and synthesizes panelist views into broader market themes.",
+  "topics": ["acquisition", "meta", "talent-acquisition", "legal-ai", "ipo", "canva", "circle", "meme-stocks", "oracle", "larry-ellison", "ai-wrapping", "leverage-beta"],
+  "sponsor_read_count": 9,
+  "notable": "Harry reveals he was offered $75M for 20VC Media but chose not to sell after his mother's wisdom test. Discussion of 'Leverage Beta' theme: companies lie about AI product quality early, burn marketing budget to claim territory, then fill in engineering as models improve—Harvey/Loveable playbook."
+}

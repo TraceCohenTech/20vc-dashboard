@@ -1,0 +1,26 @@
+{
+  "guest": "Angela Strange",
+  "guest_role": "General Partner at Andreessen Horowitz",
+  "approx_date": "Aug 2021",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks exploratory questions and references his own observations ('I often have found as like...'), but doesn't challenge Angela's regional thesis; instead, he probes to understand it more deeply and collaboratively.",
+  "question_style": "Harry asks clarifying questions grounded in Angela's published article ('you wrote a fantastic piece, and I wanted to deconstruct it'). He asks strategic 'when' questions ('when's the right time to expand?') and provocative 'why' questions ('why is that wrong?') but frames them as co-explorers seeking truth rather than skeptics testing claims.",
+  "tone": "Warm, collaborative, peer-intellectual. Harry references reading Angela's article and wanting to 'deconstruct' it together. The energy is less about grilling or testing, more about mining expertise. Harry even acknowledges 'moving away from the schedule' because the conversation is flowing well.",
+  "depth": "Exceptional depth on LATAM fintech market dynamics: country-level diversity, expansion timing, regulatory/infrastructure differences, bank concentration and profitability, customer acquisition costs (distribution), service costs (infrastructure), cash economy percentages, pandemic acceleration, incumbent response models, exit environment maturity, and LP misconceptions. Grounded in portfolio companies (Nubank, Pomelo, Addy, Jeeves) and pattern recognition across geographies.",
+  "harry_quotes": [
+    "How did you make your way into the world of venture?",
+    "Are you seeing the same division, should we see Latin as one big block?",
+    "When's the right time to think about expanding those ancillary markets?",
+    "What do you think is the biggest misnomer about the region?"
+  ],
+  "learnings": [
+    "Market size alone doesn't predict success—execution capability and founder conviction matter more; a 45-50M-person country can support billion-dollar fintech if tackled with strong product-market fit and focus.",
+    "Local founders have structural advantages (survival instinct vs. hunting for dinner) that create asymmetric speed; international players compensate through capital/experience but can't fully replicate this by parachuting in.",
+    "Cash economy in LATAM was driven by trust, education, and merchant incentives—pandemic forced digital adoption 10-20 years ahead of schedule, creating concentrated opportunity for fintech.",
+    "Ecosystem matures in predictable layers (seed→A→B→C→IPO); early investors worry about follow-on rounds, but as companies succeed and exit, LPs gain confidence, attracting later-stage capital."
+  ],
+  "topics": ["fintech", "Latin America", "market expansion", "bank competition", "infrastructure", "distribution costs", "cash economy", "founder conviction", "exit environments", "ecosystem maturity", "cross-border challenges"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Angela's unconventional path: grew up in Ottawa wanting to be accountant → mechanical engineering → Oliver Wyman consulting → ranked 7th in Canada for marathons, tried for Olympics → GSB student → Google Chrome PM (iOS/Android) → a16z fintech. Brother David at Nubank (a significant early miss due to macro uncertainty). Advocates for 'The More You Know' rereading every 5 years. Emphasizes that best employees often become worst CEOs and vice versa (reframes references process). Believes talent will flow globally to LATAM opportunities as ecosystem demonstrates scale."
+}

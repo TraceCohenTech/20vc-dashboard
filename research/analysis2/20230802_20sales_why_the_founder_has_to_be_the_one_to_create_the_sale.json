@@ -1,0 +1,26 @@
+{
+  "guest": "Lori Jimenez",
+  "guest_role": "Chief Revenue Officer at WorkRamp",
+  "approx_date": "Aug 2023",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks prepared, structured multi-part questions and occasionally pushes with blunt follow-ups (e.g. on hiring two at once, discounting, testimonials) but never really contests her answers.",
+  "question_style": "Mostly open, structured questions moving through a clear checklist (playbook, hiring, comp, forecasting); he occasionally injects a contrarian or blunt framing ('Ridiculous suggestion', joking about Jason Lemkin's 'Hunger Games' hiring advice) but largely lets her answers stand unchallenged.",
+  "tone": "Matey and enthusiastic, laced with self-deprecating jokes (calling himself 'Ricky Gervais of venture'), genuine fandom for the guest's career, casual banter throughout.",
+  "depth": "Goes deep on sales operating mechanics — playbook ownership, hiring/vetting frameworks, MEDDIC-style qualification, forecasting rigor, deal reviews, discounting trade-offs, and churn signals — tracking specific tactical and process-level detail rather than staying abstract.",
+  "harry_quotes": [
+    "Do you think sales is something that you instantly fall in love with?",
+    "Should we hire more than one at a time?",
+    "What's a good reason to lose a deal versus a bad reason?"
+  ],
+  "learnings": [
+    "Founders should build the initial sales playbook themselves since they best understand the product's why and can adapt it as customer feedback comes in.",
+    "Early sales hires should be assessed on curiosity and how they navigated past losses, not just polished pitches or big-name logos on a resume.",
+    "Multi-threading a deal should start by getting buy-in from the existing champion rather than going around them to find other stakeholders.",
+    "Discounts should always be traded for something of value back, like referenceable customers or introductions, not given away for free.",
+    "Forecast rigor needs to be applied consistently in good and bad quarters, not just inspected harder when numbers are down."
+  ],
+  "topics": ["sales", "hiring", "sales playbook", "forecasting", "customer success", "deal reviews"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "This is a 20Sales spinoff episode (not the main 20VC show) focused entirely on go-to-market tactics rather than venture investing."
+}

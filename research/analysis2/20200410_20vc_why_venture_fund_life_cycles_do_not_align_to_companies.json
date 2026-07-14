@@ -1,0 +1,31 @@
+{
+  "guest": "Blake Scholl",
+  "guest_role": "Founder and CEO, Boom Supersonic",
+  "approx_date": "Apr 2020",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks thorough, well-prepared multi-part questions and occasionally injects his own framing or personal insecurities for Blake to respond to, but he never contests or challenges Blake's claims and stays in fan-admiring, receiving mode throughout.",
+  "question_style": "Mostly open-ended, expansive questions ('how did you...', 'what deliberate choices...') delivered in multi-sentence, prepared form, often crediting other investors (Josh Buckley, Ray Tosing) for suggesting them. Harry occasionally plants a light thesis of his own (e.g. 'the best deals are contrarian... tens and ones mean you should write me a check') and asks close follow-ups ('Do you drive the conversation now...'), but never pushes back or contests Blake's answers.",
+  "tone": "Warm, effusive and fan-like ('my word', 'I love that', 'thrilled to welcome him to the hot seat') with frequent flattery and personal self-deprecation about his own inexperience as a non-engineer VC; conversational and matey rather than formal.",
+  "depth": "Covers strategic/company-building topics in real depth (fund time-horizon mismatch with long-cycle hardware startups, culture design, hiring without domain expertise, executive team building, founder psychology) but stays at a business/strategic level rather than probing supersonic engineering or aerospace technical specifics.",
+  "harry_quotes": [
+    "How was the fundraising experience for you?",
+    "Do you drive the conversation now and set the discursive threads?",
+    "What are your insecurities today?",
+    "Who was the first check-in to boom and how did it come about?"
+  ],
+  "learnings": [
+    "Long-horizon hardware startups (10-15 year paths to revenue) are structurally mismatched with typical venture fund lifecycles, pushing early capital toward wealthy individual angels rather than institutional funds.",
+    "Founders benefit from picking missions tied to personal motivation strong enough to survive years of setbacks, rather than optimizing purely for market size.",
+    "Recruiting exceptional talent in a new domain can be done by recursively asking insiders 'who's the best person you know' and leveraging referral chains rather than pre-existing network access.",
+    "A blunt filter question ('teach me something') in interviews selects for people who are both deep experts and able to communicate/teach, which compounds into an internal knowledge-transfer culture.",
+    "Company culture should be deliberately designed around what a specific mission requires (e.g., extreme perseverance for a 15-year timeline) rather than copied wholesale from admired companies.",
+    "Outsiders to an industry can have an advantage because incumbent conventional wisdom is often wrong and unexamined, but they must rapidly burn down their own naivety once inside.",
+    "Preparing in advance for inevitable macro shocks (holding over a year of runway) let the company weather the COVID-19 downturn without panic.",
+    "Employees who scale into bigger roles tend to be humble and quick to seek advice, while overconfident people tend to get blindsided by unfamiliar challenges."
+  ],
+  "topics": ["fund mechanics", "hardware/deep tech", "hiring", "culture", "fundraising", "founder psychology"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "The episode is framed around crediting other VCs (Josh Buckley, Ray Tosing) for supplying several of the questions Harry asks live on air.",
+  "title_mismatch_note": null
+}

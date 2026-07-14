@@ -1,0 +1,28 @@
+{
+  "guest": "Jana Messerschmidt",
+  "guest_role": "Investor at Lightspeed Venture Partners",
+  "approx_date": "Sep 2019",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared follow-up questions on fundraising metrics, cap tables, and leverage but never challenges Jana's frameworks; remains receptive and aligned throughout.",
+  "question_style": "Prepared multi-sentence questions with substantive follow-ups on founder metrics, Series A readiness, cap table construction, leverage, and diversity. Harry asks exploratory questions ('What if the numbers aren't there?') but doesn't push back or plant alternative theses. Very collaborative and learning-focused.",
+  "tone": "Warm, admiring, and collaborative. Harry frequently affirms Jana ('I couldn't agree more', 'I absolutely love that'). Shows genuine interest in her expertise from operating (Netflix, Twitter) and angel investing backgrounds. Less formal than typical investor episodes; more like a mentee seeking guidance.",
+  "depth": "Tracks founder fundraising strategy (metrics-first approach, velocity of growth curve, series-specific metrics), cap table construction (lead/co-lead plus strategic angels, hiring analogy), founder leverage mechanics, investor reference-checking, diversity in cap tables (The Gap Table research: women 33% of workforce but 9% of equity), specific metrics for different business models (D2C, subscription, consumer social), and distribution advantages as competitive moat.",
+  "harry_quotes": [
+    "Should founders always be raising?",
+    "Would you be impressed if they had milestones to reach Series A clearly articulated in the deck?",
+    "What if the numbers aren't there?",
+    "What are the biggest consideration points to founders when constructing that cap table?"
+  ],
+  "learnings": [
+    "Founders are always raising until profitable; the top-level goal is hitting metrics for the next round, yet most founders lack clarity on what those metrics are",
+    "Netflix's culture deck operationalized freedom by maintaining high talent bar and trusting employees on expense/judgment calls; context (goals + why) beats control (micromanagement)",
+    "Founder leverage in fundraising stems from compelling metrics and competitive process; without strong metrics, founders must tell credible story about team's ability to execute explosive growth",
+    "Cap table construction mirrors hiring: evaluate each investor (founder, angel, VC) for differentiated value (networks, operating expertise, founder empathy); reference-check angels explicitly",
+    "Women hold 9% of tech company equity despite 33% of workforce; fixing gap requires more female founders, female engineers hired early, female executives, and female investors",
+    "Sustainable consumer companies find distribution advantage outside paid advertising (celebrity networks for Cameo, physical product for Bird/Lime, platform integrations, remote control placement at Netflix)"
+  ],
+  "topics": ["fundraising", "founder metrics", "founder leverage", "cap table construction", "investor selection", "angel investing", "female representation", "venture capital", "distribution strategy", "D2C brands", "consumer subscription", "negotiation"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Jana draws heavily on Netflix's culture philosophy (freedom + responsibility, context vs. control, high-performance teams rejecting 'brilliant jerks'). The Gap Table research (6,000+ cap tables, 180,000+ employees) quantifies gender equity gap and motivated specific founder action (Henry Ward's $8M allocation at Carta). Episode includes cultural moment: Love Island (UK reality show) mentioning Fortnite as marker of gaming adoption."
+}

@@ -1,0 +1,22 @@
+{
+  "guest": "Armon Dadgar",
+  "guest_role": "Founder and CTO, HashiCorp",
+  "approx_date": "Aug 2018",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry raises a real challenge (VC skepticism on infra economics, capital intensity of multi-product strategy) and asks the guest to defend against it, but mostly frames questions from investors rather than his own contested thesis.",
+  "question_style": "Structured, prepared questions (many explicitly sourced from named investors), with a couple of pointed challenges ('why am I an idiot for thinking that?' on capital intensity); Harry admits going off-script and follows the guest's answers closely rather than interrupting.",
+  "tone": "Enthusiastic and admiring, informal ('stalked you for the past 48 hours'), light banter, ends on a personal note about the guest coming out as gay.",
+  "depth": "Goes deeper than surface level into open-source business model mechanics: professional-services margin traps, multi-product go-to-market economics, timing product-market fit signals, and founder-to-CEO transition mechanics.",
+  "harry_quotes": ["Why am I an idiot for thinking that?", "What's the secret to this kind of continuous successful product development?", "How did you navigate that and really buck the conventional wisdom?"],
+  "learnings": [
+    "HashiCorp's founders built tools to solve their own operational pain first, using personal conviction (not market signals) to persist through long 'flatline' adoption periods before growth turned exponential.",
+    "They deliberately avoided professional services revenue because it creates a margin drag and a misaligned incentive to leave products under-baked.",
+    "Rather than focusing on one product, HashiCorp bet that infra buyers face many adjacent problems simultaneously, so a multi-product suite reduces integration burden for customers and creates natural cross-sell.",
+    "The founders proactively recruited an outside CEO once they decided to target the Global 2000, recognizing their own skills were suited to product, not enterprise go-to-market.",
+    "Dadgar treats communication as a practiced skill improved through deliberate writing/editing (cutting a 10-page draft down to one page) and wide reading."
+  ],
+  "topics": ["open source", "infrastructure", "b2b saas", "fundraising", "ceo transition", "product strategy"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Harry admits at the close that he went completely off-script for most of the interview because he found the conversation so engaging."
+}

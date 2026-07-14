@@ -1,0 +1,31 @@
+{
+  "approx_date": "Oct 2025",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll"],
+  "stories_covered": [
+    "OpenAI restructures as PBC, enabling future IPO",
+    "Andreessen Horowitz raises $10B across four fund verticals",
+    "Mercor hits $500M revenue in 17 months, raises $350M at $10B",
+    "Synthesia turns down $3B Adobe acquisition",
+    "Sam Altman owns zero shares in restructured OpenAI",
+    "Navan IPO pricing and weak first-day performance",
+    "Harvey raises $150M at $8B from Andreessen"
+  ],
+  "harry_takes": [
+    "OpenAI's conversion to PBC structure removes the last corporate-structure barrier between it and becoming the most popular retail IPO of all time",
+    "A16z's $10B raise represents a systemic advantage not just capital but media presence, brand gravity, and option value on follow-on rounds",
+    "The venture game has split into two distinct plays: early-stage bet on massive TAM companies, or late-stage quasi-public investment where returns are public-market-like",
+    "Ownership percentages have become irrelevant at mega scales; what matters is whether you're in the winner, not what percentage you own"
+  ],
+  "harry_boldest_quote": "I just can't think of a retail IPO that would be more popular than OpenAI.",
+  "predictions": [
+    "O'Driscoll: OpenAI could reach $2 trillion valuation on public markets if current growth rate continues",
+    "Panel: OpenAI may need another $200-300B in equity capital to execute full vision, now possible after structure change",
+    "Lemkin: Companies raising at high late-stage valuations are accepting public-market return profiles, not venture returns",
+    "Lemkin: Synthesia should have sold for $3B despite future potential; founders often regret not taking acquisition offers"
+  ],
+  "disagreements": "Lemkin argues small VCs cannot compete with mega-funds on seed deals; O'Driscoll counters that ownership percentage doesn't determine winner selection, media presence and founder relationships do. Lemkin maintains scale enables different pricing power through optionality.",
+  "harry_role": "Moderating debate over A16z's structural advantages vs. skill-based competition. Stebbings drives narrative toward bifurcation of venture into mega-winner bets vs. public-like late-stage investing. Presses panelists on OpenAI's $2T IPO potential.",
+  "topics": ["openai", "a16z", "venture", "ownership_dilution", "fundraising", "ipo", "ai_infrastructure"],
+  "sponsor_read_count": 3,
+  "notable": "Sam Altman owns zero shares in OpenAI despite being CEO post-restructuring—unprecedented for founder-led company and suggests either unusual founder incentives or board control structure that diverges from typical startup equity alignment."
+}

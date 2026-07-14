@@ -1,0 +1,29 @@
+{
+  "guest": "Ashton Kutcher",
+  "guest_role": "Founder and General Partner at Sound Ventures",
+  "approx_date": "Feb 2020",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks prepared, curious questions about investing thesis and sourcing, and follows up genuinely. He probes on challenges transitioning to larger checks and on fund scaling, but frames all as learning questions rather than challenges.",
+  "question_style": "Opens with personal journey before diving into investing philosophy. Harry asks about how entertainment background shapes investing, about sourcing methodology, and about scaling from angel to institutional. Follow-ups show genuine curiosity. No challenge or pushback to assertions; frames concerns as learning queries.",
+  "tone": "Warm and collegial, with genuine curiosity about Ashton's mindset. Harry admits to being young (23) and unfamiliar with fatherhood. Shows vulnerability by asking for advice. Self-deprecating about his own boring home screen. Energy is collaborative discovery.",
+  "depth": "Deep exploration of investing thesis derived from cultural trends (Me Too, streaming, fertility), sourcing methodology (phone home screens, Twitter patterns), product intuition (appallification, UX simplification), value-add services (distribution, branding, PR, product, growth), and scaling challenges (check sizes, time allocation, fund structure).",
+  "harry_quotes": [
+    "How did you make your way into the world of tech and come to found Sound?",
+    "How does that very different perspective color your investment strategy?",
+    "How do you build strong intuition about products in areas where you're not familiar?",
+    "Where do you find yourself most naturally drawn to spending time with your founders on?"
+  ],
+  "learnings": [
+    "Cultural trends precede technological solutions; observing macro movements (Me Too, streaming adoption, fertility awareness) reveals future demand patterns and points to underserved markets.",
+    "Behavioral sourcing (phone home screens, Twitter audience patterns) reveals actual usage, not claimed usage, enabling pattern recognition across thousands of data points.",
+    "Product excellence balances friction and simplicity: highlight the highest-value user action (e.g., photo button in Instagram), simplify its path, and add friction to discourage undesired actions.",
+    "Vulnerability disarms power dynamics; showing your humanity helps founders see you as a person rather than a celebrity, enabling authentic dialogue.",
+    "Distance traveled (relative personal growth) is a better predictor of founder grit than absolute circumstances; it measures resilience across different starting points.",
+    "Fund scaling requires rethinking time economics; at $1-5M check sizes, fund partners must allocate 40%+ time to existing portfolio to justify carry structure, or angel investing becomes more profitable.",
+    "Narrative/storytelling is the core differentiator for investors with media backgrounds; it cascades into mission, sales strategy, and behavior during chaos."
+  ],
+  "topics": ["venture-investing", "angel-investing", "cultural-trends", "product-design", "distribution", "branding", "fundraising", "sourcing", "media-background", "consumer-behavior"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": null
+}

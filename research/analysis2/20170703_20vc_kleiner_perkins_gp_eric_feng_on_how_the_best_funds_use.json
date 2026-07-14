@@ -1,0 +1,27 @@
+{
+  "guest": "Eric Feng",
+  "guest_role": "General Partner at Kleiner Perkins; co-founder of Packaged (former CTO of Flipboard)",
+  "approx_date": "Jul 2017",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks prepared, multi-sentence questions and occasionally plants his own thesis for Eric to confirm, but he never contests or pressure-tests Eric's answers, mostly receiving and agreeing.",
+  "question_style": "Mostly open, well-researched questions with some leading framing where Harry states his own view (e.g. on incumbents' M&A advantage, on the need to stay 'ahead of the curve') and asks Eric to agree; no interruptions, no real pushback, and Eric readily affirms each framing.",
+  "tone": "Warm, matey, and fan-like — heavy praise of Kleiner Perkins and Eric's background, some self-deprecating banter ('why aren't you throwing yourself off a bridge'), high energy and enthusiasm throughout.",
+  "depth": "Mostly strategic/thesis-level rather than technical: covers consumer investing lulls, distribution/incumbent dynamics, transactional vs ad business models, and KP's internal data-tooling edge, but doesn't probe technical mechanics of the tools or metrics in detail.",
+  "harry_quotes": [
+    "Are we in a bit of a consumer lull in your eyes?",
+    "Okay. So Eric, why aren't you throwing yourself off a bridge?",
+    "What would you most like to change in the world of VC?"
+  ],
+  "learnings": [
+    "Eric argues consumer breakout hits have stalled since Snapchat (2011) mainly because free distribution channels (SEO, App Store, social platforms) are now saturated and pay-to-play.",
+    "Today's tech incumbents grew up during the disruption era themselves, so they recognize threats early and respond via acquisition or direct copying, making them far harder to blindside than prior-generation giants like IBM or Yahoo.",
+    "Commerce and content are merging — apps like OfferUp show browsing-driven marketplaces generating session times rivaling media and social apps.",
+    "Falling payment friction (Apple Pay, Venmo, Stripe) is reviving transactional business models as a better fit for early-stage startups than ad-based models, which require massive scale to work.",
+    "Kleiner Perkins invests in proprietary internal data tooling (app store signals, transaction data trends) to find an investing edge, similar to firms like Signal Fire, Goodwater, and Google Ventures.",
+    "Feng views consumer investing as binary — once product-market fit is proven, entry price barely matters, favoring a barbell strategy of investing either very early or after clear inflection, regardless of valuation."
+  ],
+  "topics": ["consumer tech", "venture capital", "fund strategy", "distribution", "m&a", "business models"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Includes an extended personal-history segment about Feng meeting Al Gore through Kleiner Perkins, which led to him joining the firm."
+}

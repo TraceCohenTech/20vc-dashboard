@@ -1,0 +1,26 @@
+{
+  "guest": "Stefan Glaenzer",
+  "guest_role": "Founding Partner of Passion Capital",
+  "approx_date": "Mar 2015",
+  "assertiveness": 2,
+  "assertiveness_why": "Harry asks open, prepared questions in sequence with light follow-ups but never challenges or contests any of Stefan's claims.",
+  "question_style": "Mostly open-ended and list-driven (background, stage focus, check size, red flags, quickfire), with occasional clarifying follow-ups (e.g. equity percentage, meeting numbers) but no pushback or planted counter-thesis.",
+  "tone": "Warm, deferential and enthusiastic ('an absolute pleasure to have you on the show'), fairly formal structure but friendly delivery, brief expressions of surprise ('Wow, 700').",
+  "depth": "Mostly surface-level operational questions (check size, equity taken, meeting cadence, deal flow volume) with a bit of sector depth on fintech/p2p lending, but no technical or strategic pressure-testing.",
+  "harry_quotes": [
+    "What's your preferred stage to enter into an investment?",
+    "Have you ever passed on a company which later you've regretted?",
+    "The hardest decision you've had to make in your career."
+  ],
+  "learnings": [
+    "Passion Capital deliberately focuses only on seed stage, usually being the first institutional check after friends-and-family money.",
+    "A co-working space that portfolio founders use lets the fund monitor progress informally instead of relying on frequent formal board meetings.",
+    "Referral-based introductions dominate which pitches actually get a meeting, despite thousands of inbound applications per year.",
+    "A crowded competitive-landscape slide where the founder's own company sits conveniently in the top-right corner is treated as a red flag.",
+    "Financial services is attractive to investors because incumbents are large, slow-moving and have treated customers poorly, creating room for disruption."
+  ],
+  "topics": ["seed investing", "fund mechanics", "fintech", "deal flow", "pitching", "red flags"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 0,
+  "notable": "Episode opens with an iTunes review giveaway promotion, reflecting the show's very early grassroots growth tactics."
+}

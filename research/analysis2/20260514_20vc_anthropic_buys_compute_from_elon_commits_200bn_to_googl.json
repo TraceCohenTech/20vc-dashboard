@@ -1,0 +1,26 @@
+{
+  "guest": "Rory O'Driscoll and Jason Lemkin",
+  "guest_role": "Recurring panelists (VCs) on 20VC's weekly news-analysis roundtable",
+  "approx_date": "May 2026",
+  "assertiveness": 5,
+  "assertiveness_why": "Panel-format episode where Harry mostly moderates and prompts rather than interrogates a single guest; he does push for concrete predictions ('how is this IPO going to go') but largely lets Rory and Jason run the analysis themselves.",
+  "question_style": "Open, topic-driven prompts moving through a news agenda (Anthropic/SpaceX deal, Google compute commitment, Cerebras IPO, Ramp valuation); minimal contesting of the panelists' takes, functioning as a facilitator threading topics together rather than challenging claims.",
+  "tone": "Casual, fast-paced, laced with profanity and inside jokes between three people with long-standing rapport; enthusiastic and clearly enjoying the analysis rather than performing skepticism.",
+  "depth": "Very deep, technical financial/market analysis — cap table mechanics and SPV structures, compute economics, token-cost forecasting, IPO pricing dynamics, revenue-multiple valuation logic — sustained expert-level discussion throughout.",
+  "harry_quotes": [
+    "How's this going to play out, guys?",
+    "Do you think that is enough?",
+    "Which one do you want to pick on first there, boys?"
+  ],
+  "learnings": [
+    "Anthropic's crackdown on SPV-based secondary transfers stems from wanting to avoid legal entanglement in messy beneficial-ownership contracts among investors ahead of a likely IPO.",
+    "Anthropic's SpaceX/xAI compute deal reflects xAI effectively conceding it can't compete at the frontier and pivoting to selling excess compute capacity instead.",
+    "Panelists debate whether the best engineers need more or fewer AI tokens, with a theory that weaker 'web dev' engineers burn disproportionate tokens for low output while top engineers get outsized leverage.",
+    "The panel views the app layer atop foundation models as still contestable in vertical markets requiring workflow integration (legal, CX) but highly vulnerable in horizontal markets like marketing automation.",
+    "Public-market re-rating post SaaS-apocalypse now rewards modest 30% growth plus profitability with a return to ~5-6x revenue multiples, rather than the 20x+ multiples of 2021."
+  ],
+  "topics": ["ai", "venture capital", "public markets", "compute/capex", "ipo", "cap tables"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Panel-format weekly news roundtable (not a single-guest interview) with recurring co-hosts Rory O'Driscoll and Jason Lemkin."
+}

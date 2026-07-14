@@ -1,0 +1,30 @@
+{
+  "guest": "Hubert Palan",
+  "guest_role": "Founder and CEO of ProductBoard",
+  "approx_date": "Jan 2021",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry regularly frames his own theses (consolidation/bundling, transparency limits) and directly asks the guest to agree or push back, but rarely contests answers once given.",
+  "question_style": "Mostly open, thesis-driven questions built around named conventional-wisdom topics (founder insight, transparency, product vision); Harry frequently states his own view first ('I agree with you on that', consolidation thesis) and asks the guest to confirm or complicate it, with a couple of direct 'am I right or wrong' challenges, but he does not truly contest or re-litigate the guest's answers.",
+  "tone": "Warm, enthusiastic and fan-forward throughout ('such a joy', 'incredible', 'I love this discussion'), matey rather than formal, closes by praising the guest's 'energy and charisma'.",
+  "depth": "Strategic rather than technical — probes product strategy frameworks (persona vs. need expansion, pricing/monetization logic, product market fit timing, SaaS bundling/unbundling) with real follow-ups, but does not go into engineering or technical product-management mechanics.",
+  "harry_quotes": [
+    "So tell me what is found insight overrated?",
+    "Do you agree with me?",
+    "Am I right or am I wrong?",
+    "What relationship do you go for?",
+    "Tell me what keeps you up at night?"
+  ],
+  "learnings": [
+    "Founder insight matters less than founder flexibility, since most companies pivot away from their original insight and success depends more on willingness to change course than on stubbornly defending an early idea.",
+    "Great product organizations spread market/customer knowledge across the whole team rather than having the founder dictate direction top-down.",
+    "Bold company visions are necessary but dangerous unless broken into a deliberate, staged sequence of milestones; skipping straight to the big vision leads to running out of resources before anything is usable.",
+    "Expanding to a new use case for an existing customer persona is generally lower-risk than expanding to a brand-new persona, because a new persona brings new competitors and requires learning an entirely new set of needs.",
+    "Reaching product-market fit 'by accident' (through trial-and-error iteration without a strategic filter) is dangerous because the market will then pull the company in many directions, and without a strategic lens the product bloats trying to serve every ask.",
+    "Radical transparency builds trust and unlocks employees' problem-solving ability, but it has real limits around legal/privacy constraints and active fundraising/M&A negotiations, and it's emotionally hard because sharing bad news can demoralize a team.",
+    "ProductBoard currently prices per seat only for core product roles but sees future monetization potential in adjacent roles (sales, customer success) that also consume product information."
+  ],
+  "topics": ["product strategy", "founder mindset", "saas", "pricing", "transparency", "fundraising"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 6,
+  "notable": "Harry explicitly credits Sequoia's Ilya (Elad) Gil/Kleiner Perkins-adjacent contacts and Sequoia's Andrew for supplying some of the interview questions in advance."
+}

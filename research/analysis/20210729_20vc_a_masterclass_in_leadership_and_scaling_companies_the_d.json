@@ -1,0 +1,26 @@
+{
+  "guest": "Christa Cuales",
+  "guest_role": "CEO at Corral Corporation",
+  "approx_date": "Jul 2021",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks prepared operational questions with follow-ups ('how long do you give it as a test?', 'how do you know when a stretch is stretch too far?') and probes for specifics rather than accepting surface answers. He engages with examples but doesn't challenge Christa's reasoning.",
+  "question_style": "Harry asks operational and strategic questions that dig into specifics ('you said that about like give the street away for free—when you have a new initiative, how long do you give it?'). He solicits concrete examples and asks follow-ups to understand decision-making logic. Collaborative rather than adversarial; he's exploring alongside her.",
+  "tone": "Warm, collaborative, genuinely engaged. Harry explicitly states 'I absolutely conversations like this, which is why I love this so much, not touching the schedule.' He's impressed by Christa's operational insights and treats her as a peer mentor on leadership. The energy is energetic and reciprocal rather than deferential.",
+  "depth": "Exceptional operational depth. Covers company scaling breakpoints (50, 150, 500, 2,000, 10,000 people), culture as decision-making framework, risk-taking incentives (what gets rewarded matters more than what's forbidden), testing and learning loops, Dunbar's number, delegation frameworks, CEO-only decisions (mission, exec team, board relations), corner-cutting vs detail obsession, and building psychological safety. Grounded in specific examples from Playdom, Disney, OpenTable.",
+  "harry_quotes": [
+    "What was your entry point into the world of tech?",
+    "How did you look at your time at Disney impact how you think about leadership?",
+    "When you have a new initiative, how long do you give it as a test?",
+    "How do you know when a stretch VP is a stretch too far?"
+  ],
+  "learnings": [
+    "Companies hit predictable breaking points as they scale (50, 150, 500, 2k, 10k people); leadership systems and communication must evolve at each inflection point or the org becomes mired/broken.",
+    "Culture is how people make decisions when you're not in the room; what gets spotlighted and promoted matters more than policies—explicitly celebrating calculated risk-takers shapes behavior.",
+    "Psychological safety is foundational to performance; people in fear lose 40-50 IQ points and become worse workers; inclusion and play enable innovation.",
+    "CEOs have three irreducible decisions: (1) craft narrative/mission, (2) build exec team, (3) manage board relations; everything else should be delegated to free attention for these."
+  ],
+  "topics": ["operational leadership", "company scaling", "organizational design", "culture", "delegation", "risk management", "people management", "board dynamics", "psychological safety", "decision-making frameworks"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Career arc spans banking → Playdom (pre-Zynga) → Disney (Iger mentorship, Lucas acquisition) → OpenTable (cloud migration, network effects) → Corral turnaround. Emphasizes being 'stuck' in bad environment and needing to 'let go' to move forward; references lizard-brain amygdala shutdown from fear; 'plate adders vs plate removers' framework; yoga practice for cognitive refresh; advice to younger self: 'it's all gonna be okay, chill out.'"
+}

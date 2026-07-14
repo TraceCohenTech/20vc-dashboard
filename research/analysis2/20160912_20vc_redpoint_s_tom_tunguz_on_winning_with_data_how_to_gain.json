@@ -1,0 +1,27 @@
+{
+  "guest": "Tom Tunguz",
+  "guest_role": "Partner at Redpoint Ventures, author of 'Winning with Data'",
+  "approx_date": "Sep 2016",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks substantive, well-prepared follow-ups and occasionally voices his own reservation (on data vs. human emotion in hiring), but never truly contests Tunguz's claims and stays in fan/receiving mode throughout.",
+  "question_style": "Mostly open-ended, topic-seeded questions built off specific passages in the book, with natural follow-ups that build on the prior answer rather than pure Q&A; Harry occasionally interjects a personal reservation (e.g. on emotion vs. data in hiring) but frames it gently rather than as a challenge, and he does not interrupt or contest Tunguz's claims.",
+  "tone": "Warm, matey, and openly fannish (repeatedly praises the book as one of the best he's read in years); light joking rapport (an aside referencing Jason Lemkin) and clear familiarity from a prior appearance.",
+  "depth": "Goes reasonably deep into specific book concepts — data teams/data dictionary/data pipeline, structured interviewing stats (Adam Grant), and named cognitive biases (anchoring, availability, illusion of validity, Monty Hall problem) — tracking each thread through concrete examples rather than staying purely surface-level.",
+  "harry_quotes": [
+    "Why does it take so long to write the book?",
+    "Talk to me about the availability bias.",
+    "Is there a way to prevent this kind of false sense of knowledge?"
+  ],
+  "learnings": [
+    "The best data-driven companies share three structures: a dedicated data team focused on education, a single data dictionary that standardizes metric definitions across departments, and a data pipeline/supply chain that gets data to frontline employees quickly.",
+    "Unstructured interviews predict job success only slightly better than chance, but pairing structured, consistent interview questions with a standardized cognitive assessment can push predictive accuracy up dramatically.",
+    "Recruiting speed itself is a data point worth tracking — shortening the time from first contact to offer materially improves hiring outcomes.",
+    "Pure data-driven decision-making without emotion doesn't work in practice; emotion helps people act under uncertainty when information is incomplete, so successful hiring and leadership decisions still need human judgment and debate alongside the numbers.",
+    "People systematically overrate their ability to predict outcomes (illusion of validity) and overweight vivid, memorable events (availability bias); running small experiments to test assumptions is the practical antidote.",
+    "Company culture becomes data-driven when leadership asks open-ended questions and expects answers backed by data and argument rather than opinion, cascading the behavior both top-down and bottom-up."
+  ],
+  "topics": ["saas", "data analytics", "hiring", "cognitive bias", "company culture", "venture capital"],
+  "repeat_guest_callback": "Tom so fantastic to have you on the show for a second time this obviously makes you a very special guest",
+  "sponsor_read_count": 2,
+  "notable": "Harry explicitly breaks his stated rule against reading books on air, calling this the first book he's finished in about two years, underscoring his personal enthusiasm for the guest."
+}

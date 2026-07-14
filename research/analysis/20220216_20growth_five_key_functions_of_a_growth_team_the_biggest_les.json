@@ -1,0 +1,41 @@
+{
+  "guest": "Ed Baker",
+  "guest_role": "VP of Product and Growth at Uber (2013-2017), head of international growth at Facebook, angel investor",
+  "approx_date": "Feb 2022",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks detailed follow-up questions and occasionally references external frameworks (Sarah Tavell's hype subsidy critique) to probe thinking, but remains primarily in collaborative, learning-focused mode without sustained challenge.",
+  "question_style": "Exploratory, asking for examples and stories to illustrate frameworks; occasionally probes assumptions but mostly receiving; conversational requests like 'I feel terrible just keeping you on asking for examples.'",
+  "tone": "Warm, collaborative learning posture; Harry repeatedly thanks Ed for examples and shows genuine interest in frameworks; professional but personable with light self-deprecation when asking for repeated examples.",
+  "depth": "Technical deep dive into growth fundamentals (North Star metrics, K-factor, viral loops, product-market fit), growth team structure (five functional areas: product, design, engineering, marketing, data), international expansion dynamics (Japan invite→announcement cultural adaptation), two-sided marketplace constraints (supply vs demand), CEO-growth team relationships, A-B testing discipline, hiring criteria for growth leaders, and investment thesis.",
+  "harry_quotes": [
+    "What were the key lessons from your time at Facebook?",
+    "How do you advise growth leaders to determine needle movers versus nice to haves?",
+    "What would the North Star metric be at Facebook and Uber?",
+    "When's the right time for founding teams to start thinking about growth?",
+    "How should I literally structure the process of hiring a head of growth?"
+  ],
+  "learnings": [
+    "Product-market fit (organic user love, no CAC required) must precede growth team formation; premature growth hiring wastes resources on companies drilling in the wrong place.",
+    "North Star metrics must encapsulate entire business value (weekly trips = riders + drivers at Uber, MAU = all users at Facebook); different business models require different North Stars.",
+    "Needle movers are the 1-2 interventions per year driving exponential improvement; 90% of A-B tests yield micro-optimizations with negligible impact (e.g., changing button color vs adding rider-to-driver conversion button).",
+    "CEO involvement in growth (weekly deep-dive meetings, getting into the weeds) creates cultural resonance and validates team work; becomes unfeasible at scale but drives early-stage morale.",
+    "Organizational friction between growth and product grows with scale; mitigated by weekly sync meetings between leaders and 6-monthly shared roadmap planning to prevent overlap.",
+    "International expansion requires cultural adaptation, not template rollout (Japan: renaming invites to announcements increased adoption 10x by removing cultural shame).",
+    "Two-sided marketplace growth focuses on supply-constrained side; small UI changes (rider app button suggesting driver sign-up) can match all paid marketing spend combined.",
+    "Hiring experienced growth leaders requires assessing past experiments, challenge problems, and people management via 360 feedback; avoid leaders strong on metrics but weak on team building."
+  ],
+  "topics": [
+    "product-market fit",
+    "north star metrics",
+    "viral growth",
+    "growth team structure",
+    "a-b testing",
+    "international expansion",
+    "two-sided marketplaces",
+    "hiring growth leaders",
+    "ceo relationships"
+  ],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "In-depth guide to growth team structure and hiring; Ed shares specific examples including secret India credit-card-removal test that doubled conversion and contradicted CEO's directive (CEO validated data afterward); discusses five functional areas of growth teams and the challenge of managing product-growth friction at scale."
+}

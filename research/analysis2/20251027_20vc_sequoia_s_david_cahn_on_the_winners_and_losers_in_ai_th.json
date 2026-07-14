@@ -1,0 +1,33 @@
+{
+  "guest": "David Cahn",
+  "guest_role": "Partner at Sequoia Capital, AI investor (formerly General Partner at Coatue)",
+  "approx_date": "Oct 2025",
+  "assertiveness": 7,
+  "assertiveness_why": "Harry repeatedly plants his own thesis or outside data (Oracle's debt load, Mag7 concentration, Sequoia missing Helsing/Anduril, Sequoia's role in Profound's rounds) and directly asks Cahn to defend against it, explicitly framing one question as going 'hardball.'",
+  "question_style": "Mostly open, well-researched multi-part questions that build on Cahn's prior essays, but Harry frequently interjects a contrary data point or blunt challenge (debt-to-equity, buyer concentration in defense, kingmaking) and asks the guest to respond directly rather than just narrate; he rarely lets a claim pass without a follow-up test.",
+  "tone": "Warm, fannish, and familiar given the repeat-guest relationship (calls him 'dude,' jokes about his own parenting/education), but layered with genuine intellectual sparring; self-deprecating asides (his own career choices, learning to drive) lighten the pressure.",
+  "depth": "Strong technical/strategic grasp of AI infrastructure economics: compute cost curves, gross margins, gigawatt-to-dollar conversion, circular financing between hyperscalers/neoclouds/chipmakers, and venture mechanics like the '0 to 100' growth framework and capital concentration risk; tracks specific data points (Sequoia's $600B/$840B questions, Mag7 as 40% of S&P 500).",
+  "harry_quotes": [
+    "Does its contribution to GDP growth go contra your $600 billion question?",
+    "Are we going to see a mass proliferation of delays on data center construction?",
+    "Have you changed from a buyer to a seller on matter?",
+    "Do you think these deals are priming the pump, so to speak?",
+    "How would you respond to Sequoia were asleep at the wheel... defense?",
+    "Do you not worry about the concentration of buyers in that world?"
+  ],
+  "learnings": [
+    "Cahn argues the AI power/compute narrative shifted in a year from a contrarian 'atoms not bits' thesis to full market consensus, evidenced by mainstream cover stories and Altman talking in gigawatts rather than dollars.",
+    "He believes risk-absorption for AI data center financing has migrated from cash-rich hyperscalers (Microsoft, Amazon) to smaller, more leveraged players (Oracle, CoreWeave) and now to chipmakers themselves, who benefit from circular deal structures and effectively negative cost of capital.",
+    "He distinguishes consumers of compute (favorable, margin-expanding as compute gets cheaper) from producers of compute (commodity-like, cyclical), and still believes most VC capital misallocates toward producers because they need to raise more and court investors harder.",
+    "He rejects the idea that any single monopoly will emerge in AI the way Google or AWS did, arguing that because everyone already knows AI will be huge, competition will be much more intense and margins more commodity-like than in prior tech eras.",
+    "He downplays VC 'kingmaking,' arguing capital and brand shift probabilities only modestly versus founder quality and product-market fit, using Sequoia's investment in Profound as an example where the business was already thriving pre-investment.",
+    "He sees a widening gap between hyped AGI timelines pushed by junior researchers versus longer, more sober timelines (20-30 years) from foundational figures like Richard Sutton, Andrej Karpathy, and Ilya Sutskever.",
+    "On hiring, he argues visible risks (like a 23-year-old's inexperience) are overweighted compared to hidden risks (like slower-moving, less AI-native senior hires), and that AI-native young generalists are increasingly the better bet.",
+    "He frames defense tech as roughly where AI was right after the Transformer paper but before ChatGPT — real but still pre-mainstream-adoption — and predicts only a small handful of national-champion companies will win per country (citing Anduril in the US, Kela in Israel, Stark in Europe).",
+    "He believes the AI bubble, if it unwinds, will manifest as an equity correction (given AI investment is largely equity/cash funded, not debt funded) rather than a 2008-style credit crisis, though a larger share of American net worth is now in equities than ever before."
+  ],
+  "topics": ["ai bubble", "compute economics", "data center infrastructure", "venture mechanics", "defense tech", "talent/hiring", "market concentration"],
+  "repeat_guest_callback": "Our episode last year was one of the most downloaded shows. I had like the CMO of Meta tell me that it is the single show that he has forwarded to more people.",
+  "sponsor_read_count": 6,
+  "notable": "This is an explicit annual-refresh format episode where Harry systematically revisits and scores Cahn's prior-year predictions (data centers, Meta, vertical integration) before moving to new territory, a structure distinct from a typical first-time-guest interview."
+}

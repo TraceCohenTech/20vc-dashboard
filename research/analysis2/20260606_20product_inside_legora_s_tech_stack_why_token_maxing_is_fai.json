@@ -1,0 +1,30 @@
+{
+  "guest": "Jacob Lauritsen",
+  "guest_role": "CTO at Legora",
+  "approx_date": "Jun 2026",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry repeatedly plants his own thesis (bottlenecks shifting to review/product, IDE death, PM-engineer convergence) and pushes guest to confirm or contest it, and directly challenges specific claims (Cognition/Cursor's Grok tie-up, hiring forecasts) but stays warm and rarely turns adversarial.",
+  "question_style": "Mostly open, thesis-driven questions where Harry states a framework or prediction and asks Jacob to react, interspersed with rapid-fire quickfire and 'unfair' questions; he does contest specific claims (e.g. disagreeing about Cursor's independence post-xAI) and calls out a wrong past prediction on headcount, but doesn't sustain adversarial pressure.",
+  "tone": "Matey and high-energy with frequent banter, jokes, and personal ribbing (fandom for Jacob and Max, jokes about his girlfriend being a lawyer, FC Copenhagen sponsorship banter), clearly an enthusiastic investor-fan rather than neutral journalist.",
+  "depth": "Goes deep on technical/organizational topics: AI code review bottlenecks, agent guardrails, model routing/latency-vs-performance tradeoffs, token-maxing incentives, open-source model sovereignty, and scaling systems from 10x to 100x load (tabular review example), showing genuine technical fluency.",
+  "harry_quotes": [
+    "What percent of developer salary would you be willing to spend on AI tooling for them?",
+    "Do you worry that we will see a next generation of security threat",
+    "Do you think IDEs are dead?",
+    "Well, can they now post acquisition by Grok?",
+    "How many engineers do you have today?"
+  ],
+  "learnings": [
+    "As AI makes writing code nearly free, the real bottlenecks shift to product scoping/discovery and code review, so orgs should focus efficiency efforts there instead of coding speed.",
+    "Engineers' core job is shifting from writing code to system-level design and to a new meta-engineering role of building tooling/guardrails that make AI agents effective and safe.",
+    "Rewarding raw token usage (leaderboards) backfires by incentivizing wasteful 'token maxing'; instead reward measurable output and efficiency via hack days and demos.",
+    "Legora treats model choice as commoditized infrastructure — the product's value lies in domain primitives, enterprise features, and model routing, not the underlying model itself.",
+    "For most of Legora's use cases (legal work), performance/quality is prioritized over latency since users can tolerate longer wait times for better output.",
+    "Underinvesting in developer experience and underestimating headcount/scale needs were the CTO's biggest self-identified mistakes; he now designs systems to scale 100x rather than 10x.",
+    "Low-ego hiring is what makes rapid team integration (including acqui-hires) work smoothly, since title/seniority disputes are the main source of friction."
+  ],
+  "topics": ["ai coding tools", "engineering management", "product-engineering convergence", "model strategy", "hiring", "legal tech", "token economics"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "This is a '20Product' spinoff format episode (not standard 20VC), featuring a live headcount forecasting bet and a callback to a prior Legora marketing campaign (the Jude Law 'Taste of Blood' ad) discussed as an inside joke."
+}

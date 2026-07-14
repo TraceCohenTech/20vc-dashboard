@@ -1,0 +1,30 @@
+{
+  "guest": "Samir Vasavada",
+  "guest_role": "Co-founder and CEO of Vise",
+  "approx_date": "Jun 2024",
+  "assertiveness": 8,
+  "assertiveness_why": "Harry repeatedly plants blunt challenges and his own theses (calling the fundraising pace 'fucking ridiculous', asking if hiring senior execs was 'bad parenting' by VCs, pressing on secondary sales and burn) and demands the guest defend or take accountability rather than just narrating the story.",
+  "question_style": "Mostly open, narrative-inviting questions but interspersed with sharp, leading challenges where Harry states a strong opinion first ('three rounds in six months is fucking ridiculous') and asks the guest to respond; he interrupts with pointed follow-ups and often re-asks 'why' or 'did you regret' to push past a polished answer.",
+  "tone": "Casual and matey, with frequent profanity and blunt language, high energy, clearly personally invested in the guest ('I've known you for a while'), self-aware about the episode being a different, more confrontational profile format.",
+  "depth": "Goes beyond surface fundraising narrative into cap-table mechanics, preference stacks vs. valuation, board incentive dynamics, executive-hiring failure modes, founder psychology/identity fusion with the company, and secondary-sale incentive structures — tracks financial-structuring detail (liquidation preferences, dilution) closely.",
+  "harry_quotes": [
+    "Do you regret raising as much money as quickly?",
+    "I mean three rounds in six months is fucking ridiculous",
+    "Was the valuation a problem?",
+    "Do you not think that is bad parenting?",
+    "Did you sell secondary?"
+  ],
+  "learnings": [
+    "Raising very large sums quickly removes the existential pressure that normally forces financial discipline, leading to overhiring and overspending without a matching increase in execution speed.",
+    "Bringing in senior executives from already-scaled big-tech companies backfired because those hires had never had to find product-market fit and instead imported playbooks unsuited to an early-stage company still searching for its model.",
+    "A single investor owning a very large stake reduces the diversity of perspective in the boardroom compared to spreading a round across multiple investors.",
+    "Founders should act fast on termination decisions rather than delaying, since a small team needs every member performing at a high bar, unlike a large organization that can absorb underperformers.",
+    "What determines real financial outcomes in an exit is the size of the liquidation preference stack relative to cash on hand, not the headline valuation.",
+    "Taking a modest amount of personal secondary can provide healthy psychological stability, but too much liquidity early can remove the productive discomfort that drives a founder to keep pushing.",
+    "Rapid, unearned success can attract fair-weather relationships (investors and hires) who disengage once the company is no longer the trendiest name, while true motivation should come from proving something to oneself rather than external validation."
+  ],
+  "topics": ["fundraising", "hypergrowth", "executive hiring", "founder mental health", "wealthtech", "cap table structure"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "This is explicitly framed by Harry as a departure from the standard 20VC interview format — a company/founder profile episode built around a frank retrospective of mistakes rather than a typical VC-guest conversation."
+}

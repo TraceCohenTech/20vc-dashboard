@@ -1,0 +1,27 @@
+{
+  "guest": "Suranga Chandra-Tillake",
+  "guest_role": "General Partner, Balderton Capital",
+  "approx_date": "Nov 2015",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks thoughtful exploratory questions but never challenges Suranga's positions or introduces alternative viewpoints; purely receiving stance throughout.",
+  "question_style": "Open-ended and intellectually curious. Harry explores Suranga's background, CEO traits, technology trends, and fund structure. Questions are prepared and multi-layered but never adversarial. He follows up on answers but doesn't push back or plant competing theses.",
+  "tone": "Respectful and admiring. Harry clearly reveres Suranga's track record (Autonomy CTO, Blinks founder). The conversation feels like a masterclass rather than peer dialogue. Energy is warm but formal, with deference to expertise.",
+  "depth": "Philosophical and strategic. Harry drills into CEO qualities, technology shifts (VR, drones, AI), societal impact of technology (gig economy parallels to industrial revolution), and Balderton's unusual equal partnership structure. Focuses on framework and principle rather than specific portfolio companies.",
+  "harry_quotes": [
+    "Now I'd love to dive into your background, so can you give us a brief snapshot of the Siranga story?",
+    "Why do you think there is this kind of slightly fearful trait in prominent European technical CEOs?",
+    "Which CEO would you say you respect and admire the most personally?",
+    "And are you altering your investment strategy then accordingly to those sectors?"
+  ],
+  "learnings": [
+    "Great CEOs combine visceral product understanding with judgment about when to lead decisively versus delegate; this often comes from hands-on experience, not credentials.",
+    "Major technology revolutions enable new business models when underlying infrastructure (computing power, sensors, connectivity) becomes affordable enough to solve previously impossible problems.",
+    "Equal partnership structures in venture firms reduce destructive internal politics by eliminating hierarchy and competitive promotion races between partners.",
+    "Technology is driving societal shifts comparable to the industrial revolution—new work patterns (gig economy, remote work) require different tools and business models.",
+    "Venture capital success often comes from people who bring prior operational or entrepreneurial experience rather than following a linear analyst-to-partner career track."
+  ],
+  "topics": ["venture capital", "balderton capital", "ceo traits", "european entrepreneurship", "artificial intelligence", "virtual reality", "gig economy", "fund structure"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 1,
+  "notable": "Suranga unusually connects technology entrepreneurship to historical economic shifts (industrial revolution parallels); the Balderton equal partnership model is genuinely novel for 2015 venture discourse."
+}

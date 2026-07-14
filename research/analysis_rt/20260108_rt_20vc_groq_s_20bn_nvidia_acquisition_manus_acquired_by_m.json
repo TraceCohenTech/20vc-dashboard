@@ -1,0 +1,32 @@
+{
+  "approx_date": "Jan 2026",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll"],
+  "stories_covered": [
+    "Grock acquired by NVIDIA for $20B in cash before Christmas",
+    "Manus acquired by META for $2B",
+    "Navan trading at 4X ARR, recently went public",
+    "Databricks, Revolut, Stripe staying private despite massive valuations",
+    "Cerebrus planning IPO as Grock competitor",
+    "Invisible unemployment: Stanford grads unable to find jobs",
+    "Entry-level sales and support roles disappearing to AI agents"
+  ],
+  "harry_takes": [
+    "Inference workloads, not just training, are the real growth driver in AI infrastructure as knowledge workers run models 24/7",
+    "Nvidia acquiring Grock was strategic necessity at $20B to eliminate a potential margin-pressure competitor, not a revenue play",
+    "The Grock deal sets a psychological comp that normalizes multi-billion dollar acquisition prices for other tech giants",
+    "When private markets offer better risk-adjusted returns than public markets, founders rationally stay private and even self-fund via dividends",
+    "Invisible unemployment is emerging: senior executives and entry-level workers face dislocation while top-tier AI talent earns $1-4M"
+  ],
+  "harry_boldest_quote": "The public markets have a problem.",
+  "predictions": [
+    "Jason Lemkin: Entry-level sales jobs (SDRs, support) will vanish entirely in 2026, with only top-tier talent finding roles at Anthropic and OpenAI",
+    "Jason Lemkin: Mid-career workers with pre-2021 skillsets will quietly exit the workforce rather than reskill",
+    "Rory O'Driscoll: Databricks will eventually go public to gain M&A firepower, enabling $10-50B acquisition strategy not available when private",
+    "Rory O'Driscoll: Oracle/Broadcom margin pressures reflect temporary jitters; semiconductor capex cycle has 2+ years of strong legs remaining"
+  ],
+  "disagreements": "Lemkin and O'Driscoll disagree on severity of youth unemployment. Lemkin warns of broader dislocation and invisible unemployment across all experience levels. O'Driscoll is less concerned but concedes 22-24 year olds with Stanford degrees will face visible stress, making populist sentiment likely.",
+  "harry_role": "Harry poses framing questions, clarifies valuations and comparisons, and pushes panelists toward second-order implications. He challenges the disconnect between startup founder ages (young, grinders) and hiring discrimination, and emphasizes systemic labor-market shifts over temporary cycles.",
+  "topics": ["semiconductor-acquisition", "infrastructure", "private-markets", "labor-displacement", "venture-return", "ai-jobs"],
+  "sponsor_read_count": 3,
+  "notable": "Striking breakdown of how Grock, founded 2016-17 by ex-Google TPU engineers, took 8 years to reach $50M revenue but captured $20B valuation via strategic acquisition—illustrating the venture binary between multi-decade slog and sudden windfall, and the rarity of semiconductor exits despite AI momentum."
+}

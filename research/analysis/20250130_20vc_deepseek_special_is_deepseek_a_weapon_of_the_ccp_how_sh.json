@@ -1,0 +1,44 @@
+{
+  "guest": "Jonathan Ross",
+  "guest_role": "Co-founder and CEO of Grok (AI inference company); led Google's TPU effort",
+  "approx_date": "Jan 2025",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared, multi-part follow-up questions and explores Jonathan's thesis, but doesn't challenge positions or assert his own viewpoint—mostly receptive to infrastructure/AI expertise.",
+  "question_style": "Harry asks detailed follow-ups that drill into technical (distillation, mixture of experts, scaling laws) and strategic questions (seven powers, open source, geopolitics). Occasional pushback ('Are we not being idealistic?') but mostly seeks understanding.",
+  "tone": "Respectful and deeply curious. Opens as emergency podcast on DeepSeek news, praises Jonathan's go-to-market, closes with 'Jonathan, I cannot thank you enough.' Conversational and collaborative.",
+  "depth": "Extremely deep on AI infrastructure, scaling laws, model architecture (MoE), DeepSeek's approach, commodity markets, cybersecurity risks, geopolitics (China/US), and Hamilton Helmer's seven powers framework. Covers training vs inference compute, data quality as moat, open-source economics.",
+  "harry_quotes": [
+    "Is it as big a deal as everyone is making on it?",
+    "What do we do from here?",
+    "Does the fact that it's open source, how does that change everything?"
+  ],
+  "learnings": [
+    "DeepSeek's efficiency breakthrough results from data quality via distillation (learning from OpenAI outputs), sparse mixture-of-experts routing (computing only relevant parameters), and novel reinforcement learning—not just cheaper GPUs.",
+    "Scaling laws hold if data quality improves; with better training data, fewer tokens needed to reach equivalent model quality.",
+    "Model commoditization means defensible moats shift from 'the model' to brand power, distribution, scale economies, and switching costs; OpenAI's brand is their current advantage.",
+    "Inference compute will dominate total spend by 2030 (~95% vs training 5%); winners are inference infrastructure providers, not model-only companies.",
+    "Open source models likely win (like Linux) because distribution, community, and ecosystem matter more than proprietary control once models commoditize.",
+    "Jevons Paradox applies: each efficiency gain in model cost drives exponential usage growth, offsetting concerns about compute saturation.",
+    "China's systemic advantage in AI is population scale plus execution discipline; CCP's mandatory data access and control over domestic AI companies (DeepSeek) poses risks to Western democracy and privacy.",
+    "Mixture of Experts represents efficiency frontier; selectively routing queries to parameter subsets cuts per-token compute dramatically vs dense models.",
+    "Data quality and fine-tuning now matter more than raw parameter count; recent 70B models (fine-tuned) outperform older 405B models.",
+    "AI-enabled automated zero-day exploit discovery and attacks shift cybersecurity from human-speed to machine-speed; defense must become automated."
+  ],
+  "topics": [
+    "deepseek",
+    "ai-scaling-laws",
+    "inference-compute",
+    "mixture-of-experts",
+    "model-commoditization",
+    "open-source",
+    "data-quality",
+    "seven-powers",
+    "geopolitics-ai",
+    "china-threat",
+    "cybersecurity",
+    "brand-moat"
+  ],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Jonathan makes a provocative case for why Nvidia's stock actually becomes MORE valuable as models commoditize—because inference volume explodes (Jevons Paradox); also deeply candid about AI-enabled cybersecurity threats (automated zero-day discoveries) and China's data-capture risk from DeepSeek's open-source release."
+}

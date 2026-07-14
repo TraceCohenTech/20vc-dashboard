@@ -1,0 +1,28 @@
+{
+  "guest": "James Beshara",
+  "guest_role": "Co-founder of Tilt, a micro crowdfunding platform",
+  "approx_date": "Jan 2016",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared, multi-part questions with genuine follow-ups but never contests James's claims; he primarily receives rather than challenges.",
+  "question_style": "Harry uses open-ended questions about background and origins, asks for contextual explanations, and follows up on specifics he's noticed. He doesn't plant opposing theses, interrupt frequently, or challenge assertions. The approach is conversational and enabling.",
+  "tone": "Warm and enthusiastic, formal but friendly, with high energy and genuine excitement about the product. Shows clear admiration for James and Tilt. Includes self-deprecating humor about the beer pong bet. Not adversarial.",
+  "depth": "Harry asks about product design, user retention, fundraising journey, investor relations, and founder mindset evolution. He touches on the blogging analogy and leadership philosophy. Focus is strategic and business-oriented rather than deeply technical.",
+  "harry_quotes": [
+    "I'd love to kick off by hearing about your background and the origins of Tilt.",
+    "How do you deal with customer attention and retain customers for future projects?",
+    "How do you sell a startup to an investor when there's no clear exit strategy?",
+    "What's been your biggest personal development or learning experience in the Tilt journey?"
+  ],
+  "learnings": [
+    "Crowdfunding adoption will mirror blogging's curve—simpler, second-generation platforms like Twitter and WordPress drove mainstream use where earlier platforms did not.",
+    "Successful Tilt campaigns raise nearly 2x their goal on average with 82% success rate, creating positive first experiences that drive user retention and word-of-mouth.",
+    "Founders must evolve from early-stage overconfidence to daily assumption-testing; leadership effectiveness depends on openness to being wrong and flexibility in thinking.",
+    "Geographic distance from Silicon Valley forced pitch discipline in fundraising that became an asset in later rounds and recruiting.",
+    "Obsessive simplification of complex processes for mobile creates habit-forming tools; micro-campaigns on low-friction platforms activate users who then advocate for others.",
+    "Casual entry-point campaigns (social, fun) seed engagement that converts users into advocates for weightier causes and future campaigns."
+  ],
+  "topics": ["crowdfunding", "micro-payments", "product design", "mobile-first", "fundraising", "founder mindset", "user retention", "adoption curves"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 1,
+  "notable": "Harry challenges James to a beer pong match, an unusual format for a typical VC interview, and invites Twitter voting on the outcome."
+}

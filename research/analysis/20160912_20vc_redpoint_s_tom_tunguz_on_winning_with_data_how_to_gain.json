@@ -1,0 +1,30 @@
+{
+  "guest": "Tom Tunguz",
+  "guest_role": "Partner at Redpoint Ventures",
+  "approx_date": "Sep 2016",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks prepared follow-up questions on specific concepts but rarely challenges Tom's data-driven thesis and defers to his expertise throughout.",
+  "question_style": "Harry uses mostly open-ended questions that invite Tom to expand on his ideas. He probes specific technical topics like bias types and data infrastructure but doesn't plant counter-theses or contest claims. He doesn't interrupt and remains collaborative throughout.",
+  "tone": "Warm, fan-like, and enthusiastic—Harry explicitly states Tom's newsletter is his daily must-read and calls the book one of the first he finished in years. The tone is matey yet professional, with genuine appreciation for Tom's intellectual contributions.",
+  "depth": "Harry tracks specific technical and business concepts: data team structure, data dictionaries, data pipelines, statistical bias (correlation/causation, anchoring, availability, illusion of validity), structured hiring interviews, and metrics-driven recruiting platforms. He asks Tom to explain complex ideas like the Monty Hall problem and West Point cadets study.",
+  "harry_quotes": [
+    "When did you first perceive the true power of data what was your aha moment?",
+    "Why does it take so long to write the book why now for the book?",
+    "How do you instill sense of transparency around data within the firm without causing problems?",
+    "Talk to me about the availability bias I was really intrigued when I read about that.",
+    "Who's doing data-driven the best today which company are you most impressed with?"
+  ],
+  "learnings": [
+    "Small data signals like billing hours at a law firm can reveal which people and processes drive business value, often contradicting leadership intuition",
+    "Successful data-driven companies standardize three things: in-house data teams that educate the organization, a shared data dictionary to prevent metric conflicts across departments, and efficient data pipelines so everyone can access data without depending on specialist gatekeepers",
+    "Leadership asking open-ended strategic questions creates psychological ownership in teams to find data-backed answers rather than opinions",
+    "Structured interviews where multiple people ask identical questions and score on the same scale predict job success far better than unstructured conversations",
+    "Even experts get derailed by cognitive biases like correlation-causation confusion, anchoring effects, and availability bias; running small experiments validates assumptions rather than relying on intuition",
+    "Humans need emotion to make decisions under uncertainty; data combined with emotional judgment outperforms pure metrics or pure gut feel",
+    "The next frontier for data-driven advantage is HR and people operations, a department historically lacking the instrumentation that marketing and product teams now enjoy"
+  ],
+  "topics": ["saas", "data analytics", "hiring", "business intelligence", "company culture", "metrics"],
+  "repeat_guest_callback": "Tom so fantastic to have you on the show for a second time this obviously makes you a very special guest",
+  "sponsor_read_count": 2,
+  "notable": "Redpoint feature week—this is the first of a three-part series; Tom is a repeat guest and Harry explicitly positions him as a leading voice in SaaS."
+}

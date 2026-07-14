@@ -1,0 +1,36 @@
+{
+  "guest": "Neil Young",
+  "guest_role": "Founder and CEO of Network (mobile games company); formerly founder of NGMoco (acquired by D.E.N.A. for ~$400M)",
+  "approx_date": "Jan 2018",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry asks prepared multi-sentence questions with occasional pushback and introduces external viewpoints (Elad Gill, Benedict Evans, Peter Fenton) but rarely directly contests the guest's claims.",
+  "question_style": "Harry employs open-ended, prepared questions that invite Neil to elaborate extensively. He occasionally plants his own thesis by referencing external perspectives (discussing platform shifts through other VCs' viewpoints), and demonstrates thoughtful follow-up questioning (e.g., asking about communication challenges at EA), but generally receives rather than contests.",
+  "tone": "Conversational and warm with genuine respect for Neil's expertise. Harry injects self-deprecating humor (referencing his own law school dropout) and uses matey language without sacrificing professionalism. Energy is engaged and curious rather than adversarial.",
+  "depth": "Harry demonstrates preparation and understanding of gaming business mechanics, asking strategic questions about platform shifts, distribution models, CAC/LTV mechanics, and board composition. He tracks specific topics like in-app purchase (IAP) policies and lifetime value calculations, though often accepts Neil's answers at face value without pushing for tactical elaboration.",
+  "harry_quotes": [
+    "Did you communicate when the alignment wasn't there and is there a right way to do that?",
+    "So what's the biggest book recommendation for me?",
+    "What would you most like to see change in the world of startups and VC?"
+  ],
+  "learnings": [
+    "Misalignment between your work and a large organization's strategic agenda leads to poor outcomes even with talented teams.",
+    "Mass market audiences can only be reached by first cultivating a loyal hardcore user base that provides authentic foundation for broader appeal.",
+    "Technology shifts are consistently overestimated in the short term but underestimated in the long term once they prove viable.",
+    "Evaluating platform shifts requires two key questions: when will this actually become real, and what fundamental user behavior changes does it enable.",
+    "Platform holders' and consumers' interests diverge, which slows market evolution—closed platforms controlled by gatekeepers restrict growth velocity compared to open systems.",
+    "Organic viral adoption alone cannot support a predictable business; paid user acquisition channels are essential for sustainable scaling in crowded markets.",
+    "Successful acquisitions require both financial alignment on valuation and the belief that continued involvement will be intellectually enriching and educational.",
+    "A high-performing board combines complementary intelligences and perspectives rather than overlapping expertise, with complementary intelligence needed across intuition, strategy, and finance."
+  ],
+  "topics": [
+    "platform shifts",
+    "gaming",
+    "user acquisition",
+    "distribution",
+    "board dynamics",
+    "monetization"
+  ],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": null
+}

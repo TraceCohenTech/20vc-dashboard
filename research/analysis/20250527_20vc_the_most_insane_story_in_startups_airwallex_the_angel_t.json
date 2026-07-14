@@ -1,0 +1,37 @@
+{
+  "guest": "Jack Zhang",
+  "guest_role": "Co-founder and CEO of Airwallex",
+  "approx_date": "May 2025",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry plants his thesis about founder-driven investing and critiques VC selection methods multiple times, directly challenges the Airtree investor story, but remains mostly receptive to Jack's narrative rather than sustained adversarial.",
+  "question_style": "Open-ended biographical questions early (childhood, first jobs) with real follow-ups. Harry occasionally plants his own investing thesis and asks Jack to defend founder focus. Minimal interruption; lets Jack tell his story. Some direct challenges to the VC rejection narrative.",
+  "tone": "Matey and conversational with high energy. Self-deprecating about his own driving ability and 100-hour work weeks in cushy offices. Expresses genuine fandom for Jack and Patrick Collison while maintaining familiarity. Combines admiration with occasional blunt directness.",
+  "depth": "Strong biographical and psychological depth in early questions, tracking Jack's resilience formation from age 16 onward. Later questions probe business dynamics: Swift's 50-year architecture, pivot algorithms, Series A conviction investing. Tracks multiple dimensions (personal, technical, investor psychology) rather than just metrics.",
+  "harry_quotes": [
+    "Dude, you're working 16 hours a day. I mean, poor you, university is like the side gig.",
+    "Do you think people are born entrepreneurs or do you think you can become one?",
+    "Why didn't you just focus on the real estate company?",
+    "Dude, how the fuck did you do that?",
+    "Can I ask you what makes him so smart?",
+    "Well, then you fucked up."
+  ],
+  "learnings": [
+    "Founders shaped by early financial insecurity develop exceptional resilience and relentless execution discipline that outlasts founders without such formative pressure.",
+    "Passion and founder-mission alignment drive billion-dollar outcomes more than immediate financial returns; Jack turned down $3B from Stripe because building mattered more.",
+    "Multiple failed product pivots (point-to-point netting, SME invoicing, API for Tencent) are normal waypoints to eventual product-market fit in complex infrastructure markets.",
+    "Trust-based angel commitments from non-professional investors sometimes catalyze companies better than VC due diligence, as seen with Lucy's verbal $1M commitment that closed in 48 hours.",
+    "Established VCs that reject founders early often join later rounds at higher valuations, suggesting reputational regret drives future conviction investing.",
+    "Breadth of knowledge and intellectual honesty across unrelated domains (quantum physics, history, biology) characterizes elite operators like Patrick Collison."
+  ],
+  "topics": [
+    "fintech",
+    "founder-led",
+    "cross-border-payments",
+    "venture-capital",
+    "startup-founding",
+    "pivots"
+  ],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Episode features one of the most compelling multi-act startup narratives: angel round from stranger met at coffee shop → multiple near-death funding moments → rejected $1.2B Stripe acquisition → path to $9B valuation. Jack's unusual founding background (immigrating alone to Australia at 16, lemon factory labor, multiple parallel million-dollar side businesses) becomes thesis-driving evidence for Harry's investing convictions."
+}

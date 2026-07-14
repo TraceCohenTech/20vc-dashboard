@@ -1,0 +1,28 @@
+{
+  "guest": "Maor Shlomo",
+  "guest_role": "Co-founder of Base44 (AI vibe-coding platform, acquired by Wix for $80M)",
+  "approx_date": "Nov 2025",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry directly contests Maor's SaaS displacement thesis, plants his own data on market dynamics and cloud-switching analogies, and challenges across topics without pure deference.",
+  "question_style": "Prepared multi-sentence questions with substantive follow-ups; directly contests claims ('With the greatest of respects, that's wrong'); plants his own thesis and data points asking guest to defend; mostly lets guest develop ideas with strategic interruptions.",
+  "tone": "Formal yet matey ('Dude, you're not going to have people...'); enthusiastic and genuinely interested; occasional self-deprecation; high energy and deeply engaged throughout.",
+  "depth": "Tracks technical specifics: infrastructure layers (databases, Lambda, scheduled tasks, integrations), margin economics and model routing, LLM provider switching mechanics with concrete examples (Claude 4, Sonnet 4.5, GPT-5, Gemini), vertically integrated business models, and competitive dynamics.",
+  "harry_quotes": [
+    "With the greatest of respects, that's wrong.",
+    "Do you think small businesses give a shit about that?",
+    "Who's the best and who's the worst?",
+    "Do the Pro Tools come down and eat your business?",
+    "Will Salesforce be bigger or smaller in 10 years time?"
+  ],
+  "learnings": [
+    "Software is shifting from fixed, feature-bloated products to liquid, customizable solutions that users adapt to their specific needs rather than conform to one-size-fits-all models.",
+    "Real moat in AI builders is the vertical infrastructure—databases, user management, integrations, scheduled tasks—building mini-clouds, not just the coding interface itself.",
+    "LLM provider switching costs nearly zero now; a superior model can redirect billions in spend overnight, creating unstable dynamics unlike cloud migrations.",
+    "Intelligent model routing using cheap open-source models for simple tasks and frontier models for complex work drastically improves margins while improving user speed.",
+    "Winners combine AI with structural domain expertise (AI-native law firms, hospitals, banks) creating real moats, not just software that wraps LLM prompts."
+  ],
+  "topics": ["vibe coding", "saas", "ai", "margin economics", "llm models", "infrastructure", "platform strategy"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": null
+}

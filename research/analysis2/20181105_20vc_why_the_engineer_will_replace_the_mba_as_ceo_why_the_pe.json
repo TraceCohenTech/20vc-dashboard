@@ -1,0 +1,22 @@
+{
+  "guest": "Avidan Ross",
+  "guest_role": "Founding Partner, Root Ventures",
+  "approx_date": "Nov 2018",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks earnest clarifying and drill-down questions and raises one light challenge on market-timing risk, but largely receives and validates rather than contesting the guest's claims.",
+  "question_style": "Mostly open questions built to unpack the guest's own jargon and frameworks (peace dividends, Trojan horse model), with Harry repeatedly admitting he's going off-script because he's intrigued; one mild pushback on market timing risk in hard-tech verticals.",
+  "tone": "Very matey and enthusiastic (shared coffee-obsession bit, admits listening to Avidan's own podcast appearances at 2x speed), high energy, complimentary and fan-like throughout.",
+  "depth": "Substantial technical depth on hard-tech investing: commoditization of hardware components from 'platform wars,' GPU-driven compute unlocks, sensor/LIDAR stacks for autonomous vehicles, and business-model distinctions between margin-only hardware vs. recurring-revenue/platform plays.",
+  "harry_quotes": ["What do you mean by the peace dividends?", "Is that fair to say there's serious market timing risk?", "What do you mean by old and boring?"],
+  "learnings": [
+    "Ross frames 'peace dividends' from tech platform wars (smartphones, now autonomous vehicles) as commoditizing components (cameras, GPUs, sensors) that unlock unrelated downstream industries like drones, IoT, and CAD software.",
+    "Root Ventures avoids margin-only hardware businesses, seeking recurring revenue via razor/blade models, storage/services add-ons, or platform ecosystems (e.g. Particle, DJI) as the venture-scalable path.",
+    "Their 'Trojan horse' strategy: sell legacy-industry buyers on a clear, immediate ROI (e.g. 5% fuel savings), then use the resulting data access to expand into higher-value, harder-to-sell offerings.",
+    "Founder background doesn't need to match the legacy industry; deep, deliberate customer discovery (e.g. Dusty Robotics' year of research into construction) can substitute for direct domain experience.",
+    "Ross argues technical/engineering CEOs are increasingly favored over MBA-style leaders because big tech companies and university programs have started producing engineers with genuine company-building and management skills."
+  ],
+  "topics": ["hard tech", "hardware/iot", "vertical vc", "autonomous vehicles", "seed investing", "b2b enterprise"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 4,
+  "notable": "Harry reveals he regularly listens to Avidan's own podcast appearances at 2x speed as prep, and the guest returns the compliment by calling Harry his '12-minute VC.'"
+}

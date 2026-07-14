@@ -1,0 +1,28 @@
+{
+  "guest": "Ryan Aquina",
+  "guest_role": "Member of the global investment team at MIT Investment Management Company (MITIMCo)",
+  "approx_date": "Jan 2024",
+  "assertiveness": 7,
+  "assertiveness_why": "Harry repeatedly plants his own data/thesis (e.g. '43% lower entry price', 'LPs do not chastise venture investors more') and pushes Ryan to defend or react, going beyond passive reception.",
+  "question_style": "Mostly open, well-prepared multi-part questions, but Harry frequently interjects his own opinions or stats mid-question and asks Ryan to agree or push back, and he occasionally interrupts to sharpen a point rather than just receive the answer.",
+  "tone": "Warm, matey and clearly reverent of the guest ('tables are turning', 'I love, love that you're here'), high energy, some self-deprecating asides ('crap question, forgive me'), overall fandom without being sycophantic on substance.",
+  "depth": "Goes technical on LP mechanics: fund position sizing, drawdown beta, temporal diversification, secondary market discounts, structured-note downside protection, and direct co-investment underwriting; tracks specific deals (Coupang, Rippling, OpenAI) in detail.",
+  "harry_quotes": [
+    "Is it harder than ever before today?",
+    "Do you agree with me or do you think we do get back",
+    "Are the incentive structures financially right in endowments?",
+    "Do you worry that they won't come back to you if you don't do them?"
+  ],
+  "learnings": [
+    "LPs increasingly evaluate managers on a see-pick-win-service framework, with winning allocation and founder servicing mattering most once a firm clears a baseline deal-flow/picking bar.",
+    "Early conviction in an unproven manager (Greenoaks) can hinge on qualitative signal from founder reference calls rather than any track record.",
+    "Compressed capital-raising and deployment cycles during 2021 broadly undermined temporal diversification, and most LPs were complicit rather than disciplined.",
+    "Direct co-investments alongside trusted GPs, especially with protective structures like senior secured notes, can offer better risk-adjusted conviction than blind-pool fund commitments.",
+    "Traditional endowment/foundation incentive structures lack a true upside-sharing mechanism, which can dull appetite for concentrated risk-taking compared to a family office model.",
+    "The biggest self-assessed mistakes tend to be errors of omission (passing on OpenAI) rather than active picking errors."
+  ],
+  "topics": ["fund mechanics", "lp investing", "venture capital", "direct co-investing", "portfolio construction", "manager evaluation"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Ryan discloses that MIT's initial decision to back Greenoaks almost didn't happen and was reversed only after Harry's boss slept on it overnight."
+}

@@ -1,0 +1,27 @@
+{
+  "guest": "Marcelo Claure",
+  "guest_role": "CEO of SoftBank Group International / CEO of SoftBank Group Corp (also Executive Chairman of WeWork)",
+  "approx_date": "Aug 2021",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry repeatedly raises direct, sometimes uncomfortable questions (LatAm copycat criticism, price sensitivity, VC industry complacency, conflict management) but rarely sustains adversarial pressure and mostly lets Claure's answers stand unchallenged.",
+  "question_style": "Mostly open, prepared multi-part questions built around Claure's career and SoftBank strategy, with several pointed follow-ups where Harry surfaces an outside criticism or blunt framing (e.g. copycat businesses, VCs being 'too comfortable') and asks Claure to respond; he rarely interrupts and does not contest answers once given.",
+  "tone": "Warm, admiring and fan-like throughout ('what an incredible array', 'I'm obviously very much behind LatAm'), informal and conversational, with light self-deprecating asides about going off script.",
+  "depth": "Mostly strategic/operator-level rather than technical: covers turnaround mechanics (cost cuts, rebranding), fund structure and deployment cycles, price sensitivity thresholds, portfolio conflict management, and exit/IPO pipeline, without probing financial or technical specifics deeply.",
+  "harry_quotes": [
+    "What do you think allowed you to turn Sprint around so successfully?",
+    "How do you think about price sensitivity for yourself and is price a major consideration?",
+    "Do you think VCs in general are like South American banks a little bit too large?"
+  ],
+  "learnings": [
+    "Claure credits the Sprint turnaround to rebuilding employee morale, a customer-driven unlimited pricing plan, an ~$11B cost-cutting program, and a rebranding campaign using a rival telecom's former spokesperson.",
+    "SoftBank's Latin America thesis was that the region had strong founders but was capital-starved; injecting large capital unlocked unicorn creation across many verticals, not just fintech.",
+    "SoftBank differentiates itself from traditional VC by investing its own balance-sheet capital with no LPs, allowing indefinite holding periods and no fixed deployment cycle or fund size.",
+    "Claure splits investment decisions into cases where price barely matters (massive winner-take-most markets like Mercado Libre) versus the vast majority (~95%) where price discipline is critical.",
+    "Managing conflicts between competing portfolio companies requires internal information walls between deal teams and being transparent with founders upfront about potential overlaps.",
+    "Claure's biggest regrets are not pushing Masayoshi Son harder on a bigger Mercado Libre bet in 2018 and being late to invest in Bitcoin."
+  ],
+  "topics": ["softbank", "venture capital", "latin america", "fund mechanics", "turnarounds", "telecom"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 6,
+  "notable": "Harry notes several questions came from listener/guest suggestions (via Mateo at 8sleep) and were 'off schedule,' making the interview unusually improvisational."
+}

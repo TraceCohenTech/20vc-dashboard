@@ -1,0 +1,28 @@
+{
+  "guest": "Mac (Mac the VC / Marlon 'Mac' — Rare Breed Ventures)",
+  "guest_role": "Founder and Managing Partner of Rare Breed Ventures, a pre-seed fund",
+  "approx_date": "Nov 2021",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks warm, well-prepared follow-ups and invites Mac to voice grievances, but he never contests or challenges anything Mac says, mostly amplifying and agreeing.",
+  "question_style": "Almost entirely open-ended and biographical, built to let the guest expand ('what else do you think is fucked up in venture?'); Harry rarely interjects his own thesis and never pushes back, though he does layer follow-ups that dig for specifics like ratios and mechanics.",
+  "tone": "Extremely matey and fan-like, calling Mac 'man' repeatedly, expressing open admiration ('huge pleasure', 'I absolutely love that'), high energy and enthusiastic throughout.",
+  "depth": "Mostly surface/narrative (life story, fundraising journey) but does probe some technical fund-mechanics details: check sizes, reserve strategy, rolling close cadence, 506(c) solicitation, and rolling funds vs traditional fund structure trade-offs.",
+  "harry_quotes": [
+    "How did you make your way into venture?",
+    "Do you think the traditional fundraising process is fucked up?",
+    "What else do you think is fucked up in venture?",
+    "How diverse in terms of concentration? How do you think about check size?"
+  ],
+  "learnings": [
+    "Mac built LP trust and education almost entirely through direct Twitter outreach, DMing any VC who followed him and converting roughly three-quarters of those meetings into useful relationships.",
+    "He deliberately rejected typical fund conventions (GP commit, traditional capital call timing, minimum close thresholds), designing bespoke LP payment options and a three-week rolling close instead.",
+    "He argues 'hot deals' (led by brand-name funds) are conflated with 'good deals' by LPs, when only actual returns should matter for an emerging pre-seed manager.",
+    "Institutional diversity commitments after 2020 rang hollow to him because large pension-fund LPs structurally can't write small enough checks to back first-time diverse emerging managers.",
+    "He avoided rolling funds because their quarterly-cohort structure shortchanges LPs who aren't active in the specific quarter a standout investment gets made; he replicated the same speed/access benefits inside a traditional 506(c) fund instead.",
+    "His investment thesis prioritizes maximum check size as early as possible (pre-seed/seed) since multiples on capital are highest at that stage and shrink at each later round."
+  ],
+  "topics": ["fund mechanics", "emerging managers", "diversity in vc", "pre-seed investing", "fundraising on twitter", "portfolio construction"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Guest self-identifies as 'Mac the VC,' a pseudonymous/persona-branded emerging fund manager whose entire fundraise (from $400K to $10M) was conducted via Twitter DMs during the pandemic."
+}

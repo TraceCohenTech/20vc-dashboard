@@ -1,0 +1,31 @@
+{
+  "guest": "Ron Boogenim",
+  "guest_role": "Founder at GovTech Fund",
+  "approx_date": "Oct 2018",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry challenges multiple core assumptions directly ('Why am I wrong to say that...?', 'Fair or not fair to assume...?') and frames several questions as debates to pressure-test Ron's claims.",
+  "question_style": "Harry actively challenges Ron's thesis with counterpoints and asks him to defend against alternative viewpoints. He frames this as debate ('Are you ready to debate? Bring it.') and plants blunt questions like 'Why am I wrong?' He explores ideas deeply but with genuine pressure-testing rather than pure reception.",
+  "tone": "Warm, engaged, and intellectually rigorous. Harry says the episode made him 'rue the day I called it the 20 minute VC' (wishing it was longer). Respectful debate partner with genuine interest in testing Ron's market thesis.",
+  "depth": "Exceptionally deep and strategic. Harry explores market size ($400B+ global), founder demographics, sales cycle realities, portfolio construction philosophy, co-investor attributes, value-add definitions, and specific investment thesis. Strong technical/strategic engagement with tangential explorations on concentrated portfolio strategy and LP psychology.",
+  "harry_quotes": [
+    "So the one that I actually always believe myself, so please prove me wrong here.",
+    "How would you respond to that?",
+    "Tell me, why do you believe that maybe a vertically focused fund is the right method?",
+    "Tell me, what's the ideal insertion point then for you?",
+    "What do you most look for in your co-investors? Let's start with that."
+  ],
+  "learnings": [
+    "GovTech represents a massively underpenetrated $400B+ global market that VCs historically avoided due to outdated beliefs about government sales cycles",
+    "Government sales cycles have collapsed from 2-3 years to under 90 days due to cloud adoption, price points below procurement thresholds, and agency-to-agency knowledge sharing",
+    "Younger founders dominate GovTech (mostly under 28) because they prioritize missions with definable social impact over salary maximization at FAANG companies",
+    "Mission-driven work is the primary lever for recruiting talent away from high-paying incumbent tech companies",
+    "Vertically-focused seed funds outperform generalist funds when the vertical supports $5-10B+ exits and the fund provides high-intensity operational engagement",
+    "Seed-stage value creation requires extreme engagement: listening to customer calls, metrics frameworks, product roadmap sessions, sprint architecture reviews, pitch deck critiques, and 2am founder support",
+    "Concentrated portfolios (15-16 companies) enable the depth of engagement necessary for helping early-stage companies achieve product-market fit",
+    "GovTech companies increasingly function as multi-sided marketplaces connecting government, citizens, and vendors, creating valuation upside beyond pure SaaS multiples"
+  ],
+  "topics": ["govtech", "seed investing", "vertically-focused", "saas", "founder psychology", "mission-driven", "portfolio construction", "marketplace", "fund strategy"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Harry explicitly expresses frustration that the show is only 20 minutes ('episodes like this made me rue the day I called it the 20 minute VC'), indicating this was an unusually long, deep conversation. Also includes Ron's memorable story of a billionaire LP committing $2-3M in just 7 minutes after asking 7 questions."
+}

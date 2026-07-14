@@ -1,0 +1,27 @@
+{
+  "guest": "Jay Akunzo",
+  "guest_role": "VP of Platform at NextView Ventures",
+  "approx_date": "May 2015",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks exploratory questions about platform strategy, content tactics, and differentiation but never challenges Jay's frameworks or introduces competing viewpoints.",
+  "question_style": "Harry poses open-ended questions on VC platform trends, content marketing mechanics (blogging, Twitter, ROI), talent recruitment, and the PayPal Mafia parallel. He follows up with specifics (e.g., GoDaddy vs. custom design, email list strategy) but remains receptive and learning-focused. No contestation or alternative hypotheses introduced.",
+  "tone": "Warm, admiring, and deferential. Harry expresses genuine enthusiasm (\"I'm so pleased to have you on the show,\" \"that's an incredible episode\"). Conversational and curious; frames himself as learning from Jay's expertise in marketing and platform strategy.",
+  "depth": "Strong depth on VC strategy and content marketing. Harry covers platform role definition, VC differentiation in crowded seed landscape, content marketing philosophy (evergreen > viral, problem-solution alignment), blogging ROI metrics, Twitter engagement strategy (relationships > metrics), talent recruitment systems, and founder quality. Specific data-driven examples (70% traffic from old posts, evergreen content foundation). Not technically deep, but strategically rigorous on go-to-market and VC positioning.",
+  "harry_quotes": [
+    "Can you tell us a little about what that entails?",
+    "Why do you think it has become this emerging trend?",
+    "Do you have any urge to move into that sector?",
+    "Is it simply enough to buy a domain off GoDaddy and set up a WordPress blog?"
+  ],
+  "learnings": [
+    "As seed funding becomes crowded with micro-funds and AngelList, VCs differentiate through content platforms and value-add services, shifting power toward entrepreneurs to choose partners",
+    "Evergreen content compounds over time; posts older than 30 days can drive 70% of blog traffic and traffic if problem-aligned with audience needs",
+    "Successful content strategy requires tight alignment between product and content problem-solving; misalignment wastes resources on vanity metrics",
+    "Twitter's primary ROI lies in building off-platform relationships and email lists through genuine engagement, not maximizing follower counts or engagement metrics",
+    "Talent recruitment is the highest-impact platform service seed-stage startups can access, and great founders build networks that attract exceptional talent"
+  ],
+  "topics": ["platform strategy", "vc differentiation", "content marketing", "blogging", "twitter", "talent recruitment", "founder quality", "evergreen content"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 0,
+  "notable": null
+}

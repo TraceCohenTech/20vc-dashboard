@@ -1,0 +1,25 @@
+{
+  "guest": "Kim Graves",
+  "guest_role": "Head of sales, pre-sales, customer success and renewals at Notion",
+  "approx_date": "Jun 2025",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared multi-part follow-ups and engages substantively but never contests claims or challenges Kim's perspectives; his tone is consistently collaborative and validating.",
+  "question_style": "Harry poses prepared, multi-sentence questions that explore Kim's frameworks and processes (e.g., 'If I'm a PLG founder... What do I actually do?'), following up to understand nuance and tactical details. His approach is exploratory and conversational rather than challenging or adversarial.",
+  "tone": "Matey and familiar (repeatedly references friendship), energetic but not fandom-driven. Self-deprecating about being British. Warm and professional, often validating Kim's points with personal agreement.",
+  "depth": "Harry tracks specific sales frameworks (PLG, ICP, Renaissance reps, RECS framework, mindset-based deal stages) and asks tactical follow-ups on discovery, hiring competencies, onboarding, mock scenarios, and process design. Questions explore strategic and operational nuance.",
+  "harry_quotes": [
+    "Do we just start randomly outbounding people in our PLG motion? What do I actually do, Kim?",
+    "When you get a hire wrong, how fast do you think you can tell that they're wrong?",
+    "What outbound channel do you think is most underrated right now?"
+  ],
+  "learnings": [
+    "Sales success depends on embodying the right psychological mindset at each deal stage (curiosity, value articulation, skepticism) rather than following mechanical checklists; this mental framework makes reps adaptable across customers.",
+    "Founders must personally own ideal customer profile discovery since it shapes the entire go-to-market strategy, product roadmap, and hiring decisions—not just which accounts to pursue.",
+    "Early-stage sales hires should be learning-motivated generalists excited about building and mission, not revenue-focused operators; they're prototyping the playbook like iterating on a manufacturing process.",
+    "Single-threaded champion relationships are deal killers; when a contact forbids introducing other stakeholders, they lack real internal influence and the deal will likely stall or fail."
+  ],
+  "topics": ["plg", "enterprise sales", "hiring", "sales process", "ai adoption", "cold calling"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Kim Graves is a co-founder of the 20 Sales show brand itself, making this interview a unique full-circle moment where she advises on sales while having architected the interview format."
+}

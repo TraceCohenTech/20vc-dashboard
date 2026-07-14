@@ -1,0 +1,26 @@
+{
+  "guest": "Ernie Garcia",
+  "guest_role": "Co-founder and CEO of Carvana",
+  "approx_date": "Apr 2025",
+  "assertiveness": 8,
+  "assertiveness_why": "Harry repeatedly and explicitly contests the guest's claims ('I don't really buy that, Ernie', 'I disagree, but I respectfully disagree') and plants his own counter-thesis (e.g. that great entrepreneurs are NOT like everyone else) forcing Ernie to defend his position throughout.",
+  "question_style": "Openly adversarial at points — directly disagrees with guest philosophy, presses on sensitive personal topics (family wealth, parenting, sacrificing kids for career), and pushes back on the idea that public-market pressure beats private board pressure rather than just accepting the answer.",
+  "tone": "Warm but unusually candid and personal for the format, self-deprecating ('I am ruthlessly selfish, Ernie'), builds real rapport, occasional joking about editing out slip-ups, high energy but reflective rather than purely fannish.",
+  "depth": "Goes beyond business strategy into psychology of risk, family wealth effects on ambition, operator-vs-strategist archetypes, IPO pricing mechanics, and debt as a forcing function — sustained strategic and personal depth rather than surface bio questions.",
+  "harry_quotes": [
+    "I don't really buy that, Ernie.",
+    "Am I overly cynical?",
+    "Do you regret going public so early?"
+  ],
+  "learnings": [
+    "Carvana's founders chose full vertical integration over a lighter software-layer model despite investor pressure, believing customer experience required owning the whole stack.",
+    "The guest distinguishes operators (who execute and are necessary for survival) from strategists (whose ceiling defines ultimate success), arguing the rare, valuable people combine both.",
+    "Guest believes proximity to ground-level operational detail should be actively defended against as scale naturally pulls leaders into abstraction.",
+    "Being a public company creates a uniquely unforgiving feedback loop based purely on results rather than relationships or intentions, which the guest views as valuable pressure despite its harshness.",
+    "Taking on debt during a low-margin growth phase, while dangerous, forced Carvana toward profitability discipline it might not have achieved through equity alone."
+  ],
+  "topics": ["ipo/public markets", "leadership", "risk and resilience", "parenting and wealth", "operations", "vertical integration"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Unusually personal and philosophical episode covering wealth, parenting, and psychology far more than typical business-tactics 20VC interviews."
+}

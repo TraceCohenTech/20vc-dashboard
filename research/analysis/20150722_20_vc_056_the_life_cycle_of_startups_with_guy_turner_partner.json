@@ -1,0 +1,27 @@
+{
+  "guest": "Guy Turner",
+  "guest_role": "Partner at High Park Ventures",
+  "approx_date": "Jul 2015",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks strategic follow-up questions and references Jason Lemkin's thesis as a light alternative view, but never challenges Guy's frameworks or argues for competing positions.",
+  "question_style": "Harry poses detailed exploratory questions on product-market fit metrics, runway theory, sales cycles, hype management, founding team preferences, and VC rejection signals. He references Jason Lemkin's \"sell to one, sell to many\" view and asks if Guy agrees—a softer version of testing. Harry follows up on specifics but remains receptive. No pushback or alternative hypotheses introduced; learning-focused.",
+  "tone": "Professional, warm, and respectful. Harry expresses genuine enthusiasm (\"it's a huge honour having you on the show,\" \"I've hugely enjoyed chatting\"). Conversational and earnest; no playfulness or challenge. Frames himself as learning Guy's frameworks for startup evaluation.",
+  "depth": "Strong strategic depth on B2B SaaS investing mechanics. Harry covers product-market fit progression (first sale → multiple sales → renewals → sales org), 18-month runway theory (Plan A/B iteration buffer), sales cycle constraints (3-4 months max), hype management (stratospheric vs. local, executive humility), founding team composition, first-time founder backing rates (~50%), VC rejection signals (lack of specific next steps), and portfolio examples (FarmLogs, Geofeedia, 250OK). Specific on go-to-market strategy and capital allocation discipline.",
+  "harry_quotes": [
+    "How can a startup determine whether a project is a success or not?",
+    "Do you think that hype can ever be detrimental to a business?",
+    "How can a startup know when pitching to a VC and getting rejected?",
+    "What's your approach to startup sales and how does this alter your investing?"
+  ],
+  "learnings": [
+    "B2B SaaS product-market fit requires sequential milestone achievements: first customer sale, multiple customer sales, customer renewals, and scaling a sales organization beyond founders",
+    "18-month minimum runway allows founders to iterate on failed strategy (Plan A) with Plan B before fundraising, doubling success odds and preventing premature cash depletion",
+    "Sales cycles must not exceed 3-4 months when runway is 18-24 months; longer cycles create misalignment between cash burn and revenue generation",
+    "Hype amplifies damage when executives believe their own press; humble leadership that maintains perspective prevents reputation damage when reality lags expectations",
+    "VC rejection is signaled by lack of specific next-step commitment and clear decision timelines; assume rejection until term sheet arrives"
+  ],
+  "topics": ["b2b saas", "product-market fit", "revenue metrics", "runway theory", "sales cycles", "founding teams", "vc investing", "hype management", "first-time founders"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 1,
+  "notable": "Guy's 'wave theory' presents a predictable, repeatable lifecycle for startups; strong emphasis on 18-month runway as planning buffer; explicitly rejects Jason Lemkin's 'sell to one, sell to many' universality."
+}

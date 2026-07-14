@@ -1,0 +1,26 @@
+{
+  "guest": "Lira Fine",
+  "guest_role": "Founder and CEO of Laurel & Wolf",
+  "approx_date": "Apr 2017",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared, multi-part follow-up questions on female CEOs, board dynamics, and marketplace mechanics, but never contests or challenges her answers and stays purely receptive.",
+  "question_style": "Mostly open-ended prompts ('talk to me about...', 'how did you look to...') with layered follow-ups that build on her prior answer; he doesn't push back or contest her claims, and occasionally previews his own framing (e.g. two-sided vs three-sided marketplaces) before asking her to explain, but doesn't press her to defend a thesis.",
+  "tone": "Warm, matey and fan-forward, with frequent affirmations ('Absolutely', 'No, I do agree') and personal asides (sharing his own Pride and Prejudice fandom); very low friction, host-as-cheerleader energy.",
+  "depth": "Mostly strategic/business rather than technical: covers board governance and being 'challenged the right way,' internal communication scaling, and marketplace supply/demand and frequency dynamics; shows genuine investor interest in three-sided marketplace structure but doesn't probe unit economics or technical product details.",
+  "harry_quotes": [
+    "How would you like to be challenged?",
+    "Is the element of frequency a challenge for you",
+    "Talk to me about the three sided nature"
+  ],
+  "learnings": [
+    "Female founders face different scrutiny than male founders because there are few visible role models, so ordinary behavior (like a cross facial expression) gets read as unusually harsh.",
+    "Choosing board members deserves the same care as choosing a life partner, since removing a board member is notoriously difficult.",
+    "Marketplace supply-side patience matters most in the early days: designers with underutilized capacity will tolerate slow initial deal flow, whereas consumers will churn immediately without results.",
+    "Purchase frequency in home design is understated because customers return room-by-room and around predictable life events (moves, marriages, children), not as a single one-time transaction.",
+    "Scaling internal communication requires deliberate structures (town halls, project postmortems) because proximity and tools like Slack don't guarantee people are aligned on priorities."
+  ],
+  "topics": ["marketplaces", "female founders", "board governance", "fundraising", "team communication", "consumer/interior design"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Episode features a notably candid discussion of gender dynamics in CEO perception, including Harry directly asking whether an IPO by a female-led company could be a cultural catalyst."
+}

@@ -1,0 +1,31 @@
+{
+  "approx_date": "Oct 9, 2025",
+  "panelists": ["Rory O'Driscoll", "Jason Lemkin"],
+  "stories_covered": [
+    "OpenAI-AMD partnership: chips + 10% warrant",
+    "OpenAI Dev Day app integrations announcement",
+    "Naveen Rao raises $1B at $5B pre-money",
+    "Agent Kit and trivial agent building",
+    "Superbase and Vasell new rounds",
+    "Chamath SPAC comeback",
+    "Entry valuation pressures on mega-funds",
+    "Vercel platform discussions"
+  ],
+  "harry_takes": [
+    "Power dynamics are inverted: Nvidia has leverage over OpenAI so gets equity in return; AMD is weaker so must give equity to get OpenAI to buy. This shows Sam Altman plays power effectively.",
+    "Naveen Rao deal ($1B/$5B) breaks traditional VC math; requires Amazon-level returns just to justify but priced as if that's guaranteed",
+    "ChatGPT app integrations were underwhelming—no killer use case shown, just Slack 2.0 without the insight",
+    "Entry price in mega-funds is being justified by comps and deployment pressure, not fundamental value; this mirrors 2021 bubble pricing logic"
+  ],
+  "harry_boldest_quote": "You just need to do big, exciting deals in trends that are absolutely obvious. Every time you try and make it harder than that, you just lose money.",
+  "predictions": [
+    "Lemkin: OpenAI's app marketplace will follow Slack's pattern—easy to build but no killer apps emerge because the incentives aren't aligned",
+    "O'Driscoll: Naveen's success depends on him picking the right problem AND market being big enough; proven founder premium compresses venture questions but adds execution risk",
+    "Implied: If only 1-in-3 to 1-in-5 companies do 'wildly amazing,' paying breakout valuations across a portfolio won't math out"
+  ],
+  "disagreements": "Lemkin is pessimistic on both Dev Day app integrations and Naveen's deal; O'Driscoll is more measured, acknowledging the logic for backing proven founders on hard problems but flagging valuation risk if market doesn't exist. Harry mediates by noting venture is maximally forgiving of overpayment IF growth materializes.",
+  "harry_role": "Driving the power dynamics analysis of the AMD/Nvidia/OpenAI deals, challenging both the app integration hype and the valuation logic for Naveen Rao. Harry ties the micro (entry price at scale) to the macro (mega-fund deployment pressure), showing how incentives distort investment decisions.",
+  "topics": ["openai", "amd", "nvidia", "chip deals", "dev day", "app integrations", "naveen rao", "entry valuation", "venture math"],
+  "sponsor_read_count": 3,
+  "notable": "Discussion reveals tension between deployment-driven VC incentives and fundamental value; Naveen Rao deal becomes proxy for broader question of whether mega-fund structures can still produce venture returns."
+}

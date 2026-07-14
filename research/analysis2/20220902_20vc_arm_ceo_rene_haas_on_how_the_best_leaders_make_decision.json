@@ -1,0 +1,26 @@
+{
+  "guest": "Rene Haas",
+  "guest_role": "CEO of Arm (formerly seven years at NVIDIA, various Arm roles before becoming CEO in Feb 2022)",
+  "approx_date": "Sep 2022",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks well-prepared, multi-part follow-up questions and probes on tensions (speed vs quality, core business vs disruption) but never contests Haas's claims or plants an opposing data point, staying in receiving mode throughout.",
+  "question_style": "Structured, thoughtful questions built around named tensions (failure vs accountability, speed vs quality, near-term vs long-term), with real follow-ups, but Harry stays deferential and self-effacing ('I'm asking the easy questions') rather than pushing back.",
+  "tone": "Warm, personal, and admiring — Harry opens with a childhood/family connection to Arm and treats Haas as an authority throughout; light self-deprecating humor but no edge.",
+  "depth": "Solid strategic/leadership depth: decision-making speed, prioritization frameworks, executive alignment, balancing core business vs moonshots, CEO communication at scale — mostly management philosophy rather than technical/product depth.",
+  "harry_quotes": [
+    "How do you create that sense of urgency and disruption within your teams?",
+    "How do you think about the balance between stick to your guns... versus actually it's not working?",
+    "What gets easier over time and what gets harder over time?"
+  ],
+  "learnings": [
+    "Fast decision-making with 70-80% of information beats waiting for the last 20%, since that remaining data rarely changes the decision but costs valuable time.",
+    "Apparent failures (like early Windows on Arm) can plant seeds for later success once market conditions catch up, so persistence with a shifted application matters more than initial reception.",
+    "Effective large-org leadership requires picking a small number of 'air and water' priorities rather than long inclusive lists, because too many priorities slow execution.",
+    "CEOs must distinguish resiliency (staying adaptable while pursuing a goal) from stubbornness (refusing to update on changed assumptions).",
+    "Leaders should spend disproportionate time on the long-term horizon precisely because that's the one thing only the CEO is positioned to prioritize."
+  ],
+  "topics": ["leadership", "decision-making", "org culture", "semiconductors", "ceo transition", "prioritization"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Harry opens with a personal anecdote about his grandparents in Cambridge and Arm's local significance, framing the episode as an emotionally meaningful one for him rather than a purely professional booking."
+}

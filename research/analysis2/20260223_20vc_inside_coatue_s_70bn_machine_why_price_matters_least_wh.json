@@ -1,0 +1,26 @@
+{
+  "guest": "Lucas Swisher",
+  "guest_role": "Co-lead of the Growth Fund at Coatue Management",
+  "approx_date": "Feb 2026",
+  "assertiveness": 7,
+  "assertiveness_why": "Harry repeatedly plants his own thesis (e.g. on king-making, margin, seed vs mega-fund economics) and pushes Swisher to defend or refine it rather than just receiving answers.",
+  "question_style": "Mostly open, thesis-driven questions where Harry states a provocative frame ('king making isn't real,' 'margin doesn't matter') and asks the guest to react; he interjects with counterpoints and personal anecdotes but rarely outright contests factual claims.",
+  "tone": "Very matey and familiar (references walking around Hyde Park together, personal jokes about cars and shorts), high energy, clearly a fan of Coatue's platform-company thesis, laced with self-deprecating humor about his own portfolio.",
+  "depth": "Strategic rather than technical: digs into valuation frameworks (3x-on-entry litmus test), fund construction math, margin vs ARR debates, and platform-company TAM logic, tracking specific mechanics like net retention curves and gross vs operating margin.",
+  "harry_quotes": [
+    "Why is the public private boundary breaking down?",
+    "Do you think the king making concept is a real thing?",
+    "Do you have to be in San Francisco to build an amazing AI company?"
+  ],
+  "learnings": [
+    "Coatue evaluates price last, focusing first on whether a company can 3x its entry valuation by the next round.",
+    "A small number of 'platform companies' (roughly 20) capture most private-market enterprise value, so growth investors concentrate capital there rather than spreading bets.",
+    "Early-stage margin can be a misleading signal during architecture shifts; low gross margin AI companies can still be great bets if retention is extremely sticky and unit costs are falling fast.",
+    "Staying private longer lets companies avoid public-market scrutiny, but eventual IPOs are driven by liquidity needs, feedback from public market analysts, and protection from being 'messed with.'",
+    "Seed and Series A investing is getting structurally harder because check sizes and entry valuations have ballooned, compressing ownership for smaller funds."
+  ],
+  "topics": ["growth investing", "fund mechanics", "valuation", "ai", "vertical saas", "platform companies"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Swisher discloses Coatue's internal 'if I have a zero I need a six' loss-ratio framework and names specific misses (losing the Harvey seed, passing on Anduril) in unusual detail for a growth investor."
+}

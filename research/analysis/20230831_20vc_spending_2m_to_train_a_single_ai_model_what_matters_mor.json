@@ -1,0 +1,28 @@
+{
+  "guest": "Noam Shazir",
+  "guest_role": "Founder and CEO at Character.AI",
+  "approx_date": "Aug 2023",
+  "assertiveness": 5,
+  "assertiveness_why": "Prepared questions with excellent technical follow-ups; occasional direct challenges (on human connection concerns, Facebook acquisition rationale) but primarily receiving and exploring Noam's expertise rather than asserting contrary positions.",
+  "question_style": "Open-ended exploration of technical and philosophical territory; probing questions on compute constraints, model architecture, and product strategy; occasional light challenges (e.g., Facebook pivot, hallucinations-as-feature) but collaborative rather than adversarial.",
+  "tone": "Warm and engaged with deep respect for technical expertise; self-deprecating humor (tedious tasks quip); willing to venture into unexpected personal territory (parenthood, religion, sleep) without fandom or deference.",
+  "depth": "Exceptional technical depth: language modeling fundamentals, training compute requirements ($2M for current model), sparse vs dense computation, mixture-of-experts architecture, data vs model-size tradeoffs, hardware constraints on neural networks, and research publication quality challenges.",
+  "harry_quotes": [
+    "Do you not worry that we're losing touch with other humans?",
+    "Why is character a standalone company and not a product of Facebook?",
+    "Is character an education company? Is it a social company?",
+    "What do you think society believes that you wish they'd change?"
+  ],
+  "learnings": [
+    "Language models trained at scale become general-purpose tools that discover use cases users never anticipated; the best applications haven't been invented yet.",
+    "Compute spent during training—not just data size or parameter count—is the primary constraint on model capability and performance.",
+    "Startups outpace big tech on AI product launches because they face less organizational friction and brand-risk concerns slowing deployment.",
+    "Hallucinations in language models can be features for entertainment and emotional-support applications, not inherent bugs to eliminate.",
+    "Multiple winners will emerge: big companies leveraging scale and distribution, startups moving fast and iterating on consumer use cases, and individuals accessing increasingly accessible hardware.",
+    "Open-source research accelerates community progress even when large companies close proprietary research; economics of scale favor big-company serving but experimentation favors openness."
+  ],
+  "topics": ["language models", "ai scaling", "compute efficiency", "neural networks", "training", "product strategy", "open vs closed", "startups vs incumbents"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Harry ventures into unexpected personal territory—parenthood, religious philosophy, sleep deprivation—in the context of AI development and Noam's career choices. Noam engages thoughtfully despite the atypical direction; this signals Harry experimenting with psychological/lifestyle angles in technical interviews."
+}

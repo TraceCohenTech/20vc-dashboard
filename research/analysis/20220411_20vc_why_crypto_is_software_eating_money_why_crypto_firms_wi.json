@@ -1,0 +1,41 @@
+{
+  "guest": "Avachal Gog",
+  "guest_role": "Co-founder and managing partner of Electric Capital (crypto-native VC fund)",
+  "approx_date": "Apr 2022",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry asks challenging questions (whether extrapolating exponentially means investing in everything, questioning tourist participation) and expresses skepticism on crypto hype culture, but remains mostly receptive without planting counter-theses.",
+  "question_style": "Exploratory with occasional skeptical pushback; Harry admits knowledge gaps ('I knew very little') but asks probing follow-ups; occasionally challenges logic without offering alternatives; conversational and engaged.",
+  "tone": "Warm and curious with strategic skepticism; Harry acknowledges Avachal's passion as authentic while pushing back on narratives he finds concerning (hype, tourism); balanced between learning and mild critique.",
+  "depth": "Technical deep-dive into crypto infrastructure (custody, tax, audits, DEXs, smart contracts), DAO governance as economic/political experiments, token economics (ownership concentration constraints), organizational design for crypto investing (50% engineers), capital markets disruption thesis, exponential growth intuitions, geopolitical settlement layers.",
+  "harry_quotes": [
+    "Were you nervous about making the move to institutional?",
+    "Why does it allow it to be much more collaborative?",
+    "Can you unpack software eating capital markets for me?",
+    "What does it mean to extrapolate exponentially in reality?",
+    "Does it make your job harder having tourists in the space?"
+  ],
+  "learnings": [
+    "Crypto networks require dispersed ownership (low single-digit percentages per investor) to maintain protocol resilience and community adoption; concentrated VC ownership triggers 'organ rejection' by users.",
+    "Software eating capital markets: programmable code-based ownership replaces 1970s infrastructure (NDAs, PDFs, Excel) with on-chain governance; enables 24/7 global capital markets.",
+    "Crypto VC requires fundamentally different organizational DNA: 50% engineers on staff, no traditional associates/principals hierarchy; processes built around Discord discovery, code audits, custody infrastructure building.",
+    "Token vs equity: if company dissolves and token retains value, company existed in service of the network (token primary); if token requires ongoing company, equity is primary value capture.",
+    "DAO experiments represent run-able economic and governance models at scale (millions in parallel); 7-10 years needed to determine which governance structures prove durable.",
+    "Crypto pricing uses venture logic (what could it be worth × required multiple = underwriting), not NPV; institutional scale token buying requires custom infrastructure (OTC desks, DEX access, tax software, custody code).",
+    "Venture intuitions on market size are systematically wrong by 1-2 orders of magnitude; exponential growth extrapolation (internet, mobile, cloud) historically correct; crypto likely 10-100X bigger than consensus predicts.",
+    "Ethereum could become credibly neutral digital settlement layer for third geopolitical sphere (non-US, non-China) with multi-trillion-dollar GDP if extrapolated exponentially; distributed governance creates neutrality unlike traditional governments."
+  ],
+  "topics": [
+    "crypto infrastructure",
+    "dao governance",
+    "token economics",
+    "venture disruption",
+    "capital markets",
+    "organizational design",
+    "software eating money",
+    "exponential growth",
+    "geopolitical finance"
+  ],
+  "repeat_guest_callback": "Yes: 'We did one many years ago'",
+  "sponsor_read_count": 3,
+  "notable": "Electric raised $1B fund; founder argues crypto fundamentally disrupts venture capital through code-based capital deployment; organizational design must shift (50% engineers, no associates); Ethereum could function as credibly neutral digital country for settlement between geopolitical spheres."
+}

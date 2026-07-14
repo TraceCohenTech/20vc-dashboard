@@ -1,0 +1,26 @@
+{
+  "guest": "John Lilly",
+  "guest_role": "Partner at Greylock Partners",
+  "approx_date": "Jan 2017",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared, multi-sentence questions on strategy and market dynamics but never challenges John's predictions or presents opposing data; purely receptive despite strong thematic depth and personal engagement.",
+  "question_style": "Harry structures questions to elicit philosophy and storytelling ('How did you make your way into venture?', 'How do you maintain your network at scale?'). Introduces expert perspectives (Fred Wilson, Sarah Guo) as conversational hooks rather than challenges. Asks informed follow-ups on market dynamics and productivity tools without testing assumptions. Peer-like curiosity without adversarial edge.",
+  "tone": "Warm, respectful, and deferential. Harry poses a personal question about network maintenance, creating vulnerability and peer dynamic. Expresses genuine respect for John's depth and wisdom. Celebrates the shared interests in productivity tools. Enthusiasm for learning is evident; tone conveys that Harry sees John as a mentor.",
+  "depth": "Moderate-to-substantial. John discusses circuitous path to VC (operator → Mozilla CEO → Greylock at 40+), network building as lifelong practice, platform adoption curves (using Asymco framework), mobile plateau hypothesis, distribution advantage erosion, productivity tool category opportunity, and founder communication. Harry asks informed follow-ups on market consolidation and Series A dynamics.",
+  "harry_quotes": [
+    "I'd love to get started by discussing how you made your way into venture capital.",
+    "How do you maintain that network and dedication towards building that tribe at scale?",
+    "Why are we seeing this rise in productivity tools beyond traditional office and Google apps?"
+  ],
+  "learnings": [
+    "Durable professional networks are built by identifying values-aligned people early (college/early career) and actively investing in relationships; over 20+ years, this becomes a powerful, influencing ecosystem.",
+    "Major platform cycles follow similar curves: explosive growth, apparent plateau, secondary boom (enabled by new sensors/design/capabilities), repeat; the Asymco chart shows this across PC/Mac, Windows, mobile—suggesting mobile may not be at true saturation.",
+    "Incumbent competitive advantage erodes when technology shifts mediums (Microsoft's Windows/Office advantage disappeared when creation moved from desktops to phones/tablets/cloud), enabling new entrants like Figma and Quip.",
+    "Productivity tool categories (office, creative) remain disruption-prone because distribution advantages collapsed and collaboration workflows fundamentally changed (from individual typing to real-time multiplayer editing).",
+    "Silicon Valley's venture ecosystem has an unusually strong culture of continuous mentorship and knowledge-sharing; John cites dozens of mentors from diverse backgrounds, suggesting intentional community around learning."
+  ],
+  "topics": ["venture capital", "network building", "platform evolution", "mobile", "productivity tools", "distribution advantage", "market dynamics"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "John joined Greylock at age 40-41 after deep operator experience (Reactivity CEO, Mozilla CEO). Uses the Asymco logarithmic platform chart as his mental model for evolution cycles. Introduces 'MFBT' (Mozilla Friends Beer Time) as shorthand for knowing when to disengage. Skeptical on VR/AR mainstream adoption but bullish on secondary mobile booms."
+}

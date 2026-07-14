@@ -1,0 +1,28 @@
+{
+  "guest": "Danny Rimer",
+  "guest_role": "Partner at Index Ventures (backed Figma, Discord, Etsy, Glossier, Adyen, Roblox, King, Facebook, and more)",
+  "approx_date": "Jun 2024",
+  "assertiveness": 8,
+  "assertiveness_why": "Harry repeatedly names specific missed deals (Snap, Facebook at $10B, Airbnb, LinkedIn) and presses Rimer to explain exactly what went wrong, cites third-party quotes from other guests (Keith Rabois, Brian Singerman, Shaq, Brian Chesky) to provoke reactions, and directly challenges framing like 'is this not a game of anomalies?' rather than passively receiving answers.",
+  "question_style": "Highly prepared and researched (references calls with the guest's partners and LPs beforehand), mixes open reflective questions with pointed, sometimes uncomfortable ones about specific busted or missed deals; interrupts occasionally with quick meta-commentary ('Sorry, I'm being a dick') while still pushing forward.",
+  "tone": "Extremely warm and reverent (repeat guest, calls it 'the luckiest guy ever' opportunity), heavy banter with inside jokes about mutual friends' comments, self-deprecating asides about being nosy, high energy throughout.",
+  "depth": "Deep on fund mechanics: voting thresholds, thesis-driven sourcing (major/minor theses), reserve/exit discipline (DPI focus, selling into strength vs. holding), TAM skepticism, signaling risk, and scaled-firm structure (why Index stayed boutique-sized); tracks specific portfolio mechanics across many named deals.",
+  "harry_quotes": [
+    "Is this not a game of anomalies that you mentioned Spotify?",
+    "Do you worry about signaling?",
+    "Was Figma always a clear winner? Is it? Come on.",
+    "Did you let your emotions get in the way of your rational financial decision making?"
+  ],
+  "learnings": [
+    "Rimer credits Netscape CEO Jim Barksdale's 'snake rules' (kill it, don't play with dead snakes, commit to decisions) as foundational to Index's discipline against revisiting settled calls.",
+    "Index uses a 1-4/7-10 voting scale (no 5 or 6) specifically to force partners bringing a deal to demonstrate real conviction rather than lukewarm consensus.",
+    "Index deliberately avoids sector, impact, and geography-specific funds because they force picking 'the best company in a category' rather than the best company outright.",
+    "Missed deals cited: passed on Snap over an unwillingness to commit >10% of a growth fund to one bet, and passed on investing in Facebook at a $10B valuation (versus their $5B offer) — though a large secondary purchase from Owen van Natta still made it a strong outcome.",
+    "Nasty Gal is described as the formative failure lesson: Rimer kept pouring emotional and reserve capital into a failing company against partner pushback, teaching him to detach personally from sunk-cost situations.",
+    "Rimer frames feedback style as 'compassionate ass-kicking' (a Jeff Weiner-derived distinction between empathy and compassion) to give founders hard truths without absorbing their emotional burden."
+  ],
+  "topics": ["fund mechanics", "venture capital", "portfolio construction", "exits", "founder evaluation", "europe vs us tech"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 6,
+  "notable": "Rimer discloses Index passed on investing in Snap and in Facebook at what are now viewed as absurdly low valuations, framing both as formative lessons in overcoming excessive conservatism on price and position sizing."
+}

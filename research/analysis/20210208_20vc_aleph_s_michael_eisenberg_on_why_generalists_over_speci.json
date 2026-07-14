@@ -1,0 +1,26 @@
+{
+  "guest": "Michael Eisenberg",
+  "guest_role": "Co-founder and Equal Partner at Aleph",
+  "approx_date": "Feb 2021",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared, open-ended questions with follow-ups but never contests claims or pushes back on Michael's assertions.",
+  "question_style": "Harry leads with broad open-ended questions (origin story, investment philosophy) and follows up with genuine curiosity. He never challenges Michael's views or presents competing data; instead, he lets Michael expand naturally and occasionally reframes ideas as questions (e.g., 'given that, do you then switch the mindset?').",
+  "tone": "Highly deferential and admiring. Harry frequently calls Michael 'incredible' and apologizes for his own inexperience ('I can barely look after myself'). The energy is respectful, almost fan-like, with Harry positioning himself as the grateful student.",
+  "depth": "Strong technical depth on venture capital mechanics: reserves management during busts, risk vs uncertainty, portfolio construction, founder selection criteria. Michael discusses 15-25 'shots on goal,' competitive moats, and specific portfolio examples. Harry asks smart follow-ups but doesn't challenge the frameworks.",
+  "harry_quotes": [
+    "How did you make your way into the world of venture?",
+    "And then how did Aleph come to be?",
+    "How do you think about the generalist versus specialist debate?",
+    "Can I ask, do you think this time's different?"
+  ],
+  "learnings": [
+    "Generalist investors sometimes outperform specialists because lacking deep domain knowledge removes confirmation bias and allows fresh, unencumbered perspectives on new opportunities.",
+    "Innovation cycles are constant while market cycles fluctuate, so consistent investment pacing across boom-bust cycles matters more than trying to time market windows.",
+    "Effective board members function as trusted network hubs and slow advisors rather than frequent challengers, allowing founders to reach their own conclusions while providing perspective and relationships.",
+    "Bust periods are psychologically more damaging than financially damaging; having capital reserves during downturns is less about survival and more about gaining asymmetric advantage when others retreat."
+  ],
+  "topics": ["venture capital", "fund strategy", "early-stage investing", "portfolio construction", "founder relationships", "risk vs uncertainty", "reserves management"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Michael references his four published books (mixing Bible and economics), mentions his faith as central to uncertainty management, and discusses raising eight children—suggesting a philosophical/family-integrated approach to venture rare in podcast discourse."
+}

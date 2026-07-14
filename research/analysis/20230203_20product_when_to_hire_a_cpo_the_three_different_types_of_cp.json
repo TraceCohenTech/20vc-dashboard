@@ -1,0 +1,26 @@
+{
+  "guest": "Shreyas Doshi (+ 7 additional guests)",
+  "guest_role": "Shreyas Doshi: Stripe's first PM manager; other guests include CPOs/product leaders from Calendly, Google Photos, Robinhood, Adobe, Twitter",
+  "approx_date": "Feb 2023",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry asks prepared multi-sentence questions with real follow-ups and explores guest frameworks collaboratively, but primarily receives insights rather than challenging claims.",
+  "question_style": "Open-ended, multi-sentence questions that explore frameworks (operator/craftsperson/visionary model). Harry follows up on specific ideas, occasionally plants his own observations (e.g., asking if scale forces loss of creativity), and builds on guest insights. No interruptions or direct contests.",
+  "tone": "Formal but warm and engaged. Harry shows genuine enthusiasm ('I'm so enjoying this,' 'I'm thrilled to welcome'), respectful of guest expertise, no self-deprecation. Professional and collaborative throughout.",
+  "depth": "Very deep technical and strategic follow-ups. Harry tracks specific frameworks across multiple guests, explores hiring processes step-by-step, discusses real company examples (Google Photos, Stripe, Calendly, Twitter, Robinhood), and tests frameworks against real-world scenarios.",
+  "harry_quotes": [
+    "What are the three different product leader personas that I should know about when entering this hiring process?",
+    "When does that transition happen from not needing the operator to needing the operator?",
+    "Do you have to lose creativity in artistry and the art with scale of product management?"
+  ],
+  "learnings": [
+    "Product managers fall into three archetypes—operators excel at scaling and alignment but lack original insight; craftspeople translate ambiguous vision into concrete product but struggle with large orgs; visionaries see what others cannot but need craftspeople to execute.",
+    "Hiring a CPO before or just after product-market fit discovery is often premature and can derail the founder's core job of finding product-market fit through original insight.",
+    "Domain expertise in product hiring is often overrated; curiosity, ability to learn, and first-principles thinking matter more than prior experience in the same industry.",
+    "Structured hiring processes with clear competency frameworks and cross-functional panels are more effective than ad-hoc interviews at identifying strong product talent.",
+    "The best startup product hires often come from non-obvious backgrounds and show high ambition and hunger to prove themselves rather than extensive prior domain experience."
+  ],
+  "topics": ["product management", "hiring", "cpo strategy", "founder dynamics", "product strategy", "scaling teams"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Special compilation episode with eight product leaders (Shreyas Doshi, Annie Pearl, David Lieb, Marty Kagan, Lenny Raczynski, Jenna Prigada, Skor Balski, Kiwan Bait Paul) all discussing the same topic from different perspectives, creating an unusually comprehensive exploration of CPO hiring."
+}

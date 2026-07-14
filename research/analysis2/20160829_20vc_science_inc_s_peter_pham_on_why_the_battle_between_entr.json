@@ -1,0 +1,26 @@
+{
+  "guest": "Peter Pham",
+  "guest_role": "Co-founder of Science Inc., a startup studio (portfolio includes Dollar Shave Club, DogVacay, Wishbone)",
+  "approx_date": "Aug 2016",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry gently contests Peter's self-deprecating claims ('That's not true, Peter... everyone says Peter is the people person') and labels a question 'harsh' before asking it, but overall lets Pham run long, detailed answers uninterrupted.",
+  "question_style": "Conversational and follow-up heavy, letting Pham's answers dictate the next question; occasionally pushes back playfully on a self-deprecating claim, and flags a question as 'harsh' before asking it, but doesn't sustain pressure or bring outside data to contest him.",
+  "tone": "Very matey and jokey, lots of banter (mattress ad tie-ins, LA weather jokes, 'I'm right here from the Dollar Shave Club ads, don't I?'), high energy, clearly enjoying the extended 75-minute chat.",
+  "depth": "Goes deep on fundraising mechanics — the '24-hour rule' for reading investor interest, GP partnership dynamics, false positives/false no's, and funnel/retention economics referencing a Bill Gurley post — showing real tracking of VC process detail.",
+  "harry_quotes": [
+    "How do you not waste your time, right?",
+    "Has that influenced how you relate the no to people you say no to?",
+    "What's the vision for science?"
+  ],
+  "learnings": [
+    "Pham uses a '24-hour rule' — any investor engagement within 24-36 hours signals real interest, otherwise it's a soft no.",
+    "He treats 'I love it but couldn't get my partners' as usually a polite lie masking lack of conviction, since a champion partner can typically get colleagues to yes.",
+    "Science pre-screens and coaches CEOs hard before VC meetings, sometimes interjecting mid-pitch to reframe answers into a VC-digestible structure.",
+    "Scaling advice: focus on cohort retention and funnel conversion metrics before spending on top-of-funnel paid acquisition, since acquisition costs are never linear.",
+    "Pham tracks VC partner-level psychology (who's in/out of favor internally, fund vintage, recent wins/losses) as an input into who to pitch and how."
+  ],
+  "topics": ["startup studios", "fundraising process", "venture psychology", "portfolio construction", "growth marketing", "founder coaching"],
+  "repeat_guest_callback": "leading marketplace, DogVacay, who we actually had on the show with Aaron Hershaughn coming on",
+  "sponsor_read_count": 2,
+  "notable": "Pham reveals he's tracked roughly 3,000 investor 'no's against 83 yeses and $350M raised across the Science portfolio, and discloses a recent ADHD diagnosis and Vyvanse use to manage focus."
+}

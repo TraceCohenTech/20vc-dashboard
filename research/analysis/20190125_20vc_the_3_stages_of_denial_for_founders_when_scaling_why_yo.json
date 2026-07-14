@@ -1,0 +1,31 @@
+{
+  "guest": "Olaf Matha",
+  "guest_role": "Founder and CEO at MixMax",
+  "approx_date": "Jan 2019",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared questions with thoughtful follow-ups but never challenges Olaf's assertions; mostly receives his scaling wisdom and requests elaboration and examples.",
+  "question_style": "Harry asks open-ended questions with real follow-ups focused on specific frameworks and examples. He occasionally mentions going off-script because he's intrigued. No pushback or alternative viewpoints introduced.",
+  "tone": "Warm, admiring, and deeply respectful. Harry praises Olaf's interview methodology with 'This is like a session with Yoda.' Collaborative and deferential to Olaf's expertise on scaling and hiring.",
+  "depth": "Moderately deep on operations and hiring strategy. Harry explores three stages of founder denial in hiring, expense justification, recruiter specialization, consultant-to-hire models, 90-day assessments, and novel interview question methodologies. Less technical/product depth; focuses on leadership and team building.",
+  "harry_quotes": [
+    "Well, I mean, you've teed me up perfectly for the entire interview.",
+    "I mean, the other element, and off schedule, but I'm too intrigued not to ask.",
+    "I'm always really interested in terms of when there's a slight stretch.",
+    "No, I love that 90-day timeframe.",
+    "This is like a session with Yoda. Anyway, I wanna move into my favorite elements."
+  ],
+  "learnings": [
+    "Founders experience three predictable stages of denial when scaling hiring: (1) the role isn't needed yet, (2) they can find the person themselves, (3) hired candidates will grow into the role—all three are usually wrong",
+    "Senior hires should happen at or before product-market fit; the opportunity cost of founder time spent on undelegated functions exceeds the salary cost of bringing in experienced leadership",
+    "Hiring timing rules: 8+ direct reports requires a functional leader; any function where founders lack domain expertise should hire a senior leader to build the entire team, not just fill a role",
+    "Executive recruiters are an entirely different specialization from individual contributor recruiters; founders dramatically underestimate the boutique nature and pricing of senior talent recruitment",
+    "Executive recruiting firms should be treated as core team members—the recruiter's enthusiasm for your company directly translates into candidate enthusiasm through their pitch",
+    "The consultant-to-hire model validates senior role fit: bring in a senior consultant for 2-3 months to test chemistry, learn the function's needs, and have them help source the permanent hire",
+    "90-day window is the right assessment timeframe for a senior hire; hesitation about their impact after 90 days indicates they're not the right person",
+    "Revealing interview questions: (a) 'What would your CEO change to make you stay?' reveals introspection and willingness to have tough conversations; (b) 'What's your professional development focus?' shows self-awareness; (c) 'Tell me about a failed project' reveals humility and accountability"
+  ],
+  "topics": ["scaling", "hiring", "team building", "saas", "leadership", "founder psychology", "recruiting", "management"],
+  "repeat_guest_callback": "I so enjoyed our prior episode on SaaS",
+  "sponsor_read_count": 3,
+  "notable": "This is Olaf's second appearance on the show. Harry praises his interview methodology with 'This is like a session with Yoda.' Harry explicitly states twice during the quick fire round 'I've never had that one either,' indicating Olaf's interview questions are particularly novel and insightful for the show."
+}

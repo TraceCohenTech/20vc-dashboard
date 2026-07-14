@@ -1,0 +1,27 @@
+{
+  "guest": "Rick Nucci",
+  "guest_role": "Founder and CEO, Guru (previously founder of Boomi, acquired by Dell)",
+  "approx_date": "Jan 2020",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks thoughtful, prepared multi-part questions and probes for specifics ('double clicking on that'), but he never contests or challenges any of Rick's claims, staying in pure-reception mode throughout.",
+  "question_style": "Open-ended and empathy-driven questions sourced from named investors (Ryan at Thrive, Jake at Emergence), with genuine personal follow-ups (on burnout, vulnerability, firing people) but no pushback or planted counter-thesis; Harry shares his own struggles (conflict-aversion) to invite candor rather than to challenge.",
+  "tone": "Warm, personal, and vulnerable-forward; visibly fannish about the guest's culture and leadership style, with self-deprecating admissions (conflict-averse, hasn't read enough).",
+  "depth": "Mostly leadership/culture/organizational depth (values reinforcement mechanics, internal promotion vs external hiring, remote/non-hub geography strategy) rather than product or technical depth.",
+  "harry_quotes": [
+    "What didn't work at Boomi that you're maybe not doing at Guru?",
+    "Have you ever been burnt out?",
+    "How do you feel with those moments, and what would you advise me?"
+  ],
+  "learnings": [
+    "Company values should be revisited and rewritten roughly annually rather than treated as permanent, since what a company needs evolves with its stage.",
+    "A structured culture-fit interview conducted by someone outside the hiring team, with veto power, can protect culture even as hiring scales.",
+    "Firing conversations land more fairly when preceded by a documented performance-improvement conversation, so the outcome doesn't feel like a surprise.",
+    "Building outside a core tech hub can be a hiring advantage because it avoids talent-war saturation and echo-chamber groupthink common in oversaturated hubs.",
+    "Investors are increasingly indifferent to (or even prefer) portfolio companies based outside Silicon Valley/New York, a marked shift from a decade earlier.",
+    "Internal promotion works best when paired with clear autonomy -- giving people stretch responsibility as they show initiative, rather than gatekeeping advancement."
+  ],
+  "topics": ["culture", "leadership", "hiring", "remote/non-hub building", "fundraising", "founder wellbeing"],
+  "repeat_guest_callback": "So I'm so pleased you mentioned Anna. I've actually had her on the show before, and she is just fantastic.",
+  "sponsor_read_count": 6,
+  "notable": "Ends on an unusually personal quickfire segment covering burnout and coping mechanisms rather than the standard investor/tactical questions."
+}

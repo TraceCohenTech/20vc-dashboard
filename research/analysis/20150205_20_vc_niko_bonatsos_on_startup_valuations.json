@@ -1,0 +1,27 @@
+{
+  "guest": "Niko Bonatsos",
+  "guest_role": "Principal at General Catalyst Partners",
+  "approx_date": "Feb 2015",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared, open-ended questions with real follow-ups on investment criteria and market dynamics, but never challenges Bonatsos's claims or plants alternative theses.",
+  "question_style": "Harry poses open-ended questions about background, founder quality, investment metrics, and valuation approaches. He follows up on key points (e.g., whether technology will replace schools) but never contests Bonatsos's views. No interruptions; respectful, receptive interviewing.",
+  "tone": "Formal and deferential, with evident admiration (\"hugely excited to welcome\"). Harry frames himself as a learner. No self-deprecation or playfulness; energy is professional and earnest.",
+  "depth": "Mix of surface and strategic coverage. Harry probes investment decision-making (founder quality, product differentiation, growth metrics), valuation methods for high-growth companies, geographic expansion, and career advice for aspiring VCs. Not deeply technical; focuses on VC philosophy and market dynamics.",
+  "harry_quotes": [
+    "Could you tell us a little about that and your background?",
+    "What would you say you learned from your startup failing?",
+    "Do you see technology essentially replacing schools in twenty years?",
+    "What would you advise graduates looking to get into venture capital?"
+  ],
+  "learnings": [
+    "First-mover advantage is overrated; sustainable success requires team quality, differentiated execution, and market fit",
+    "Building on others' platforms creates hidden dependency risks that can catastrophically disrupt a business overnight",
+    "Founding teams of two to three co-founders with complementary skills and a clear leader significantly outperform solo founders",
+    "Top VCs prioritize founder charisma and vision, product differentiation, and growth metrics over traditional valuation models when investing in early-stage high-growth companies",
+    "Silicon Valley's dominance stems from concentrated access to capital, experienced talent pools, and large customer bases rather than a monopoly on innovation"
+  ],
+  "topics": ["startup valuations", "venture capital", "founder quality", "investment criteria", "platform risk", "co-founders", "growth metrics"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 0,
+  "notable": null
+}

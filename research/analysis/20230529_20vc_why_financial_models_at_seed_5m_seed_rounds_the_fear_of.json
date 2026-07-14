@@ -1,0 +1,27 @@
+{
+  "guest": "Adam Besvonek",
+  "guest_role": "Founder of Looking Glass Capital, a pre-seed focused venture fund (Fund 2: $20M target)",
+  "approx_date": "May 2023",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry directly challenges Adam's frameworks ('Honestly, I disagree' on thematic investing), pushes back on underlying assumptions, and engages in intellectual debate. Questions are probing and challenge-oriented while remaining respectful.",
+  "question_style": "Multi-sentence prepared questions with direct challenges and occasional pushback ('Honestly, I disagree,' 'Do you worry about adverse selection?'). Harry inserts his own perspectives and engages in structured intellectual debate rather than pure reception. Collaborative but with substantive disagreement.",
+  "tone": "Intellectually rigorous and professional. Harry respects Adam's expertise but doesn't hold back disagreements. Warm rapport despite substantive pushback. Engages seriously on venture operations and strategy.",
+  "depth": "Extremely granular venture capital discussion covering: fund sizing logic ($8.5M→$20M), check size ranges (300-500K pre-seed, 400-500K seed), ownership targets (4% average), dilution modeling (60-65%), LP composition (individuals, family offices, fund-of-funds), fundraising process (deck, data rooms, LP updates), thematic investing strategy, deal sourcing (cold inbound/outbound), round composition, portfolio construction, loss ratios, market dynamics (2021-2023 whiplash), and 10-year venture predictions.",
+  "harry_quotes": [
+    "Honestly, I disagree.",
+    "Do you worry about adverse selection?",
+    "Can you lead rounds if you're not the biggest check, Adam?"
+  ],
+  "learnings": [
+    "Pre-seed fund discipline requires extreme clarity on ownership targets; a $8.5M fund needs 86 basis points at exit from a $1B outcome to return the fund, achievable with 4% average entry ownership and moderate dilution (60-65%).",
+    "Thematic investing at pre-seed enables competitive advantage: it makes you top-of-mind for syndicates, attracts cold inbound from relevant founders, and provides instant credibility to pitch other investors in the round.",
+    "Founder discipline (24 months cash minimum, target product-market fit over 2 years) is rare but enables up-round capability when market hardens; raising $5M at 25% caps without execution creates targets on founders' backs.",
+    "Multi-stage funds entering seed/pre-seed in 2021-2022 destroyed market pricing; pedigree founders now raise $5M with no code, while non-pedigree founders punished unfairly for multi-stage funds' over-deployment corrections.",
+    "Venture experienced severe 2021-2023 whiplash: deals fell from 50+ per fund to 8 deals annually as VCs reserved 50% of dry powder for existing portfolio rescue, leaving new founders to compete for scraps.",
+    "Reputation with founders (not other investors) is the primary venture currency; founders choose investors based on alignment, responsiveness, and credibility, not fund brand."
+  ],
+  "topics": ["pre-seed", "venture capital", "fund strategy", "lp dynamics", "thematic investing", "fundraising"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "\"Inside baseball VC\" episode focused on venture operations and economics rather than company building. Adam openly discusses pre-seed fund economics and strategy that most VCs keep private. Harry and Adam have engaged multiple times on Twitter before this interview."
+}

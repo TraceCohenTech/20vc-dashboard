@@ -1,0 +1,34 @@
+{
+  "guest": "Lo Tony",
+  "guest_role": "Founding Managing Partner, Plexo Capital",
+  "approx_date": "Jun 2020",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry asks prepared multi-sentence follow-ups and directly challenges Lo on GP commits and allocation strategy, demonstrating engaged inquiry rather than pure reception.",
+  "question_style": "Mostly open-ended multi-sentence questions with substantive follow-ups on fund mechanics and strategy. Harry occasionally plants his own thesis (especially on diversity barriers to GP commits) and asks Lo to respond. He doesn't interrupt but does push back directly on several specific points.",
+  "tone": "Conversational and matey with genuine interest (gym cardio reference, collegial banter). High energy and enthusiastic (\"I've absolutely loved this\"), with respect for the guest. Not formal; feels like a peer discussion rather than journalist interview.",
+  "depth": "Progresses from COVID-era fundraising challenges to specific structural topics: minimum viable fund size, LP communication strategies, GP commits and their diversity barriers, anchor LP negotiations, management company stakes, fund reserve modeling, and allocation strategy in competitive markets. Technical tracking includes fee structures, carry negotiations, and portfolio construction economics.",
+  "harry_quotes": [
+    "So how did you get into the world of venture first, and what was the founding moment there?",
+    "I have a real problem with the way that people think about GP commits today in the LP world.",
+    "Can I be really annoying and push back on one element before the quick fire round?"
+  ],
+  "learnings": [
+    "Emerging managers should model minimum viable fund size scenarios to ensure viability even if capital raised falls short of original targets.",
+    "Clear and frequent communication between GPs and LPs about portfolio construction changes is essential to preserving trust when fund size constraints emerge.",
+    "Management company stakes offer emerging GPs non-dilutive working capital without compromising LP alignment if structured separately from LP economics.",
+    "Hybrid LP/GP models provide access to curated deal flow through fund networks while maintaining independent direct investment capability.",
+    "Standardized GP commit percentages create systemic barriers for diverse or early-career founders who lack the liquidity history to meet requirements, regardless of capability."
+  ],
+  "topics": [
+    "fund mechanics",
+    "fundraising",
+    "covid-19",
+    "gp commits",
+    "lp relations",
+    "venture capital",
+    "diversity in vc"
+  ],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Episode centers on COVID-19's immediate impact on fund fundraising during June 2020 lockdowns; Harry notably extends the conversation well beyond schedule length, discussing structural fund mechanics in unusual depth for a 20-minute format."
+}

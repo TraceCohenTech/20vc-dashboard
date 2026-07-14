@@ -1,0 +1,41 @@
+{
+  "guest": "Wayne Chang",
+  "guest_role": "Co-founder of Crashlytics (acquired by Twitter, then Google); serial angel investor with portfolio including Open Door, SoFi, Gusto; LP in 137 Ventures, Baseline Ventures, Boston Seed Capital",
+  "approx_date": "Sep 2017",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks prepared follow-ups and occasionally references external theses (time kills deals), but mostly receives; limited direct challenges or counter-positioning.",
+  "question_style": "Harry uses prepared multi-sentence questions with strategic follow-ups, asking Wayne to defend and elaborate on frameworks like delta of wow and triangle of focus. He gently fact-checks assumptions (is VC ego dying?) and references external sources, but rarely contests Wayne's answers directly. Non-interrupting, collaborative exploration of founding philosophy.",
+  "tone": "Warm and deferential, with repeated gratitude and acknowledgment of Wayne's generosity. Harry reads as fan-like but maintains professionalism; conversational and human (admits not having read Ender's Game). High energy, not self-deprecating, matey rather than formal.",
+  "depth": "Strategic and framework-focused: recruiting, hiring velocity, product design (delta of wow), fundraising psychology, competitive positioning, and angel investing models. Harry probes Wayne's mental models with follow-ups and real-world examples, but stays light on technical implementation details—appropriate for the entrepreneurial scope.",
+  "harry_quotes": [
+    "So what leads you to this thinking?",
+    "What are the ideal characteristics in that first recruiter?",
+    "So what is the delta of wow? And it's important.",
+    "How do you put a round together as quick as possible?",
+    "I'm intrigued. This isn't what I normally hear."
+  ],
+  "learnings": [
+    "Hiring a full-time recruiter early in a startup frees founders from recruitment work, allowing them to focus mental energy on product, customers, and culture while the recruiter builds team velocity.",
+    "Delta of wow is the gap between an industry's baseline user experience and the delightful experience you create; exceeding baseline expectations in design and usability generates word-of-mouth growth.",
+    "Founders should optimize for speed and quality in the triangle of focus trade-off, accepting higher costs to reach market first and maintain quality edge—this requires raising sufficient capital upfront.",
+    "Time is the enemy of founders more than dollars; every day costs burn rate, so accelerating team building and product velocity compound faster than conserving capital.",
+    "Meeting investors in neutral settings outside their offices creates psychological equality and lets you stand out from other founders who accept boardroom pitches at the VC's home turf.",
+    "Successful fundraising means positioning yourself as a capable executor and making investors chase you through perceived FOMO; never reveal other interested VCs to maintain competitive tension.",
+    "Early-stage founders should only take meetings with partner-level decision makers, not associates doing due diligence, because associate-focused time has no real benefit.",
+    "Warm introductions are critical currency for entrepreneurs seeking VC attention, but established VCs can cold-email entrepreneurs and still get responses because the power dynamic is reversed.",
+    "Angel investing shifted Wayne's mindset from scarcity (needing capital) to abundance (having capital), redirecting his energy toward mentoring and returning value to the next generation of founders."
+  ],
+  "topics": [
+    "hiring",
+    "fundraising",
+    "startup strategy",
+    "product design",
+    "angel investing",
+    "entrepreneurship",
+    "vc dynamics",
+    "time management"
+  ],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 2,
+  "notable": "Wayne shares a poignant personal story about receiving a doctorate from UMass Amherst a decade after dropping out to start a company, then being invited to deliver commencement as a 34-year-old angel investor—a full-circle validation that resolved childhood family tension over leaving university."
+}

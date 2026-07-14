@@ -1,0 +1,28 @@
+{
+  "guest": "Samir",
+  "guest_role": "Founder and CEO of Vyze, wealth management technology platform",
+  "approx_date": "Jun 2024",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry makes occasional direct challenges and contests some decisions, plants limited theses about investor incentives, but mostly receives and follows the guest's narrative.",
+  "question_style": "Prepared multi-sentence questions with genuine follow-ups. Harry occasionally plants his perspective (e.g., on investor incentives, pattern matching) but does not push back systematically. Conversational and collaborative rather than adversarial.",
+  "tone": "Warm and personable (\"so excited for this dude\"), chemistry-focused, relatively neutral without excessive fandom. Some self-deprecation. Formal-friendly balance.",
+  "depth": "Strategic and operational: capital discipline, hiring mistakes, investor board dynamics, culture building, PMF challenges. Tracks specific metrics (burn rate, valuation, team size changes). Limited technical depth.",
+  "harry_quotes": [
+    "Do you regret raising as much money as quickly?",
+    "Why did you say yes to that? I know it sounds stupid.",
+    "Have you found that the great investors ask different questions?"
+  ],
+  "learnings": [
+    "Excess capital often destroys discipline and leads to bloated hiring, which slows execution rather than accelerating it",
+    "Concentrated investor ownership limits healthy boardroom debate and creates misaligned incentives between founder and investor interests",
+    "Senior executives from large companies transplant outdated playbooks and lack the adaptability needed to find product-market fit in startups",
+    "Founders must independently filter advice from mentors rather than blindly adopting recommendations, since context and market conditions differ",
+    "Counterintuitive decisions like cutting headcount and returning to office can position a company better long-term despite reputation damage",
+    "High valuations attract career-focused mercenaries rather than mission-driven believers, which harms culture and decision-making quality",
+    "Investor engagement and perception matter less than fundamental business building once a company is no longer perceived as a hot bet"
+  ],
+  "topics": ["capital discipline", "hiring", "investor dynamics", "startup culture", "fundraising", "wealth management", "product-market fit"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "This episode uses a reflective profile format rather than rapid-fire interrogation, focusing on founder lessons learned. The guest's extreme youth (founded at 15.5, youngest billion-dollar founder at ~20) anchors a narrative about early success, mistakes, and organizational reset."
+}

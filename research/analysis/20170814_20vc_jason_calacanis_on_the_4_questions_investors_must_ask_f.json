@@ -1,0 +1,24 @@
+{
+  "guest": "Jason Calacanis",
+  "guest_role": "Angel investor, author of \"Angel\", founder of Launch Festival, former Sequoia Scout",
+  "approx_date": "Aug 2017",
+  "assertiveness": 5,
+  "assertiveness_why": "Good follow-ups on investing philosophy, valuation, market cycles, and founder psychology, but mostly receptive. Harry goes off-script conversationally but doesn't push back with contradictory data or challenges.",
+  "question_style": "Open-ended questions on book motivation and investing philosophy; builds on Jason's points with clarifying follow-ups; occasional probing (founder early sales, Uber liquidity, YC scaling); mostly exploratory and collaborative.",
+  "tone": "Very conversational and off-the-cuff; Harry signals willingness to deviate from schedule; warm but not fawning; Jason is authority figure and long-form rambler; informal and chatty; both riff on ideas together.",
+  "depth": "Medium-to-high; covers angel track record (six unicorns in 125 investments), wealth creation philosophy, market cycles and bubble risk, founder psychology (why now, what are you working on), YC scaling critique, fundraising manipulation tactics, book writing process.",
+  "harry_quotes": [
+    "Do you blame founders for selling out early?",
+    "What are your thoughts on Uber not providing later liquidity?",
+    "Is successful investing a game of picking or a game of access?"
+  ],
+  "learnings": [
+    "The 'why are you doing this' question reveals founder conviction better than any other metric; founders motivated by mission (e.g., colonize Mars, save biosphere) persist through failure better than those motivated by money.",
+    "Companies are acquired by investors hunting for hockey-stick growth curves rather than sold via traditional sales processes; once a company achieves escape velocity, acquiring interest becomes inevitable.",
+    "Y Combinator's scaling from 7 to 125 companies per cohort creates an implicit system where top partners cherry-pick winners early, leaving demo day audience fighting over lower-probability remaining companies."
+  ],
+  "topics": ["angel investing", "founder psychology", "venture capital", "fundraising tactics", "market cycles", "wealth creation", "bubble risk", "YC criticism"],
+  "repeat_guest_callback": "Yeah, that's crazy. You've done more episodes of the 20 minute VC than I've done of this weekend startups. You leapfrogged me.",
+  "sponsor_read_count": 2,
+  "notable": "Jason's 'Jedi Knight' analogy for top investors, candid critique of YC's manipulation tactics and founder coaching, and emphasis on 'summit to profitability' are memorable. This is a repeat guest whose relationship with Harry creates a more off-the-record tone."
+}

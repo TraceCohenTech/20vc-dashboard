@@ -1,0 +1,26 @@
+{
+  "guest": "Andy Rachleff",
+  "guest_role": "Co-founder of Benchmark Capital; Co-founder and Executive Chairman of Wealthfront",
+  "approx_date": "Jun 2016",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks thoughtful, prepared multi-sentence follow-ups and steers topic transitions, but never challenges or contests any of Rachleff's claims.",
+  "question_style": "Open-ended and reverential, built around a chronological life-story arc (VC career, then Wealthfront, then reflections). Harry frequently follows up on something the guest just said, but does not interrupt or push back on any claim.",
+  "tone": "Very matey and fan-like, effusive praise ('such a pleasure', 'so excited'), high energy, heavy sponsor integration (Wealthfront, VC Unlocked, Lisa mattress) woven into intro/outro.",
+  "depth": "Mostly strategic/reflective rather than technical — covers product-market fit definition, VC vs. operator skill sets, board dynamics, and market-risk vs technical-risk framing, but doesn't drill into specifics like unit economics or algorithms.",
+  "harry_quotes": [
+    "What do you think it is about them that makes them the best managed?",
+    "What was most challenging in the journey for you?",
+    "What makes the great CEOs? What makes the great board members?"
+  ],
+  "learnings": [
+    "Rachleff argues most VC skills don't transfer to being a CEO, since VC is primarily about picking the right investments, not operating.",
+    "He frames the industry's 20-year shift as moving from high-technical-risk/low-market-risk bets to low-technical-risk/high-market-risk software bets, pushing early-stage risk onto angels.",
+    "He believes product-market fit for consumer businesses is best evidenced by exponential organic growth rather than paid acquisition.",
+    "Great CEOs continually layer new business lines atop declining ones (Apple, Adobe examples), which sustains long-term growth.",
+    "He values direct company research over secondhand blog coverage, saying most commentary on Benchmark/Wealthfront is inaccurate because writers never called to ask."
+  ],
+  "topics": ["venture capital", "fintech", "product-market fit", "board governance", "fund mechanics", "robo-advisory"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Rachleff is unusually blunt that 90% of a VC's value-add is deal selection, not board work, and that his mother 'could have been on the board of Google' and it still would have succeeded."
+}

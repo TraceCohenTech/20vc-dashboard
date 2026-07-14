@@ -1,0 +1,28 @@
+{
+  "guest": "Scott Sandell and Rick Yang",
+  "guest_role": "General Partners at NEA (Sandell led Robinhood board seat; Yang is head of consumer investing at NEA)",
+  "approx_date": "Jan 2022",
+  "assertiveness": 6,
+  "assertiveness_why": "Harry repeatedly plants his own contrarian views (skepticism of public-comp sizing, doubt about young-demographic AUM retention, a direct 'most people investing are incompetent' rebuttal to the 'if you have a phone you're an investor' framing) and pushes guests to defend them rather than just receiving the memo narrative.",
+  "question_style": "Structured 'memo teardown' format with open prompts but frequent direct challenges and devil's-advocate framing (e.g., churn risk as AUM grows, zero-CAC sustainability, using incumbent market caps as an anchoring bias); he interjects opinions before letting them answer.",
+  "tone": "Enthusiastic and familiar, calls it 'such a joy to do,' banters and jokes (the phone/investor exchange), formal enough for a memo-teardown format but clearly a fan of the company.",
+  "depth": "High strategic/financial depth: DAU/MAU cohort benchmarks vs. gaming/social apps, cost-structure comparisons (Robinhood vs E*Trade per-employee/per-customer economics), CAC strategy, business-model risk from fee compression, and crypto/super-app expansion strategy.",
+  "harry_quotes": [
+    "Do you worry that they're going to churn out with increased wealth?",
+    "How are they 134 for 135 cheaper?",
+    "Do you think that's right? Like if you have a phone, you're an investor?",
+    "Is it challenging when you have a company whose numbers are so good?"
+  ],
+  "learnings": [
+    "NEA's initial thesis modeled Robinhood as capturing a slice of the ~$70 billion brokerage market cap being disrupted, similar to how E*Trade and Schwab had disrupted full-service brokers before.",
+    "Early closed-beta signals that convinced NEA included a DAU/MAU ratio of 30-40 percent — a gaming/social-app-style engagement benchmark rarely seen in fintech at the time.",
+    "Robinhood's cost advantage came from spending two-plus years pre-launch building automated, self-serve infrastructure, resulting in roughly 1/135th the per-customer cost structure of E*Trade.",
+    "The board actually pushed Robinhood to start spending on marketing once they saw how strong customer payback economics were, reversing the usual board dynamic of reining in CAC.",
+    "NEA didn't worry that robo-advisors like Wealthfront would fully capture the market because a persistent segment of investors wants active control over their own trades, not 'set and forget' automation.",
+    "Robinhood raised $3.5 billion in five days during the 2021 meme-stock volatility, largely from existing investors, which the board sees as a testament to founder-investor loyalty."
+  ],
+  "topics": ["fintech", "consumer investing", "fund mechanics", "board governance", "growth metrics", "cost structure"],
+  "repeat_guest_callback": "Having had Vlad on the show previously, it was so special to hear that story and the context behind the investment there from Scott and Rick.",
+  "sponsor_read_count": 3,
+  "notable": "Part of the '20VC: The Memo' recurring format where investors walk through their actual investment memo/rationale for a specific breakout company (Robinhood)."
+}

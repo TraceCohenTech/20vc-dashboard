@@ -1,0 +1,23 @@
+{
+  "approx_date": "Apr 2026",
+  "panelists": ["Rory O'Driscoll", "Jason Lemkin"],
+  "stories_covered": ["Cursor acquired by XAI/SpaceX for $60 billion with $10 billion break clause", "Tim Cook stepping down from Apple after 15-year run", "Anthropic crosses $1 trillion valuation in secondary markets, rejects $800 billion new funding", "Anthropic launches Claude Design, competing directly with Figma and Adobe"],
+  "harry_takes": [
+    "Cursor acquisition is the highest private M&A exit ever at $60 billion, achieved in just three years",
+    "Elon gets enormous cost-of-capital arbitrage: SpaceX trades at 100X revenue, can buy 10-15X revenue assets 'all day long'",
+    "Anthropic's Claude Design poses an existential threat not to Figma directly but by enabling normal people to bypass designers entirely",
+    "There will be a $100 billion deal in the next 12 months as mega-cap tech companies scramble to lock down AI capabilities",
+    "Tim Cook's exit is operationally excellent—barely moved the stock—signaling perfect succession management"
+  ],
+  "harry_boldest_quote": "This is the biggest private acquisition ever in venture, period, full stop, end of story.",
+  "predictions": [
+    "Harry: There will be a $100 billion deal in the next 12 months among the mega-cap acquirers",
+    "Harry: This Cursor deal will stand as the high water mark of private M&A for a decade",
+    "Rory: Claude Design isn't a direct Figma killer but will maim Figma over time as non-designers build on their own"
+  ],
+  "disagreements": "Harry predicted a $100 billion deal coming; Rory pushed back on math that only Elon can write such checks, but agreed smaller deals ($10-20B) will accelerate due to expanded Overton window.",
+  "harry_role": "Driving both narrative and debate, articulating the Elon arbitrage thesis and the Anthropic moat-expansion story, challenging Jason on competitive threats to incumbents.",
+  "topics": ["m-and-a", "cursor-spacex", "anthropic-valuation", "claude-design", "figma-threat", "tim-cook"],
+  "sponsor_read_count": 3,
+  "notable": "Jason's point that Elon's ability to write checks at 100X revenue multiples creates a self-reinforcing advantage loop that no other founder can replicate becomes the underlying theme of deal-making in 2026."
+}

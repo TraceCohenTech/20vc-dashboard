@@ -1,0 +1,30 @@
+{
+  "guest": "Tony Xu",
+  "guest_role": "CEO and co-founder of DoorDash",
+  "approx_date": "Jun 2021",
+  "assertiveness": 5,
+  "assertiveness_why": "Harry asks prepared multi-sentence follow-ups and occasional direct questions, but mostly receives Tony's perspectives without contesting claims.",
+  "question_style": "Open-ended and collaborative, with follow-ups on specific concepts like leadership and decision-making. Harry references investor feedback to frame questions but rarely pushes back or plants adversarial thesis. He occasionally interrupts to seek clarification or steer toward new topics.",
+  "tone": "Formal yet friendly with genuine curiosity. High energy and engaged, showing respect for Tony's experience. Includes self-deprecating moments to balance the gravity of discussion.",
+  "depth": "Substantive engagement with strategic topics: founding origins, leadership philosophy, talent acquisition mechanics including the $20/8-hour customer test, organizational culture, diversity implementation, and decision-making frameworks. Tracks specific techniques and operational practices rather than surface anecdotes.",
+  "harry_quotes": [
+    "So what was the founding moment for you at DoorDash",
+    "what does great leadership mean to you, do you think?",
+    "When you think about your persistence, how do you think about that today?",
+    "What do you think your superpower is, Tony?",
+    "How and why did you win them in your mind?",
+    "Do you wanna come back to the office?"
+  ],
+  "learnings": [
+    "DoorDash emerged from recognizing that local merchants couldn't handle delivery orders due to operational burden beyond just logistics; the company chose to solve delivery first rather than trying to solve every operational challenge",
+    "Effective leaders understand problems by doing the work themselves across all functions; this ground-truth knowledge enables better decision-making and credibility with teams",
+    "Psychological safety requires leaders to fully credit direct reports for wins while absorbing blame for losses, paired with deep enough knowledge to genuinely advise",
+    "Organizational culture functions like personality and changes slowly; building diversity at scale demands continuous measurement through hiring funnels, explicit mechanisms to amplify quiet voices, and multi-year commitment",
+    "Recruiting at scale succeeds by identifying core attributes first through testing like realistic challenges, hiring for potential over experience, and leveraging early hires to recruit subsequent cohorts",
+    "Infinite business games require balancing celebration of milestones with sustained focus on long-term north stars; leaders must practice appreciating wins without losing momentum"
+  ],
+  "topics": ["leadership", "culture", "recruiting", "decision-making", "scaling", "diversity", "operations"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Episode recorded shortly after DoorDash's December 2020 IPO; interview covers unusual depth on Tony's immigrant background, parenting philosophy, and organizational psychology alongside business strategy."
+}

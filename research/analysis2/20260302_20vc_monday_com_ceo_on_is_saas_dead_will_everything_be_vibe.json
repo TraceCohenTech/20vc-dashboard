@@ -1,0 +1,26 @@
+{
+  "guest": "Eran Zinman",
+  "guest_role": "Co-CEO and co-founder of Monday.com",
+  "approx_date": "Mar 2026",
+  "assertiveness": 7,
+  "assertiveness_why": "Harry repeatedly plants specific bear-case theses (vibe coding, LLM app-layer capture, agentic database risk, stock price collapse) and presses Zinman with pointed follow-ups like 'can I push you' rather than just receiving answers.",
+  "question_style": "Structured around naming distinct 'doomsday scenarios' one by one and demanding the guest rebut each; Harry frequently interrupts to challenge specifics (headcount growth vs efficiency claims, buyback timing, take-private option) and injects his own comparisons (Klarna, ServiceNow, AWS-era analogies).",
+  "tone": "Warm, matey, and personal — jokes about hair, British vs Israeli directness, a long emotional detour into marriage advice and mental health; clearly sympathetic to the guest's stock-price ordeal rather than hostile.",
+  "depth": "Strategic and financial: digs into gross vs net retention, buyback mechanics, 10b5 insider-trading plans, consumption vs seat-based pricing transitions, and specific AI-driven cost efficiencies (SDR automation, support AI) rather than staying surface-level.",
+  "harry_quotes": [
+    "Why does Monday not become a layer that gets extracted away?",
+    "Why are we not being more aggressive?",
+    "Why not buy it back personally?"
+  ],
+  "learnings": [
+    "Zinman argues foundation-model labs (OpenAI, Anthropic, Gemini) are unlikely to dominate enterprise workflow software because their core opportunity and sales motion is fundamentally different from horizontal collaboration platforms.",
+    "Monday's growth-stage AI strategy centers on becoming the orchestration layer where human employees and AI agents collaborate, rather than just adding AI features on top of existing dashboards.",
+    "The company took only a roughly 10% hit to new-ARR acquisition from Google's AI Mode reducing search-referral clicks, offset by dozens of other acquisition channels.",
+    "Zinman frames the current depressed stock price as a floor-forming moment: with cash netted out, the market is effectively pricing the core business near zero, which he treats as license to take on more risk rather than retrench.",
+    "He believes public-market investors are not irrational, just uncertain about which incumbents will successfully transform for an agentic future — and that consistent execution over time, not messaging, is what resolves that uncertainty."
+  ],
+  "topics": ["saas", "ai agents", "public markets", "enterprise software", "pricing models", "leadership under pressure"],
+  "repeat_guest_callback": "One thing that Monday has done unbelievably well, and we spoke about it last time, was the customer acquisition machine you've built on SEO content, YouTube.",
+  "sponsor_read_count": 3,
+  "notable": "Includes an unusually personal, extended segment on the CEO's mental health, sleepless nights after earnings calls, and marriage advice from his therapist, alongside detailed financial disclosures like his 10b5 trading plan and percentage of shares still held."
+}

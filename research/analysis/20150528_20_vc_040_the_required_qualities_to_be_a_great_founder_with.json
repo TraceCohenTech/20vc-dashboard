@@ -1,0 +1,28 @@
+{
+  "guest": "Scott Taylor",
+  "guest_role": "CEO at MyDrive, advisor to EC1 Capital, mentor for Virgin startup program",
+  "approx_date": "May 2015",
+  "assertiveness": 3,
+  "assertiveness_why": "Harry asks prepared multi-sentence questions with genuine follow-ups but never contests the guest's claims or positions.",
+  "question_style": "Primarily open-ended questions that encourage the guest to elaborate. Harry follows up on interesting points but remains conversational rather than challenging. No significant interruptions or planted theses.",
+  "tone": "Admiring and fan-like, with phrases like 'incredible Scott Taylor' and 'absolute pleasure.' Respectful and deferential without self-deprecation; Harry celebrates the guest's achievements enthusiastically.",
+  "depth": "Covers founder psychology, mentorship strategies, investment criteria, Virgin startup mechanics, and macro trends in automotive/logistics. Questions are strategic and business-focused but remain at operational rather than technical depth.",
+  "harry_quotes": [
+    "Welcome to the 20 minute VC it's an absolute pleasure to have you on the show.",
+    "Having founded several successful companies what would you say the fundamental quality is required to be a good founder?",
+    "Did I read correctly that now 10% of learners learn through MyDrive?",
+    "What industry are you most excited about for the future and why?"
+  ],
+  "learnings": [
+    "Repeated failed ventures in teenage years built the resourcefulness and resilience needed for later success.",
+    "Elite founders combine relentless problem-solving with dissatisfaction toward the status quo, imagination, humility, and hunger to learn.",
+    "Top-tier mentors should be external advisors not bound to the company, providing impartial perspective without board-level conflicts.",
+    "Early-stage funding has democratized through platforms and tax incentives without replacing venture capital; both ecosystems coexist and strengthen the market.",
+    "Automotive and logistics tech—including telematics, insurance profiling, and autonomous vehicles—represents one of the largest near-term disruption opportunities.",
+    "Storytelling is foundational for founders because investors and consumers both decide on narrative before facts."
+  ],
+  "topics": ["founder-qualities", "angel-investing", "mentorship", "early-stage-funding", "saas", "automotive"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 0,
+  "notable": null
+}

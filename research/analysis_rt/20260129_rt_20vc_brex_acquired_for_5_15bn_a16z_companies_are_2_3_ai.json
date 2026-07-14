@@ -1,0 +1,34 @@
+{
+  "approx_date": "Jan 2026",
+  "panelists": ["Jason Lemkin", "Rory O'Driscoll"],
+  "stories_covered": [
+    "Brex acquired by Capital One for $5.15B (50% cash, 50% stock)",
+    "Anthropic's inference costs 23% higher than expected despite economies of scale",
+    "TikTok deal finalized: US investors get 80%, algorithm under Chinese control",
+    "Navan public market trading as comp to Brex acquisition",
+    "Ramp continuing to compete with Brex in business payments",
+    "Open Evidence's $12B valuation raise in 2021 context",
+    "Salesforce awarded $5.6B US Army contract over 10 years",
+    "SaaS headwinds: seat contractions, pricing pressure, AI budget cannibalization"
+  ],
+  "harry_takes": [
+    "A $5B exit is 'forever' money; the bad feelings about the $12B valuation drop only last a day",
+    "Brex had to raise at market price in 2021; the subsequent down-exit is the tax you pay for competitive parity back then",
+    "Capital One overpaid on paper but is strategically shrewd because they own Discover (closed-network interchange capture)",
+    "Brex founders comparing themselves to Navan comps should realize public markets won't deliver unicorn multiples; staying private longer may be wiser",
+    "Anthropic's inflation in inference costs proves the productivity-paradox: as AI gets better, end-users burn infinite tokens, costs always rise",
+    "SaaS is not dead; a $5.6B Army contract to Salesforce proves enterprise software retains defensibility"
+  ],
+  "harry_boldest_quote": "The bad feelings last for a day. The five billion lasts forever.",
+  "predictions": [
+    "Jason Lemkin: Non-AI-attached SaaS companies must accept 30-40% slower growth and grind toward profitability; no venture capital will fund them",
+    "Rory O'Driscoll: TikTok at 1X revenue ($15-16B revenue, acquired at ~$15B) will look wildly cheap if a strategic buyer emerges at 3-5X within 3-5 years",
+    "Consensus: 2026-2027 will see a flood of 2021 unicorns IPO or M&A down-rounds as valuations clear the backlog; one per business day is realistic pace",
+    "Jason Lemkin: Inference cost optimization is a losing game; competitors will match feature-for-feature by burning more tokens if needed"
+  ],
+  "disagreements": "Lemkin vs O'Driscoll on Navan's IPO prospects: Lemkin suggests down-IPO signals venture capitulation and questions whether Navan will ever reach high multiples. O'Driscoll says price clears markets and believes Navan can still compound at 20-30% and trade up over 5-10 years.",
+  "harry_role": "Harry drives the thesis that Brex is a clean exit despite investor disappointment, challenges the venture-wide belief that SaaS is moribund, and highlights the structural advantage of closed-network payment processors (Capital One + Discover). He moderates the late-stage pricing debate and grounds it in rational economics.",
+  "topics": ["mergers-acquisitions", "late-stage-valuations", "saas-defensibility", "inference-costs", "public-ipo", "payment-infrastructure"],
+  "sponsor_read_count": 3,
+  "notable": "Brex's sale crystallizes 'hubristic financing': you raise at peak valuation because you need capital and competitors are doing it, then accept a lower exit later—the bad feelings are rational but temporary, while the $5B outcome is permanent and generational wealth for founders."
+}

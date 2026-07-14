@@ -1,0 +1,26 @@
+{
+  "guest": "Michael Eisenberg",
+  "guest_role": "Co-founder and equal partner at Aleph (previously GP at Benchmark, Israel Seed Partners)",
+  "approx_date": "Feb 2021",
+  "assertiveness": 4,
+  "assertiveness_why": "Harry asks prepared, layered follow-up questions and occasionally frames a contrarian premise (e.g. asking if capital-efficiency advice was 'wrong'), but he never truly contests Eisenberg's answers and mostly lets him run.",
+  "question_style": "Mostly open, multi-part questions built on prior guest comments, with some self-inserted framing ('do you think this time is different', 'were we wrong to be capital efficient') that invites the guest to react to Harry's own stance rather than being purely receptive; no real interruption or sustained pushback.",
+  "tone": "Warm, deferential, and clearly fannish — lots of praise ('Michael, what can I say', 'I so appreciate that'), name-drops of mutual contacts (Gurley, Dunlevie), personal rapport built around Eisenberg's earlier kindness to Harry's mother.",
+  "depth": "Covers venture strategy at a fairly sophisticated level — reserves, fund-size/concentration tradeoffs, generalist vs specialist investing, risk vs uncertainty framing, board management style — with real follow-ups rather than surface-level restating, though little quantitative pressure-testing.",
+  "harry_quotes": [
+    "Do you think we were wrong to be capital efficient length?",
+    "Can I ask, do you think this time's different?",
+    "How do you think about risk versus uncertainty?"
+  ],
+  "learnings": [
+    "Eisenberg treats bear markets as psychologically driven more than financially driven, and argues maintaining a steady investment pace through busts is a structural advantage.",
+    "He distinguishes venture investing (embracing uncertainty, seeking asymmetric outlier outcomes) from hedge-fund investing (managing bounded risk).",
+    "Aleph deliberately stays a small, single-stage fund to preserve founder-facing time and avoid the reserve/signaling risks that come with multi-stage scale.",
+    "Being a generalist with less domain expertise let him back Lemonade when specialist fintech investors passed, because deep insurance knowledge would have surfaced too many reasons to say no.",
+    "His board philosophy shifted over time toward chasing down commitments and signatures immediately rather than letting things resolve slowly."
+  ],
+  "topics": ["fund strategy", "reserves", "risk vs uncertainty", "generalist investing", "board management", "insurance/fintech"],
+  "repeat_guest_callback": null,
+  "sponsor_read_count": 3,
+  "notable": "Episode opens and closes with the same near-identical triple ad read (AngelList, Letter, Terminal), and includes an unusually personal aside about Harry's mother that shapes the interview's warmth."
+}
