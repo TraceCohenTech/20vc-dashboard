@@ -38,6 +38,7 @@ import {
 import { SHOW, YEARLY, ERAS, CASE_STUDIES, REPEAT_GUESTS, LEARNINGS_GROUPS, ASSERTIVENESS_BY_YEAR, SPONSOR_BY_YEAR, TONE_PARADOX, QUESTION_LEN, GUEST_MIX, DEFERENCE, LEXICON } from "./data";
 import { RT_PREDICTIONS, RT_QUOTES, RT_CAST, RT_DEBATES } from "./rtdata";
 import { NUGGETS } from "./wisdom";
+import { BROWDER, BROWDER_METRICS, BROWDER_QUESTIONS, BROWDER_NUGGETS } from "./browder";
 import { CountUp } from "@/components/CountUp";
 import { Reveal } from "@/components/Reveal";
 import { MeshCanvas } from "@/components/MeshCanvas";
@@ -161,7 +162,7 @@ export default function Page() {
               </div>
               <BentoStat icon={Layers} label="Peak episodes/year" value={<CountUp to={156} />} sub="2016 — 3 per week" color="text-emerald-700" iconBg="bg-emerald-100" />
               <BentoStat icon={TrendingUp} label="Theses per title, 2026" value={<><CountUp to={3.89} decimals={2} />x</>} sub="vs. 1.0 clean hook in 2015" color="text-amber-700" iconBg="bg-amber-100" />
-              <BentoStat icon={Users} label="Wisdom nuggets mined" value={<CountUp to={930} />} sub="from 147 guests, all searchable" color="text-sky-700" iconBg="bg-sky-100" />
+              <BentoStat icon={Users} label="Wisdom nuggets mined" value={<CountUp to={936} />} sub="from 148 guests, all searchable" color="text-sky-700" iconBg="bg-sky-100" />
               <BentoStat icon={MessageSquareQuote} label="Predictions logged" value={<CountUp to={171} />} sub="from the roundtable, scored live" color="text-cyan-700" iconBg="bg-cyan-100" />
             </div>
           </section>
@@ -723,13 +724,113 @@ export default function Page() {
           <Reveal>
             <SectionTitle
               eyebrow="The knowledge base"
-              title="930 nuggets of wisdom from 147 guests"
+              title="936 nuggets of wisdom from 148 guests"
               sub="Every key insight mined from the fully-read transcripts, attributed and shareable. Search by topic, guest, or idea — then post the ones worth spreading."
             />
           </Reveal>
           <WisdomWall />
         </section>
 
+
+
+        {/* GUEST SPOTLIGHT: JOSH BROWDER */}
+        <section id="spotlight" className="scroll-mt-20">
+          <Reveal>
+            <SectionTitle
+              eyebrow="Guest spotlight — one episode, full pipeline"
+              title={<>Under the microscope: <em className="em-accent">Josh Browder</em></>}
+              sub="What happens when a single episode gets the full treatment: transcribed, scored blind by both AI raters, and compared against the 180-episode sample. Josh's May 2026 appearance turns out to be an almost perfect specimen of modern-era Harry."
+            />
+          </Reveal>
+
+          <div className="grid grid-cols-1 lg:grid-cols-5 gap-4 sm:gap-6 mb-4 sm:mb-6">
+            <Reveal delay={100} className="lg:col-span-2 h-full">
+              <div className="h-full rounded-2xl bg-gradient-to-br from-slate-950 via-slate-900 to-blue-950 text-white p-6 flex flex-col relative overflow-hidden">
+                <div className="absolute -right-16 -top-16 h-56 w-56 rounded-full bg-blue-600/20 blur-3xl" aria-hidden />
+                <div className="relative">
+                  <div className="text-xs uppercase tracking-[0.2em] text-cyan-300 font-bold mb-1">{BROWDER.date} · {BROWDER.durationMin} min</div>
+                  <h3 className="text-2xl font-bold">{BROWDER.guest}</h3>
+                  <p className="text-sm text-blue-200 mb-4">{BROWDER.role}</p>
+                  <div className="flex items-end gap-3 mb-1">
+                    <div className="text-6xl font-bold text-cyan-300 leading-none">{BROWDER.score}<span className="text-2xl text-blue-200">/10</span></div>
+                    <div className="text-xs text-blue-100 pb-1">assertiveness<br />{BROWDER.percentile}th percentile all-time</div>
+                  </div>
+                  <p className="text-xs text-blue-200 mb-4">{BROWDER.raterAgreement}.</p>
+                  <div className="h-2 rounded-full bg-white/10 overflow-hidden mb-1" role="img" aria-label={`Assertiveness 6 out of 10, versus an all-time sample mean of 4.07`}>
+                    <div className="h-full rounded-full bg-cyan-400" style={{ width: `${BROWDER.score * 10}%` }} />
+                  </div>
+                  <div className="flex justify-between text-[10px] text-blue-200 mb-4">
+                    <span>All-time mean {BROWDER.sampleMean}</span>
+                    <span>2026 avg {BROWDER.yearMean}</span>
+                  </div>
+                  <p className="text-xs text-blue-100 leading-relaxed mt-auto">{BROWDER.notable} In this dataset, pushback is the compliment: Josh was treated like an operator in the arena — the same tier as Jennifer Hyman and the Gopuff founders, well above the softball icons.</p>
+                </div>
+              </div>
+            </Reveal>
+            <Reveal delay={150} className="lg:col-span-3 h-full">
+              <Card className="h-full flex flex-col">
+                <h3 className="font-bold text-slate-900 mb-1">Textbook late-era Harry, metric by metric</h3>
+                <p className="text-xs text-slate-500 mb-3">Every mechanical signal from Josh&rsquo;s transcript vs. the 2026 norms from the study</p>
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 flex-1">
+                  {BROWDER_METRICS.map((m) => (
+                    <div key={m.label} className="rounded-lg bg-slate-50 border border-slate-200 p-3">
+                      <div className="flex items-baseline justify-between gap-2">
+                        <span className="text-xs font-semibold text-slate-600">{m.label}</span>
+                        <span className="text-lg font-bold text-slate-900 tabular-nums">{m.value}</span>
+                      </div>
+                      <div className="text-[10px] text-slate-500">{m.norm}</div>
+                      <div className="text-[11px] text-blue-700 mt-0.5">{m.note}</div>
+                    </div>
+                  ))}
+                </div>
+                <p className="mt-3 text-xs text-slate-500 leading-relaxed">
+                  The one true outlier is length: 16 minutes over the 2026 average. Longer-than-average episodes in the sample correlate with Harry citing outside data at the guest — which he did here, from Monday.com SEO numbers to Series A pricing multiples.
+                </p>
+              </Card>
+            </Reveal>
+          </div>
+
+          <div className="grid grid-cols-1 lg:grid-cols-5 gap-4 sm:gap-6">
+            <Reveal delay={100} className="lg:col-span-2 h-full">
+              <Card className="h-full flex flex-col">
+                <h3 className="font-bold text-slate-900 mb-1">What Harry actually asked</h3>
+                <p className="text-xs text-slate-500 mb-3">Verbatim — short, planted, contest-era questions (avg 12 words)</p>
+                <div className="flex flex-col justify-between gap-2.5 flex-1">
+                  {BROWDER_QUESTIONS.map((q) => (
+                    <div key={q} className="rounded-lg bg-slate-900 p-3">
+                      <MessageSquareQuote className="h-3 w-3 text-cyan-300 mb-1" aria-hidden />
+                      <p className="text-xs text-slate-100 italic leading-snug">&ldquo;{q}&rdquo;</p>
+                    </div>
+                  ))}
+                </div>
+              </Card>
+            </Reveal>
+            <Reveal delay={150} className="lg:col-span-3 h-full">
+              <Card className="h-full flex flex-col">
+                <h3 className="font-bold text-slate-900 mb-1">The Browder playbook, in 8 insights</h3>
+                <p className="text-xs text-slate-500 mb-3">Paraphrased from the transcript — tap share to post one</p>
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 flex-1">
+                  {BROWDER_NUGGETS.map((n, i) => (
+                    <div key={i} className="rounded-lg border border-slate-200 bg-white p-3 flex flex-col justify-between hover:border-blue-300 hover:shadow-md transition-all">
+                      <p className="text-xs text-slate-800 leading-snug">{n}</p>
+                      <div className="mt-2 flex justify-end">
+                        <a
+                          href={`https://x.com/intent/post?text=${encodeURIComponent(`"${n}" — @${BROWDER.handle} on @twentyminutevc`)}`}
+                          target="_blank"
+                          rel="noopener"
+                          aria-label={`Share this Josh Browder insight on X`}
+                          className="inline-flex items-center gap-1 rounded-full bg-slate-100 hover:bg-blue-600 hover:text-white text-slate-600 px-2.5 py-1 text-[10px] font-bold transition active:scale-[0.97]"
+                        >
+                          <Share className="h-3 w-3" aria-hidden /> Share
+                        </a>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </Card>
+            </Reveal>
+          </div>
+        </section>
 
         {/* WHAT WE LEARNED */}
         <section id="learned" className="scroll-mt-20">
@@ -762,7 +863,7 @@ export default function Page() {
                   <h3 className="font-bold text-slate-900">If you build or invest</h3>
                 </div>
                 <ul className="space-y-3 text-sm text-slate-700 leading-relaxed flex-1">
-                  <li className="flex gap-2"><span className="shrink-0 mt-1.5 h-1.5 w-1.5 rounded-full bg-amber-500" aria-hidden /><span><strong>147 top investors mostly agree on six things:</strong> team quality beats the idea, moats come from execution speed, hiring bars decay silently, founder psychology is the real diligence, fund mechanics shape behavior, and AI economics reward the application layer. The 930-nugget wall below is the receipts.</span></li>
+                  <li className="flex gap-2"><span className="shrink-0 mt-1.5 h-1.5 w-1.5 rounded-full bg-amber-500" aria-hidden /><span><strong>148 top investors mostly agree on six things:</strong> team quality beats the idea, moats come from execution speed, hiring bars decay silently, founder psychology is the real diligence, fund mechanics shape behavior, and AI economics reward the application layer. The 936-nugget wall below is the receipts.</span></li>
                   <li className="flex gap-2"><span className="shrink-0 mt-1.5 h-1.5 w-1.5 rounded-full bg-amber-500" aria-hidden /><span><strong>Where the conversation went is a market signal.</strong> The guest chair flipped from VCs (68% in 2015) to operators and AI CEOs — attention moved from capital allocators to builders.</span></li>
                   <li className="flex gap-2"><span className="shrink-0 mt-1.5 h-1.5 w-1.5 rounded-full bg-amber-500" aria-hidden /><span><strong>Status buys softballs.</strong> The deference curve is real: the more legendary the guest, the fewer contested claims. Discount interviews with icons accordingly.</span></li>
                 </ul>
@@ -1057,7 +1158,7 @@ function WisdomWall() {
           <input
             value={q}
             onChange={(e) => { setQ(e.target.value); setLimit(48); }}
-            placeholder="Search 930 insights — try 'moat', 'hiring', 'AI', or a guest name"
+            placeholder="Search 936 insights — try 'moat', 'hiring', 'AI', or a guest name"
             aria-label="Search guest wisdom"
             className="w-full rounded-full border border-slate-200 bg-white pl-10 pr-4 py-2.5 text-sm text-slate-900 placeholder:text-slate-400 focus:border-blue-400"
           />

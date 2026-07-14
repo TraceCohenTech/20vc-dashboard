@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 
 const TITLE = "20VC Decoded — The Evolution of Harry Stebbings";
 const DESCRIPTION =
-  "A data-driven read on 1,481 episodes of The Twenty Minute VC (2015–2026): 180 transcripts fully read, 930 guest insights, 171 roundtable predictions, and how Harry Stebbings' interviewing style evolved from receiving answers to contesting guests.";
+  "A data-driven read on 1,481 episodes of The Twenty Minute VC (2015–2026): 180 transcripts fully read, 936 guest insights, 171 roundtable predictions, and how Harry Stebbings' interviewing style evolved from receiving answers to contesting guests.";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.valueaddvc.com"),
