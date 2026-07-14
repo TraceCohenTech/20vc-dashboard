@@ -14,6 +14,8 @@ import {
   Search,
   Share,
   Lightbulb,
+  ChevronLeft,
+  ChevronRight,
 } from "lucide-react";
 import {
   Area,
@@ -116,7 +118,7 @@ export default function Page() {
         </div>
       </section>
 
-      <main className="mx-auto max-w-[1280px] px-4 sm:px-6 py-12 sm:py-20 space-y-16 sm:space-y-24">
+      <main className="mx-auto max-w-[1280px] px-4 sm:px-6 py-10 sm:py-14 space-y-12 sm:space-y-16">
         {/* BENTO KPI GRID */}
         <Reveal>
           <section>
@@ -169,9 +171,9 @@ export default function Page() {
             />
           </Reveal>
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-4 sm:gap-6">
-            <Reveal delay={100}>
-              <div className="lg:col-span-2">
-                <Card>
+            <Reveal delay={100} className="lg:col-span-2">
+              <div className="h-full">
+                <Card className="h-full flex flex-col">
                   <div className="flex items-start justify-between mb-3">
                     <div>
                       <h3 className="text-lg font-bold text-slate-900">Average episode length</h3>
@@ -182,7 +184,7 @@ export default function Page() {
                       <div className="text-2xl font-bold text-emerald-600">+190%</div>
                     </div>
                   </div>
-                  <div className="h-[280px] sm:h-[340px]" role="img" aria-label="Area chart showing average 20VC episode length climbing from 25 minutes in 2015 to 72.6 minutes in 2026">
+                  <div className="flex-1 min-h-[280px]" role="img" aria-label="Area chart showing average 20VC episode length climbing from 25 minutes in 2015 to 72.6 minutes in 2026">
                     <ResponsiveContainer width="100%" height="100%">
                       <AreaChart data={YEARLY} margin={{ top: 16, right: 16, left: -8, bottom: 0 }}>
                         <defs>
@@ -211,15 +213,23 @@ export default function Page() {
                 <div className="text-xs uppercase tracking-wider text-blue-600 font-semibold mb-1">Format shift</div>
                 <h3 className="font-bold text-slate-900 mb-3">Title complexity by era</h3>
                 <p className="text-xs text-slate-500 mb-4">Avg. topics stacked per title — flat until 2022, then breaks upward</p>
-                <div role="img" aria-label="Bar comparison of title clause density: roughly 1x from 2015-2021, 1.5x in 2022-23, 2.5x in 2024, and 3.9x by 2025-26">
-                <Funnel
-                  stages={[
-                    { label: "2015-21", value: 101, color: "#f59e0b", note: "~1.0x" },
-                    { label: "2022-23", value: 149, color: "#10b981", note: "~1.5x" },
-                    { label: "2024", value: 250, color: "#0ea5e9", note: "2.5x" },
-                    { label: "2025-26", value: 389, color: "#0284c7", note: "3.9x" },
-                  ]}
-                />
+                <div className="space-y-3 flex-1" role="img" aria-label="Bar comparison of title clause density: roughly 1x from 2015-2021, 1.5x in 2022-23, 2.5x in 2024, and 3.9x by 2025-26">
+                  {[
+                    { label: "2015-21", pct: 26, color: "#f59e0b", note: "~1.0x" },
+                    { label: "2022-23", pct: 38, color: "#10b981", note: "~1.5x" },
+                    { label: "2024", pct: 64, color: "#0ea5e9", note: "2.5x" },
+                    { label: "2025-26", pct: 100, color: "#0284c7", note: "3.9x" },
+                  ].map((r) => (
+                    <div key={r.label}>
+                      <div className="flex items-center justify-between text-xs mb-1">
+                        <span className="font-semibold text-slate-700">{r.label}</span>
+                        <span className="font-bold text-slate-900">{r.note}</span>
+                      </div>
+                      <div className="h-3 rounded-full bg-slate-100 overflow-hidden">
+                        <div className="h-full rounded-full" style={{ width: `${r.pct}%`, background: r.color }} />
+                      </div>
+                    </div>
+                  ))}
                 </div>
                 <div className="mt-4 text-xs text-slate-500 leading-relaxed">
                   By 2026 a typical title carries 4 distinct claims (&ldquo;Why X | How Y | The Bottleneck Is Z&rdquo;) instead of one clean hook — each episode is packaged as standalone, quotable arguments.
@@ -337,7 +347,7 @@ export default function Page() {
           </Reveal>
 
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-4 sm:gap-6 mb-6">
-            <Reveal delay={100}>
+            <Reveal delay={100} className="h-full">
               <Card className="h-full flex flex-col items-center justify-center">
                 <div className="text-xs uppercase tracking-wider text-blue-600 font-semibold mb-1">Editorial score, 1-10</div>
                 <h3 className="font-bold text-slate-900 mb-2">Early vs. recent</h3>
@@ -347,8 +357,8 @@ export default function Page() {
                 </p>
               </Card>
             </Reveal>
-            <Reveal delay={200}>
-              <Card className="lg:col-span-2 h-full flex flex-col">
+            <Reveal delay={200} className="lg:col-span-2">
+              <Card className="h-full flex flex-col">
                 <h3 className="font-bold text-slate-900 mb-3">What actually changed</h3>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 flex-1">
                   <MiniInsight icon={RotateCcw} color="#f59e0b" title="Preparation" desc="Went from 'read the guest's book' to visibly cross-referencing dozens of prior guests to pressure-test the person in front of him." />
@@ -364,29 +374,7 @@ export default function Page() {
             <div className="rounded-3xl bg-gradient-to-br from-slate-950 via-slate-900 to-slate-950 p-5 sm:p-8 relative overflow-hidden">
               <div className="absolute inset-0 grid-pattern opacity-40" />
               <div className="relative">
-                <div className="text-xs uppercase tracking-[0.2em] text-cyan-300 font-bold mb-4">Case studies from the 180-episode sample, scroll to compare eras — episode #1 to today</div>
-                <div className="flex gap-4 overflow-x-auto no-scrollbar pb-2 snap-x snap-mandatory">
-                  {CASE_STUDIES.map((cs, i) => (
-                    <div
-                      key={i}
-                      className="snap-start shrink-0 w-[280px] sm:w-[320px] rounded-2xl bg-white/[0.07] backdrop-blur border border-white/15 p-5 flex flex-col"
-                    >
-                      <div className="flex items-center justify-between mb-2">
-                        <span className="text-[10px] font-bold uppercase tracking-wider rounded-full px-2 py-1 text-white" style={{ background: cs.color }}>
-                          {cs.date}
-                        </span>
-                        <span className="text-[10px] text-blue-200">assertiveness {cs.assertiveness}/10</span>
-                      </div>
-                      <div className="font-bold text-white text-lg">{cs.guest}</div>
-                      <div className="text-xs text-blue-200 mb-3">{cs.role}</div>
-                      <div className="rounded-lg bg-white/10 p-3 mb-3">
-                        <MessageSquareQuote className="h-3 w-3 text-cyan-300 mb-1" aria-hidden />
-                        <p className="text-xs text-blue-50 italic leading-snug">&ldquo;{cs.quote}&rdquo;</p>
-                      </div>
-                      <p className="text-xs text-blue-100/85 leading-relaxed">{cs.style}</p>
-                    </div>
-                  ))}
-                </div>
+                <CaseStudyRail />
               </div>
             </div>
           </Reveal>
@@ -401,9 +389,9 @@ export default function Page() {
               sub="Both Nikesh Arora and Aravind Srinivas were interviewed twice. On their second appearance, Harry treats the guest as a known relationship, not a fresh interview subject — a signal the show has shifted toward cultivated, recurring access with top-tier guests."
             />
           </Reveal>
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 sm:gap-6">
+          <div className="grid grid-cols-1 lg:grid-cols-3 gap-4 sm:gap-6">
             {REPEAT_GUESTS.map((rg, i) => (
-              <Reveal key={rg.guest} delay={100 + i * 50}>
+              <Reveal key={rg.guest} delay={100 + i * 50} className="h-full">
                 <Card className="h-full flex flex-col">
                   <div className="flex items-center justify-between mb-3">
                     <div>
@@ -411,7 +399,7 @@ export default function Page() {
                       <p className="text-xs text-slate-500">{rg.role}</p>
                     </div>
                   </div>
-                  <div className="grid grid-cols-2 gap-2 mb-3">
+                  <div className="grid grid-cols-1 xl:grid-cols-2 gap-2 mb-3">
                     <div className="rounded-lg bg-slate-50 p-2.5">
                       <div className="text-[10px] text-slate-500 uppercase tracking-wider">{rg.first.date}</div>
                       <div className="text-xs text-slate-700 mt-0.5">{rg.first.note}</div>
@@ -613,7 +601,7 @@ export default function Page() {
 
 function SectionTitle({ eyebrow, title, sub }: { eyebrow?: string; title: string; sub?: string }) {
   return (
-    <div className="mb-6 sm:mb-8">
+    <div className="mb-5 sm:mb-6">
       {eyebrow && <div className="text-xs uppercase tracking-[0.2em] text-blue-600 font-semibold mb-2">{eyebrow}</div>}
       <h2 className="text-2xl sm:text-4xl font-bold text-slate-900 tracking-tight">{title}</h2>
       {sub && <p className="mt-2 text-sm sm:text-base text-slate-600 max-w-3xl">{sub}</p>}
@@ -827,6 +815,58 @@ function WisdomWall() {
           </button>
         </div>
       )}
+    </div>
+  );
+}
+
+function CaseStudyRail() {
+  const railRef = useRef<HTMLDivElement>(null);
+  const scrollBy = (dir: number) => railRef.current?.scrollBy({ left: dir * 340, behavior: "smooth" });
+  return (
+    <div>
+      <div className="flex items-center justify-between gap-4 mb-4">
+        <div className="text-xs uppercase tracking-[0.2em] text-cyan-300 font-bold">
+          Case studies from the 180-episode sample — episode #1 to today
+        </div>
+        <div className="flex gap-2 shrink-0">
+          <button
+            onClick={() => scrollBy(-1)}
+            aria-label="Scroll case studies left"
+            className="h-9 w-9 rounded-full bg-white/10 border border-white/20 text-white flex items-center justify-center hover:bg-white/20 active:scale-[0.97] transition"
+          >
+            <ChevronLeft className="h-4 w-4" aria-hidden />
+          </button>
+          <button
+            onClick={() => scrollBy(1)}
+            aria-label="Scroll case studies right"
+            className="h-9 w-9 rounded-full bg-white/10 border border-white/20 text-white flex items-center justify-center hover:bg-white/20 active:scale-[0.97] transition"
+          >
+            <ChevronRight className="h-4 w-4" aria-hidden />
+          </button>
+        </div>
+      </div>
+      <div ref={railRef} className="flex gap-4 overflow-x-auto pb-3 snap-x rail-scrollbar">
+        {CASE_STUDIES.map((cs, i) => (
+          <div
+            key={i}
+            className="snap-start shrink-0 w-[280px] sm:w-[320px] rounded-2xl bg-white/[0.07] backdrop-blur border border-white/15 p-5 flex flex-col"
+          >
+            <div className="flex items-center justify-between mb-2">
+              <span className="text-[10px] font-bold uppercase tracking-wider rounded-full px-2 py-1 text-white" style={{ background: cs.color }}>
+                {cs.date}
+              </span>
+              <span className="text-[10px] text-blue-200">assertiveness {cs.assertiveness}/10</span>
+            </div>
+            <div className="font-bold text-white text-lg">{cs.guest}</div>
+            <div className="text-xs text-blue-200 mb-3">{cs.role}</div>
+            <div className="rounded-lg bg-white/10 p-3 mb-3">
+              <MessageSquareQuote className="h-3 w-3 text-cyan-300 mb-1" aria-hidden />
+              <p className="text-xs text-blue-50 italic leading-snug">&ldquo;{cs.quote}&rdquo;</p>
+            </div>
+            <p className="text-xs text-blue-100/85 leading-relaxed">{cs.style}</p>
+          </div>
+        ))}
+      </div>
     </div>
   );
 }

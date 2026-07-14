@@ -154,3 +154,8 @@ button, a, select, [role="button"] {
   50% { opacity: 0.9; }
 }
 .animate-pulse-slow { animation: pulse-slow 5s ease-in-out infinite; }
+
+/* Case-study rail: keep a visible thin scrollbar on desktop */
+.rail-scrollbar::-webkit-scrollbar { height: 6px; }
+.rail-scrollbar::-webkit-scrollbar-track { background: rgba(255,255,255,0.08); border-radius: 3px; }
+.rail-scrollbar::-webkit-scrollbar-thumb { background: rgba(103,232,249,0.5); border-radius: 3px; }

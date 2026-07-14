@@ -26,10 +26,13 @@ export function Reveal({ children, delay = 0, as: As = "div", className = "" }: 
           }
         });
       },
-      { threshold: 0.12 }
+      // threshold ~0: very tall elements can never reach a % threshold, so fire on any overlap
+      { threshold: 0.01, rootMargin: "0px 0px -5% 0px" }
     );
     obs.observe(el);
-    return () => obs.disconnect();
+    // Fail-open: never allow content to stay invisible if the observer starves
+    const failSafe = setTimeout(() => el.classList.add("in"), 3000 + delay);
+    return () => { obs.disconnect(); clearTimeout(failSafe); };
   }, [delay]);
   return (
     <As ref={ref as any} className={`reveal ${className}`}>
