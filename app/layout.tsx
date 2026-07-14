@@ -6,7 +6,7 @@ const DESCRIPTION =
   "A data-driven read on 1,481 episodes of The Twenty Minute VC (2015–2026): 180 transcripts fully read, 930 guest insights, 171 roundtable predictions, and how Harry Stebbings' interviewing style evolved from receiving answers to contesting guests.";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://20vc-dashboard.vercel.app"),
+  metadataBase: new URL("https://www.valueaddvc.com"),
   title: TITLE,
   description: DESCRIPTION,
   keywords: [
@@ -18,21 +18,21 @@ export const metadata: Metadata = {
     "VC insights",
     "startup wisdom",
   ],
-  alternates: { canonical: "/" },
+  alternates: { canonical: "/20vc" },
   openGraph: {
     title: TITLE,
     description: DESCRIPTION,
-    url: "/",
+    url: "/20vc",
     siteName: "20VC Decoded",
     type: "article",
-    images: [{ url: "/og.jpg", width: 1200, height: 630, alt: "20VC Decoded — data analysis of 1,481 episodes of The Twenty Minute VC" }],
+    images: [{ url: "/20vc/og.jpg", width: 1200, height: 630, alt: "20VC Decoded — data analysis of 1,481 episodes of The Twenty Minute VC" }],
   },
   twitter: {
     card: "summary_large_image",
     title: TITLE,
     description: DESCRIPTION,
     creator: "@Trace_Cohen",
-    images: ["/og.jpg"],
+    images: ["/20vc/og.jpg"],
   },
   robots: { index: true, follow: true },
 };
@@ -42,7 +42,7 @@ const JSON_LD = {
   "@type": "Article",
   headline: TITLE,
   description: DESCRIPTION,
-  image: "https://20vc-dashboard.vercel.app/og.jpg",
+  image: "https://www.valueaddvc.com/20vc/og.jpg",
   author: { "@type": "Person", name: "Trace Cohen", url: "https://x.com/Trace_Cohen" },
   publisher: { "@type": "Person", name: "Trace Cohen" },
   about: {

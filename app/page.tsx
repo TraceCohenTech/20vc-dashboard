@@ -964,7 +964,7 @@ function HeroPortrait() {
         className="relative rounded-2xl overflow-hidden border border-white/20 shadow-2xl transition-transform duration-200 will-change-transform hero-float"
       >
         {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src="/harry-hero.jpeg" alt="Podcast host at the microphone" className="w-full h-auto block" />
+        <img src="/20vc/harry-hero.jpeg" alt="Podcast host at the microphone" className="w-full h-auto block" />
         <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/80 to-transparent p-3">
           <div className="text-[10px] uppercase tracking-[0.2em] text-cyan-300 font-bold">The voice of 1,481 episodes</div>
         </div>
