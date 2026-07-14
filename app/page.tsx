@@ -40,6 +40,7 @@ import { RT_PREDICTIONS, RT_QUOTES } from "./rtdata";
 import { NUGGETS } from "./wisdom";
 import { CountUp } from "@/components/CountUp";
 import { Reveal } from "@/components/Reveal";
+import { MeshCanvas } from "@/components/MeshCanvas";
 import { Nav } from "@/components/Nav";
 import { LogoWall } from "@/components/LogoWall";
 import { Funnel } from "@/components/Funnel";
@@ -52,8 +53,8 @@ export default function Page() {
 
       {/* HERO */}
       <header className="relative overflow-hidden bg-slate-950 text-white pt-24 sm:pt-28 pb-16 sm:pb-24">
-        <div className="mesh-bg" aria-hidden>
-          <div className="mesh-blob-3" />
+        <div className="absolute inset-0 overflow-hidden" aria-hidden>
+          <MeshCanvas />
         </div>
         <div className="absolute inset-0 grid-pattern opacity-60" />
         <div className="relative mx-auto max-w-[1280px] px-4 sm:px-6">
@@ -78,7 +79,7 @@ export default function Page() {
                 <h1 className="text-4xl sm:text-6xl lg:text-7xl font-bold tracking-tight leading-[1.05]">
                   1,481 episodes. 11 years.
                   <br />
-                  <span className="text-cyan-300">The evolution of Harry Stebbings.</span>
+                  <span className="text-cyan-300 italic">The evolution of Harry Stebbings.</span>
                 </h1>
               </Reveal>
             </div>
@@ -123,7 +124,7 @@ export default function Page() {
         </div>
       </section>
 
-      <main className="mx-auto max-w-[1280px] px-4 sm:px-6 py-10 sm:py-14 space-y-12 sm:space-y-16">
+      <main className="mx-auto max-w-[1280px] px-4 sm:px-6 py-10 sm:py-14 space-y-12 sm:space-y-16 section-flow">
         {/* BENTO KPI GRID */}
         <Reveal>
           <section>
@@ -171,7 +172,7 @@ export default function Page() {
           <Reveal>
             <SectionTitle
               eyebrow="The headline trend"
-              title="The show got 3x longer, and 2022 is the inflection point"
+              title={<>The show got 3x longer, and <em className="em-accent">2022 is the inflection point</em></>}
               sub="Average episode length climbed steadily from 2015, but title complexity — the number of distinct topics stacked into one title — stayed flat near 1.0 for seven straight years, then broke sharply upward in 2022. That's when the format shifted from one narrative arc to a thesis-dump of standalone, quotable claims."
             />
           </Reveal>
@@ -198,7 +199,7 @@ export default function Page() {
                             <stop offset="100%" stopColor="#3b82f6" stopOpacity={0.05} />
                           </linearGradient>
                         </defs>
-                        <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
+                        <CartesianGrid strokeDasharray="3 3" stroke="rgba(15, 23, 42, 0.06)" vertical={false} />
                         <XAxis dataKey="year" tick={{ fill: "#475569", fontSize: 11 }} />
                         <YAxis tick={{ fill: "#475569", fontSize: 12 }} tickFormatter={(v) => `${v}m`} />
                         <Tooltip
@@ -259,7 +260,7 @@ export default function Page() {
                           <stop offset="100%" stopColor="#0891b2" />
                         </linearGradient>
                       </defs>
-                      <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
+                      <CartesianGrid strokeDasharray="3 3" stroke="rgba(15, 23, 42, 0.06)" vertical={false} />
                       <XAxis dataKey="year" tick={{ fill: "#475569", fontSize: 11 }} />
                       <YAxis tick={{ fill: "#475569", fontSize: 11 }} />
                       <Tooltip contentStyle={{ background: "#0f172a", border: "none", borderRadius: 8, color: "#fff" }} labelStyle={{ color: "#94a3b8" }} />
@@ -317,7 +318,7 @@ export default function Page() {
           <Reveal>
             <SectionTitle
               eyebrow="From real transcripts"
-              title="From receiving answers to contesting guests"
+              title={<>From receiving answers to <em className="em-accent">contesting guests</em></>}
               sub="180 episodes read in full — ~15 per year from episode #1 (2015) through 2026, each scored by two independent AI raters (one blind to the other). The earliest episodes show one-line questions and zero pushback; the pushback score more than doubles across the decade."
             />
           </Reveal>
@@ -337,7 +338,7 @@ export default function Page() {
               <div className="h-[240px] sm:h-[280px]" role="img" aria-label="Line chart showing Harry Stebbings' assertiveness score climbing from 2.8 in 2015 to 6.2 in 2026, with 95 percent confidence bands">
                 <ResponsiveContainer width="100%" height="100%">
                   <LineChart data={ASSERTIVENESS_BY_YEAR} margin={{ top: 10, right: 10, left: -10, bottom: 0 }}>
-                    <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
+                    <CartesianGrid strokeDasharray="3 3" stroke="rgba(15, 23, 42, 0.06)" vertical={false} />
                     <XAxis dataKey="year" tick={{ fill: "#475569", fontSize: 11 }} />
                     <YAxis tick={{ fill: "#475569", fontSize: 11 }} domain={[0, 10]} />
                     <Tooltip contentStyle={{ background: "#0f172a", border: "none", borderRadius: 8, color: "#fff" }} labelStyle={{ color: "#94a3b8" }} />
@@ -391,7 +392,7 @@ export default function Page() {
           <Reveal>
             <SectionTitle
               eyebrow="The core finding"
-              title="He got tougher without getting colder"
+              title={<>He got tougher <em className="em-accent">without getting colder</em></>}
               sub="Two ways of looking at the same 180 read episodes. Left: the raters described Harry's tone as warm, admiring, or matey in nearly every episode of every year — even as his pushback score doubled. Right: how hard he pushes depends heavily on who's across the table."
             />
           </Reveal>
@@ -403,7 +404,7 @@ export default function Page() {
                 <div className="flex-1 min-h-[260px]" role="img" aria-label="Combined chart: share of episodes with warm tone stays between 85 and 100 percent for a decade while the assertiveness score climbs from 2.8 to 6.2. In 2026 the warm share dips to 57 percent on a small sample of 7 episodes.">
                   <ResponsiveContainer width="100%" height="100%">
                     <ComposedChart data={TONE_PARADOX} margin={{ top: 10, right: 0, left: -16, bottom: 0 }}>
-                      <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
+                      <CartesianGrid strokeDasharray="3 3" stroke="rgba(15, 23, 42, 0.06)" vertical={false} />
                       <XAxis dataKey="year" tick={{ fill: "#475569", fontSize: 10 }} />
                       <YAxis yAxisId="warm" domain={[0, 100]} tick={{ fill: "#0891b2", fontSize: 10 }} tickFormatter={(v) => `${v}%`} />
                       <YAxis yAxisId="score" orientation="right" domain={[0, 10]} tick={{ fill: "#ea580c", fontSize: 10 }} />
@@ -468,7 +469,7 @@ export default function Page() {
                 <div className="flex-1 min-h-[240px]" role="img" aria-label="Line chart of average words per question: 14 in 2015, ballooning to 30 in 2016 and about 25 through 2020, then dropping to 12 to 14 words from 2022 onward">
                   <ResponsiveContainer width="100%" height="100%">
                     <LineChart data={QUESTION_LEN} margin={{ top: 10, right: 10, left: -16, bottom: 0 }}>
-                      <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
+                      <CartesianGrid strokeDasharray="3 3" stroke="rgba(15, 23, 42, 0.06)" vertical={false} />
                       <XAxis dataKey="year" tick={{ fill: "#475569", fontSize: 10 }} />
                       <YAxis domain={[0, 35]} tick={{ fill: "#475569", fontSize: 10 }} />
                       <Tooltip contentStyle={{ background: "#0f172a", border: "none", borderRadius: 8, color: "#fff" }} labelStyle={{ color: "#94a3b8" }} formatter={(v: number) => [`${v} words`, "Avg question"]} />
@@ -491,7 +492,7 @@ export default function Page() {
                 <div className="flex-1 min-h-[240px]" role="img" aria-label="Bar chart of sponsor reads per episode rising from 0.8 in 2015 to about 3 from 2021 onward, peaking at 3.4 in 2026">
                   <ResponsiveContainer width="100%" height="100%">
                     <BarChart data={SPONSOR_BY_YEAR} margin={{ top: 10, right: 10, left: -20, bottom: 0 }}>
-                      <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
+                      <CartesianGrid strokeDasharray="3 3" stroke="rgba(15, 23, 42, 0.06)" vertical={false} />
                       <XAxis dataKey="year" tick={{ fill: "#475569", fontSize: 10 }} />
                       <YAxis tick={{ fill: "#475569", fontSize: 10 }} />
                       <Tooltip contentStyle={{ background: "#0f172a", border: "none", borderRadius: 8, color: "#fff" }} labelStyle={{ color: "#94a3b8" }} formatter={(v: number) => [`${v} reads`, "Avg"]} />
@@ -513,7 +514,7 @@ export default function Page() {
                 <div className="flex-1 min-h-[280px]" role="img" aria-label="Stacked bar chart of guest mix: VCs fall from 68 percent of episodes in 2015 to about 15 to 28 percent by 2025-26, founders and operators hold around 30 to 58 percent, dedicated formats like 20Sales and 20Product appear from 2021, and news, memo, and roundtable formats grow to over a third">
                   <ResponsiveContainer width="100%" height="100%">
                     <BarChart data={GUEST_MIX} margin={{ top: 10, right: 10, left: -16, bottom: 0 }}>
-                      <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
+                      <CartesianGrid strokeDasharray="3 3" stroke="rgba(15, 23, 42, 0.06)" vertical={false} />
                       <XAxis dataKey="year" tick={{ fill: "#475569", fontSize: 10 }} />
                       <YAxis domain={[0, 100]} tick={{ fill: "#475569", fontSize: 10 }} tickFormatter={(v) => `${v}%`} />
                       <Tooltip contentStyle={{ background: "#0f172a", border: "none", borderRadius: 8, color: "#fff" }} labelStyle={{ color: "#94a3b8" }} formatter={(v: number, n: string) => [`${v}%`, n]} />
@@ -674,7 +675,7 @@ export default function Page() {
           <Reveal>
             <SectionTitle
               eyebrow="The synthesis"
-              title="What we learned — and what you can steal"
+              title={<>What we learned — and <em className="em-accent">what you can steal</em></>}
               sub="Eleven years, 1,481 episodes, 2.3 million transcript words. Three sets of takeaways, depending on who you are."
             />
           </Reveal>
@@ -831,7 +832,7 @@ export default function Page() {
 
 /* ---------- Building blocks ---------- */
 
-function SectionTitle({ eyebrow, title, sub }: { eyebrow?: string; title: string; sub?: string }) {
+function SectionTitle({ eyebrow, title, sub }: { eyebrow?: string; title: React.ReactNode; sub?: string }) {
   return (
     <div className="mb-5 sm:mb-6">
       {eyebrow && <div className="text-xs uppercase tracking-[0.2em] text-blue-600 font-semibold mb-2">{eyebrow}</div>}
@@ -842,7 +843,7 @@ function SectionTitle({ eyebrow, title, sub }: { eyebrow?: string; title: string
 }
 
 function Card({ children, className = "" }: { children: React.ReactNode; className?: string }) {
-  return <div className={`rounded-2xl border border-slate-200 bg-white p-5 sm:p-6 shadow-sm ${className}`}>{children}</div>;
+  return <div className={`rounded-2xl border border-slate-200 bg-white p-5 sm:p-6 shadow-elevated card-lift ${className}`}>{children}</div>;
 }
 
 function HeroStat({ label, value, sub, accentColor }: { label: string; value: React.ReactNode; sub?: string; accentColor: string }) {
@@ -958,10 +959,10 @@ function HeroPortrait() {
   };
   return (
     <div className="hidden lg:block relative" onMouseMove={onMove} onMouseLeave={onLeave}>
-      <div className="absolute -inset-6 rounded-3xl bg-cyan-500/20 blur-3xl animate-pulse-slow" aria-hidden />
+      <div className="absolute -inset-6 rounded-3xl bg-cyan-500/15 blur-3xl" aria-hidden />
       <div
         ref={ref}
-        className="relative rounded-2xl overflow-hidden border border-white/20 shadow-2xl transition-transform duration-200 will-change-transform hero-float"
+        className="relative rounded-2xl overflow-hidden border border-white/20 shadow-2xl transition-transform duration-200 will-change-transform"
       >
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img src="/20vc/harry-hero.jpeg" alt="Podcast host at the microphone" className="w-full h-auto block" />
@@ -1081,7 +1082,7 @@ function CaseStudyRail() {
         {CASE_STUDIES.map((cs, i) => (
           <div
             key={i}
-            className="snap-start shrink-0 w-[280px] sm:w-[320px] rounded-2xl bg-white/[0.07] backdrop-blur border border-white/15 p-5 flex flex-col"
+            className="snap-start shrink-0 w-[280px] sm:w-[320px] rounded-2xl bg-white/[0.07] glass-deep border border-white/15 p-5 flex flex-col"
           >
             <div className="flex items-center justify-between mb-2">
               <span className="text-[10px] font-bold uppercase tracking-wider rounded-full px-2 py-1 text-white" style={{ background: cs.color }}>

@@ -26,12 +26,12 @@ export function Reveal({ children, delay = 0, as: As = "div", className = "" }: 
           }
         });
       },
-      // threshold ~0: very tall elements can never reach a % threshold, so fire on any overlap
-      { threshold: 0.01, rootMargin: "0px 0px -5% 0px" }
+      // threshold 0 + rootMargin: fire early so the user sees the glide, not its tail
+      { threshold: 0, rootMargin: "50px" }
     );
     obs.observe(el);
     // Fail-open: never allow content to stay invisible if the observer starves
-    const failSafe = setTimeout(() => el.classList.add("in"), 3000 + delay);
+    const failSafe = setTimeout(() => el.classList.add("in"), delay + 300);
     return () => { obs.disconnect(); clearTimeout(failSafe); };
   }, [delay]);
   return (
