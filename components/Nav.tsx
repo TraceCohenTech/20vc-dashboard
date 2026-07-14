@@ -7,6 +7,7 @@ const LINKS = [
   { href: "#topics", label: "Topics" },
   { href: "#style", label: "Interview Style" },
   { href: "#learnings", label: "Learnings" },
+  { href: "#roundtable", label: "Roundtable" },
   { href: "#methodology", label: "Methodology" },
 ];
 

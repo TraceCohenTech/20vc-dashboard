@@ -1,4 +1,5 @@
 "use client";
+import { useState } from "react";
 import {
   Mic,
   Clock,
@@ -25,6 +26,7 @@ import {
   YAxis,
 } from "recharts";
 import { SHOW, YEARLY, ERAS, CASE_STUDIES, REPEAT_GUESTS, LEARNINGS_GROUPS, ASSERTIVENESS_BY_YEAR } from "./data";
+import { RT_PREDICTIONS, RT_QUOTES } from "./rtdata";
 import { CountUp } from "@/components/CountUp";
 import { Reveal } from "@/components/Reveal";
 import { Nav } from "@/components/Nav";
@@ -433,6 +435,35 @@ export default function Page() {
           </div>
         </section>
 
+
+        {/* ROUNDTABLE ERA */}
+        <section id="roundtable" className="scroll-mt-20">
+          <Reveal>
+            <SectionTitle
+              eyebrow="The show within the show"
+              title="The Roundtable Era: 171 predictions on the record"
+              sub="In April 2025, 20VC added a weekly news roundtable with Jason Lemkin and Rory O'Driscoll — 49 episodes analyzed. Every explicit prediction made on air is cataloged below with attribution; statuses update as calls resolve."
+            />
+          </Reveal>
+          <Reveal delay={100}>
+            <PredictionsBoard />
+          </Reveal>
+          <Reveal delay={150}>
+            <div className="mt-6">
+              <h3 className="font-bold text-slate-900 mb-1">The Harry quote wall</h3>
+              <p className="text-sm text-slate-600 mb-4">Verbatim, from the roundtable transcripts — the opinion-forward Harry the interviews only hint at.</p>
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+                {RT_QUOTES.map((q, i) => (
+                  <div key={i} className="rounded-xl border border-slate-200 bg-white p-4 flex flex-col justify-between hover:border-blue-300 hover:shadow-md transition-all">
+                    <p className="text-sm text-slate-800 font-medium leading-snug">&ldquo;{q.quote}&rdquo;</p>
+                    <div className="mt-3 text-[10px] uppercase tracking-wider text-slate-500">Harry Stebbings · {q.date}</div>
+                  </div>
+                ))}
+              </div>
+            </div>
+          </Reveal>
+        </section>
+
         {/* METHODOLOGY */}
         <section id="methodology" className="scroll-mt-20">
           <Reveal>
@@ -590,6 +621,64 @@ function MiniInsight({ icon: Icon, color, title, desc }: { icon: any; color: str
         <span className="text-sm font-bold text-slate-900">{title}</span>
       </div>
       <p className="text-xs text-slate-600 leading-relaxed">{desc}</p>
+    </div>
+  );
+}
+
+function PredictionsBoard() {
+  const [who, setWho] = useState<string>("All");
+  const whos = ["All", "Lemkin", "O'Driscoll", "Harry", "Panel"];
+  const rows = RT_PREDICTIONS.filter((p) => who === "All" || p.who === who);
+  const rightCount = RT_PREDICTIONS.filter((p) => p.status === "right").length;
+  return (
+    <div className="rounded-2xl border border-slate-200 bg-white p-5 sm:p-6 shadow-sm">
+      <div className="flex flex-wrap items-center justify-between gap-3 mb-4">
+        <div>
+          <h3 className="font-bold text-slate-900">Predictions scoreboard</h3>
+          <p className="text-xs text-slate-500">{RT_PREDICTIONS.length} on-air calls · {rightCount} confirmed so far · statuses conservative, only marked when later episodes confirm</p>
+        </div>
+        <div className="flex gap-1.5 flex-wrap">
+          {whos.map((w) => (
+            <button
+              key={w}
+              onClick={() => setWho(w)}
+              className={`px-3 py-1.5 rounded-full text-xs font-semibold transition active:scale-[0.97] ${
+                who === w ? "bg-blue-600 text-white" : "bg-slate-100 text-slate-700 hover:bg-slate-200"
+              }`}
+            >
+              {w}{w !== "All" ? ` (${RT_PREDICTIONS.filter((p) => p.who === w).length})` : ""}
+            </button>
+          ))}
+        </div>
+      </div>
+      <div className="overflow-y-auto max-h-[480px] rounded-lg border border-slate-100">
+        <table className="w-full text-sm">
+          <thead className="sticky top-0 bg-slate-50">
+            <tr className="text-left text-xs uppercase tracking-wider text-slate-500">
+              <th className="py-2 px-3 w-24">Date</th>
+              <th className="py-2 px-3 w-24">Who</th>
+              <th className="py-2 px-3">Prediction</th>
+              <th className="py-2 px-3 w-24">Status</th>
+            </tr>
+          </thead>
+          <tbody>
+            {rows.map((p, i) => (
+              <tr key={i} className="border-t border-slate-100 align-top">
+                <td className="py-2 px-3 text-xs text-slate-500 tabular-nums whitespace-nowrap">{p.date}</td>
+                <td className="py-2 px-3 text-xs font-semibold text-slate-700 whitespace-nowrap">{p.who}</td>
+                <td className="py-2 px-3 text-slate-700 leading-snug">{p.text}</td>
+                <td className="py-2 px-3">
+                  {p.status === "right" ? (
+                    <span className="inline-block rounded-full bg-emerald-50 border border-emerald-200 text-emerald-700 text-[10px] font-bold px-2 py-0.5 uppercase tracking-wider">Came true</span>
+                  ) : (
+                    <span className="inline-block rounded-full bg-slate-50 border border-slate-200 text-slate-500 text-[10px] font-bold px-2 py-0.5 uppercase tracking-wider">Pending</span>
+                  )}
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
     </div>
   );
 }
