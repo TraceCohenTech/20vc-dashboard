@@ -633,7 +633,7 @@ export default function Page() {
             <SectionTitle
               eyebrow="The show within the show"
               title="The Roundtable Era: 171 predictions on the record"
-              sub="In April 2025, 20VC added a weekly news roundtable with Jason Lemkin and Rory O'Driscoll — 49 episodes analyzed. Every explicit prediction made on air is cataloged below with attribution; statuses update as calls resolve."
+              sub="In April 2025, 20VC added a weekly news roundtable with Jason Lemkin and Rory O'Driscoll — 49 episodes analyzed. Every explicit prediction made on air is cataloged below with attribution; most are too young to judge — the value is having them on the record."
             />
           </Reveal>
           <Reveal delay={100}>
@@ -894,7 +894,7 @@ function PredictionsBoard() {
       <div className="flex flex-wrap items-center justify-between gap-3 mb-4">
         <div>
           <h3 className="font-bold text-slate-900">Predictions scoreboard</h3>
-          <p className="text-xs text-slate-500">{RT_PREDICTIONS.length} on-air calls · {rightCount} confirmed so far · statuses conservative, only marked when later episodes confirm</p>
+          <p className="text-xs text-slate-500">{RT_PREDICTIONS.length} on-air calls, April 2025 – June 2026 · {rightCount} already confirmed · most are under a year old, so the ledger — not the score — is the point</p>
         </div>
         <div className="flex gap-1.5 flex-wrap">
           {whos.map((w) => (
