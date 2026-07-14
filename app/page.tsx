@@ -36,7 +36,7 @@ import {
   YAxis,
 } from "recharts";
 import { SHOW, YEARLY, ERAS, CASE_STUDIES, REPEAT_GUESTS, LEARNINGS_GROUPS, ASSERTIVENESS_BY_YEAR, SPONSOR_BY_YEAR, TONE_PARADOX, QUESTION_LEN, GUEST_MIX, DEFERENCE, LEXICON } from "./data";
-import { RT_PREDICTIONS, RT_QUOTES } from "./rtdata";
+import { RT_PREDICTIONS, RT_QUOTES, RT_CAST, RT_DEBATES } from "./rtdata";
 import { NUGGETS } from "./wisdom";
 import { CountUp } from "@/components/CountUp";
 import { Reveal } from "@/components/Reveal";
@@ -634,9 +634,70 @@ export default function Page() {
             <SectionTitle
               eyebrow="The show within the show"
               title="The Roundtable Era: 171 predictions on the record"
-              sub="In April 2025, 20VC added a weekly news roundtable with Jason Lemkin and Rory O'Driscoll — 49 episodes analyzed. Every explicit prediction made on air is cataloged below with attribution; most are too young to judge — the value is having them on the record."
+              sub="In April 2025, 20VC added a weekly news roundtable with Jason Lemkin and Rory O'Driscoll — all 49 true roundtables transcribed and analyzed on their own rubric, separate from the interviews. Every explicit prediction made on air is cataloged below with attribution; most are too young to judge — the value is having them on the record."
             />
           </Reveal>
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 sm:gap-6 mb-4 sm:mb-6">
+            {RT_CAST.map((c, i) => (
+              <Reveal key={c.name} delay={100 + i * 50} className="h-full">
+                <Card className="h-full flex flex-col">
+                  <div className="flex items-start justify-between gap-3 mb-2">
+                    <div>
+                      <div className="text-xs uppercase tracking-[0.15em] font-bold" style={{ color: c.color }}>{c.style}</div>
+                      <h3 className="text-xl font-bold text-slate-900">{c.name}</h3>
+                      <p className="text-xs text-slate-500">{c.role}</p>
+                    </div>
+                    <div className="text-right shrink-0">
+                      <div className="text-3xl font-bold tabular-nums" style={{ color: c.color }}>{c.predictions}</div>
+                      <div className="text-[10px] uppercase tracking-wider text-slate-500">on-record calls</div>
+                    </div>
+                  </div>
+                  <p className="text-sm text-slate-700 leading-relaxed mb-3">{c.persona}</p>
+                  <div className="mt-auto space-y-1.5">
+                    {c.stances.map((st) => (
+                      <div key={st} className="flex gap-2 text-xs text-slate-600">
+                        <span className="shrink-0 mt-1 h-1.5 w-1.5 rounded-full" style={{ background: c.color }} aria-hidden />
+                        {st}
+                      </div>
+                    ))}
+                  </div>
+                </Card>
+              </Reveal>
+            ))}
+          </div>
+
+          <Reveal delay={150}>
+            <Card className="mb-4 sm:mb-6">
+              <div className="flex flex-wrap items-baseline justify-between gap-2 mb-1">
+                <h3 className="font-bold text-slate-900">The Great Debates: Jason vs. Rory</h3>
+                <span className="text-xs text-slate-500">33 documented head-to-head clashes across 49 shows — the 11 sharpest, positions paraphrased</span>
+              </div>
+              <p className="text-xs text-slate-500 mb-4">The show&rsquo;s engine is the same argument in different costumes: Jason bets on speed and severity, Rory bets on equilibrium and history.</p>
+              <div className="overflow-x-auto">
+                <table className="w-full min-w-[720px] text-sm">
+                  <thead>
+                    <tr className="text-left text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
+                      <th className="py-2 pr-3 font-semibold w-[90px]">Date</th>
+                      <th className="py-2 pr-3 font-semibold w-[220px]">The question</th>
+                      <th className="py-2 pr-3 font-semibold text-amber-600">Jason says</th>
+                      <th className="py-2 font-semibold text-emerald-600">Rory says</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {RT_DEBATES.map((d, i) => (
+                      <tr key={i} className="border-b border-slate-100 align-top hover:bg-slate-50/60">
+                        <td className="py-2.5 pr-3 text-xs text-slate-500 tabular-nums whitespace-nowrap">{d.date}</td>
+                        <td className="py-2.5 pr-3 font-semibold text-slate-900 text-xs leading-snug">{d.topic}</td>
+                        <td className="py-2.5 pr-3 text-xs text-slate-700 leading-snug">{d.jason}</td>
+                        <td className="py-2.5 text-xs text-slate-700 leading-snug">{d.rory}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            </Card>
+          </Reveal>
+
           <Reveal delay={100}>
             <PredictionsBoard />
           </Reveal>

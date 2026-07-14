@@ -1103,3 +1103,42 @@ export const RT_QUOTES: { date: string; quote: string }[] = [
   "quote": "We are fucking done with staying private."
  }
 ];
+
+// The two panelists, profiled from 49 analyzed roundtables
+export const RT_CAST = [
+  {
+    name: "Jason Lemkin",
+    role: "Founder, SaaStr · ex-CEO EchoSign",
+    color: "#f59e0b",
+    predictions: 72,
+    style: "The pattern-matcher",
+    persona:
+      "The most prolific predictor on the show (72 on-record calls) and its resident bear on classic SaaS. Binary, brutal, and fast: AI displacement is happening now, underperformers should be culled, mediocre outcomes don't merit venture capital. Argues from on-the-ground startup data and 20 years of SaaS pattern recognition.",
+    stances: ["SaaS is being maimed, not killed — slow NRR decay", "AI job displacement is faster than anyone admits", "Only billion-dollar positions are worth writing now"],
+  },
+  {
+    name: "Rory O'Driscoll",
+    role: "Partner, Scale Venture Partners",
+    color: "#10b981",
+    predictions: 30,
+    style: "The counterweight",
+    persona:
+      "The show's mean-reversion voice. Fewer calls (30) but almost always on the other side of Jason: markets clear, history says adoption is slower than Silicon Valley assumes, people adapt. Argues from cycles and equilibrium — 'price clears markets' — and defends the traditional venture playbook against declarations of its death.",
+    stances: ["Historical tech adoption is slower than SV assumes", "Price clears markets — down-IPOs aren't death", "Installed bases are assets, not liabilities"],
+  },
+];
+
+// The best documented Jason-vs-Rory clashes (positions paraphrased from the transcripts)
+export const RT_DEBATES = [
+  { date: "2025-08", topic: "Is OpenAI's cheaper token pricing a threat to Anthropic?", jason: "Yes — a real competitive threat to Anthropic's revenue engine.", rory: "If Anthropic's models are better they win long-term; pricing compression hits everyone." },
+  { date: "2025-08", topic: "CoreWeave's debt load", jason: "Debt matters less if the take-or-pay contracts with Microsoft/OpenAI are ironclad.", rory: "Growth assumptions are fragile — paying-rather-than-taking signals demand weakness." },
+  { date: "2025-10", topic: "How should founders pick between term sheets?", jason: "VCs optimizing price and terms are living in 2021. Just take the deal.", rory: "Factor in kingmaker effects and opportunity cost — but still look at fundamentals." },
+  { date: "2025-10", topic: "Can small VCs compete with mega-funds?", jason: "No — scale gives mega-funds pricing power on seed deals that boutiques can't match.", rory: "Ownership % doesn't pick winners. Media presence and founder relationships do." },
+  { date: "2025-10", topic: "Can small-TAM startups become billion-dollar companies?", jason: "Skeptical — founders can't overcome market saturation.", rory: "The best founders deliberately start in small TAMs, then expand." },
+  { date: "2025-12", topic: "Are legacy installed bases an asset in the AI era?", jason: "Legacy support drains engineering and blocks competing for AI-native customers.", rory: "Data and integrations are the moat — installed bases are assets." },
+  { date: "2026-01", topic: "AI youth unemployment", jason: "Broader dislocation is coming — invisible unemployment across all experience levels.", rory: "Less concerned, though elite 22-24-year-olds will feel visible stress." },
+  { date: "2026-01", topic: "Navan's down-IPO", jason: "A down-IPO signals venture capitulation — may never reach high multiples.", rory: "Price clears markets. Navan can compound 20-30% and trade up over 5-10 years." },
+  { date: "2026-02", topic: "Anthropic at 50x run-rate", jason: "Momentum is irreversible for the next 12-24 months.", rory: "Valuation caution: it needs to triple, then double, to grow into the price." },
+  { date: "2026-03", topic: "Junior developer unemployment", jason: "Real and structural — concentrated pain that's already here.", rory: "Adoption is slower than Silicon Valley assumes; people adapt over the medium term." },
+  { date: "2026-06", topic: "What deals are worth doing now?", jason: "Only billion-dollar positions — most VPs of engineering won't execute on AI anyway.", rory: "That discipline will miss solid outcomes. Successful founders will execute." },
+];
