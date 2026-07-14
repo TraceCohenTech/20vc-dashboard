@@ -1,5 +1,5 @@
 "use client";
-import { useState } from "react";
+import { useState, useRef } from "react";
 import {
   Mic,
   Clock,
@@ -11,6 +11,9 @@ import {
   Sparkles,
   RotateCcw,
   ShieldAlert,
+  Search,
+  Share,
+  Lightbulb,
 } from "lucide-react";
 import {
   Area,
@@ -27,6 +30,7 @@ import {
 } from "recharts";
 import { SHOW, YEARLY, ERAS, CASE_STUDIES, REPEAT_GUESTS, LEARNINGS_GROUPS, ASSERTIVENESS_BY_YEAR } from "./data";
 import { RT_PREDICTIONS, RT_QUOTES } from "./rtdata";
+import { NUGGETS } from "./wisdom";
 import { CountUp } from "@/components/CountUp";
 import { Reveal } from "@/components/Reveal";
 import { Nav } from "@/components/Nav";
@@ -45,7 +49,7 @@ export default function Page() {
           <div className="mesh-blob-3" />
         </div>
         <div className="absolute inset-0 grid-pattern opacity-60" />
-        <div className="relative mx-auto max-w-[1600px] px-4 sm:px-6">
+        <div className="relative mx-auto max-w-[1280px] px-4 sm:px-6">
           <Reveal>
             <div className="flex flex-wrap items-center gap-3 mb-5">
               <span className="inline-flex items-center gap-2 rounded-full bg-emerald-500/15 border border-emerald-400/30 px-3 py-1 text-xs font-semibold text-emerald-300">
@@ -61,18 +65,25 @@ export default function Page() {
             </div>
           </Reveal>
 
-          <Reveal delay={120}>
-            <h1 className="text-4xl sm:text-6xl lg:text-7xl font-bold tracking-tight leading-[1.05]">
-              1,481 episodes. 11 years.
-              <br />
-              <span className="text-cyan-300">One question: how has Harry changed?</span>
-            </h1>
-          </Reveal>
+          <div className="grid grid-cols-1 lg:grid-cols-[1fr_360px] gap-8 items-center">
+            <div>
+              <Reveal delay={120}>
+                <h1 className="text-4xl sm:text-6xl lg:text-7xl font-bold tracking-tight leading-[1.05]">
+                  1,481 episodes. 11 years.
+                  <br />
+                  <span className="text-cyan-300">One question: how has Harry changed?</span>
+                </h1>
+              </Reveal>
+            </div>
+            <Reveal delay={200}>
+              <HeroPortrait />
+            </Reveal>
+          </div>
 
           <Reveal delay={220}>
             <p className="mt-5 text-base sm:text-xl text-blue-100/85 max-w-3xl leading-relaxed">
               A full metadata sweep of every 20VC episode since 2015, plus 180 real transcript reads
-              across 2022–2026, tracking how Harry Stebbings&rsquo; show, questions, and depth of
+              spanning 2015–2026, tracking how Harry Stebbings&rsquo; show, questions, and depth of
               understanding have evolved. <span className="text-white font-semibold">Episodes nearly tripled in length. Titles went from one clean hook to four stacked theses.</span>
             </p>
           </Reveal>
@@ -95,7 +106,7 @@ export default function Page() {
       </header>
 
       <section className="border-y border-slate-200 bg-white">
-        <div className="mx-auto max-w-[1600px]">
+        <div className="mx-auto max-w-[1280px]">
           <div className="px-4 sm:px-6 pt-6">
             <div className="text-xs uppercase tracking-[0.2em] text-slate-500 font-semibold">
               A sample of the guests behind the data
@@ -105,7 +116,7 @@ export default function Page() {
         </div>
       </section>
 
-      <main className="mx-auto max-w-[1600px] px-4 sm:px-6 py-12 sm:py-20 space-y-16 sm:space-y-24">
+      <main className="mx-auto max-w-[1280px] px-4 sm:px-6 py-12 sm:py-20 space-y-16 sm:space-y-24">
         {/* BENTO KPI GRID */}
         <Reveal>
           <section>
@@ -294,7 +305,7 @@ export default function Page() {
                   <div className="text-2xl font-bold text-emerald-600">2.8 → 6.2</div>
                 </div>
               </div>
-              <div className="h-[240px] sm:h-[280px]" role="img" aria-label="Line chart showing Harry Stebbings' assertiveness score climbing gradually from 1 in 2015 to about 5 by 2021, dipping slightly in 2022, then rising sharply to 7.5-8 by 2025-2026">
+              <div className="h-[240px] sm:h-[280px]" role="img" aria-label="Line chart showing Harry Stebbings' assertiveness score climbing from 2.8 in 2015 to 6.2 in 2026, with 95 percent confidence bands">
                 <ResponsiveContainer width="100%" height="100%">
                   <LineChart data={ASSERTIVENESS_BY_YEAR} margin={{ top: 10, right: 10, left: -10, bottom: 0 }}>
                     <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
@@ -464,6 +475,19 @@ export default function Page() {
           </Reveal>
         </section>
 
+
+        {/* WISDOM WALL */}
+        <section id="wisdom" className="scroll-mt-20">
+          <Reveal>
+            <SectionTitle
+              eyebrow="The knowledge base"
+              title="930 nuggets of wisdom from 147 guests"
+              sub="Every key insight mined from the fully-read transcripts, attributed and shareable. Search by topic, guest, or idea — then post the ones worth spreading."
+            />
+          </Reveal>
+          <WisdomWall />
+        </section>
+
         {/* METHODOLOGY */}
         <section id="methodology" className="scroll-mt-20">
           <Reveal>
@@ -550,10 +574,10 @@ export default function Page() {
       </main>
 
       <footer className="border-t border-slate-200 bg-white py-10 mt-12">
-        <div className="mx-auto max-w-[1600px] px-4 sm:px-6 text-center">
+        <div className="mx-auto max-w-[1280px] px-4 sm:px-6 text-center">
           <p className="text-sm text-slate-600 mb-3">
             Sourced from the 20VC public RSS feed (all 1,481 episodes) and 9 YouTube auto-caption transcripts,
-            2022&ndash;2026. Independent analysis, not affiliated with 20VC or Harry Stebbings.
+            2015&ndash;2026. Independent analysis, not affiliated with 20VC or Harry Stebbings.
           </p>
           <p className="text-sm text-slate-500">
             Built by{" "}
@@ -679,6 +703,115 @@ function PredictionsBoard() {
           </tbody>
         </table>
       </div>
+    </div>
+  );
+}
+
+function HeroPortrait() {
+  const ref = useRef<HTMLDivElement>(null);
+  const onMove = (e: React.MouseEvent) => {
+    const el = ref.current;
+    if (!el) return;
+    const r = el.getBoundingClientRect();
+    const x = (e.clientX - r.left) / r.width - 0.5;
+    const y = (e.clientY - r.top) / r.height - 0.5;
+    el.style.transform = `perspective(800px) rotateY(${x * 10}deg) rotateX(${-y * 8}deg) scale(1.02)`;
+  };
+  const onLeave = () => {
+    const el = ref.current;
+    if (el) el.style.transform = "perspective(800px) rotateY(0deg) rotateX(0deg) scale(1)";
+  };
+  return (
+    <div className="hidden lg:block relative" onMouseMove={onMove} onMouseLeave={onLeave}>
+      <div className="absolute -inset-6 rounded-3xl bg-cyan-500/20 blur-3xl animate-pulse-slow" aria-hidden />
+      <div
+        ref={ref}
+        className="relative rounded-2xl overflow-hidden border border-white/20 shadow-2xl transition-transform duration-200 will-change-transform hero-float"
+      >
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img src="/harry-hero.jpeg" alt="Podcast host at the microphone" className="w-full h-auto block" />
+        <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/80 to-transparent p-3">
+          <div className="text-[10px] uppercase tracking-[0.2em] text-cyan-300 font-bold">The voice of 1,481 episodes</div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function WisdomWall() {
+  const [q, setQ] = useState("");
+  const [era, setEra] = useState("All");
+  const [limit, setLimit] = useState(48);
+  const eras = ["All", "2015-17", "2018-21", "2022-23", "2024-26"];
+  const ql = q.toLowerCase();
+  const filtered = NUGGETS.filter(
+    (n) =>
+      (era === "All" || n.era === era) &&
+      (!ql || n.text.toLowerCase().includes(ql) || n.guest.toLowerCase().includes(ql) || n.topics.some((t) => t.includes(ql)))
+  );
+  const shown = filtered.slice(0, limit);
+  const share = (n: (typeof NUGGETS)[number]) =>
+    `https://x.com/intent/post?text=${encodeURIComponent(`"${n.text}" — ${n.guest} on @twentyminutevc`)}`;
+  return (
+    <div>
+      <div className="flex flex-wrap items-center gap-3 mb-5">
+        <div className="relative flex-1 min-w-[240px]">
+          <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-slate-400" aria-hidden />
+          <input
+            value={q}
+            onChange={(e) => { setQ(e.target.value); setLimit(48); }}
+            placeholder="Search 930 insights — try 'moat', 'hiring', 'AI', or a guest name"
+            aria-label="Search guest wisdom"
+            className="w-full rounded-full border border-slate-200 bg-white pl-10 pr-4 py-2.5 text-sm text-slate-900 placeholder:text-slate-400 focus:border-blue-400"
+          />
+        </div>
+        <div className="flex gap-1.5 flex-wrap">
+          {eras.map((e) => (
+            <button
+              key={e}
+              onClick={() => { setEra(e); setLimit(48); }}
+              className={`px-3 py-1.5 rounded-full text-xs font-semibold transition active:scale-[0.97] ${
+                era === e ? "bg-blue-600 text-white" : "bg-slate-100 text-slate-700 hover:bg-slate-200"
+              }`}
+            >
+              {e}
+            </button>
+          ))}
+        </div>
+        <div className="text-xs text-slate-500 tabular-nums">{filtered.length} results</div>
+      </div>
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+        {shown.map((n, i) => (
+          <div key={i} className="rounded-xl border border-slate-200 bg-white p-4 flex flex-col justify-between hover:border-blue-300 hover:shadow-md transition-all">
+            <p className="text-sm text-slate-800 leading-snug">{n.text}</p>
+            <div className="mt-3 flex items-end justify-between gap-2">
+              <div>
+                <div className="text-xs font-bold text-slate-900">{n.guest}</div>
+                <div className="text-[10px] text-slate-500">{n.role} · {n.date}</div>
+              </div>
+              <a
+                href={share(n)}
+                target="_blank"
+                rel="noopener"
+                aria-label={`Share this insight from ${n.guest} on X`}
+                className="shrink-0 inline-flex items-center gap-1 rounded-full bg-slate-100 hover:bg-blue-600 hover:text-white text-slate-600 px-2.5 py-1.5 text-[10px] font-bold transition active:scale-[0.97]"
+              >
+                <Share className="h-3 w-3" aria-hidden /> Share
+              </a>
+            </div>
+          </div>
+        ))}
+      </div>
+      {filtered.length > limit && (
+        <div className="mt-5 text-center">
+          <button
+            onClick={() => setLimit((l) => l + 96)}
+            className="rounded-full bg-blue-600 text-white px-6 py-2.5 text-sm font-semibold hover:bg-blue-700 active:scale-[0.97]"
+          >
+            Show more ({filtered.length - limit} remaining)
+          </button>
+        </div>
+      )}
     </div>
   );
 }

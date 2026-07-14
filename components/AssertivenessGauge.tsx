@@ -50,7 +50,7 @@ export function AssertivenessGauge({ early, recent }: { early: number; recent: n
         viewBox={`0 0 ${size} ${size / 2 + 24}`}
         className="w-full max-w-[220px]"
         role="img"
-        aria-label={`Assertiveness index: ${early} out of 10 in 2022, rising to ${recent} out of 10 by 2026`}
+        aria-label={`Assertiveness index: ${early} out of 10 in 2015, rising to ${recent} out of 10 by 2026`}
       >
         <path d={`M ${stroke / 2} ${size / 2} A ${outerR} ${outerR} 0 0 1 ${size - stroke / 2} ${size / 2}`} fill="none" stroke="#e2e8f0" strokeWidth={stroke} strokeLinecap="round" />
         <path
@@ -80,12 +80,12 @@ export function AssertivenessGauge({ early, recent }: { early: number; recent: n
           {recent}/10
         </text>
         <text x={size / 2} y={size / 2 + 14} textAnchor="middle" fontSize={11} fill="#64748b">
-          2026 (2022 was {early}/10)
+          2026 (2015 was {early}/10)
         </text>
       </svg>
       <div className="flex items-center gap-4 mt-1 text-[11px] text-slate-500">
         <span className="flex items-center gap-1"><span className="h-2 w-2 rounded-full bg-sky-500" aria-hidden />2026</span>
-        <span className="flex items-center gap-1"><span className="h-2 w-2 rounded-full bg-amber-500" aria-hidden />2022</span>
+        <span className="flex items-center gap-1"><span className="h-2 w-2 rounded-full bg-amber-500" aria-hidden />2015</span>
       </div>
     </div>
   );

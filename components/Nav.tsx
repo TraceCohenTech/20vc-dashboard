@@ -8,6 +8,7 @@ const LINKS = [
   { href: "#style", label: "Interview Style" },
   { href: "#learnings", label: "Learnings" },
   { href: "#roundtable", label: "Roundtable" },
+  { href: "#wisdom", label: "Wisdom" },
   { href: "#methodology", label: "Methodology" },
 ];
 

@@ -142,3 +142,15 @@ button, a, select, [role="button"] {
 /* Hide scrollbar but allow scroll on timeline */
 .no-scrollbar::-webkit-scrollbar { display: none; }
 .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+
+/* Hero portrait: gentle float + slow glow pulse (transform/opacity only) */
+@keyframes hero-float {
+  0%, 100% { translate: 0 0; }
+  50% { translate: 0 -8px; }
+}
+.hero-float { animation: hero-float 6s ease-in-out infinite; }
+@keyframes pulse-slow {
+  0%, 100% { opacity: 0.5; }
+  50% { opacity: 0.9; }
+}
+.animate-pulse-slow { animation: pulse-slow 5s ease-in-out infinite; }
