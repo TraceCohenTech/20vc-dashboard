@@ -71,7 +71,7 @@ export default function Page() {
                 <h1 className="text-4xl sm:text-6xl lg:text-7xl font-bold tracking-tight leading-[1.05]">
                   1,481 episodes. 11 years.
                   <br />
-                  <span className="text-cyan-300">One question: how has Harry changed?</span>
+                  <span className="text-cyan-300">The evolution of Harry Stebbings.</span>
                 </h1>
               </Reveal>
             </div>
@@ -121,14 +121,14 @@ export default function Page() {
         <Reveal>
           <section>
             <SectionTitle eyebrow="At a glance" title="The show, by the numbers" />
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-3 sm:gap-4 auto-rows-[120px] sm:auto-rows-[140px]">
-              <div className="col-span-2 row-span-2 rounded-2xl bg-gradient-to-br from-blue-600 via-blue-700 to-cyan-600 p-5 sm:p-6 text-white flex flex-col justify-between overflow-hidden relative">
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-3 sm:gap-4 auto-rows-[112px] sm:auto-rows-[140px]">
+              <div className="col-span-2 row-span-2 rounded-2xl bg-gradient-to-br from-blue-600 via-blue-700 to-cyan-600 p-5 sm:p-6 text-white flex flex-col overflow-hidden relative">
                 <div className="absolute -right-10 -bottom-10 h-48 w-48 rounded-full bg-white/10 blur-2xl" />
                 <div className="flex items-center gap-2 relative">
                   <Clock className="h-4 w-4" aria-hidden />
                   <span className="text-xs uppercase tracking-wider opacity-80">Avg episode length</span>
                 </div>
-                <div className="relative">
+                <div className="relative mt-3">
                   <div className="text-3xl sm:text-5xl font-bold">
                     <CountUp to={72.6} decimals={1} />min
                   </div>
@@ -136,11 +136,25 @@ export default function Page() {
                     Up from 25.0min in 2015 · nearly <CountUp to={2.9} decimals={1} />x longer
                   </div>
                 </div>
+                <div
+                  className="relative mt-auto pt-4 flex items-end gap-1 h-20 sm:h-24"
+                  role="img"
+                  aria-label="Bar chart of average episode length by year, rising from 25 minutes in 2015 to 72.6 minutes in 2026"
+                >
+                  {YEARLY.map((y, i) => (
+                    <div key={y.year} className="flex-1 flex flex-col items-center gap-1 h-full justify-end">
+                      <div className="w-full rounded-sm bg-white/70" style={{ height: `${(y.avgMin / 72.6) * 100}%` }} />
+                      {(i === 0 || i === YEARLY.length - 1) && (
+                        <span className="text-[9px] text-blue-100">{y.year.replace("*", "")}</span>
+                      )}
+                    </div>
+                  ))}
+                </div>
               </div>
-              <BentoStat icon={Layers} label="Episodes/yr, peak" value={<CountUp to={156} />} color="text-emerald-700" iconBg="bg-emerald-100" />
-              <BentoStat icon={TrendingUp} label="Title clauses 2026" value={<><CountUp to={3.89} decimals={2} />x</>} color="text-amber-700" iconBg="bg-amber-100" />
-              <BentoStat icon={Users} label="Repeat guests tracked" value={<CountUp to={3} />} color="text-sky-700" iconBg="bg-sky-100" />
-              <BentoStat icon={MessageSquareQuote} label="Verified quotes" value={<CountUp to={5} />} color="text-cyan-700" iconBg="bg-cyan-100" />
+              <BentoStat icon={Layers} label="Peak episodes/year" value={<CountUp to={156} />} sub="2016 — 3 per week" color="text-emerald-700" iconBg="bg-emerald-100" />
+              <BentoStat icon={TrendingUp} label="Theses per title, 2026" value={<><CountUp to={3.89} decimals={2} />x</>} sub="vs. 1.0 clean hook in 2015" color="text-amber-700" iconBg="bg-amber-100" />
+              <BentoStat icon={Users} label="Wisdom nuggets mined" value={<CountUp to={930} />} sub="from 147 guests, all searchable" color="text-sky-700" iconBg="bg-sky-100" />
+              <BentoStat icon={MessageSquareQuote} label="Predictions logged" value={<CountUp to={171} />} sub="from the roundtable, scored live" color="text-cyan-700" iconBg="bg-cyan-100" />
             </div>
           </section>
         </Reveal>
@@ -621,16 +635,17 @@ function HeroStat({ label, value, sub, accentColor }: { label: string; value: Re
   );
 }
 
-function BentoStat({ icon: Icon, label, value, color, iconBg }: { icon: any; label: string; value: React.ReactNode; color: string; iconBg: string }) {
+function BentoStat({ icon: Icon, label, value, sub, color, iconBg }: { icon: any; label: string; value: React.ReactNode; sub?: string; color: string; iconBg: string }) {
   return (
-    <div className="rounded-2xl border border-slate-200 bg-white p-4 sm:p-5 flex flex-col justify-between hover:shadow-md hover:-translate-y-0.5 transition-all duration-200">
-      <div className={`h-8 w-8 rounded-lg ${iconBg} flex items-center justify-center`}>
-        <Icon className={`h-4 w-4 ${color}`} aria-hidden />
+    <div className="rounded-2xl border border-slate-200 bg-white p-4 sm:p-5 flex flex-col justify-center gap-1.5 hover:shadow-md hover:-translate-y-0.5 transition-all duration-200">
+      <div className="flex items-center gap-2">
+        <div className={`h-7 w-7 rounded-lg ${iconBg} flex items-center justify-center shrink-0`}>
+          <Icon className={`h-4 w-4 ${color}`} aria-hidden />
+        </div>
+        <div className="text-xs text-slate-500 font-medium leading-tight">{label}</div>
       </div>
-      <div>
-        <div className="text-xs text-slate-500 font-medium">{label}</div>
-        <div className="text-xl sm:text-3xl font-bold text-slate-900 mt-0.5">{value}</div>
-      </div>
+      <div className="text-2xl sm:text-3xl font-bold text-slate-900">{value}</div>
+      {sub && <div className="text-[11px] text-slate-500 leading-tight">{sub}</div>}
     </div>
   );
 }
