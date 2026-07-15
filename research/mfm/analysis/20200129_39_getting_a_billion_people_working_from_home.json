@@ -1,0 +1,50 @@
+{
+  "hosts": ["Sam Parr"],
+  "guest": "Jason Chicola, founder and CEO of Rev.com",
+  "approx_date": "Jan 2020",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "Rev.com: two-sided transcription marketplace connecting customers with freelance transcribers", "who": "Guest", "conviction": "says he might build it"},
+    {"idea": "Online math tutoring service (failed attempt, shut down after missing metrics)", "who": "Guest", "conviction": "says he might build it"},
+    {"idea": "VIP Kid-style online English teaching platform for remote educators", "who": "Guest", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Guest", "text": "By the time I'm dead, a billion people will work remotely, up from much smaller number today"},
+    {"who": "Guest", "text": "AI makes transcription markets bigger by enabling new use cases, not replacing jobs"},
+    {"who": "Guest", "text": "Remote work technology will be huge factor in education industry transformation"}
+  ],
+  "disagreements": null,
+  "dynamics": "Sam guides a methodical, multi-layered interview where Jason tells his career arc (ODesk→Rev) and business philosophy. Jason provides detailed answers on marketplace strategy, naming decisions, workforce incentives, and AI's role. Conversational but strategic tone; Sam extracts both operational and visionary details, with notable digressions on Jason's mom's user-testing work and failed tutoring venture.",
+  "frameworks": [
+    "Network effects as defensibility moat",
+    "Two-sided marketplace: staffing (hire person, roll dice) vs service (pay for guarantee)",
+    "Objective vs subjective work categories (transcription succeeds, design fails)",
+    "Creative constraints drive better decisions (pay for name later, limited budget)",
+    "Market expansion via affordability, not displacement (taxi market grew with Uber)"
+  ],
+  "learnings": [
+    "Working for free initially to demonstrate value is more effective than negotiating equity upfront when expectations are asymmetric",
+    "Most aspiring entrepreneurs benefit from high-growth venture-backed startup experience before founding",
+    "Choosing objective-quality categories (transcription) over subjective ones (design) enables standardization and workforce vetting",
+    "Guaranteeing service quality with vetting beats open marketplace hiring where customers must evaluate workers",
+    "AI expands markets by reducing costs and enabling new use cases, not eliminating jobs",
+    "Flexible work autonomy (pick your hours, no job applications) drives retention and satisfaction"
+  ],
+  "banger_quotes": [
+    {"who": "Guest", "quote": "By the time I'm dead, I think will be a billion people who work remotely"},
+    {"who": "Guest", "quote": "The people who care about quality need the human in the loop to make it accurate"},
+    {"who": "Guest", "quote": "Robots are coming for the jobs is not what we see"}
+  ],
+  "numbers_dropped": [
+    "$31 million raised",
+    "$206 million valuation (disclosed for first time)",
+    "50,000 people work on platform each month",
+    "150 employees, more than half engineers",
+    "$4,000 spent on domain name",
+    "40+ hours typical transcription turnaround pre-Rev, now couple hours",
+    "1 billion people projected working remotely by Jason's death"
+  ],
+  "topics": ["remote-work", "transcription", "saas", "marketplace", "ai", "freelance", "entrepreneurship", "hiring"],
+  "sponsor_read_count": 1,
+  "notable": "Jason's mom story illustrates lifestyle impact of flexible remote work; detailed failure postmortem on their math tutoring experiment; extensive discussion of how they chose transcription because it's objective and quantifiable, avoiding subjective categories like design."
+}

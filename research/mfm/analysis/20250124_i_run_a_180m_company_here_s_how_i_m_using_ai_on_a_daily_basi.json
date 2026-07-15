@@ -1,0 +1,61 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Andrew Wilkinson, founder of Mighty",
+  "approx_date": "Jan 2024",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "Lindy AI agents: Zapier with 'thinking' for automations (meeting prep 30min before via SMS)", "who": "Andrew", "conviction": "serious"},
+    {"idea": "Iris Energy (IREN): Bitcoin mining with data centers next to renewable energy, pivot to AI compute", "who": "Andrew", "conviction": "serious"},
+    {"idea": "AI photography replacing $5-10K/month product shoots within 6-12 months", "who": "Andrew", "conviction": "serious"},
+    {"idea": "AI inventory forecasting replacing 2 human forecasters with AI + human hybrid", "who": "Andrew", "conviction": "serious"},
+    {"idea": "AI back-office CFO role: person whose only job is building financial automations", "who": "Andrew", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Andrew", "text": "20% of all current jobs gone if AI labs shut down today and only deployed existing tech"},
+    {"who": "Andrew", "text": "Software businesses under severe disruption within 2 years; commoditization via easy-build tools like Replit"},
+    {"who": "Andrew", "text": "4K video AI co-workers indistinguishable from humans on Zoom within 24-36 months"},
+    {"who": "Andrew", "text": "AI-generated photos solving e-commerce shoots within 6-12 months (80% quality there now)"}
+  ],
+  "disagreements": "Shaan cautious on K-shaped future pessimism; Andrew says AI upside for consumers outweighs software business disruption. Shaan defends software moat cases (network effects, communities); Andrew agrees some software survives but questions broad software valuations going forward.",
+  "dynamics": "Andrew drives optimistic AI automation narrative with detailed operator examples (Lindy, Fathom, Fixer, Howie). Shaan asks grounding questions and plays skeptical investor. Extended discussion on AI evals, personal finance automation (Claude + Xero CSV saved $100k/year in taxes), family office delegation. Tone shifts from practical business automation to existential software disruption. High energy with tangents on Ross Ulbricht, crypto tax-loss harvesting lessons, Slack design history.",
+  "frameworks": [
+    "AOL dial-up phase: AI is still early (powerful but clunky); expect exponential improvement",
+    "K-shaped future: upskill on AI tools or get outcompeted; no middle ground",
+    "Personal evals: pick 10 real tasks humans do today, test AI monthly on each across 3-6 month cycles to track automation readiness",
+    "Charisma discount factor: discount persuasive people's pitches; amplify deadpan people's statements",
+    "Business disruption model: software commodity vs. non-software (communities, data, habits, enterprise relationships, compliance/CYA)",
+    "Forced savings psychology: illiquid private businesses beat public stocks for impulse-driven founders (lock-in effect)",
+    "Zone of genius hiring: hire people who wake up when problem becomes hard (problem-solvers, not task-doers)"
+  ],
+  "learnings": [
+    "AI agents currently handle admin, not strategy; removing human busy-work enables better decisions elsewhere",
+    "Meeting minutes fully automated (Fathom); 4hr/day freed for assistant to do higher-leverage work",
+    "Software business valuations inflated by scarcity of builders; abundance of AI builders = compression",
+    "Private equity lock-in prevents panic-selling (emotional discipline); illiquidity = forced conviction holding",
+    "Consultants provide 'cheat codes': expert knowledge compresses years of learning to weeks of implementation",
+    "Stock photo AI went from terrible (2 years ago) to perfect (now); same trajectory for video, code, e-commerce imagery",
+    "Question quality matters more than answer chasing: 'Why?' + curiosity beats 'solve this' imperatives",
+    "Momentum from AI capability waves attracts best people; timing > hiring strategy"
+  ],
+  "banger_quotes": [
+    {"who": "Andrew", "quote": "We just discovered a new continent with 10 billion people on it and they're all geniuses."},
+    {"who": "Andrew", "quote": "Decades where nothing happened, then days where decades happen. Right now decades are happening."},
+    {"who": "Sam", "quote": "I would hate to be in the newsletter business now because it's almost ready but not quite ready."},
+    {"who": "Andrew", "quote": "Physics are the only laws; everything else is a suggestion. —Elon Musk"},
+    {"who": "Shaan", "quote": "The more persuasive somebody is, the more I discount what they're saying (charisma discount)."},
+    {"who": "Sam", "quote": "Stop trying to be clever. Just ask: what's obvious here? Then do that."}
+  ],
+  "numbers_dropped": [
+    "Lindy setup: $1000/month admin task replacement (example meeting prep 30min out)",
+    "Andrew's real estate returns via brother-in-law: 30-40% annually",
+    "AI tax savings via Claude + Xero: $100,000/year in personal taxes rerouted",
+    "E-commerce photo shoot budget: $5,000-$10,000/month (candidate for automation)",
+    "Iris Energy (IREN) stock: $2.4B valuation, $500M annual EBITDA from Bitcoin mining",
+    "Bitcoin mining break-even: 70% price drop needed",
+    "AI photo/video quality lag: 6-12 months away from 'shippable' on e-commerce sites",
+    "Coinbase vs Bitcoin holding: Bitcoin outperformed but Coinbase forced-saving prevented panic-sells (superior returns)"
+  ],
+  "topics": ["ai", "automation", "software-disruption", "business-strategy", "agents", "investing", "consulting"],
+  "sponsor_read_count": 2,
+  "notable": "Andrew frames AI not as existential threat but as unlocking best-person operating leverage. K-shaped future requires upskilling on tools or getting outcompeted. Stock photo disruption (2-yr turnaround to quality) predictive of timelines for video, code, imagery. Iris Energy as 'misunderstood' bet on AI compute infrastructure via renewable energy leverage."
+}

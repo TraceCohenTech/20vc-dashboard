@@ -1,0 +1,61 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Nathan Barry, Founder of ConvertKit",
+  "approx_date": "Feb 2022",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "Short-term rental property management (vacation rentals like Airbnb)", "who": "Nathan", "conviction": "serious"},
+    {"idea": "Creator products/SaaS for online audiences (ConvertKit model)", "who": "Nathan", "conviction": "serious"},
+    {"idea": "White-label or rebrand existing software products", "who": "Nathan", "conviction": "throwaway"},
+    {"idea": "Lifestyle brand extensions (whiskey, recovery spray, fitness programs)", "who": "Nathan", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Nathan", "text": "Connor McGregor will become a billionaire with fighting being his lowest income stream."},
+    {"who": "Nathan", "text": "Most successful creators build product equity, not just sell sponsorships/attention."},
+    {"who": "Nathan", "text": "Recurring/consumable products outperform one-time purchases by 10x+ valuation multiples."}
+  ],
+  "disagreements": "Sam initially skeptical of creator economy claims; Nathan demonstrates through examples that building products + keeping audience ownership is the real path to wealth. Both agree sponsorships are low-ROI compared to product equity.",
+  "dynamics": "Guest-driven interview where Nathan shares detailed breakdown of billion-dollar creator framework. Sam and Shaan ask clarifying questions; Nathan goes methodically through four rules with case studies. Discussion of ConvertKit's business model (transparent metrics, Black Friday strategy, churn concerns). Nathan shares personal journey (raised minimal capital, Andrew Warner's $25K loan story).",
+  "frameworks": [
+    "Four Rules of Billion-Dollar Creators: (1) Build more than personal brand; (2) Sell products not attention; (3) Drive recurring revenue; (4) Choose better business model.",
+    "Attention arbitrage — Highest-paid celebrities still underutilize their audience by just taking sponsorship deals instead of launching equity-based brands.",
+    "Wealth ladder — Recurring revenue > one-time sales; brand > personal name; equity > fees.",
+    "Transparency as mission tool — Public metrics serve education, not marketing; filter out complainers with premium paywalls.",
+    "Business model switching — Trade low-multiple revenue (agency work) for high-multiple revenue (SaaS) to compound wealth."
+  ],
+  "learnings": [
+    "Jessica Alba, Ryan Reynolds, Mark Sisson all built wealth through product lines, not sponsorships or media careers alone.",
+    "Kylie Cosmetics ($1B+) vastly outperformed Kim's sponsorship income ($250K-$2M per post).",
+    "Vacation rental economics: $900K property generating $15K+/month (~20% annual gross, higher in peak season).",
+    "ConvertKit grew from bootstrap ($50K initial capital) to $26M+ ARR; transparent metrics serve as free marketing.",
+    "Black Friday strategy artificially concentrates annual renewals ($4.5M single month), creates churn/payroll risk.",
+    "Recurring revenue (monthly/annual subscriptions) commands 10-50x higher valuations than one-time sales.",
+    "Keeping audience ownership is critical—personal brand can't be sold for $200M+, but owned products can (Primal Kitchen $200M).",
+    "Andrew Warner's $25K 'security blanket' loan to Nathan during cash crisis changed the trajectory of ConvertKit."
+  ],
+  "banger_quotes": [
+    {"who": "Nathan", "quote": "The richest creators own products, not just attention. Sponsorships are table scraps."},
+    {"who": "Nathan", "quote": "You don't sell the audience; you keep the audience and build a 'piggy bank' forever."},
+    {"who": "Sam", "quote": "Raise money for your next business, not your primary audience. Own the audience forever."},
+    {"who": "Nathan", "quote": "Connor McGregor's fighting income will be lowest of all his revenue streams."}
+  ],
+  "numbers_dropped": [
+    "ConvertKit: $26M+ ARR, 69 employees, 100% self-funded, public transparent metrics",
+    "Nathan's personal valuation: $180M (90% ownership of $200M round-raised company)",
+    "Nathan's annual spend: $200K (sustainable indefinitely from equity)",
+    "Vacation rental: $900K property, $15K+/month, $8-9K/night summer bookings",
+    "Primal Kitchen: $200M sale (Mark Sisson's paleo brand)",
+    "Kylie Cosmetics: $1B+ valuation (vs. Instagram sponsorship rates of $250K-$2M per post)",
+    "Kim Kardashian sponsorship rate: peaked at $2M per Instagram post",
+    "UFC fighter pay: 15-20% of revenue (vs. NBA 50%, NFL 50%)",
+    "Conor McGregor whiskey deal: ~$100M+",
+    "ConvertKit Black Friday spike: $4.5M in single month (Nov)",
+    "ConvertKit early crisis: 10-12K in bank with growing expenses",
+    "Andrew Warner's loan: $25K to Nathan (unpaid interest, security blanket)",
+    "ConvertKit growth phase: $2K to $100K/month in 12 months",
+    "Mark Sisson email subscriber base at Primal Kitchen launch: ~100K"
+  ],
+  "topics": ["creator-economy", "saas", "product-equity", "entrepreneurship", "wealth-building", "audience-ownership", "recurring-revenue"],
+  "sponsor_read_count": 0,
+  "notable": "In-depth exploration of why attention-based business models (sponsorships, ads) underperform product-equity models (SaaS, brands). Nathan's transparent metrics page (ConvertKit.barometrics.com) serves as free education for future founders. Includes famous story of Andrew Warner lending Nathan $25K during cash crisis without interest, with strict 'no interest' clause. Discussion of vacation rental arbitrage as alternative wealth-building path."
+}

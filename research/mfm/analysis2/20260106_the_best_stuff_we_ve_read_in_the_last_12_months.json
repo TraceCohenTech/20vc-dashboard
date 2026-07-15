@@ -1,0 +1,46 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Jan 2026",
+  "format": "mixed",
+  "business_ideas": [
+    {"idea": "Bring ringtones back as a paid music product, following the Akon playbook of writing songs specifically to be ringtones", "who": "Shaan", "conviction": "throwaway"}
+  ],
+  "predictions": [],
+  "disagreements": null,
+  "dynamics": "A loose, low-structure year-end 'best stuff I read/watched' episode where Sam and Shaan trade favorite books, blog posts, and stories rather than debate business ideas. Sam drives most of the intellectual content (history, decision-making frameworks, investing wisdom, Hampton anecdotes) while Shaan plays interviewer/reactor, occasionally pulling in fiction recommendations and pop-culture asides (Poppi founder lookalike, Tonies/Yoto toys). Energy is relaxed and reflective rather than competitive or pitch-driven.",
+  "frameworks": [
+    "Sand, small rocks, big rocks (jar analogy) — schedule your big, meaningful commitments first, then let routine tasks (sand) fill in the gaps, or the big things never fit",
+    "Howard Marks' 'why do people sell' framework — sell only based on whether your original investment thesis still holds and relative opportunity cost, not because price moved up or down",
+    "The decision register/survey — write down each decision, your emotional state, one single decisive reason (not blended reasons), alternatives considered, and reversibility before deciding",
+    "Naval's 'rubbing two sticks together' reading philosophy — read to spark a new thought, not to memorize or finish every book",
+    "Position sizing (via George Soros/Druckenmiller) — being right doesn't matter if your bet size is too small; conviction should scale bet size"
+  ],
+  "learnings": [
+    "Presidential security only became a serious institution after repeated assassinations, showing how norms often change only after major failures rather than proactive planning.",
+    "Great leaders (Churchill, orators) succeed less through raw charisma and more by tying a specific goal to a larger, meaningful narrative people want to fight for.",
+    "Moving a community/business relationship from purely digital to in-person can dramatically change retention (cited example: annual churn improving from roughly 40% to 10-15%).",
+    "Blended, multi-reason justifications for a decision are often a red flag; a single strong, honest reason is more reliable than a long pros/cons list.",
+    "Reframing money as 'life energy' (time traded for money) changes how purchases and time-tradeoffs feel, per Die With Zero.",
+    "Great judgment, not raw effort, is described as one of the highest-leverage 'undertrained' life skills, since almost no one consciously practices decision-making.",
+    "Businesses that seem 'obvious' in retrospect (ringtones once digital singles existed, kids' audio boxes like Tonies/Yoto) can generate hundreds of millions in revenue by targeting an overlooked niche."
+  ],
+  "banger_quotes": [
+    {"who": "Sam", "quote": "The reason I read so much is because I want to see what worked for the winners that I love."},
+    {"who": "Sam", "quote": "Blended reasons are bad reasons."},
+    {"who": "Shaan", "quote": "I didn't need a bigger jar, I just needed to put things in the right order."},
+    {"who": "Sam", "quote": "Your decisions become your destiny."}
+  ],
+  "numbers_dropped": [
+    "Only four U.S. presidents have been successfully assassinated, three between 1865 and 1905",
+    "Hampton's annual churn reportedly improved from roughly 40% (60s retention) to 85-90% retention after adding in-person meetings",
+    "Akon reportedly sold 11 million ringtones at $4.99 each, ~$55 million gross, breaking a Guinness World Record",
+    "Eric Jorgenson's Navalmanack reportedly sold over 1 million copies",
+    "Tonies reportedly did 510 million euros in trailing 12-month revenue",
+    "Yoto reportedly did 127 million in revenue",
+    "Poppi reportedly sold for $2-3 billion after starting as a probiotic soda"
+  ],
+  "topics": ["books", "reading habits", "decision-making", "leadership", "history", "investing psychology", "year in review"],
+  "sponsor_read_count": 1,
+  "notable": "An unusually loose, non-business-pitch episode structured entirely as a year-end personal reading/media retrospective rather than the show's typical idea-brainstorm or interview format."
+}

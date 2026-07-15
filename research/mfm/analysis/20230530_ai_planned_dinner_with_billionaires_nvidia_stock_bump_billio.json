@@ -1,0 +1,97 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "May 2023",
+  "format": "mixed",
+  "business_ideas": [
+    {
+      "idea": "Panda Express model: efficient fast-casual Chinese with tech-enabled operations and proprietary recipes",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Air Chat: audio-based social network for curated professional networking and oral history sharing",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Bay Area Times: data-driven daily news email with charts instead of narrative prose",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Tradie.com: online platform helping tradespeople build web presence and booking systems",
+      "who": "Guest (Dom)",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Jumbo Mail: direct mail marketing with oversized envelopes for higher open rates",
+      "who": "Sam",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "Nvidia stock driven by AI compute demand, fundamentals stronger than AI hype suggests"
+    },
+    {
+      "who": "Sam",
+      "text": "Air Chat will not become mainstream due to audio being too slow vs visual media"
+    },
+    {
+      "who": "Sam",
+      "text": "Bay Area Times could become $2-3M revenue profitable newsletter business"
+    }
+  ],
+  "disagreements": null,
+  "dynamics": "Sam and Shaan discuss business successes (Nvidia, Panda Express) and emerging platforms (Air Chat, Bay Area Times). Significant focus on Silicon Valley networking culture and psychedelics prevalence in tech circles. Critical analysis of failed companies (Fast.com, Tradie.com). Collaborative but Shaan more skeptical of audio-only social platforms.",
+  "frameworks": [
+    "The Gary Oldman principle: best performers are often invisible, not famous celebrities",
+    "B2B success invisibility: Nvidia 7th largest company yet unknown vs household names",
+    "Network density effects: 1998 Silicon Valley internet dinners birthed all major tech companies",
+    "Early wave capture: 36-48 months window to build during technological shifts",
+    "Panda Express playbook: efficiency plus innovation equals generational wealth building"
+  ],
+  "learnings": [
+    "GPU chips are foundational infrastructure nobody thinks about, like oil or electricity",
+    "Humility and failure disclosure builds trust better than hiding problems",
+    "Multi-generational family businesses can outperform by refusing IPO pressure for liquid wealth",
+    "Silicon Valley still outperforms distributed teams pre-product-market-fit due to serendipitous collisions",
+    "Legacy media narratives waste reader time; data-driven visual formats compress information better"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Jensen Wong",
+      "quote": "My will to survive is greater than almost anyone's will to kill me."
+    },
+    {
+      "who": "Sam",
+      "quote": "Every 14 years a new wave comes. You get 36-48 months max to build."
+    },
+    {
+      "who": "Sam",
+      "quote": "Nvidia is the Gary Oldman of tech: great, invisible, always delivering."
+    },
+    {
+      "who": "Andrew Cherng (Panda Express)",
+      "quote": "How to Win Friends and Influence People changed my life."
+    }
+  ],
+  "numbers_dropped": [
+    "Nvidia revenue: multi-billions, stock jumped 30% on guidance miss",
+    "Nvidia rank: 7th or 8th largest company in world",
+    "Nvidia founding: $2M raised at $6M valuation in 1993",
+    "Panda Express sales: $5.3B annually",
+    "Panda Express ownership: 2000+ stores, mostly non-franchised, family-owned",
+    "Panda Express EBITDA: ~$800M annually, approaching $1B",
+    "Orange chicken: 100M pounds sold annually",
+    "Psychedelics in SF dinners: 50% of conversation at three separate high-net-worth dinners",
+    "Fast.com burn rate: $3-10M per month before collapse",
+    "Air Chat early adoption: Nivi sharing AngelList origin story",
+    "Bay Area Times: 20,000 testers, targeting Morning Brew scale"
+  ],
+  "topics": ["nvidia", "chips", "panda-express", "family-business", "air-chat", "social-media", "bay-area", "psychedelics", "silicon-valley", "news-aggregation"],
+  "sponsor_read_count": 2,
+  "notable": "Deep dive on Nvidia as invisible infrastructure giant and Jensen Wong's philosophy; Panda Express as rare non-IPO family business approaching $1B EBITDA; warning signs of Tradie.com being likely scam with shell company testimonials."
+}

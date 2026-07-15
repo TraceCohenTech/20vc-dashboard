@@ -1,0 +1,38 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Ben Askren, Olympic wrestler and former UFC/Bellator/ONE champion turned investor and entrepreneur",
+  "approx_date": "Jul 2020",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "A course/teaching product on handling failure and competition psychology, drawn from his fight career", "who": "Guest", "conviction": "says he might build it"},
+    {"idea": "Rokfin: token-incentivized creator subscription platform he's involved with", "who": "Guest", "conviction": "serious"},
+    {"idea": "Expanding his chain of wrestling academies", "who": "Guest", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Guest", "text": "Independent creator platforms will keep pulling talent and audience away from legacy media gatekeepers"}
+  ],
+  "disagreements": "Ben is bullish on crypto-token creator economics; the hosts probe whether tiny platforms like Rokfin can ever bootstrap network effects, and whether most fighters can realistically transition to business.",
+  "dynamics": "The hosts mostly interview and let Ben talk; Shaan digs into the psychology of the 5-second knockout while Sam pushes on the business ventures. Ben is blunt, unbothered, and analytical about his own failures.",
+  "frameworks": [
+    "Three responses to failure: when you meet failure you dig in, change approach, or move on",
+    "Competing as a separate skill: performing under pressure is trainable, distinct from the core skill",
+    "Deliberate exposure: seek out high-pressure moments to build tolerance"
+  ],
+  "learnings": [
+    "Processing a public humiliation analytically instead of emotionally is what lets elite competitors continue",
+    "Fighter economics are brutal at the bottom — fame vastly exceeds pay for most of the roster",
+    "An athlete's distribution (audience and credibility) is the real asset to build businesses on"
+  ],
+  "banger_quotes": [
+    {"who": "Guest", "quote": "When you meet failure, there's really three things that you can do"},
+    {"who": "Guest", "quote": "You need to put yourself in as many as high pressure moments"}
+  ],
+  "numbers_dropped": [
+    "Ben's MMA record: 19 wins, 2 losses across 21 fights",
+    "Rokfin cited at only ~3,500 subscribers at recording",
+    "Low-end UFC pay: ~$10K to show plus ~$10K to win per fight"
+  ],
+  "topics": ["ben askren", "ufc", "failure", "sports psychology", "creator economy", "crypto"],
+  "sponsor_read_count": 0,
+  "notable": "Ben dissects being knocked out in 5 seconds by Jorge Masvidal — the fastest KO in UFC history — with total detachment."
+}

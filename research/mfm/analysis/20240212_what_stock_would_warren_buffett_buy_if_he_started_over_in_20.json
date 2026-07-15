@@ -1,0 +1,95 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Feb 2024",
+  "format": "frameworks/advice",
+  "business_ideas": [],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "TKO (UFC/WWE merger) will trade at 14x EBITDA despite Vince/Dana risks; media rights deals could double revenue"
+    },
+    {
+      "who": "Shaan",
+      "text": "Ferrari stock overvalued at 55x PE ratio; brand moat + luxury margin stay strong but downside risk high"
+    },
+    {
+      "who": "Sam",
+      "text": "If forced to choose between TKO and Ferrari, would pick Ferrari despite higher upside in TKO"
+    }
+  ],
+  "disagreements": "Sam bullish on TKO monopoly + founder (Dana) track record; Shaan prefers Ferrari brand moat but questions stock valuation. Sam sees monopoly value, Shaan skeptical post-hype.",
+  "dynamics": "First \"Stock of Paloa\" episode (new recurring format). Structured 20-minute pitches with slides (YouTube version). Sam uses Buffett framework (understandability, moat, management, margin of safety, financials); Shaan uses narrative/brand framework (Lindy effect, heritage, luxury margins). Both riff on risks (litigation, founder personality). Good collaborative tension; neither fully convinced by other's thesis.",
+  "frameworks": [
+    "Warren Buffett stock criteria: understandability, economic moat, competent management, margin of safety, strong financials",
+    "From cigarette butts to brands: Buffett evolved from cheap stocks → brand companies (Coke, AmEx) after Charlie Munger influence",
+    "Monopoly valuation: truly defensible, 95%+ market share (UFC/WWE vs Bellator, AEW), worth premium multiple despite risks",
+    "Lindy effect: things that survive long will survive longer; Ferrari 70+ years = probable 50+ more years",
+    "Luxury margins: Ferrari $100K profit/unit vs Tesla $6.7K vs Ford 67 units to match Ferrari's profit per car",
+    "Selectivity as brand: waitlist, customer bans (Justin Bieber, pink car lawsuit $350K), bounty program for non-compliance",
+    "Founder-dependent risk: Dana White (UFC), Enzo Ferrari (founder; deceased), Vince McMahon (founder; legal issues)",
+    "Global expansion moats: UFC untapped in Africa/India/China, WWE dominates social (39M followers vs NFL's 29M)"
+  ],
+  "learnings": [
+    "Monopolies rare in business; TKO truly has 95%+ market share in combat sports (Bellator, AEW failed)",
+    "Founder personality matters: Dana's 'insanity' and anti-fragility (COVID→Fight Island) both strength and legal risk",
+    "Sports economics differ from leagues: fighters paid 15-17% of revenue (vs NFL/NBA's 50%+) creates lawsuit risk",
+    "Live sports unique moat: can't be disrupted by AI, must be watched live (ads unavoidable), consistent demand",
+    "Luxury brand defensibility: Heritage + exclusivity + high margins > volume. Ferrari refuses to grow production",
+    "Cultural aspirational power: Ferrari trademarked their red; no competitor can use it; top 15 most expensive cars ever sold mostly Ferrari",
+    "Brand discipline pays: Enzo refused $50K cars (mercenary) to stay luxury missionary; paid off with $72B valuation",
+    "Valuation risk: Ferrari at 55x PE is expensive; TKO at 14x EBITDA has debt risks; both require faith in story"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Sam",
+      "quote": "You can't use AI to make two guys fight in a ring; UFC is AI-proof"
+    },
+    {
+      "who": "Shaan",
+      "quote": "Ferrari has been around 70 years; Lindy effect says it'll be around 70 more"
+    },
+    {
+      "who": "Sam",
+      "quote": "Dana White is insane in a good way but there's liability in that"
+    },
+    {
+      "who": "Shaan",
+      "quote": "You don't choose Ferrari; Ferrari chooses you"
+    },
+    {
+      "who": "Shaan",
+      "quote": "Italians wouldn't do affiliate marketing; they're the luxury brand of ethnicities"
+    }
+  ],
+  "numbers_dropped": [
+    "TKO combined EBITDA: $1B annually",
+    "TKO current market cap: $14-15B (at 14x EBITDA)",
+    "TKO merged valuation expectation: $20B, currently trading: $14B (15% discount from merger)",
+    "UFC sale price (2016): $4.2B",
+    "Bellator (UFC competitor) sold for: $100M (80% less than UFC's sale)",
+    "UFC fighter compensation: 15-17% of revenue (vs NFL/NBA 50%+)",
+    "Francis Ngannou (heavyweight champion) salary per fight: ~$600K",
+    "UFC annual growth rate: 20%",
+    "UFC followers on Instagram: 39M (vs NFL 29M)",
+    "WWE+ Netflix deal: $5B for 10 years ($500M/year)",
+    "WWE/UFC current media rights coming up: potential to double",
+    "Ferrari 2023 revenue: $6.5B",
+    "Ferrari 2023 net profit: $1.3B (EBITDA margin ~35%)",
+    "Ferrari market cap: $72B (Friday news bump)",
+    "Ferrari units sold per year: 13K (vs Honda 1.2M)",
+    "Ferrari profit per unit: $100K+ (vs Tesla $6.7K, vs Ford 67 units needed)",
+    "Ferrari PE ratio: 55x (at time of episode)",
+    "Ferrari annual growth rate: 23% (revenue), 30% (stock since 2018 IPO)",
+    "Ferrari merchandise revenue: $700M (~$1B total, 7% of revenue)",
+    "Ferrari base hat price: $180-600",
+    "Ferrari pink car lawsuit (celebrity): $350K settlement",
+    "Most expensive cars ever sold: 11 of top 15 are Ferrari",
+    "Porsche/Mercedes/BMW/Volkswagen market cap: all less than Ferrari's $72B",
+    "S&P 500 10-year annual return: 10.5% (2.7x over decade)",
+    "Target stock pick multiple: 5x return in 10 years (vs index 2.7x)"
+  ],
+  "topics": ["stock picking", "buffett", "ufc", "wwe", "tko", "ferrari", "luxury brands", "monopoly", "sports", "investing", "business moats"],
+  "sponsor_read_count": 1,
+  "notable": "First \"Stock of Paloa\" episode (new recurring format where hosts pick stocks with 20-minute pitches). Sam backs TKO using Buffett framework; Shaan backs Ferrari using luxury brand/Lindy narrative. Both vote for Ferrari if forced to choose, despite Sam pitching TKO (risk vs safety trade-off). Neither convinced by stock valuations but impressed by business models. Episode highlights tension between founder-dependent moats (Dana, Enzo) and brand moats. Shaan refuses to discuss Italian accent after weak attempt."
+}

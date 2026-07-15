@@ -1,0 +1,42 @@
+{
+  "hosts": ["Sam Parr"],
+  "guest": null,
+  "approx_date": "Mar 2020",
+  "format": "frameworks/advice",
+  "business_ideas": [],
+  "predictions": [
+    {"who": "Sam", "text": "Recession is coming; foundational skills matter more than business tactics in uncertain times"}
+  ],
+  "disagreements": null,
+  "dynamics": "Solo episode: Sam records alone from studio (Shaan absent due to COVID-19 family concerns). Tone is introspective and serious—Sam explicitly avoids typical business cheerleading to focus on depth during uncertain moment. Rambling, personal delivery with stories (childhood straw incident, meeting wife, motorcycle negotiation) grounding abstract frameworks.",
+  "frameworks": [
+    "Controlling emotions: therapy + CEO coaching + studying childhood trauma (The Body Keeps the Score)",
+    "Copywriting: AIDA framework (Attention, Interest, Desire, Action); copywork (hand-copying great writing to internalize patterns)",
+    "Starting vs Managing: two different skillsets; most founders excel at one, not both; delegation/COO is critical (Ted Turner + Reese model)",
+    "Influence/Persuasion: foot-in-the-door technique, reciprocity principle (small favors enable bigger asks), Pavlovian psychology"
+  ],
+  "learnings": [
+    "Emotional control is foundational for business success—more important than intellect for most startups",
+    "Childhood trauma and upbringing shape adult risk tolerance, trust patterns, and reactions; therapy uncovers these drivers",
+    "Copywriting is the highest-ROI skill for business: selling products, recruiting talent, meeting partners, pitching ideas",
+    "Starting a business and managing a scaling business require opposite mindsets: creative/irrational vs systematic/structured",
+    "Successful founders often need a COO/President co-founder to handle day-to-day; this is not weakness but strategic fit",
+    "Influence is learnable through psychological principles (reciprocity, consistency, liking); small touches compound to large persuasion effects",
+    "Worst-case scenario planning (and protecting downside) reduces emotional volatility and enables clear decision-making"
+  ],
+  "banger_quotes": [
+    {"who": "Sam", "quote": "This is not an intellectual game. This is an emotional game."},
+    {"who": "Sam", "quote": "I am a B copywriter. Until the day I die, I will never be homeless."},
+    {"who": "Sam", "quote": "The skill sets you need to start are often opposite of what it takes to run."}
+  ],
+  "numbers_dropped": [
+    "Sam paid for therapy every week for ~10 years",
+    "Sam spent 6 months doing copywork (2-3 hours/day) hand-copying 100 best sales letters at age 22",
+    "Ted Turner started CNN but hired Reese to run day-to-day operations",
+    "Sam negotiated motorcycle from $3,000 to $2,200 using Coke reciprocity technique",
+    "Copywriting course (Neville Medora) costs ~$100-200 with $50 off referral link"
+  ],
+  "topics": ["recession-proof", "entrepreneurship", "emotional-intelligence", "copywriting", "management", "influence", "skill-building"],
+  "sponsor_read_count": 0,
+  "notable": "Solo episode recorded during early COVID-19 lockdown (March 15, 2020). Sam deliberately avoids typical startup cheerleading to focus on deeper, more foundational skillsets. Highly personal—uses childhood trauma (straw story), relationship (meeting wife), and real negotiation (motorcycle) as teaching examples. References therapy and CEO coaching as business tools, normalizing mental health investment. This marks a thematic shift toward depth over volume during uncertainty."
+}

@@ -1,0 +1,57 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Andrew Wilkinson, founder of Tiny (holding company for internet businesses)",
+  "approx_date": "Dec 2020",
+  "format": "mixed",
+  "business_ideas": [
+    {"idea": "Hyper-local city newsletters replacing local newspapers (Capital Daily model)", "who": "Guest", "conviction": "serious"},
+    {"idea": "Passive always-on AirPods walkie-talkie chat with friends (Nextel-style)", "who": "Guest", "conviction": "throwaway"},
+    {"idea": "Buy failed/shut-down VC-backed startups' code and customer base cheaply and resell to an influencer's existing audience", "who": "Sam", "conviction": "serious"},
+    {"idea": "Live video selling / livestream shopping with real-time sales agents for e-commerce", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Dog VR / 'Oculus for dogs' entertainment device", "who": "Guest", "conviction": "throwaway"},
+    {"idea": "Roll up cheap Amazon FBA businesses into a diversified portfolio (Thrasio model)", "who": "Guest", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "Bitcoin is his best bet for 2021 and will keep rising over a 5-7 year horizon."},
+    {"who": "Guest", "text": "Sonos will be acquired by Amazon and become irrelevant as built-in speakers proliferate."},
+    {"who": "Sam", "text": "No one will care about COVID in a year; it will be forgotten like 9/11 changes were."},
+    {"who": "Sam", "text": "A Beeple-style NFT digital art piece's value bet will be tested over a 10-year LongBet wager."},
+    {"who": "Sam", "text": "Trucking will face a driver shortage in 2021 before eventual disruption from self-driving trucks."},
+    {"who": "Guest", "text": "Fast (checkout startup) will fail because e-commerce platforms will build fast checkout natively."},
+    {"who": "Guest", "text": "Digital art/NFTs are overhyped and will not hold lasting value."}
+  ],
+  "disagreements": "Shaan and the guest clash over remote work: Shaan argues co-located startups have a competitive edge in speed and culture, while Andrew (fully remote for 15 years) argues remote unlocks global talent and shouldn't be dismissed. They also gently disagree on Tai Lopez, with Sam defending him as entertaining despite red flags the others call out more harshly.",
+  "dynamics": "This is a scripted, prepared end-of-year 'Millies' awards format (a structural departure from the usual freeform episode), with Sam moderating through categories and all three participants giving rapid individual answers. Energy is high and celebratory; Andrew serves as a grounding, data-driven voice on business/investing while Sam and Shaan riff more on personal lifestyle and banter.",
+  "frameworks": ["waiver and release (M&A structure that avoids formal stock/asset deal but is taxed as ordinary income)", "input vs. output metrics (Amazon-style tracking of controllable actions like workouts, not just results)", "'sell pickaxes to gold miners' investing thesis (bet on infrastructure/platforms, not speculative assets)"],
+  "learnings": [
+    "Extremely private, low-profile operators (like Mark Leonard of Constellation Software) can quietly build multi-billion dollar fortunes by rolling up boring, low-competition, high-switching-cost software niches.",
+    "Businesses acquired cheaply via non-traditional legal structures (like a waiver and release) can end up taxed less favorably than standard stock or asset deals.",
+    "Winning ideas discussed casually on a podcast months earlier sometimes get built by listeners or acted on by others, showing the value of publicly sharing business observations.",
+    "Personal habits (breathing technique, tracking workout inputs, small daily rituals with a spouse) compound similarly to business habits and are worth designing deliberately.",
+    "Diversifying into many low-quality assets (like cheap Amazon FBA rollups) doesn't eliminate underlying quality problems -- a portfolio of weak businesses is still weak."
+  ],
+  "banger_quotes": [
+    {"who": "Guest", "quote": "If you put raisins with turds, you've still got turds."},
+    {"who": "Sam", "quote": "Picking up pennies in front of a steamroller."},
+    {"who": "Shaan", "quote": "I believe I'm more likely going to make 10x plus."},
+    {"who": "Guest", "quote": "I think it's like saying 50 years ago we didn't hire women."}
+  ],
+  "numbers_dropped": [
+    "Chuck Feeney gave away his entire ~$10-20 billion fortune, keeping only $1 million and an apartment",
+    "Mark Leonard of Constellation Software worth $1.9 billion",
+    "Elon Musk's net worth grew from ~$30 billion to ~$170 billion in 2020",
+    "MacKenzie Scott gave away roughly $12 billion in 2020",
+    "Michael Saylor made ~$500 million profit on MicroStrategy's Bitcoin bet",
+    "Dan Gilbert's net worth jumped from ~$7 billion to $47 billion after Rocket Mortgage IPO",
+    "Calendly reached ~$70 million ARR, bootstrapped, worth over $1 billion",
+    "Andrew's e-commerce company sold for $7M in 2013, bought back for ~$26M, later valued over $1 billion at IPO (his $10M turned into $220M)",
+    "Airbnb IPO valuation reached ~$93 billion after a March 2020 dip to roughly $10-18 billion",
+    "Shaan's Bitcoin position bought at ~$18,000/coin, now at ~$27,000 (about 4x in 2020)",
+    "Andrew and his partner turned a $500K S&P put options bet into $5 million, then lost it doubling down",
+    "Shaan sold Tesla stock at $278/share after buying at $100/share, missing a ~30x run",
+    "Beeple sold ~$3.5 million of digital art (NFTs) in one day"
+  ],
+  "topics": ["2020 year in review", "investing/predictions", "bitcoin/crypto", "e-commerce trends", "remote work debate", "personal habits/lifestyle", "acquisitions"],
+  "sponsor_read_count": 0,
+  "notable": "This is a fully scripted, prepared 'end of year awards show' format (The Millies) unlike the usual freeform episode, running roughly double the normal length with dozens of rapid-fire award categories."
+}

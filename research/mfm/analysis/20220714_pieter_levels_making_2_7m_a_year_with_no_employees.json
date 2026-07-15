@@ -1,0 +1,49 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Dharmesh Shah, HubSpot CTO/Co-founder",
+  "approx_date": "Jul 2022",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "Wordplay.com - unlimited competitive word game with daily challenges", "who": "Dharmesh", "conviction": "serious"},
+    {"idea": "Marketing/sales variant of Wordplay targeting companies", "who": "Dharmesh", "conviction": "throwaway"},
+    {"idea": "Play-to-earn cryptocurrency word game with matic rewards", "who": "Shaan", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Dharmesh", "text": "Wordplay could potentially sell for $2-10 million if monetized; chess.com offers comparable TAM model"},
+    {"who": "Sam", "text": "Next 1-3 years the podcast alone could be worth more than the acquisition deal itself"}
+  ],
+  "disagreements": null,
+  "dynamics": "Dharmesh drives with product thinking and specific frameworks; Sam and Shaan riff on applications and broader implications. Conversational and warm—established relationship between founders. Dharmesh animated about wordplay mechanics and education philosophy with his 11-year-old son.",
+  "frameworks": [
+    "Trillion dollar Venn diagram—intersection of rare skills converted to monetizable business is where magic happens",
+    "Hiring diamonds in the rough vs press release hires—early-stage companies need high-wattage people with action bias",
+    "Remarkable/remarkable people—culture value of hiring people with unusual track records or obsessions",
+    "Degree of freedom formula—measure employees on three vectors: creatives (starters), completers, collaborators"
+  ],
+  "learnings": [
+    "Recession or market timing matters far less than building real customer value—distribution and product fit are constants",
+    "Talent becomes available in downturns; compete for smart people by offering learning, mentorship, and equity upside",
+    "Valuing time at your hourly rate (e.g., $10k/hour) forces ruthless prioritization—delegate below that line",
+    "Wordplay success came from shipping in 24 hours with son as end user rather than overthinking",
+    "Removing friction from user acquisition (share links, social virality) compounds adoption faster than ad spend",
+    "Building personal projects 'for learning' while having massive platform generates genuine product insights",
+    "HubSpot early culture: hire smart people who get stuff done, not prestigious resume carriers"
+  ],
+  "banger_quotes": [
+    {"who": "Dharmesh", "quote": "I want to get as close to living in the matrix as possible"},
+    {"who": "Dharmesh", "quote": "My skill has been finding diamonds in the rough"},
+    {"who": "Dharmesh", "quote": "Don't be a press release hire—we want people worthy of dismissal"},
+    {"who": "Sam", "quote": "Marshallow challenge teaches shipping beats perfection faster"}
+  ],
+  "numbers_dropped": [
+    "Wordplay: 9.5M unique players, 45M total games played",
+    "Wordplay: average user spends 4 minutes on first week, now 14 minutes (tracked via GA)",
+    "Wordplay: estimated $90k/month potential revenue via Google Adsense if ads enabled",
+    "HubSpot: 130k+ customers, 7,000+ employees, ~$20B+ market cap at time of recording",
+    "HubSpot early hires: 7 of first 8 from MIT Sloan at $5k/month salary each",
+    "Dharmesh angel investments: ~100 deals, 80-90% never meeting founders, decisions within 24 hours"
+  ],
+  "topics": ["hubspot", "wordplay", "games", "hiring", "culture", "solopreneur", "acquisition", "business model", "education", "cryptocurrency"],
+  "sponsor_read_count": 1,
+  "notable": "Rare candid founder discussion of HubSpot acquisition experience, personal projects as education tools, and hiring philosophy that became playbook for other founders—interweaving multiple successful playbooks into one episode"
+}

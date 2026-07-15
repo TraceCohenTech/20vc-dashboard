@@ -1,0 +1,65 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "MrBeast (Jimmy Donaldson), creator, entrepreneur, chocolate mogul",
+  "approx_date": "Feb 2025",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "Feastables: ethical chocolate company paying farmers living income (100% fair trade, child-labor audits)", "who": "Jimmy", "conviction": "serious"},
+    {"idea": "Rule of 100: make 100 videos/iterations improving ONE thing each time before asking for advice", "who": "Jimmy", "conviction": "serious"},
+    {"idea": "Idea brainstorm via random-word generation: find $10k viral idea in 30 seconds (grandmother → bucket-list video)", "who": "Jimmy", "conviction": "serious"},
+    {"idea": "Potential TikTok buyout: group of billionaires positioning Jimmy as face/strategic lead", "who": "Jimmy", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Jimmy", "text": "Feastables will become the world's largest ethically-sourced chocolate company at $1B+ annual revenue"},
+    {"who": "Jimmy", "text": "If TikTok divests, ownership group involving Jimmy will acquire it successfully"}
+  ],
+  "disagreements": "None notable between hosts and guest; alignment throughout. Minor tension: Sam plays skeptical investor; Jimmy stays confident in impossibility mindset.",
+  "dynamics": "Jimmy dominates with storytelling and execution obsession. Sam poses frameworks questions (burn boats, rule of 100, cloning, consulting). Shaan focuses on founder psychology and personal brand building. Energy is high, playful, occasionally deep. Multiple segments: fake college story, viral-idea game, MrBeast playbook rules (9 of them), chocolate ethics deep-dive. Tangents on Seinfeld's 45-year joke-writing grind, Elon's rocket-on-backroads problem-solving, Warren Buffett's cloning story.",
+  "frameworks": [
+    "Burn the boats: cut off retreat options; force six-month deadline to make $20k or face homelessness (Jimmy's path)",
+    "Rule of 100: before asking for advice, iterate 100 times improving ONE variable each time; most don't execute",
+    "Making anything viral: structure + ideation, not budget; $1k buried-alive ≠ $1k bathtub (same effort, 50x return difference)",
+    "Cloning: never work alone; have someone on hip learning every task; build backup versions of yourself",
+    "Impossible is possible: reframe 'can't do it' as 'what's the cost/problem?'; physics only law, everything else negotiable",
+    "No doesn't mean no: persist past initial refusals; call founders, call influencers, call presidents (Taj Mahal example)",
+    "Consultants are cheat codes: expert reduces years of learning to weeks; call random high-caliber people on walks, say 'teach me something'",
+    "Block out the noise: people bully you for obsession until it works; then admire same traits; surround yourself with right people",
+    "Reinvest everything: Walt Disney compulsion to never keep profits; all cash → next project (Roy Disney constantly frustrated)",
+    "Obsession focus: most people struggle with 100 things; Jimmy excels at one thing obsessed daily for 10 years"
+  ],
+  "learnings": [
+    "First 100 videos likely won't get views; iteration + improvement mentality beats talent alone",
+    "Thumbnail/editing/script/pacing all improvable separately; no perfect video exists, only degrees of better",
+    "Most people ask for advice before 100 iterations done; that 1% who complete it usually don't need advice",
+    "10,000-hour rule underestimates; should be 100,000 hours; Seinfeld logged 30,000+ hours in 45 years",
+    "Execution beats ideation for 99% of people; ideas are cheap; shipping with obsession is rare",
+    "Consultant leverage: asking right questions (not giving answers) compresses learning curves",
+    "Viral ≠ budget; research, ideation, structure matter more than spend; buried-alive vs bathtub same effort",
+    "Personnel quality > structure; hire people who wake up when problem gets hard (not people who clock out)",
+    "Environment shapes discipline: surrounded by jacked people → jacking up natural; surrounded by pizza-orders → default entropy",
+    "Reinvestment compounds faster than distribution: $10k brand deal → $10k video → $20k revenue → $20k video → exponential",
+    "Ethical chocolate as business moat: while competitors ignore child labor, Jimmy builds category leadership via ethics"
+  ],
+  "banger_quotes": [
+    {"who": "Jimmy", "quote": "Everything you guys have been flattering me with, I got bullied for in high school."},
+    {"who": "Jimmy", "quote": "Before you come ask me for advice, have you made 100 videos? No? Then shut up."},
+    {"who": "Jimmy", "quote": "Physics are the only laws. Everything else is a suggestion."},
+    {"who": "Jimmy", "quote": "If Seinfeld can lock himself in a room writing jokes 45 years, what's your excuse?"},
+    {"who": "Jimmy", "quote": "Impossible is possible. Just tell me the cost. What's the problem?"},
+    {"who": "Sam", "quote": "The same people who bully you for obsession admire you for it when you win."}
+  ],
+  "numbers_dropped": [
+    "Rule of 100 validation: Jimmy's 100th video had 730 subscribers (most from Xbox LIVE chat begging)",
+    "First YouTube payday: $20k in a month (allowed him to move out at deadline)",
+    "Community college deception period: ~6 months of fake attendance",
+    "Feastables farmer payment: living income reference price (varies by region, e.g., $1100→$1300 mandatory)",
+    "Cocoa labor: 46% of West Africa labor is illegal child labor in chocolate industry",
+    "Weight loss progress: 240 lbs → 215-220 lbs (year 1) → 190 lbs (year 2)",
+    "Gym commitment: 45 min × 5 days/week (easy part); nutrition discipline is hard part",
+    "Video budget scale: $10k brand deal → $100k+ single video budgets (first to ever spend $1M+ on YouTube video)",
+    "Walgreens/Walmart store count: 25 Walmart visits in one day (DC to NC drive, restocking manually)"
+  ],
+  "topics": ["entrepreneurship", "execution", "viral-content", "business-scaling", "ethics", "obsession", "chocolate"],
+  "sponsor_read_count": 1,
+  "notable": "Jimmy unusual as billionaire still running operations (not delegating ideation); attributes success to relentless obsession + environment curation + consultant leverage. Feastables ethical sourcing as secondary mission equal to YouTube. Teases potential TikTok acquisition involvement (35+ billionaires interested post-tweet). Embodies 'impossible is possible' mindset consistently across multiple business verticals."
+}

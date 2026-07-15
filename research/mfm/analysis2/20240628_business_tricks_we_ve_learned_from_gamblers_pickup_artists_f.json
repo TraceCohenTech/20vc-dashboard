@@ -1,0 +1,40 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Jun 2024",
+  "format": "story-breakdown",
+  "business_ideas": [],
+  "predictions": [],
+  "disagreements": "Sam and Shaan mildly disagree on how attainable 'follow your curiosity' living is: Shaan argues it's a mindset anyone can filter for, while Sam pushes back that it's a privileged luxury that's much harder for, e.g., a 40-year-old blue-collar worker with three kids and no free time.",
+  "dynamics": "Two-host, no-guest storytelling episode: Sam leads with a long biographical narrative about Ed Thorp (blackjack/roulette/quant investing pioneer), then both riff on connected themes (curiosity-driven living, belief-driven action, viral 'simultaneous discovery' phenomena). Shaan closes with a personal anecdote about a failed college blackjack-counting scheme. Energy is high, riffing and tangential, structured as one long story plus a 'Thrill of the Shill' sponsor segment and a closing personal story rather than segmented categories.",
+  "frameworks": [
+    "Thorp-Shannon principle: pair a counter (tracking odds) with a bettor/actor to exploit an edge without detection, applied metaphorically to teamwork",
+    "The law of category (from '22 Immutable Laws of Marketing'): better to create/own a new category than compete within an existing one",
+    "Virtuous cycle of belief: belief drives action, action drives results, results reinforce belief — and the inverse (vicious cycle) for low belief",
+    "MFM Paradox: merely knowing someone else solved a problem (without knowing how) measurably raises your own odds of solving it",
+    "Leverage beats edge: even a strong statistical edge can be destroyed by an opponent's leverage (e.g., threatening to call the cops on an illegal casino)"
+  ],
+  "learnings": [
+    "Believing something is achievable is a prerequisite for the sustained action needed to actually achieve it — most people who never even try haven't failed, they've simply never believed there was a way to win.",
+    "Doing something purely because the doing itself is rewarding, rather than for a deferred payoff, tends to produce both better results and a happier process, though it's easier to pursue when you already have some financial security.",
+    "Independent teams often converge on the same breakthrough shortly after one team proves it's possible — the psychological unlocking of 'it can be done' matters more than the specific technique.",
+    "Building a brand-new category (rather than competing in an existing one) creates automatic differentiation and lets a business win with less marketing effort.",
+    "Systems that look bulletproof on paper (card counting, running an underground casino) can collapse due to real-world execution failure or overlooked structural risks like extortion/leverage."
+  ],
+  "banger_quotes": [
+    {"who": "Sam", "quote": "The great thing about the hint is that you can always give this to yourself."},
+    {"who": "Shaan", "quote": "You'd rather own a category than participate in one."},
+    {"who": "Sam", "quote": "Leverage is more important than an edge."},
+    {"who": "Shaan", "quote": "I want my life to be described as one of privilege."}
+  ],
+  "numbers_dropped": [
+    "Ed Thorp made ~$800 million running one of the first hedge funds over ~30 years at 20-25% annual returns",
+    "Ed Thorp and mob associate Manny made $1,000 profit on a Vegas blackjack weekend backed by $10,000 (worth ~$80,000 then)",
+    "Jack Smith sold Vungle, a mobile ad-tech company, for ~$700-750 million at age 29",
+    "A friend's marketing channel breakthrough generated $30,000 in revenue over one weekend after hearing a competitor was succeeding there",
+    "Shaan and college friends lost their full ~$1,000 casino stake in two hands attempting card counting; a separate underground casino scheme was shut down after losing $800 to a friend who threatened to call police"
+  ],
+  "topics": ["ed thorp", "card counting", "curiosity-driven work", "belief and action", "marketing category creation", "personal storytelling"],
+  "sponsor_read_count": 3,
+  "notable": "Episode is built around one extended biographical narrative (Ed Thorp) rather than the show's usual guest interview or multi-segment structure, closing with a personal, self-deprecating story of Shaan's own failed college blackjack-counting and underground-casino schemes."
+}

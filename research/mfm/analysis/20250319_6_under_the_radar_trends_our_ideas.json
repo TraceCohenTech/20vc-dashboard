@@ -1,0 +1,100 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Mar 2025",
+  "format": "news-reaction",
+  "business_ideas": [
+    {
+      "idea": "Short-form drama app competitor to Chinese apps (Drama Box, Real Short) doing $150-315M/year",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Lower-cost rucking brand to undercut GoRuck's $450 backpacks; Walmart-tier weighted fitness gear",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Plastic-free clothing, homeware, baby products brand capitalizing on microplastics fear",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Nervous system reset/wellness retreat or service (similar to Hampton's offering)",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "AI-powered biohacking for crop improvement (like David Friedberg's Hollow platform)",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "AI music generation platform (Spotify for AI-generated music, with NFT ownership model)",
+      "who": "Shaan",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "If you watch this episode 2 years from now, a lot of these trends will be proven right"
+    },
+    {
+      "who": "Shaan",
+      "text": "Next breakout social app will be based on AI-generated content, not human content"
+    },
+    {
+      "who": "Shaan",
+      "text": "AI music generation will become mainstream; people will prefer AI curators to choosing what to follow"
+    },
+    {
+      "who": "Sam",
+      "text": "AI Post Malone and real Post Malone songs will be indistinguishable to most listeners"
+    }
+  ],
+  "disagreements": null,
+  "dynamics": "Shaan drives the research and trend identification with forward-thinking analysis. Sam adds enthusiasm, personal anecdotes, and validation of ideas. Shaan is analytical and pattern-focused; Sam is the cheerleader who connects trends to culture and lived experience. Episode structure: Shaan presents 6 macro trends with Sam reacting and expanding on implications.",
+  "frameworks": [
+    "Riches are in the niches: money is made by early adopters of genuine trends",
+    "S-curve adoption: what nerds do on weekends we all do in 10 years; cultural trends follow similar patterns",
+    "TikTok's real innovation was AI-curated feeds, not short-form video—all social platforms have copied the For You Page",
+    "Accessible good-enough beats premium: Echelon copied Peloton at half price and dominates at Costco",
+    "Market pull vs market push: sell cold water on hot days; match products to existing demand"
+  ],
+  "learnings": [
+    "True innovation in social media comes from changing how content is surfaced to users, not the format itself",
+    "Riding genuine market waves is more reliable than founder genius for scaling businesses",
+    "Trends often start small and weird (health hacks, Pakistani dramas) before going mainstream",
+    "Skepticism about a trend and its validity can coexist—personal experience and faith don't require full understanding",
+    "Premium products capture attention but mass-market accessible options capture the profits"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Shaan",
+      "quote": "You're selling cold water on a hot day. That's what I want to do."
+    },
+    {
+      "who": "Shaan",
+      "quote": "The most important thing is finding the right wave to surf."
+    },
+    {
+      "who": "Shaan",
+      "quote": "Jumping on trends early is the way to make a lot of money."
+    },
+    {
+      "who": "Sam",
+      "quote": "The riches are in these niches if you actually pursue them."
+    }
+  ],
+  "numbers_dropped": [
+    "Short-form drama apps: top 4 Chinese apps doing $150M, $160M, $275M, $315M annually",
+    "Go Ruck revenue: $50M+ per year; announced $46M last year",
+    "Golden Age Hip Hop YouTube: 730K subscribers, top video 11M views, songs get 8-10M streams",
+    "Lil Miquela (AI influencer): estimated $10M+/year now (was $800K in 2020)",
+    "Shaan's paid ads experience: $40-50M in paid ads run historically"
+  ],
+  "topics": ["trends", "business-opportunities", "fitness", "ai-content", "social-media", "early-adoption", "plastic-free", "wellness", "market-dynamics"],
+  "sponsor_read_count": 1,
+  "notable": "Trend-identification/thought-leadership episode rather than guest interview. Shaan positions himself as a trend analyst watching for pre-mainstream opportunities. Heavy emphasis on timing and early adoption as business strategy."
+}

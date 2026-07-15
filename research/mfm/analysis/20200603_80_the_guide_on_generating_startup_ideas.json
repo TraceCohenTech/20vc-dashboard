@@ -1,0 +1,36 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Jun 2020",
+  "format": "frameworks/advice",
+  "business_ideas": [
+    {"idea": "Mo Points: course/service teaching businesses to farm credit-card points and airline miles on their spend", "who": "Shaan", "conviction": "says he might build it"},
+    {"idea": "Foundation-in-a-box for athletes and high earners: charitable foundations with tax advantages", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Stripe Atlas for nonprofits: one-click incorporation and setup of a foundation", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Riffs off Levels-style continuous glucose monitoring as a consumer health category", "who": "Both", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "Idea generation is a compounding skill — people who practice it systematically will out-earn those waiting for lightning"}
+  ],
+  "disagreements": "Sam questions whether courses are a scalable, durable business model given low completion rates; Shaan defends them as high-margin wedges into bigger products.",
+  "dynamics": "Meta episode: Shaan teaches how he generates ideas, using live examples; Sam plays the skeptic checking each for real demand and business model. More structured and pedagogical than their usual riffing.",
+  "frameworks": [
+    "Idea flux (from Sam Altman's Idea Generation essay): surround yourself with high-idea-throughput people",
+    "Reverse engineering: take a proven model elsewhere and port it to a new niche",
+    "Unbundling: carve one valuable function out of a big institution and sell it standalone"
+  ],
+  "learnings": [
+    "Treating ideation as a trainable habit, not inspiration, is the episode's core claim",
+    "Tax and structure arbitrage (foundations, points) is an underexplored product space for high earners",
+    "Courses work best as a wedge or lead-gen, not the terminal business, because completion is low"
+  ],
+  "banger_quotes": [
+    {"who": "Shaan", "quote": "They have high idea flux, which is pretty good for our podcast"}
+  ],
+  "numbers_dropped": [
+    "Mo Points-style optimization pitched as worth six figures a year in value on business spend"
+  ],
+  "topics": ["idea generation", "sam altman", "mo points", "foundations", "stripe atlas", "courses"],
+  "sponsor_read_count": 0,
+  "notable": "Whole episode is built around Sam Altman's 'Idea Generation' essay, turned into a practical how-to."
+}

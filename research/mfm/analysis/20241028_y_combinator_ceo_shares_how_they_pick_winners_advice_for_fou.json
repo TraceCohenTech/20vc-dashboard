@@ -1,0 +1,48 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Garry Tan, CEO of Y Combinator",
+  "approx_date": "Oct 2024",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "LLM-powered automation replacing office workers and call centers", "who": "Garry", "conviction": "serious"},
+    {"idea": "Workflow and eval testing for AI agents and language models", "who": "Garry", "conviction": "serious"},
+    {"idea": "Personal brand and audience building as business moat", "who": "Garry", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Garry", "text": "Large language models will create thousands of 100M-1B companies in next 2 years"},
+    {"who": "Garry", "text": "AI will enable 20-person companies to generate billions in revenue"},
+    {"who": "Garry", "text": "Corporate incumbents unprepared for disruption from agile AI startups"}
+  ],
+  "disagreements": null,
+  "dynamics": "Garry discusses YC selection philosophy, AI implications, and founder characteristics. Sam and Shaan ask probing questions about prediction models, AI limits, and business building strategies.",
+  "frameworks": [
+    "Learn to cook loser - high agency approach to learning and problem solving",
+    "Make something people want - core YC philosophy transcends all eras",
+    "Bias to action - testing with users beats theorizing",
+    "Capital as a service - potential future model where data drives automated lending"
+  ],
+  "learnings": [
+    "YC's simplicity (10-min interviews, 7% equity) outperforms complex processes",
+    "Most successful founders are highly technical with strong work ethic and earnestness",
+    "AI will commoditize knowledge work, shifting value to execution and distribution",
+    "Personal brand and audience built through authentic communication drives startup success",
+    "Regulatory compliance software and automation of knowledge work have huge TAM"
+  ],
+  "banger_quotes": [
+    {"who": "Garry", "quote": "Learn to cook, loser - high agency approach to living"},
+    {"who": "Garry", "quote": "Simple things work - process complexity doesn't predict better outcomes"},
+    {"who": "Garry", "quote": "We're creating a new species just like AI will be"},
+    {"who": "Garry", "quote": "The spoon-bending party: you have to bend it with your hands"}
+  ],
+  "numbers_dropped": [
+    "YC prints $3 billion in market cap per batch on average",
+    "YC does 2-4 batches per year",
+    "Airbnb IPO generated $2B from under $20K seed investment (100x+ return)",
+    "YC per-employee value creation: ~$20M/year in market cap, ~$100M in total value created",
+    "Top decile YC investors: 16x return over 2-year period",
+    "Median investor in YC companies: 5x return (vs 3x typical VC)"
+  ],
+  "topics": ["ai", "entrepreneurship", "yc", "startups", "investing", "founder selection", "automation"],
+  "sponsor_read_count": 1,
+  "notable": "Deep insights into YC's selection process and philosophy; emphasis on simplicity beating complexity; AI seen as enabling new wave of startups"
+}

@@ -1,0 +1,106 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Anand (Formidable Fellowship founder) + 3 student entrepreneurs: Lincoln Snyder, I on, Abigail",
+  "approx_date": "Mar 2025",
+  "format": "guest-interview",
+  "business_ideas": [
+    {
+      "idea": "Sunshine Exteriors: window cleaning, gutters, pressure washing, fence staining, holiday lighting",
+      "who": "Lincoln Snyder",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Teens to Table: homemade baked goods wholesale to establishments and school suppliers",
+      "who": "I on",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Growing and selling chrysanthemums (mums) to wholesalers and retail customers",
+      "who": "Abigail",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Formidable Fellowship: nonprofit giving grants to young entrepreneurs to build businesses",
+      "who": "Anand",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Lincoln",
+      "text": "Will grow revenue to $150K this year from $60K last year"
+    },
+    {
+      "who": "I on",
+      "text": "Will grow cookies business 600% and reach $25K revenue this year"
+    },
+    {
+      "who": "Abigail",
+      "text": "Will double mums revenue to $30K this year"
+    },
+    {
+      "who": "Shaan",
+      "text": "Lincoln could 4x his business in one year if he replicates across neighborhoods"
+    },
+    {
+      "who": "Shaan",
+      "text": "Lincoln will be a millionaire within ~2 years if he continues at current trajectory"
+    },
+    {
+      "who": "Shaan",
+      "text": "Abigail's cold-email strategy will get her meetings with major retailers within 30 days"
+    }
+  ],
+  "disagreements": null,
+  "dynamics": "Sam provides hype, storytelling, and big-picture encouragement. Shaan grounds conversations with data, frameworks, and tactical advice. Anand presents the three student founders for 'office hours' style Q&A sessions where each student pitches a problem and gets mentorship. High energy, supportive tone with emphasis on validating young entrepreneurs' accomplishments.",
+  "frameworks": [
+    "Rule of Reciprocity: doing something nice to someone makes them reciprocate, often disproportionately",
+    "Pond businesses: if a business model works in one neighborhood/pond, it replicates across similar ponds",
+    "The 3 ways to grow: sell more, get customers to buy more/more often, or raise prices",
+    "Gap year pitch: ask parents for 1-year trial, not lifetime exemption from college",
+    "Cold email persistence: most people don't try; those who do get meetings with CEOs",
+    "Your story is your most valuable asset in early business"
+  ],
+  "learnings": [
+    "Young entrepreneurs' biggest advantage is their naivety—they don't overthink or second-guess execution",
+    "A business model that works in one neighborhood can be scaled across dozens of similar neighborhoods at minimal additional cost",
+    "Raising prices on existing customers often works better than building complex paid acquisition strategies",
+    "The window to use your 'young founder' advantage is limited—2-6 years—use it while being cute/compelling still resonates",
+    "Most people lose because they never try to reach the people they think are unreachable; those who do succeed",
+    "Immediate profits matter less than trajectory and story for long-term value creation"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Shaan",
+      "quote": "If you do roughly 300 grand of seller earnings you are worth a million dollar business."
+    },
+    {
+      "who": "Sam",
+      "quote": "Most people don't even try. Anybody that tried reached somebody."
+    },
+    {
+      "who": "Shaan",
+      "quote": "You are literally one email and 20 follow-ups away from just about everyone on earth."
+    },
+    {
+      "who": "Sam",
+      "quote": "You're going to make more money than your professors."
+    },
+    {
+      "who": "Shaan",
+      "quote": "Sell to the people who have money."
+    }
+  ],
+  "numbers_dropped": [
+    "Lincoln's Sunshine Exteriors: $60K revenue year 1, 50% margin = $30K profit, projecting $150K year 2",
+    "Lincoln's Nextdoor ads: $9 cost per lead, $30 CAC, $600-650 average transaction value, 21:1 ROAS, 90 customers",
+    "I on's Teens to Table: $4K revenue year 1, projecting $25K year 2 (600% growth)",
+    "I on's cookie costs: 27-28 cents to make, selling wholesale at 40-80 cents",
+    "I on's margins: $20 profit per 700-cookie order with current pricing",
+    "Abigail's mums business: $15K revenue year 1, $7-8K profit, projecting $30K revenue year 2",
+    "Anand's Formidable Fellowship: $500K initial + $700K donations = $1.2M to give $1K grants to 23+ young entrepreneurs"
+  ],
+  "topics": ["young-entrepreneurs", "office-hours", "local-services", "cold-email", "business-advice", "scaling", "margin-optimization"],
+  "sponsor_read_count": 1,
+  "notable": "Unusual format: office-hours style with three student entrepreneurs simultaneously; Anand Sinha from Formidable Fellowship is the featured partner-guest running the program; emphasis on validating that young people can build real revenue-generating businesses while in high school."
+}

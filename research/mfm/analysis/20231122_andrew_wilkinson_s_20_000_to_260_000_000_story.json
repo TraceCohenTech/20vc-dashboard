@@ -1,0 +1,109 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Andrew Wilkinson, Founder Tiny (holding company)",
+  "approx_date": "Nov 2023",
+  "format": "guest-interview",
+  "business_ideas": [
+    {
+      "idea": "Deli and bakery (neighborhood institution, pizza but cash flow negative)",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Weworkremotely.com: job board for remote positions (scaled $400K→$4M profit)",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Pixel Union: Shopify themes marketplace (started $20K, sold $7M, bought back $25M, public $260M)",
+      "who": "Guest",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Be barnacle on whale: build plugins/apps for major platforms (Discord, Adapter, not Shopify)",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Myria: convert money into interesting life (curated access, networking, private clubs)",
+      "who": "Guest",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "Non-sexy boring lever-pulls (price increases, payment processing optimization) outperform flashy product innovations by 10x"
+    },
+    {
+      "who": "Guest",
+      "text": "People suffer in silence due to misapplying Hanlon's Razor; assume silence = malice, not ignorance"
+    },
+    {
+      "who": "Guest",
+      "text": "People almost never change unless they hit rock bottom; assume they don't change to avoid bad decisions"
+    }
+  ],
+  "disagreements": "Sam is slightly more optimistic on human change/growth; Andrew is pessimistic but frames as defensive assumption. Sam suggests change is real for him; Andrew counters with 'assume no change' as a protective framework, not absolute claim.",
+  "dynamics": "Andrew tells personal stories with specifics (sending jet for Sam in 2020, Dan Gilbert email, Bill Ackman lunch $57K bid, Charlie Munger letters, Pixel Union buyback). Sam actively takes notes, engaged. Guest speaks thoughtfully on business philosophy (sexy vs boring, barnacle strategy, people psychology, networking via value). Collaborative, deep dive on life and business optimization.",
+  "frameworks": [
+    "Sexy vs non-sexy business trade-off: flashy creative work drives lower profit than boring lever-pulls (price increases, payment optimization)",
+    "Profit First mentality: take profit out first, force lean spending on smaller budget plate, psychological constraint",
+    "Barnacle on whale: build plugins/themes on established platforms for free marketing (Shopify themes → $260M exit)",
+    "Hanlon's Razor misapplication: people assume silence = malice when reality is busy ignorance",
+    "Assume people don't change: use as defensive heuristic to avoid betting on transformation; change rare without rock bottom",
+    "Competitive advantages and Moats: study Buffett to understand defensible businesses before acquisition",
+    "Networking via value proposition: earn the room (not buy it); shot-gun (cold email, charity lunches, formal LOIs); wait for intersection"
+  ],
+  "learnings": [
+    "Lean, predictable online businesses (job boards, SaaS) scale 10x easier than complex physical ops (bakeries, restaurants)",
+    "Two CEO retention models: (1) Hands-off for Founders who want autonomy, (2) Active check-ins for those used to oversight; extremes fail differently",
+    "Acquisition funnel for holding companies: look at 1000→negotiate 200→close 15-20 (3% conversion); marketing via reputation over cold outreach",
+    "Profit psychology: visible bank balance enables overspending; enforced monthly distributions create spending discipline",
+    "Buying back businesses: regret from sale can be overcome by strong learning (reading Buffett on Moats) + opportunity timing",
+    "Marketplace saturation: Shopify theme market was valuable early but saturates; find emerging platforms (Discord, Adapt) instead"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Guest",
+      "quote": "The things I'm good at are boring lever pulls, not Steve Jobs creative feats"
+    },
+    {
+      "who": "Guest",
+      "quote": "People are elephants and you're just the rider; you go where they go"
+    },
+    {
+      "who": "Guest",
+      "quote": "Boring business on easy mode vs sexy business on hard mode"
+    },
+    {
+      "who": "Guest",
+      "quote": "Never attribute to malice what can be explained by ignorance or stupidity"
+    },
+    {
+      "who": "Guest",
+      "quote": "You want to earn the room you're in, not buy your way into it"
+    }
+  ],
+  "numbers_dropped": [
+    "Pixel Union started: $20K investment",
+    "Pixel Union first sale: $7M",
+    "Pixel Union buyback price: $25M",
+    "Pixel Union M&A: ~$10M additional acquisitions",
+    "Pixel Union IPO valuation: $260M",
+    "Total invested in Pixel Union: ~$36M",
+    "Tiny market cap at IPO: $600M",
+    "Tiny portfolio: 40 companies",
+    "Tiny acquisition funnel: looked at 1000, negotiated 200, closed 15-18",
+    "WeWorkRemotely original price: $1.99 per job post",
+    "WeWorkRemotely scaled price: $99 per job post",
+    "WeWorkRemotely profit growth: $400K→$4M",
+    "WeWorkRemotely as % of Tiny revenue: 10-15%",
+    "Peter Attia membership cost: hundreds of thousands of dollars annually",
+    "Bill Ackman charity lunch bid: $57K",
+    "Myria competitor pricing: $80K/month ($1M annually) required"
+  ],
+  "topics": ["holding company", "acquisitions", "shopify", "marketplace", "tiny", "business philosophy", "networking", "profit optimization", "entrepreneurship"],
+  "sponsor_read_count": 1,
+  "notable": "Andrew met Sam Parr in 2020 by sending private jet to recruit him to sell The Hustle; Sam almost sold but didn't (later sold to HubSpot instead). Andrew demonstrates master networking: cold emails (Dan Gilbert, Bill Ackman), charity event bids, formal LOIs as signaling mechanism. Major insight on Profit First mentality that Sam commits to implementing at Hampton starting January 1."
+}

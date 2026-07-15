@@ -1,0 +1,57 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Jan 2022",
+  "format": "mixed",
+  "business_ideas": [
+    {"idea": "Consulting/advising business on top of existing content (paid 1-on-1 calls at $1K/hr)", "who": "Sam", "conviction": "serious"},
+    {"idea": "Specialized consulting/speaking (frameworks like 'Pixar creativity process' or 'Putin strategy')", "who": "Sam", "conviction": "serious"},
+    {"idea": "SaaS for vacation rental property managers (Hostfully alternative)", "who": "Shaan", "conviction": "throwaway"},
+    {"idea": "Neobanking in underserved geographies (Canada, Middle East, India variants)", "who": "Shaan", "conviction": "throwaway"},
+    {"idea": "Credit card/payment product for niche customer segments (like Brex for startups)", "who": "Shaan", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "Neobanking and fintech credit products will proliferate across geographies and verticals."},
+    {"who": "Shaan", "text": "Angel investing with 10-year horizon will beat short-term stock market returns."},
+    {"who": "Shaan", "text": "Small crypto-focused funds can achieve 100x returns in multi-year periods."}
+  ],
+  "disagreements": "Sam skeptical about commercializing content/selling out; Shaan argues maximal monetization then dial back to comfort level. Both agree on long-term angel investing value but Sam unsure if it beats e-commerce business ownership.",
+  "dynamics": "Sam is dealing with practical monetization of his podcasting/advising; Shaan shares sophisticated angel investing strategy. Discussion of producer Ben receiving $100K consulting offer anchors conversation on value extraction. Both explore why neobanks and fintech work (low customer satisfaction in incumbents = opportunity).",
+  "frameworks": [
+    "Asset selection by reputation — Best startup deals select you; build brand so founders reach out cold.",
+    "Compounding networks — Deal flow and reputation compound faster than stock market outperformance.",
+    "Thematic investing — Identify successful pattern (neobanking + credit products), then apply to every niche/geography.",
+    "Long-term orientation as competitive advantage — Patience beats quarterly earnings pressure.",
+    "Monetization dial — Set price aggressively (\"do your kids need braces?\"), dial back to comfort level."],
+  "learnings": [
+    "Consult sales ($1K/hour) can scale better than advertising; test with pilot consulting clients.",
+    "Startups are unique asset class—asset selects you as much as you select it (not like real estate/stocks).",
+    "Neobanking success pattern: slick UX + customer obsession + partnership with real bank = capital-light SaaS.",
+    "Angel investing scales through thematic investing: find one successful model, replicate across geographies/verticals.",
+    "Three-year entry price timing matters enormously—$10M vs $50M valuation creates 5x outcome difference.",
+    "Relationship arbitrage—knowing experts in a niche gets you better deal flow (e.g., Craft Ventures for SaaS).",
+    "Long time horizons let you make lower-priced bets with higher payoff potential.",
+    "Small angel fund models ($2M/quarter deployment) can achieve outsized returns through concentrated bets."
+  ],
+  "banger_quotes": [
+    {"who": "Shaan", "quote": "Startups are the only asset where even if you want in, you don't automatically get in."},
+    {"who": "Shaan", "quote": "Long-term orientation is the biggest competitive advantage—beat the quarterly earnings pressure."},
+    {"who": "Sam", "quote": "Do your future kids need braces or not? Get the fucking work."},
+    {"who": "Shaan", "quote": "Your network compounds every year; that's a competitive advantage stocks don't have."}
+  ],
+  "numbers_dropped": [
+    "Ben (producer): $100K offer for annual consulting advice",
+    "Neville Medora's consults: $1,000 per 1-hour call; recurring revenue stream",
+    "Shaan's angel portfolio: 20x-500x returns on individual deals (sampled)",
+    "Hostfully (short-term rental SaaS): few million in ARR",
+    "Fund deployment: $2M per quarter (~$500K per company at larger sizes)",
+    "Small angel fund carry: 20% of profits; shared among partners",
+    "Crypto-focused small funds: up to 100x returns in multi-year periods",
+    "Brex card take-rate: ~1.3% of interchange fees",
+    "Nú (Brazil neobank): $10B valuation, millions of customers",
+    "Amazon long-term advantage: willingness to lose money short-term for long-term gains"
+  ],
+  "topics": ["angel-investing", "startups", "consulting", "fintech", "neobanking", "monetization", "deal-flow"],
+  "sponsor_read_count": 0,
+  "notable": "Reveals that podcast producer Ben received $100K consulting offer, triggering discussion of consulting monetization strategies. Shaan details sophisticated angel investing thesis: thematic investing in neobanking/credit products across geographies (Brazil, UK, Canada, Middle East, India). Discusses why startup investing compounds better than stock market."
+}

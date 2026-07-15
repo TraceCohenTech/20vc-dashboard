@@ -1,0 +1,46 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Mar 2023",
+  "format": "story-breakdown",
+  "business_ideas": [
+    {"idea": "Hampton (joinhampton.com): a vetted peer-mastermind network for founders/CEOs doing $1M-$10M+/year revenue, with facilitated monthly small-group meetings, a wider community, and in-person events", "who": "Sam", "conviction": "serious"},
+    {"idea": "Rebuild HARO (Help A Reporter Out) with better execution — connecting journalists needing sources to startups/founders wanting press", "who": "Sam", "conviction": "says he might build it"},
+    {"idea": "Niche vetted vendor-recommendation lists/newsletters (e.g., vetted copywriters, designers, lawyers) sold as paid access, similar to Julian Shapiro's 'Pineapple List' for growth agencies", "who": "Sam", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "Shaan predicts Hampton will become a greater-than-$100M/year revenue business worth $300M-400M at the low end, up to $1B."}
+  ],
+  "disagreements": null,
+  "dynamics": "This is Sam's reveal of his new company Hampton, built in stealth for ~8-9 months; Shaan plays interviewer/hype-man, reframing and improving Sam's own pitch ('let me help you out') while Sam supplies the founder story, competitive landscape (vs. YPO, Vistage, masterminds), and go-to-market details. Energy is warm, supportive, and reflective rather than combative — a rare episode centered on one host's personal launch rather than banter or a guest.",
+  "frameworks": [
+    "Turning the intensity knob up: the difference between a shelved idea and a breakout business is often just full-time relentless execution speed, not the idea itself.",
+    "Speed of vulnerability: deliberately engineering peer groups to get people emotionally honest and specific quickly rather than performative.",
+    "The Jedi zoom-out: having an outside advisor who ignores the tactical noise and redirects you to the one thing that actually matters (per Peter Thiel's PayPal management style).",
+    "Don't harden too early: young companies' only real advantage is flexibility/speed, so publicly announcing and over-defining the product too soon costs you adaptability."
+  ],
+  "learnings": [
+    "Peer masterminds work because they solve the isolation problem of being a CEO who must project confidence to investors, customers, and employees, leaving no safe place to be honest about struggles.",
+    "Mentors are overrated compared to peers, because peers who are in the same stage of the journey provide more relevant tactical and emotional support than a distant expert.",
+    "Watching successful people up close reveals they aren't smarter, just more courageous and further along — which normalizes ambition rather than idolizing outliers.",
+    "Not announcing a new venture publicly during early build lets you stay flexible and adapt quickly, since flexibility is a young startup's only real competitive advantage.",
+    "Recruiting the right long-term hire (like Sam's CEO Jordan) can be a multi-year relationship-building process rather than a single transactional decision."
+  ],
+  "banger_quotes": [
+    {"who": "Sam", "quote": "The real ballers, they don't react, they respond."},
+    {"who": "Sam", "quote": "Courage is actually massively underrated."},
+    {"who": "Shaan", "quote": "Peers I think are massively underrated."}
+  ],
+  "numbers_dropped": [
+    "Average Hampton member has $23 million in annual revenue",
+    "Hampton signed up ~100 members before building a website, reaching seven figures in run-rate revenue",
+    "Shaan predicts Hampton will exceed $100M/year revenue and be worth $300M-400M to $1B",
+    "Brett Adcock sold Veritone-adjacent company Vettery for $100M and took Archer public near a $2B market cap (later ~$600-700M)",
+    "AJ Patel bootstrapped Zesty Paws to a $600 million exit",
+    "Patrick Campbell bootstrapped ProfitWell to a ~$200 million exit",
+    "HARO reportedly has about 1.5 million subscribers"
+  ],
+  "topics": ["masterminds", "founder communities", "company launch", "peer groups", "hiring a ceo", "personal branding", "hampton"],
+  "sponsor_read_count": 1,
+  "notable": "This episode is Sam's personal, emotional public reveal of his new company Hampton after building it in total stealth for 8-9 months, breaking his own usual habit of talking about ideas within 24 hours of having them."
+}

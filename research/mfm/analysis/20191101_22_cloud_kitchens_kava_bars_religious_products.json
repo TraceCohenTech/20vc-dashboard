@@ -1,0 +1,30 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Nov 2019",
+  "format": "mixed",
+  "business_ideas": [
+    {"idea": "Made Renovations turnkey bathroom remodels with 3 stock designs", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Cloud kitchens (ghost restaurants optimized for delivery only)", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Kava bars (psychoactive herbal drink served communally)", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Religious meditation app (Halo or similar for different faiths)", "who": "Sam", "conviction": "serious"},
+    {"idea": "Where's Waldo for Hindu gods using free religious IP", "who": "Sam", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "Elimination of choice drives conversion in high-friction categories like renovation"},
+    {"who": "Shaan", "text": "Delivery apps train consumers to order in, creating ghost kitchen supply opportunity"},
+    {"who": "Sam", "text": "Religious content apps will grow faster than secular meditation apps"}
+  ],
+  "disagreements": null,
+  "dynamics": "Rapid ideation between Sam and Shaan. Sam riffs on cultural/religious angle; Shaan grounds in business mechanics (pricing, delivery, distribution). Light tone with tangents on Gen Z depression, kava effects, bugs.",
+  "frameworks": ["Elimination of choice via stock options (bathroom: 3 designs; travel: prepackaged bundles)", "Pre-awareness marketing advantage (religious IP free globally)", "Delivery-first food optimization (avoid fries, prioritize items that travel well)"],
+  "learnings": ["Non-alcoholic beverages growing category as Gen Z drinks less alcohol and more hemp products", "Small details (eliminating line-item fees, capped game length at 2 hours) signal founder care", "Religious/cultural markets have undervalued advertising rates but high engagement"],
+  "banger_quotes": [
+    {"who": "Shaan", "quote": "Everything is broken everything is broken we have to figure this out"},
+    {"who": "Sam", "quote": "They only remember you're weird"}
+  ],
+  "numbers_dropped": ["Heineken CEO said fastest-growing category is 0.0 non-alcoholic beer", "Travis Kalanick allocated $500M to cloud kitchen initiatives", "Domino's outperformed Google stock 5x since IPO", "105M Americans hunt and fish"],
+  "topics": ["cloud-kitchens", "d2c", "renovation", "delivery", "religion", "meditation"],
+  "sponsor_read_count": 1,
+  "notable": "Lobby conference (VC event in Hawaii) sets context for Gen Z mental health discussion; Jamie Siminoff (Ring founder) mentioned as investing in bug solutions."
+}

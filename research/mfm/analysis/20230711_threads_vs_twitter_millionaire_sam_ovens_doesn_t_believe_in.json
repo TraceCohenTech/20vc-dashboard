@@ -1,0 +1,97 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Sam Ovens, founder of consulting.com and CEO of School",
+  "approx_date": "Jul 2023",
+  "format": "mixed",
+  "business_ideas": [
+    {
+      "idea": "Threads: Instagram-powered Twitter clone leveraging 1.5B user base to compete with Twitter",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Consulting.com: Online courses teaching entrepreneurs how to start consulting businesses",
+      "who": "Guest",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "SnapInspect: Property management software business (later pivoted to courses)",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "School: Community platform for creators with network effects and organic growth",
+      "who": "Guest",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "Threads will become bigger than Twitter within 18-24 months, stunting Twitter's growth permanently"
+    },
+    {
+      "who": "Sam",
+      "text": "Threads will work and function closer to bull case than bear case, but won't fully kill Twitter"
+    },
+    {
+      "who": "Guest",
+      "text": "AI is massively overhyped and unnecessary; ChatGPT hasn't replaced core tools like Google"
+    }
+  ],
+  "disagreements": "Sam Ovens is pessimistic on AI's near-term utility, calling it 'massively overhyped and somewhat unnecessary,' while Shaan seems more optimistic about AI's future trajectory. Sam Parr doesn't directly challenge Ovens but doesn't validate his skepticism either.",
+  "dynamics": "Episode splits into two halves: first is hosts-only debate with Shaan driving analytical frameworks while Sam supplies anecdotes and cultural commentary; second is guest interview where Sam Parr asks lifestyle/philosophical questions while Shaan asks business strategy questions. Sam Ovens is noticeably calm and measured compared to the energetic, fast-paced banter of the hosts. High energy collaboration between Parr and Puri becomes more introspective and curious with Ovens.",
+  "frameworks": [
+    "Bull case / bear case analysis for evaluating product viability",
+    "Lean Thinking: optimize business flows (money, headcount, attention) around customer-perceived value",
+    "Network effects driving organic growth: 1% of community members create their own sub-communities",
+    "Product leader as filter, sorter, and prioritizer rather than sole ideator",
+    "Evergreen vs launch-based revenue models: sustainability vs explosive short-term gains"
+  ],
+  "learnings": [
+    "Execution quality and culture-setting features (comment moderation, UX friction) matter as much as core product concept",
+    "Internet marketing businesses that relied on launch cycles and paid ads proved unsustainable; platforms need evergreen, organic growth",
+    "Aesthetic and personal branding can be strategic business tools even when they feel inauthentic to the creator",
+    "Obsessive attention to micro-details in product design (pixel-perfect borders, spacing) can compound into differentiation and perceived quality",
+    "Shifting from solo-founder revenue hustles to platform businesses requires fundamentally rethinking team structure and customer value flows",
+    "Simplification and ruthless focus on customer-facing value often require scaling down a business (Consulting.com 36M→10M revenue but higher profit)"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Shaan",
+      "quote": "Not Elon Musk. That's basically the product strategy."
+    },
+    {
+      "who": "Guest",
+      "quote": "I can see a pixel. If something's off, I'll inspect it with Chrome Inspector."
+    },
+    {
+      "who": "Shaan",
+      "quote": "Never ever ever bet against Zuck. I would not bet against that person."
+    },
+    {
+      "who": "Guest",
+      "quote": "Everything else I'm just betting on this company. No other portfolio."
+    },
+    {
+      "who": "Sam",
+      "quote": "This guy did not back down. He alpha'd us. We're all equals here at Taco Bell."
+    }
+  ],
+  "numbers_dropped": [
+    "Threads reached 100 million users in one week (fastest-growing product ever)",
+    "Instagram has ~1.5 billion users",
+    "consulting.com peaked at 36 million in annual revenue (2017–2018)",
+    "consulting.com had 50 employees and spent $2 million/month on ads at peak",
+    "Sam Ovens paid $300,000 for the consulting.com domain",
+    "School self-funded with $10 million from Sam Ovens",
+    "School receives approximately 8 million visits per month",
+    "Initial coaching package: $1,000 for six 1-hour Skype calls",
+    "Jasper (built by former consulting.com student Dave) valued at ~$1 billion",
+    "Twitter estimated to have ~300 million active users",
+    "5% of Instagram's user base = ~75 million to match Twitter"
+  ],
+  "topics": ["threads", "twitter", "social-media", "product-strategy", "creator-economy", "entrepreneurship", "courses", "startup-strategy"],
+  "sponsor_read_count": 1,
+  "notable": "The episode features an extended comedic anecdote about Sam Parr witnessing a stranger release an extraordinarily loud fart at Taco Bell without shame—a story about dominance through confidence in an unlikely setting. Also striking: Sam Ovens embodies a paradox of extreme minimalism in personal life (same socks, same soap, futon) paired with obsessive perfectionism in product design (spending days on button border-radius). The contrast underscores his philosophy that value creation requires ruthless prioritization."
+}

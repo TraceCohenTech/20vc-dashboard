@@ -1,0 +1,60 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "June 2024",
+  "format": "story-breakdown",
+  "business_ideas": [
+    {"idea": "Ed Thorp: card counting blackjack system with wearable computer technology", "who": "Ed Thorp", "conviction": "serious"},
+    {"idea": "Ed Thorp: quantitative hedging strategy using options math", "who": "Ed Thorp", "conviction": "serious"},
+    {"idea": "Ed Thorp: first hedge fund using quant strategies, 20-25% annual returns", "who": "Ed Thorp", "conviction": "serious"},
+    {"idea": "Shaan's college blackjack card counting club (underground)", "who": "Shaan", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "The lesson from casinos banning card counting applies broadly: when you find an edge, it gets quickly arbitraged away"}
+  ],
+  "disagreements": "Shaan and Sam debate whether early-stage curiosity-driven projects lead to success vs hard-grinding for specified goals; both acknowledge truth in both paths",
+  "dynamics": "Shaan leads with Ed Thorp biography and parallels to curiosity-driven business; Sam asks follow-ups and shares personal stories about belief and action. Philosophical discussion balanced with practical examples. Warm and collaborative.",
+  "frameworks": [
+    "Curiosity over optimization: pursue interesting things before worrying about ROI",
+    "Beliefs drive action: conviction in possibility enables higher effort and breakthrough results",
+    "Virtuous vs vicious cycles: belief→action→result→reinforced belief vs deflated belief→less action",
+    "First principles thinking: question assumptions instead of following conventional wisdom",
+    "Leverage > Edge: leverage (sustainability) more valuable than one-time advantage",
+    "Multiple shots at goal: try many small experiments; winners will emerge",
+    "Life principles from youth development: exposure to gritty environments builds resilience and character",
+    "Roger Bannister effect: knowing someone broke 4-minute mile made others break it within 3 months",
+    "Four-minute mile signal: knowledge that solution exists increases probability you find it"
+  ],
+  "learnings": [
+    "Curiosity-driven projects often lead to breakthroughs; learning by doing beats theory",
+    "Ed Thorp won at blackjack through rigorous practice and probability, casinos responded by changing rules",
+    "Roulette prediction failed because real-world conditions differ from theory; leverage matters more than edge",
+    "Belief level directly correlates with effort level; increased belief leads to increased action leads to better results",
+    "Leverage is more valuable than edge; sustainable unfair advantage beats one-time win",
+    "Failed projects teach valuable lessons; underground blackjack club taught about legal risk and leverage importance",
+    "Resilient founders come from struggle; adversity builds character and resourcefulness",
+    "Knowledge that others succeeded in similar pursuit increases personal probability of success",
+    "Brute force works in early-stage; automation and systems come later"
+  ],
+  "banger_quotes": [
+    {"who": "Ed Thorp", "quote": "Belief that something is possible drives enough action to make it happen"},
+    {"who": "Shaan", "quote": "One man's Thanksgiving is another man's Thursday"},
+    {"who": "Shaan", "quote": "Taking a simple idea very seriously is powerful"},
+    {"who": "Roger Bannister quote", "quote": "Knowing someone broke 4-minute mile made others break it in 3 months"},
+    {"who": "Shaan", "quote": "Reaction is emotion-driven decision; response is logical decision after cooling off"},
+    {"who": "Claude Shannon", "quote": "Brother's hint gave enough signal to solve puzzle"},
+    {"who": "Shaan", "quote": "Find people you love and do life with them"}
+  ],
+  "numbers_dropped": [
+    "Ed Thorp: born 1930s, now 92 years old",
+    "Card counting: shifted odds from 49% house to 51% player with deck tracking",
+    "Riverboat casino: South Carolina international waters gambling",
+    "Blackjack deck: 6 decks shuffled before hot count develops",
+    "Ed Thorp hedge fund: $5M raised over 6 months, 20-25% annual returns over 30 years",
+    "Thorp hedge fund exit: $800M+ exit value, shut down 2005 when 'enough'",
+    "Four-minute mile: Roger Bannister 1954, four others broke it within 3 months"
+  ],
+  "topics": ["entrepreneurship", "probability", "belief systems", "resilience", "curiosity", "learning", "blackjack", "investing"],
+  "sponsor_read_count": 1,
+  "notable": "Ed Thorp invented world's first wearable computer for roulette prediction; story illustrates how casinos adapt and why leverage matters more than edge; underground blackjack club shows need for legal risk awareness."
+}

@@ -1,0 +1,53 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Jun 2026",
+  "format": "idea-brainstorm",
+  "business_ideas": [
+    {
+      "idea": "First business doing $10M in revenue per year (specific vertical not fully detailed in sample)",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Second business doing $20M in revenue per year (specific vertical not fully detailed in sample)",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Third business doing $30M in revenue per year (specific vertical not fully detailed in sample)",
+      "who": "Shaan",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [],
+  "disagreements": null,
+  "dynamics": "Hosts discuss three unusual businesses that perform at specific revenue tiers ($10M, $20M, $30M). Episode structure around sharing discoveries from outside their typical cone of vision. Shaan and Sam appear to be in-person, casual conversational format celebrating unexpected business models; high energy around finding hidden opportunities.",
+  "frameworks": [
+    "Boring/weird business discovery: identifying profitable models operating outside startup/venture hype cycles",
+    "Revenue-tier focus: analyzing what works at specific scale points rather than hypergrowth/unicorn narratives"
+  ],
+  "learnings": [
+    "Profitable, sustainable businesses exist outside venture-backed narratives and typically receive no media attention",
+    "Business models at $10M-$30M ARR tier represent underexplored opportunity categories for entrepreneurs",
+    "Searching outside typical startup circles reveals entirely different business logic and success factors"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Shaan",
+      "quote": "Those are three ideas that didn't even exist in my cone of vision"
+    },
+    {
+      "who": "Shaan",
+      "quote": "We get high high and low low equal joy from bodega pops or hanging with the 80th richest person"
+    }
+  ],
+  "numbers_dropped": [
+    "First business: $10M revenue per year",
+    "Second business: $20M revenue per year",
+    "Third business: $30M revenue per year"
+  ],
+  "topics": ["business-discovery", "boring-businesses", "revenue-tiers", "entrepreneurship"],
+  "sponsor_read_count": 0,
+  "notable": "Hosts celebrate three unusual/overlooked profitable business models outside typical media attention; frame is about discovering non-obvious opportunities rather than building new ones."
+}

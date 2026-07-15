@@ -1,0 +1,97 @@
+{
+  "hosts": ["Shaan Puri"],
+  "guest": "Eric Lyman, co-founder/CEO of Ramp",
+  "approx_date": "Aug 2025",
+  "format": "guest-interview",
+  "business_ideas": [
+    {
+      "idea": "Ramp: corporate card + accounting software for businesses/creators (modern card for businesses, co-brand focus)",
+      "who": "Eric",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Manufactured housing: standardized, affordable home manufacturing addressing zoning constraints",
+      "who": "Eric",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Retail/creator co-branded credit cards (evolved from Paribus retail partnerships)",
+      "who": "Eric",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Crypto-based projects (explored 2012+, did not pursue)",
+      "who": "Eric",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Eric",
+      "text": "Banking industry will remain slow because it's anchored to 100-200 year old infrastructure and incentives"
+    }
+  ],
+  "disagreements": null,
+  "dynamics": "Shaan does deep dive interview across Ramp's explosive growth trajectory ($1B/18 months), banking history, decision-making, emotional regulation. Eric articulate, reflective, grounds ambitious goals in philosophy (stoicism, history, parental lessons). Tone is cerebral; Shaan and Eric clearly have prior relationship/friendship.",
+  "frameworks": [
+    "Reverse engineer from goal: set $1B/18 months, work backwards to 45-day, 60-day, 70-day milestones (network approval, bank approval, first transactions)",
+    "Velocity as moat: design company for speed; legacy competitors move at 1800s pace due to organizational debt",
+    "Extreme focus: choose 1-2 things, cut everything else ruthlessly; shipping features across many areas dilutes impact",
+    "Hire to offset weaknesses: identify what you're bad at, hire operationally unbelievable people in those areas (don't try to fix yourself)",
+    "Calendar/energy audits: ensure time spent matches what you want to be doing; reset weekly",
+    "Paranoia timeline: anticipate problems 3-6 months out, address before they manifest (vs. reactive problem-solving)",
+    "Post-acquisition integrity: build reputation for mutual wins; relationships compound across decades"
+  ],
+  "learnings": [
+    "Early milestones (45/60/70 days) reveal execution capability and founder discipline more than any other signal",
+    "Velocity as strategy: in stagnant industries, speed alone is a moat if execution stays high",
+    "Revenue growth from $10M to $100M doesn't require different genius; it requires staying focused and avoiding distraction",
+    "Hedonic adaptation: money removes existential anxiety but doesn't change baseline happiness; base anxiety returns once adapted",
+    "Credit is American cultural artifact rooted in 1900s consumer financing (cars, washing machines); credit acceptance is trust in upward mobility",
+    "Emotional regulation trained in childhood (conflict resolution exercises, mood observation with brother) compounds through life",
+    "Stoic philosophy (Ryan Holiday, Marcus Aurelius) teaches reset: can you choose not to be angry? Can you separate mood from decision-making?",
+    "History of banking shows compounding power: families that didn't sell through recessions (every 7-11 years) built dynasties",
+    "Compound 30% for 30 years > 100% for 1 year; design company for 50-100 year lifespan, not exit"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Eric",
+      "quote": "It's best not to know the odds. You would never do it if you knew."
+    },
+    {
+      "who": "Eric",
+      "quote": "We wanted to go big or fail really quickly."
+    },
+    {
+      "who": "Eric",
+      "quote": "Most buildings in finance look like someone building a house with duct tape."
+    },
+    {
+      "who": "Eric",
+      "quote": "When things get risky, most people sell. These families just stayed in."
+    },
+    {
+      "who": "Eric",
+      "quote": "Compound 30% for 30 years and you'll be giant. That's not what we did, but we could."
+    }
+  ],
+  "numbers_dropped": [
+    "Ramp valuation: $20B (current)",
+    "Founded: March 2019",
+    "Public launch: Feb 2020",
+    "$1B valuation: less than 2 years from incorporation",
+    "Revenue growth: 70x year-over-year at scale",
+    "End of 2021: $8.1B valuation, approaching $100M revenue",
+    "Time from $1M to $100M run rate: 15-17 months",
+    "Employees at $100M revenue: 100-200",
+    "Current employee count: 1,100+",
+    "Hiring rate at scale: 40-50 people per 2-week period",
+    "Days old: 2,310 days (6 years from incorporation to Aug 2025)",
+    "Paribus exit: mid-eight figures total (not per founder)",
+    "Paribus raised: $2M",
+    "Market share: 1.5% of corporate/small business card market in US"
+  ],
+  "topics": ["fintech", "corporate-cards", "banking-industry", "velocity", "startup-strategy", "emotional-intelligence", "history"],
+  "sponsor_read_count": 2,
+  "notable": "Eric's emotional regulation and calm demeanor despite extreme velocity is central narrative; credits childhood parental modeling (conflict resolution via empathy exercises) + later stoic philosophy. Explicit discussion of hedonic adaptation: once you have money, base unhappiness returns (still anxious, just existentially secure). Reverse engineering $1B/18 months goal into 45-60-70 day milestones is pattern-matching from Paribus failure (lost 75% revenue overnight due to unmanaged risk). Also distinctive: reading 15 biographies of Steve Jobs to study leadership evolution over career."
+}

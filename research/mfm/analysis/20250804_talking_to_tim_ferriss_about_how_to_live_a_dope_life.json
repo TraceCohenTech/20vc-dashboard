@@ -1,0 +1,51 @@
+{
+  "hosts": ["Sam Parr"],
+  "guest": "Tim Ferriss, author, angel investor, podcast host",
+  "approx_date": "Aug 2025",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "Board game/card game developed with Elon Lee (game designer): play-focused, off-menu project designed to encourage leisure and analog fun", "who": "Guest", "conviction": "says he might build it"},
+    {"idea": "Digital painting/art creation on iPad: reviving childhood passion for comic book illustration as non-monetary creative outlet", "who": "Guest", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Guest", "text": "More wealthy people will need to grapple with identity diversification beyond money-making"},
+    {"who": "Guest", "text": "Play and analog social interaction will become more valuable as screens dominate professional life"}
+  ],
+  "disagreements": null,
+  "dynamics": "Relaxed, conversational interview focused on philosophy and lifestyle rather than business tactics. Tim and Sam compare notes on escaping the hedonic treadmill of wealth accumulation. Tim describes recent work on board game and digital art as part of broader identity expansion. Sam shares parallel journey of shifting from 'make more money' to 'what do I actually want?' Both emphasize quality friendships and intentional lifestyle design as antidote to wealth-driven goal-setting. Contemplative, mature tone reflecting both speakers' evolution over 20+ year careers.",
+  "frameworks": [
+    "Post-economic mindset: once you have enough, shift from 'can I get what I want?' to 'do I want the right things?'",
+    "Identity diversification: develop multiple competencies and identities (not just 'business guy') to avoid fixed-gear psychology",
+    "Lifestyle sampling: spend time in others' worlds (dinners, hikes, hangouts) to see how they actually live, not just their accomplishments",
+    "The hedonic treadmill of money: survey shows net worth holders at all levels ($50K to $50M) think they need 2x current wealth to feel safe",
+    "Selection principle: only spend significant time with people you could see yourself working/spending time with for 5+ years (from Naval Ravikant)",
+    "Social relative wealth trap: surrounding yourself with wealthier peers creates endless uphill spending (jets, second homes, etc.)",
+    "AIDA-adjacent for life design: write down what you want each year, edit it like prose, notice what evolves"
+  ],
+  "learnings": [
+    "Once you have enough money, the goalpost shifts—but only if you've deliberately developed other interests and identities",
+    "Spending time with happy, low-conflict people is one of the most reliable ways to become happier yourself",
+    "Money solves money problems, but beyond that, it's a tool with diminishing returns on happiness",
+    "Play and creation for their own sake (piano, art, games) provide flow states that money-driven work cannot",
+    "Friendship requires intentional scheduling and in-person time, especially for busy high-achievers",
+    "The podcast format (and life generally) can be used to ensure busy friends actually stay connected",
+    "Therapy and vulnerability around 'I need more play' are signs of emotional maturity, not weakness"
+  ],
+  "banger_quotes": [
+    {"who": "Guest", "quote": "Trading great hours for useless dollars—such a wake-up call of a bad trade to make"},
+    {"who": "Guest", "quote": "Money is like food. Starving bad. Full good. Stuffed bad. Sick very bad."},
+    {"who": "Guest", "quote": "It's the relationship, stupid. Spend time around happy people and you become happier."},
+    {"who": "Guest", "quote": "Nobody cares if you can play piano. Pick things that are fun because they're fun to play."}
+  ],
+  "numbers_dropped": [
+    "Tim's board game: landing in 8,000 retail locations (Walmart, Target)",
+    "300+ million social media views of game gameplay",
+    "Tim reads ~1 book per week",
+    "Shopify, Uber: Tim's 'sizable' startup exits (early 2000s era)",
+    "Bloomberg survey: ultra-high-net-worth clients consistently say they need 2x their current wealth to feel safe",
+    "Net worth range in survey: $50K to $50M (same answer repeated across range)"
+  ],
+  "topics": ["lifestyle-design", "wealth-psychology", "play", "friendship", "identity-diversification", "post-economic", "creativity", "entrepreneurship"],
+  "sponsor_read_count": 1,
+  "notable": "This 2025 episode marks a major thematic shift from early-era MFM (2020 episodes focused on hustle, growth, business ideas). Here, two successful founders discuss deliberately moving away from money as a primary motivator. Tim's board game is framed not as a revenue opportunity but as license to play; his digital art on iPad is explicitly non-monetizable. Both speakers emphasize therapy, vulnerability, and the danger of letting money define identity. This reflects the 5-year evolution of the show toward wisdom and integration, away from pure hustle narrative."
+}

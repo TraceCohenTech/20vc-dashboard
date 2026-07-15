@@ -1,0 +1,36 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Apr 2024",
+  "format": "frameworks/advice",
+  "business_ideas": [],
+  "predictions": [],
+  "disagreements": "Sam pushes back that Shaan's 'unscheduled life' works because Shaan isn't bothered by disappointing people, whereas Sam feels guilt and pressure to respond to everyone; Sam calls out that Shaan agrees to things and then forgets, which frustrates him, though it's framed as a personality difference rather than a heated fight.",
+  "dynamics": "Two-hander with no guest: Sam interviews Shaan almost like a guest about his personal productivity philosophy, mostly playing the grounding/questioning role while Shaan riffs at length explaining frameworks. Energy is conversational and reflective rather than deal-focused; the episode is structured as a single deep-dive topic rather than multiple segments.",
+  "frameworks": [
+    "Unscheduled life: keep the calendar mostly empty and do the most important/interesting thing in the moment rather than following a pre-set schedule",
+    "Maker vs. manager schedule (Paul Graham): makers need long uninterrupted blocks (90min-2hr sprints), managers live in 30-minute chunks",
+    "One big thing: each morning identify the single outcome that would make the day a win, and do that first",
+    "Be effective, not efficient: picking the right thing to work on matters more than doing things fast",
+    "Big thing first thing: do the most important task first before using small tasks to build false momentum",
+    "Show me your Google Calendar and I'll show you your priorities: your schedule reveals your true priorities, not your stated ones",
+    "Barbell strategy for relationships: mix many quick, lightweight texts with rare full-day or half-day deep hangs, skipping the 'death by a thousand 30-minute Zooms' middle"
+  ],
+  "learnings": [
+    "Deliberately clearing your calendar creates the open space needed to act on inspiration the moment it strikes, since motivation is perishable.",
+    "You can transition into an unscheduled lifestyle gradually — start by protecting just one day a week, then expand once you prove the productivity gains to yourself.",
+    "News and unsolicited notifications are designed to make someone else's problem feel like yours; filtering them out preserves focus for what's actually your priority.",
+    "Committing to deep, infrequent, full-day connections builds stronger relationships than frequent shallow check-ins.",
+    "Living an unscheduled life has real social costs (appearing flaky or unresponsive) that must be consciously accepted as a trade-off, not ignored."
+  ],
+  "banger_quotes": [
+    {"who": "Shaan", "quote": "Show me your Google Calendar and I'll show you your priorities."},
+    {"who": "Shaan", "quote": "Inspiration is perishable. It's like an avocado. It turns brown."},
+    {"who": "Shaan", "quote": "The big thing is the first thing."},
+    {"who": "Sam", "quote": "The only thing that can save you is charisma."}
+  ],
+  "numbers_dropped": [],
+  "topics": ["productivity", "time management", "calendar philosophy", "maker vs manager schedule", "relationships", "personal habits"],
+  "sponsor_read_count": 1,
+  "notable": "No business ideas or predictions appear in this episode at all — it's a pure personal-philosophy/advice conversation about time management, an unusual departure from the show's typical idea-pitching format."
+}

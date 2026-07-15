@@ -1,0 +1,44 @@
+{
+  "hosts": ["Sam Parr"],
+  "guest": "Howie Liu, co-founder and CEO of Airtable (~$10B valuation)",
+  "approx_date": "Jul 2025",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "Live shopping in the West powered by AI avatar hosts, automating the influencer-seller", "who": "Guest", "conviction": "serious"},
+    {"idea": "AI-personalized news product with an interactive agent and injected personality", "who": "Guest", "conviction": "serious"},
+    {"idea": "Real-time AI video avatars for sales and customer support interactions", "who": "Guest", "conviction": "serious"},
+    {"idea": "AI personal-finance advisor avatar grounded in the user's real wealth data", "who": "Guest", "conviction": "serious"},
+    {"idea": "AI-native social app where bots are co-participants, not just tools", "who": "Guest", "conviction": "serious"},
+    {"idea": "Cursor-style AI-native reinvention of other professional tools beyond coding", "who": "Guest", "conviction": "serious"},
+    {"idea": "AI replacing labor-heavy service businesses like BPOs and call centers", "who": "Guest", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Guest", "text": "AI avatars become a primary interface for high-touch consumer experiences within a couple of years"},
+    {"who": "Guest", "text": "The next breakout consumer social product will be AI-native rather than a retrofit"},
+    {"who": "Guest", "text": "The artist phase of AI is coming — product taste will beat model proximity"}
+  ],
+  "disagreements": "Sam pushes on whether AI-generated hosts and content lose the human authenticity that drives commerce and media; Howie argues personality can be engineered in and consumers adapt faster than expected.",
+  "dynamics": "Sam runs a tight premise — 'if you were 21 again, what would you build' — and interrogates each of Howie's seven ideas for market size and defensibility. Howie is expansive and thesis-driven; Sam translates to practical terms.",
+  "frameworks": [
+    "Small slice of huge TAM vs big slice of small TAM: both routes reach billion-dollar scale",
+    "Technologist phase vs artist phase: early platform waves reward model-whisperers, later waves reward product taste",
+    "New-paintbrush principle: new mediums produce unpredictable consumer behavior (TV to YouTube to TikTok)"
+  ],
+  "learnings": [
+    "Cursor's rise shows every incumbent workflow assumption is renegotiable once AI is native to the tool",
+    "Injecting deliberate personality into AI output is a differentiator, not a gimmick",
+    "The most exposed businesses are the most labor-intensive ones — that's where AI margin expansion is largest"
+  ],
+  "banger_quotes": [
+    {"who": "Guest", "quote": "AI doesn't have to be robotic"},
+    {"who": "Guest", "quote": "What is consumer psychology and behavior look like when you have this new paintbrush"}
+  ],
+  "numbers_dropped": [
+    "Airtable: ~$10B valuation",
+    "Live shopping in Asia cited as a $100B+ GMV market",
+    "Cursor-style math: single-digit share of ~30M developers at ~$1,000/year is a $1B+ business"
+  ],
+  "topics": ["ai avatars", "live shopping", "ai agents", "airtable", "cursor", "consumer ai"],
+  "sponsor_read_count": 2,
+  "notable": "Howie lays out seven concrete AI businesses he'd start today if he didn't have Airtable, all anchored in avatar and agent interfaces."
+}

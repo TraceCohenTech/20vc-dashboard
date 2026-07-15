@@ -1,0 +1,25 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Dec 2022",
+  "format": "mixed",
+  "business_ideas": [
+    {"idea": "Various companies mentioned in awards - winners of 2022 contest categories", "who": "Both", "conviction": "throwaway"}
+  ],
+  "predictions": null,
+  "disagreements": null,
+  "dynamics": "Playful awards show format—third annual Milly Awards episode celebrating best podcast moments, guests, and discoveries of 2022. Sam and Shaan riff through categories: Billy of the Year, Breakout Company, Unsexy Business, Best Investments, Worst Investments. High energy, comedic.",
+  "frameworks": null,
+  "learnings": [
+    "Annual retrospective shows evolution of MFM thesis and guest quality over time",
+    "Awards categories reflect show values: unsexy/boring businesses, billionaires, creators, investable ideas",
+    "End-of-year format allows fans to catch up on best moments and guest insights"
+  ],
+  "banger_quotes": [
+    {"who": "Shaan", "quote": "You went from dirty Indian to alpha Persian with one jacket"}
+  ],
+  "numbers_dropped": null,
+  "topics": ["awards", "best of", "billy of the year", "breakout companies", "podcasting", "year review"],
+  "sponsor_read_count": 0,
+  "notable": "Annual awards episode format—third iteration, establishing tradition. Celebration of year's themes and guest appearances; shows show's growth and audience engagement through voting/participation"
+}

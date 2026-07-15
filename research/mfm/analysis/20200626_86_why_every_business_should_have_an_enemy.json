@@ -1,0 +1,39 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Jun 2020",
+  "format": "mixed",
+  "business_ideas": [
+    {"idea": "WikiLeaks for creeps: credible anonymous platform for surfacing abuse allegations (riffing off the Chris D'Elia scandal)", "who": "Shaan", "conviction": "throwaway"},
+    {"idea": "Fort Knox for baseball cards: vault storage plus online trading of graded collectibles", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Expert-opinion platform that replaces journalist interpretation with direct domain-expert takes", "who": "Sam", "conviction": "serious"},
+    {"idea": "Specialized insurance products distributed through brokers with white-label back-office underwriting", "who": "Shaan", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "Independent creators and expert-direct media will keep eating trust and audience from legacy journalism"},
+    {"who": "Sam", "text": "Graded sports cards and collectibles will keep appreciating as an alternative asset class"}
+  ],
+  "disagreements": "They debate whether Hey/Basecamp-style enemy-picking is authentic conviction or performative 'beef marketing', and whether an anonymous allegations platform could ever solve libel and verification.",
+  "dynamics": "Sam anchors the theme with the Rework 'pick a fight' chapter; Shaan converts each news item (D'Elia, card mania, Hey vs Apple) into a business idea. Even split of airtime, building on rather than blocking each other.",
+  "frameworks": [
+    "Pick a fight (Rework): position as the anti-incumbent to differentiate and rally followers",
+    "Enemy as marketing: a named villain gives customers a side to join",
+    "Unbundling journalism: separate expertise from distribution and sell the expert directly"
+  ],
+  "learnings": [
+    "Opposition is a cheaper and stickier brand strategy than any generic value proposition",
+    "Collectibles plus custody plus a trading venue is a full-stack business, not just a marketplace",
+    "Manufactured outrage without real conviction eventually reads as fake and damages the brand"
+  ],
+  "banger_quotes": [
+    {"who": "Sam", "quote": "Being the anti blank is a great way to differentiate yourself and attract followers"},
+    {"who": "Shaan", "quote": "So the idea I had off this was actually a Wiki leaks for creeps"}
+  ],
+  "numbers_dropped": [
+    "Discussion of Hey/Basecamp's public fight with Apple over the 30% App Store cut",
+    "Graded baseball cards cited selling for six-figure sums during the 2020 card boom"
+  ],
+  "topics": ["positioning", "enemies", "hey vs apple", "baseball cards", "journalism", "insurance"],
+  "sponsor_read_count": 0,
+  "notable": "The Chris D'Elia scandal and the Hey-vs-Apple fight both get converted live into startup pitches."
+}

@@ -1,0 +1,48 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri", "Andrew Wilkinson"],
+  "guest": null,
+  "approx_date": "Dec 2023",
+  "format": "mixed",
+  "business_ideas": [
+    {"idea": "Privacy services and monitoring platforms for executives", "who": "Sam", "conviction": "serious"},
+    {"idea": "AI Tinder with fake digital matches and gamification", "who": "Andrew", "conviction": "serious"},
+    {"idea": "TikTok shop affiliate products focusing on high-conversion items", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Water taxi services for popular lake destinations", "who": "Shaan", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "Gen Z will prioritize privacy and personal data protection increasingly"},
+    {"who": "Shaan", "text": "TikTok shop distribution will be acquired by Uber by 2028"}
+  ],
+  "disagreements": null,
+  "dynamics": "Three hosts award different categories to notable entrepreneurs and investments. Sam drives much of discussion; Shaan and Andrew add shorter commentary. Special tribute to Charlie Munger who recently passed. Format is year-end reflection and celebration.",
+  "frameworks": [
+    "Three stages of product market: Clueless → Curious → Saturation",
+    "Make space for greatness - eliminate 'okay' opportunities to allow better ones",
+    "Focus and seriousness beats raw talent spread thin",
+    "FU money versus FU loyalty, FU happiness, and other wealth paradoxes"
+  ],
+  "learnings": [
+    "Deep focus and unwavering commitment often beats raw talent and intelligence",
+    "Loyalty to partners is extremely valuable and sustainable for long-term success",
+    "Creating intentional space by eliminating mediocre opportunities allows breakthrough ideas to land",
+    "Timing windows for opportunities are narrow (early TikTok shops, early Facebook ads)",
+    "Success requires patience and willingness to pursue unsexy industries"
+  ],
+  "banger_quotes": [
+    {"who": "Guest (Jesse Cole)", "quote": "Keep the money warm, you know, thank you for keeping the money warm for me"},
+    {"who": "Sam", "quote": "If you want something great you gotta make space for great"},
+    {"who": "Andrew", "quote": "Not terrible isn't your goal"},
+    {"who": "Shaan", "quote": "TikTok shops is currently very cheap and not saturated"}
+  ],
+  "numbers_dropped": [
+    "Shadow work journal: 500K+ copies sold in 2.5-3 months via TikTok shop",
+    "Charlie Munger built $1B real estate portfolio as side hustle starting at age 90",
+    "Andrew's course generated ~$1 million/year profit",
+    "Rolling fund had ~50 investors requiring management",
+    "Silver Lake owns $500M stake in Manchester City",
+    "Kevin Ryan effective tax rate: 14%, children get 0% on capital gains via QSBS"
+  ],
+  "topics": ["investing", "business awards", "trends", "entrepreneurship", "personal development", "wealth"],
+  "sponsor_read_count": 1,
+  "notable": "Part 1 of 2-part Millie Awards year-end special; Charlie Munger tribute; focus on quality over quantity in business pursuits"
+}

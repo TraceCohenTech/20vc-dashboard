@@ -1,0 +1,50 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "May 2022",
+  "format": "idea-brainstorm",
+  "business_ideas": [
+    {"idea": "Outcome Health - touchscreen TVs in doctor's offices showing pharma ads", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Ad arbitrage: place ads in high-value captive audiences (doctor's waiting rooms)", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Young influencer agency - leverage managed Instagram/Twitter accounts for brand partnerships", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Social media strategy/agency for brands using viral stunts and coordinated posts", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Pharmaceutical advertising in non-regulated spaces (TV, doctor offices vs Google/Facebook)", "who": "Shaan", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "Pharma companies will continue spending $15B on doctor's office advertising despite regulation"},
+    {"who": "Shaan", "text": "Ad arbitrage opportunities exist wherever there's high-intent, captive audiences"},
+    {"who": "Sam", "text": "Young, undomesticated talent needs freedom to succeed, not corporate structure"}
+  ],
+  "disagreements": "No major disagreements. Sam and Shaan mostly align on ad arbitrage concepts and storytelling value.",
+  "dynamics": "Shaan drives with detailed business case studies and frameworks. Sam responds with personal anecdotes (e.g., office culture story with young marketing talent). Both play with ideas playfully. Second half veers into meta-conversation about cancellation culture and authenticity on podcasts.",
+  "frameworks": [
+    "Caesar's World: focus on what you control, ignore external noise beyond your sphere",
+    "Ad arbitrage: monetize high-intent captive audiences where traditional ad platforms prohibit ads",
+    "Undomesticated talent: young/wild team members bring fresh perspectives but need autonomy",
+    "Cancellation vaccination: consistent provocativeness, authenticity, financial independence, no apologies",
+    "Transactional vs strategic: move from 'pay-per-post' to ongoing retainer agency relationships"
+  ],
+  "learnings": [
+    "Regulatory arbitrage in pharma advertising creates hundred-million-dollar opportunities",
+    "Young talent (age 20-23) can build massive influence platforms if given autonomy",
+    "Doctor's office is a captive, high-intent audience where pharma ads command premium pricing",
+    "Building audience on owned social platforms creates negotiating leverage for retainers vs transactional deals",
+    "Authenticity and consistency immunize creators against cancellation threats"
+  ],
+  "banger_quotes": [
+    {"who": "Shaan", "quote": "Caesar's World - external stuff you can't control shouldn't affect your mood"},
+    {"who": "Sam", "quote": "Birds got to fly - young talent needs freedom, not corporate structure"},
+    {"who": "Shaan", "quote": "Cancellation vaccination: be provocative, never apologize, cater to your base"},
+    {"who": "Shaan", "quote": "Outcome Health raised at $5-10B valuation, claimed $160M revenue - it was fraud"}
+  ],
+  "numbers_dropped": [
+    "Pharmaceutical advertising spend: $8B/year total, $15B+ spend in doctor's offices",
+    "Outcome Health: valued at $5-10B, claimed $160M revenue (fraudulent)",
+    "Legitimate version now makes $100M+ from pharma ads on same model",
+    "Young influencer agency: 23 employees, 22 under age 22, paying $25K/year",
+    "Agency eventually sold for hundreds of millions"
+  ],
+  "topics": ["ad-arbitrage", "healthcare-ads", "pharmaceutical-marketing", "influencer-marketing", "startup-culture", "cancellation-culture"],
+  "sponsor_read_count": 0,
+  "notable": "Deep dive into Outcome Health fraud case (founder lied about TV placements to pharma companies). Juxtaposes this with legitimate influencer agency built by 21-year-olds. Second half shifts to meta-podcast discussion about authenticity vs corporate risk-aversion."
+}

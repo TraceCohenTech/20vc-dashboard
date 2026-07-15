@@ -1,0 +1,58 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Mar 2022",
+  "format": "news-reaction",
+  "business_ideas": [
+    {"idea": "Molecular beverage printer for consumer kitchen (Cana)", "who": "Guest", "conviction": "serious"},
+    {"idea": "Cryptocurrency as network-effects bet (Ethereum over Bitcoin)", "who": "Guest", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "David Friedberg", "text": "Moonshot projects with 100x upside will outperform incremental optimization."},
+    {"who": "Raul Pal", "text": "Ethereum will outperform Bitcoin due to greater number of applications and network effects."},
+    {"who": "Raul Pal", "text": "Network effects + user ownership (crypto) creates value far exceeding traditional networks."}
+  ],
+  "disagreements": "David argues for 'moonshot' product positioning (consumer kitchen device) vs. 'safe' strategy (restaurant focus); Raul describes past hesitation about crypto in 2017-2018 as his worst trade decision.",
+  "dynamics": "Compilation episode with three distinct guest segments. David Friedberg speaks on bold thinking vs. incremental paths; Raul Pal discusses his Ethereum thesis; Sam/Ben break down Russian oligarch wealth creation. Rapid-fire format with host commentary between clips.",
+  "frameworks": [
+    "Moonshot thinking — Big audacious goals require accepting multiple uncertain paths; successful people avoid uncomfortable 'not-knowing' so they optimize for certainty at cost of ambition.",
+    "Market size tradeoff — Winning restaurant channel eliminates consumer channel possibility; early positioning locks trajectory forever.",
+    "Metcalfe's Law — Network value = n² connections; crypto networks where users = owners have double network effects vs. traditional networks.",
+    "Crony capitalism ladder — Government distressed asset → private auction → oligarch acquisition → consolidation of wealth/power.",
+    "Risk asymmetry in early networks — Early adoption of network effects with exponential adoption curve creates 100x+ returns."
+  ],
+  "learnings": [
+    "Successful people naturally optimize for predictable outcomes; this caps ambition (quarter-way up mountain vs. summit).",
+    "Restricting market focus (restaurants) by eliminating consumer channel creates lasting opportunity cost.",
+    "Ethereum's adoption curve mirrors social networks + information networks; money network opportunity far larger.",
+    "User = owner alignment in crypto creates both financial incentive + tribal/religious commitment (double network effects).",
+    "Russian oligarchs' billion-dollar windfalls came from 1995 rigged auction of oil/mineral state assets at fraction of value.",
+    "Consolidation of power happens through selective enforcement (jail one oligarch to terrify others into compliance).",
+    "Putin's estimated net worth ($200B+) accumulated through influence over oligarch-controlled companies.",
+    "Early investment in networks at exponential adoption phase compounds exponentially (Raul's Ethereum bet timing).",
+    "Crypto network adoption chart nearly identical to early social/information network adoption at same point in S-curve."
+  ],
+  "banger_quotes": [
+    {"who": "David Friedberg", "quote": "Successful people avoid discomfort of not knowing, so they optimize for certainty at the cost of ambition."},
+    {"who": "Raul Pal", "quote": "Crypto married network users with network owners—now you've got network effects upon network effects."},
+    {"who": "Raul Pal", "quote": "If you bet early in a network effect during adoption curve, you'll do pretty well."},
+    {"who": "Sam", "quote": "A 38-year-old becomes worth $3 billion through one rigged auction. How does that even happen?"}
+  ],
+  "numbers_dropped": [
+    "Cana: molecular beverage printer technology (not yet shipped)",
+    "Raul Pal crypto bet: moved 25% liquid net worth into crypto (2019-2020)",
+    "Raul's crypto position: grew from 25% to 50-60% due to market appreciation",
+    "Russian oligarch auction: 1995 Surgat cabin meeting for state-owned oil company shares",
+    "Oligarch acquisition price: $100M for company worth billions (later 100x appreciation)",
+    "Oil company profits post-privatization: 50x growth",
+    "Roman Abramovich's current net worth: ~$20B+ (Chelsea FC owner)",
+    "Putin's estimated net worth: $200B+ (disputed, not publicly disclosed)",
+    "Putin's palace complex: $1-2B private residence with guest houses, private beaches, pools",
+    "Oligarch wealth from single deal: one billionaire worth $15B (later jailed 14 years by Putin)",
+    "Imprisoned oligarch duration: 14 years in Russian cage-style jail",
+    "Ethereum adoption timeline: similar S-curve to early social/information networks at comparable stage"
+  ],
+  "topics": ["technology", "cryptocurrency", "network-effects", "entrepreneurship", "geopolitics", "cronyism", "moonshot-thinking"],
+  "sponsor_read_count": 0,
+  "notable": "Compilation format shows range of show: serious tech strategy (Cana) + investment thesis (Raul on Ethereum) + geopolitical analysis (Russian oligarchs). David Friedberg's insight on successful people avoiding uncertainty provides psychological explanation for why most don't pursue moonshots. Raul Pal's Metcalfe's Law application to crypto predates mainstream DeFi understanding. Russian oligarch segment contextualizes Abramovich/Chelsea amid 1995 privatization scheme—unlikely wealth creation path for replication."
+}

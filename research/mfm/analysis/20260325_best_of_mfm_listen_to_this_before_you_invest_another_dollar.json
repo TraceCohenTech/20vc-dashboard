@@ -1,0 +1,81 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Monish Pabrai, investor/author (compilation episode)",
+  "approx_date": "Mar 2026",
+  "format": "frameworks/advice",
+  "business_ideas": [],
+  "predictions": [],
+  "disagreements": "Sam (safe S&P 500 indexer) vs Shaan (risk-taking opportunist) vs Monish (value investor seeking underpriced securities). Monish cautions that belief in 'no risk' is most dangerous, but also validates Sam's approach for preserving capital.",
+  "dynamics": "Monish teaches throughout with investing frameworks and principles. Sam and Shaan listen, ask clarifying questions. Monish uses analogies (gas stations, infinite vs finite games) to make abstract concepts concrete.",
+  "frameworks": [
+    "P/E ratio as return predictor: S&P at P/E 23 = 2% to -2% annualized returns (10 years)",
+    "Buffett's 4% hit rate: 400+ investment decisions, only 12 mattered",
+    "Circle the wagons: stay in great businesses, never sell (paint drying > buy decision)",
+    "Infinite vs finite games: investing is infinite (no winner, players drop out)",
+    "Fewer losers, not more winners: consistency beats heroic volatility",
+    "Behavioral: when others imprudent, be prudent; when terrified, be aggressive",
+    "Rule of 72: money doubles every 7 years at 10%",
+    "Runway matters: low compounding over long time > high compounding over short time",
+    "The gas stations story: why don't people copy obvious winners?",
+    "Price vs value relationship: swings from love to hate"
+  ],
+  "learnings": [
+    "Risk in markets comes from human behavior, not companies/securities",
+    "Starting early (age 22 vs 32) compounds dramatically due to runway length",
+    "Consistency (never bottom 5%) beats volatility (top 10% some years)",
+    "Behavioral finance books beat technical investing books",
+    "When most people terrified = best time to buy (contrarian indicator)",
+    "P/E ratio tells you what to expect: high P/E = low future returns",
+    "Compounding runway more important than return rate",
+    "Boring discipline compounds to greatness over 50+ years",
+    "Underperformance for 8 years doesn't break 25-year outperformance if compounding is consistent",
+    "Fear is normal when buying in bear markets; do it anyway"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Monish",
+      "quote": "The riskiest thing in the world is the belief that there's no risk"
+    },
+    {
+      "who": "Monish",
+      "quote": "Buffett's made 400+ decisions, only 12 mattered. The god of investing has a 4% hit rate"
+    },
+    {
+      "who": "Monish",
+      "quote": "When the time comes to buy, you won't want to"
+    },
+    {
+      "who": "Monish",
+      "quote": "The paint drying decision was more important than the buy decision"
+    },
+    {
+      "who": "Warren Buffett",
+      "quote": "Don't risk what you have and need to get what you don't have and don't need"
+    },
+    {
+      "who": "Monish",
+      "quote": "Zig when others zag. If you zig when they zig, you won't outperform"
+    }
+  ],
+  "numbers_dropped": [
+    "S&P P/E 23: expect 2% to -2% annualized returns over 10 years",
+    "Buffett's 58-year track record: 400+ investment decisions, 12 mattered",
+    "Buffett's compounding rate: 20%+ per year for 58 years",
+    "$10K invested at 10% for 49 years (7 doubles): $1.28 million",
+    "Dave Van Benscoten's General Mills fund: 14 years between 27th-47th percentile, ranked 4th overall",
+    "Monish's fund: 7-8 years underperforming S&P within 25-year track record",
+    "Rule of 72: at 10% return, money doubles every 7 years",
+    "A 22-year-old saving $10K/year at 10%: $640K at age 64 (from single initial $10K)"
+  ],
+  "topics": [
+    "investing",
+    "value-investing",
+    "behavioral-finance",
+    "compounding",
+    "risk-management",
+    "index-funds",
+    "psychology"
+  ],
+  "sponsor_read_count": 1,
+  "notable": "This is a 'best of' compilation episode (likely from multiple Monish Pabrai appearances). Core theme: boring consistency beats heroic volatility, and psychology/behavior matters more than analysis. Monish validates both vanilla indexing (Sam) and contrarian value investing (his approach), warning that both require discipline and psychological fortitude."
+}

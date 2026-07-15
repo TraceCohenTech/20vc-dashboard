@@ -1,0 +1,107 @@
+{
+  "hosts": ["Shaan Puri"],
+  "guest": "Jack Smith, Founder of Fungal",
+  "approx_date": "Jul 2019",
+  "format": "guest-interview",
+  "business_ideas": [
+    {
+      "idea": "Itchy bombs seed pods sold in playground for 25 cents each",
+      "who": "Jack",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Freelance design, Flash, 3D modeling on Elance/Upwork for $100-250",
+      "who": "Jack",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Mobile app store with video previews showing how apps work",
+      "who": "Jack",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Fungal video ad network for mobile games (replaced banner ads)",
+      "who": "Jack",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Shyp on-demand shipping app (briefly joined as co-founder)",
+      "who": "Jack",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Become power user on emerging platforms (YouTube, Product Hunt, Whale)",
+      "who": "Jack",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [],
+  "disagreements": null,
+  "dynamics": "Jack is guest, Shaan is host. Shaan establishes Jack as uniquely clever and able to crack any system. Jack is articulate but introverted, thoughtful and reflective. Jack drives airtime with stories of his hustles and clever hacks; Shaan asks follow-ups and connects to frameworks (windows vs doors). Energy is intellectual and collaborative. Shaan emphasizes that Jack is not the loudest guy in room but accomplishes outsized results through clever thinking and persistence. Format is conversational interview highlighting Jack's non-obvious strategies.",
+  "frameworks": [
+    "Procrastination as discovery: give yourself space to explore rather than optimize existing paths",
+    "Curing cancer vs itch: solve critical problems, not nice-to-haves",
+    "Naive approach beats expertise: not knowing conventions enables innovation",
+    "Windows vs doors: sometimes go through doors even if you can't see the outcome",
+    "First principles thinking: evaluate needs vs industry norms to find advantages"
+  ],
+  "learnings": [
+    "Not wanting to be told what to do can channel into entrepreneurial drive",
+    "Unconventional approaches stand out (LinkedIn ad hack got Angel Pad attention)",
+    "Customer validation beats conventional wisdom and investor advice",
+    "Not knowing industry lets you innovate on pricing model",
+    "Framing weaknesses as strengths works (wild card pitch beat expert competitors)",
+    "Early platform adoption has massive ROI with minimal cost",
+    "Persistence through rejection needed before breakthrough",
+    "Movement beats planning (moved to SF before having all details)",
+    "Specificity in outreach beats generic asks",
+    "Industry conventions constrain thinking; naive founders innovate faster"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Jack",
+      "quote": "I never obsessed about money but I value freedom"
+    },
+    {
+      "who": "Jack",
+      "quote": "I just don't like being told what to do"
+    },
+    {
+      "who": "Jack",
+      "quote": "They just want users. It doesn't matter how many see the video"
+    },
+    {
+      "who": "Jack",
+      "quote": "If you place enough bets in different places, one might take off"
+    },
+    {
+      "who": "Jack",
+      "quote": "We looked at things just through the lens of customer needs"
+    },
+    {
+      "who": "Jack",
+      "quote": "Not knowing anything about advertising was actually an advantage"
+    },
+    {
+      "who": "Shaan",
+      "quote": "Jack, this is why you would win the game show"
+    }
+  ],
+  "numbers_dropped": [
+    "Blackstone acquiring Fungal for ~$750 million (rumored)",
+    "Fungal doing $300+ million in revenue",
+    "Raised only $25 million to build Fungal",
+    "Over 200 employees at Fungal",
+    "Jack started Fungal at age 20",
+    "Jack is now 30 years old",
+    "Made itchy bombs at age 8 for 25 cents each",
+    "Allowance was $2.50-5 per week at age 12",
+    "Freelance projects: $100-250 each",
+    "Angel Pad gave $120,000 funding",
+    "2,000 applications for 1 Angel Pad spot",
+    "Fungal received $5,000-10,000+ commitments before launch"
+  ],
+  "topics": ["mobile-advertising", "startups", "viral-growth", "bootstrapping", "early-stage", "hustle"],
+  "sponsor_read_count": 1,
+  "notable": "Jack's journey from selling itchy bombs at age 8 to building a $750M company. Investor told him he'd never raise a dollar; he went on to build Fungal. He exploited LinkedIn's new ad system to find a loophole targeting one person (Angel Pad founder) by bundling six random people. He became #1 Product Hunt user by posting daily at midnight when leaderboard resets—demonstrating power of early platform adoption."
+}

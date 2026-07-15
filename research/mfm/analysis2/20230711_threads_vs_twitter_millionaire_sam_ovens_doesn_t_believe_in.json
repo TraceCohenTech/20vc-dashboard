@@ -1,0 +1,44 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Sam Ovens (founder of consulting.com, now CEO of Skool, a community platform for creators)",
+  "approx_date": "Jul 2023",
+  "format": "mixed",
+  "business_ideas": [
+    {"idea": "Skool: a community platform for online creators with built-in network effects (communities invite members, ~1% of whom start their own community)", "who": "Guest", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "Sam predicts Threads will end up closer to the bull case and beat Twitter in size within 18-24 months without fully killing it."},
+    {"who": "Shaan", "text": "Shaan predicts Threads will become the mainstream default social text app while Twitter shrinks into a smaller, more niche product with a growth ceiling."}
+  ],
+  "disagreements": null,
+  "dynamics": "First half is a two-host debate/analysis segment (bull case vs. bear case on Threads vs. Twitter) followed by personal tangent stories (the Taco Bell fart story), then transitions into a guest interview with Sam Ovens, a former internet-marketing figure turned software CEO. Sam Parr leads much of the framing and storytelling while Shaan adds analytical structure (bull/bear framework) and probing questions to the guest about his personal transformation from flashy marketer persona to introverted software founder.",
+  "frameworks": [
+    "Bull case / bear case framework: structuring a product debate (Threads vs. Twitter) by listing reasons for and against success before landing on a final prediction.",
+    "Lean Thinking analysis (Bezos-favorite book): evaluate a business by tracking whether headcount, money, and time/attention actually deliver customer-perceived value, then reallocate away from what customers don't value (e.g., ads).",
+    "'You'll become who's around you' place-check: gauge whether a habit/venue is good for you by looking at what long-term regulars there look/act like."
+  ],
+  "learnings": [
+    "A challenger social app doesn't need to convert existing users from an incumbent if it can bring net-new users into the market who never used the original product's format.",
+    "Execution — not the core idea — often decides success: Twitter had 15+ years to fix onboarding, feed quality, and abuse handling and consistently failed to, giving Meta an opening.",
+    "Sam Ovens intentionally built an exaggerated 'money' persona (flashy NYC apartment, blue blazer) as a calculated brand/marketing device rather than an authentic self-representation, because his real personality is introverted.",
+    "Course businesses built on ad-driven launches (rather than organic, evergreen content) often aren't durable businesses because they don't compound and require constant relaunching.",
+    "Restructuring a company around what customers actually find valuable (support, content, account management) instead of pure paid acquisition can shrink revenue but increase profit and reduce operational chaos."
+  ],
+  "banger_quotes": [
+    {"who": "Sam", "quote": "Never ever ever bet against Zuck."},
+    {"who": "Shaan", "quote": "It's not a feature that you see, it's almost what you don't see that's the feature."},
+    {"who": "Guest", "quote": "I realized that all of our time, money, attention, and head count was on ads."}
+  ],
+  "numbers_dropped": [
+    "Threads reached 100 million users in about 5 days, the fastest-growing product ever at the time",
+    "Instagram has roughly 1.5 billion users",
+    "Sam Parr and Shaan estimate they have almost a million combined Twitter followers, but only ~3,000 on Threads at launch",
+    "Cloudflare's CEO reported Twitter traffic down ~5% in the week after Threads launched",
+    "Sam Ovens paid $300,000 for the domain consulting.com",
+    "Consulting.com peaked at $36 million/year revenue with only ~$5 million profit and 50 employees spending $2M/month on ads before being restructured to a leaner, more profitable model",
+    "Sam Ovens self-funded Skool with $10 million and it reportedly gets more monthly traffic than competitor Circle"
+  ],
+  "topics": ["threads vs twitter", "social media strategy", "zuckerberg", "elon musk", "internet marketing", "community platforms", "personal branding"],
+  "sponsor_read_count": 1,
+  "notable": "The episode opens with an extended, off-topic personal story (a Taco Bell fart incident) before transitioning into a substantive guest interview; note this analysis reflects roughly the first 80% of the transcript, as the remainder (deeper into the Sam Ovens interview) was not fully captured due to file length."
+}

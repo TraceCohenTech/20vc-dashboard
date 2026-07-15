@@ -1,0 +1,46 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Elaine Zelby, VC partner at SignalFire and writer of the Zelby Three Things sub-stack",
+  "approx_date": "Apr 2021",
+  "format": "idea-brainstorm",
+  "business_ideas": [
+    {"idea": "Fantasy-football-style social game for betting on stock portfolios", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Life-skills learning games built on top of Roblox (financial literacy, mental health, etc.), letting kid creators build and monetize", "who": "Guest", "conviction": "serious"},
+    {"idea": "'Adulting vault' app aggregating all adult responsibilities (bills, insurance, subscriptions, renewals) with referral-based monetization", "who": "Guest", "conviction": "serious"},
+    {"idea": "Digital home manual/searchable inspection booklet so homeowners can look up what a light switch or fixture does", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "Adulting quiz as a viral top-of-funnel lead gen tool with a personalized 'report card' at the end", "who": "Sam", "conviction": "serious"},
+    {"idea": "Bundled core startup SaaS stack (G Suite, payroll, CRM, HR, etc.) targeting pre-purchase seed-stage companies via VC referrals", "who": "Guest", "conviction": "serious"},
+    {"idea": "Reimagined smart bed/sleep pod for adults ('Snoo for adults') with temperature control, rocking, and phone-blocking", "who": "Guest", "conviction": "serious"},
+    {"idea": "Subscription running shoe replacement service tied to mileage tracking via smartwatch, sold to shoe brands as infrastructure", "who": "Guest", "conviction": "serious"},
+    {"idea": "Low-tech shoe-sole wear indicator (color-changing) with embedded reorder QR code", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "'TheraPunch' - instant walk-in rage room combined with a calming meditation zone afterward", "who": "Guest", "conviction": "serious"},
+    {"idea": "Bundled 'gym membership' style subscription across alternative recovery therapies (cryotherapy, float tanks, sauna, DEXA scans)", "who": "Guest", "conviction": "throwaway"}
+  ],
+  "predictions": [],
+  "disagreements": "No real disagreement between hosts; mild friendly debate between Sam and the guest over whether people would pay a premium for a bundled recovery-therapy 'gym' subscription, and over the value of DEXA body-fat scanning (Sam and Shaan love it, guest is skeptical it appeals beyond fitness enthusiasts).",
+  "dynamics": "Shaan drives the VC/data-science portion of the interview, probing the guest on how much of SignalFire's data-driven pitch is real versus marketing; Sam leads most of the consumer-idea brainstorming (adulting vault, running shoes, TheraPunch, recovery gym). The guest is highly prepared with a running list of researched business ideas and drives much of the second half. Energy is upbeat, collaborative, and idea-dense with minimal conflict.",
+  "frameworks": ["quiz-based lead generation (long quizzes convert better and deepen engagement, contrary to intuition)", "the '80-20 bundle' insight (build the core 60% of functionality for early-stage customers rather than full enterprise feature sets)", "rip-and-replace friction (hardest to displace installed software, so target pre-purchase customers instead)"],
+  "learnings": [
+    "Software bundles succeed best when they capture customers before they've adopted any point solutions, since ripping out installed tools is extremely painful.",
+    "Partnering with VCs as a distribution channel for growth/software services works because VCs constantly need to recommend tools to their portfolio companies.",
+    "Counterintuitively, longer signup quizzes and forms increase completion rates and downstream engagement rather than causing drop-off, once a user passes an early threshold of investment.",
+    "Data-driven VC sourcing tools (like SignalFire's internal algorithm) matter most at later, more data-rich stages and add little value at the earliest seed stage where bets are on people, not metrics.",
+    "Hardware-plus-subscription businesses (Tempo, Peloton, cryotherapy machines) can have simple, high-margin unit economics once the hardware itself pays off quickly."
+  ],
+  "banger_quotes": [
+    {"who": "Guest", "quote": "Capital as a service, instead of software as a service."},
+    {"who": "Sam", "quote": "It's playing... no wait, get out of the street, you stupid fucking bitch."},
+    {"who": "Guest", "quote": "Ripping and replacing software is so painful."}
+  ],
+  "numbers_dropped": [
+    "SignalFire currently investing out of a $500 million fund three",
+    "Sam's angel investment in Deel reached over a $1 billion valuation (invested around a $200 million round after missing the seed)",
+    "Synthesis (Elon Musk's former school spinoff) reportedly doing multiple millions of dollars a year in revenue after 6-8 months with $0 paid marketing",
+    "Body Spec DEXA-scan vans cost between $16,000 and $45,000 and charge roughly $45-80 per scan",
+    "Tempo Fitness hardware costs about $1,800, plus a $50/month subscription",
+    "Michael Birch's Bebo 'best friends quiz' got 1 million members in 9 days"
+  ],
+  "topics": ["business ideas", "venture capital/data-driven investing", "wellness/recovery products", "saas bundling", "fitness tech", "quizzes/growth hacking"],
+  "sponsor_read_count": 0,
+  "notable": "The episode includes an extended segment where Shaan presses the guest to honestly assess how much of SignalFire's 'proprietary data algorithm' VC pitch is real substance versus marketing, and she candidly estimates it's more useful on sourcing/support than as a magic investment formula."
+}

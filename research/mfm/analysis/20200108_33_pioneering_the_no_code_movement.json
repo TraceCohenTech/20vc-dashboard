@@ -1,0 +1,48 @@
+{
+  "hosts": ["Sam Parr"],
+  "guest": "Vlad Magdalin, founder of Webflow",
+  "approx_date": "Jan 2020",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "Webflow: visual software development platform for building websites without code", "who": "Guest", "conviction": "says he might build it"},
+    {"idea": "Parabola: visual data transformation and workflow automation tool", "who": "Guest", "conviction": "throwaway"},
+    {"idea": "Voice Flow: visual builder for Alexa and Siri voice apps", "who": "Guest", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Guest", "text": "No-code space is the gold rush era of web 1999, where 10-100x more people will build software"},
+    {"who": "Guest", "text": "Natural consolidation will happen in no-code tools; people will build products they don't know are no-code"},
+    {"who": "Guest", "text": "Eventually anyone can push a button and ideas appear, like food delivery, without hunting/farming"}
+  ],
+  "disagreements": null,
+  "dynamics": "Sam drives a narrative-style interview extracting Vlad's 7-year Webflow origin story. Vlad tells detailed arc from multiple false starts through panic, near-bankruptcy, YC rejection/reversal, and eventual product-market fit. Inspiring, high-energy, reflective tone with Sam asking follow-up questions that draw out emotional and strategic details.",
+  "frameworks": [
+    "Direct manipulation interface design (from Brett Victor's 'Inventing on Principle')",
+    "Default alive (reaching break-even as a survival milestone)",
+    "Essentialism: discipline of doing less, saying no to high-volume optionality",
+    "No-code as abstraction layer, like cloud computing (AWS) vs rack-and-server IT"
+  ],
+  "learnings": [
+    "Shipping to market and iterating teaches you more than perfecting alone; user feedback beats founder assumptions",
+    "Patience and contentment with steady progress avoids the burnout trap of comparing growth to other founders",
+    "A 7-year slow grind with a unified team beats rapid hiring and churn for foundational products",
+    "Removing technical barriers to creation unlocks human creativity and economic mobility",
+    "Your spouse and family buy-in matters as much as your conviction when bootstrapping through hardship"
+  ],
+  "banger_quotes": [
+    {"who": "Guest", "quote": "If you remove those barriers, magical things happen"},
+    {"who": "Guest", "quote": "I was waking up every morning with panic attacks"},
+    {"who": "Guest", "quote": "For us to be truly successful, you can't do that overnight"}
+  ],
+  "numbers_dropped": [
+    "75,000 paying users at time of interview",
+    "72 million Series A (10x typical Series A)",
+    "300K raised in early rounds",
+    "1.4M raised after signaling they weren't raising",
+    "1.5M ARR by the time they launched premium features",
+    "175 total people hired over 7 years, 155 current",
+    "25 million developers on earth (~0.3% of population)"
+  ],
+  "topics": ["no-code", "webflow", "startup-story", "entrepreneurship", "product-design", "visual-development", "saas", "patience"],
+  "sponsor_read_count": 1,
+  "notable": "Vlad's journey includes near-death experiences (family surgery debt, months with no income, YC rejection reversal mid-movie theater) that build dramatic narrative. His philosophy of patient, values-driven building explicitly contrasts with Silicon Valley hypergrowth ethos."
+}

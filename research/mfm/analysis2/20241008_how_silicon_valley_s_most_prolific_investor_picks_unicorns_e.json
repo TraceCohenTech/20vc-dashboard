@@ -1,0 +1,48 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Elad Gil, prolific angel investor (40+ unicorn investments including Airbnb, Airtable, Retool, Ripling, Anduril)",
+  "approx_date": "Oct 2024",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "A new chain of K-12 schools inspired by ancient Greek education (emphasis on logic, math, writing, debate, physical fitness, art)", "who": "Guest", "conviction": "says he might build it"},
+    {"idea": "Translate the ~1,000 most important out-of-copyright books into dozens of languages via AI and produce audiobooks of all of them", "who": "Guest", "conviction": "serious"},
+    {"idea": "'Monumental' project: build large-scale inspiring public monuments/statues in major cities (modeled on the Eiffel Tower, Statue of Liberty) to reignite societal optimism and progress", "who": "Guest", "conviction": "says he might build it"}
+  ],
+  "predictions": [
+    {"who": "Guest", "text": "The 'two-person, billion-dollar AI company' narrative is largely overstated in the medium term; AI will mostly be business as usual with some team shrinkage in specific functions like customer success."},
+    {"who": "Guest", "text": "Aging/longevity research will increasingly find drugs that meaningfully extend healthy human lifespan, based on evidence already seen in mice and other organisms."}
+  ],
+  "disagreements": null,
+  "dynamics": "Standard guest-interview format led mostly by Sam with Shaan contributing supporting questions and reactions. Energy is intellectually curious and reverent — both hosts openly express admiration ('you're such a hard person to compete against') and let the guest go deep on technical/philosophical tangents (biology, monument-building, missionary vs. mercenary framing). The episode closes on an unplanned pivot to personal life philosophy (immersive travel) that Sam calls the most useful takeaway of the conversation.",
+  "frameworks": [
+    "Market-first investing: focus on market/product-market fit over founder pedigree alone — a great entrepreneur in a bad market usually loses",
+    "One key insight rule: most businesses succeed or fail based on nailing just one or two core strategic questions, not five",
+    "Missionary vs. mercenary vs. artist: early career you're partly mercenary (need capital), mid-career missionary (mission-driven), late career artist (craft for its own sake)",
+    "Luck favors the prepared mind: having a clear thesis lets you recognize and act on lucky breaks that others would overlook",
+    "Intensive/immersive travel: pick one city, stay a month+, join a real local community/activity (yoga, jiu-jitsu) instead of checkbox tourism"
+  ],
+  "learnings": [
+    "Founders should identify the one or two things that truly matter for their business model (like Stripe's single-minded focus on developers) rather than trying to optimize five things at once.",
+    "A business model innovation (like Anduril selling drones at hardware margins instead of defense's traditional cost-plus 5% margin) can be as valuable as the underlying technology itself.",
+    "Big tech companies abandoning a category under public pressure (e.g., Google killing Project Maven) can signal a wide-open opportunity for a values-aligned startup to fill the vacuum.",
+    "Aging is treated by regulators as a natural state rather than a disease, which structurally starves longevity research of funding and a clear regulatory pathway for drugs.",
+    "Sustained monument-building and grand civic projects (Eiffel Tower, moon landings) largely stopped in the US after the 1960s, coinciding with a cultural shift toward cynicism about progress."
+  ],
+  "banger_quotes": [
+    {"who": "Guest", "quote": "Luck favors the prepared mind."},
+    {"who": "Guest", "quote": "Technology is a lever on the world."},
+    {"who": "Guest", "quote": "When a great entrepreneur meets a bad market, only one of them keeps their reputation."},
+    {"who": "Sam", "quote": "It's very strange that you're an investor because you don't seem money-motivated."}
+  ],
+  "numbers_dropped": [
+    "Guest has invested in 40+ billion-dollar (unicorn) companies, 20-30 at very early stage",
+    "YC turned roughly $12 million into ~$10 billion of value in its first decade, a ~320x return on top holdings",
+    "BioAge (guest's early investment, board observer) recently went public; guest was its first investor",
+    "Rapamycin extends mouse lifespan 10-30% depending on sex in studies cited by guest",
+    "An island in the San Francisco Bay that guest considered for the Monumental project reportedly sold for around $29 million",
+    "A man in the American South spent roughly $3-4 million of his own savings building roadside crosses"
+  ],
+  "topics": ["angel investing", "market-first investing thesis", "longevity/aging research", "defense tech (anduril)", "ai and future of work", "civic monument-building", "immersive travel"],
+  "sponsor_read_count": 1,
+  "notable": "The episode ends on an unplanned tangent about immersive month-long travel (yoga in India, jiu-jitsu in Spain) that Sam explicitly calls the most useful takeaway, despite the interview being framed around investing strategy."
+}

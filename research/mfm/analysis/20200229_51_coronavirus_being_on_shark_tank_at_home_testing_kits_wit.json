@@ -1,0 +1,54 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Julia Cheek, founder and CEO of Everly Well",
+  "approx_date": "Feb 2020",
+  "format": "mixed",
+  "business_ideas": [
+    {"idea": "Everly Well: direct-to-consumer at-home blood testing with comprehensive results and health reports", "who": "Guest", "conviction": "says he might build it"},
+    {"idea": "Pipe.com: cash flow financing for subscription businesses with revenue-based borrowing", "who": "Sam", "conviction": "serious"},
+    {"idea": "Transparent revenue dashboards (Convert Kit, Gumroad model) for customer acquisition via trust", "who": "Sam", "conviction": "serious"},
+    {"idea": "Invoice factoring for contractors: fast payment with 5% vig, like Pipe for gig workers", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "Judy emergency kits: pre-packaged survival/emergency backpacks for natural disasters", "who": "Sam", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "Coronavirus is extremely contagious, will spread globally, cannot be contained despite low fatality rate"},
+    {"who": "Sam", "text": "Financial infrastructure for software companies is being rebuilt by specialized fintechs (Mercury, Brex, Ramp, Pipe)"},
+    {"who": "Guest", "text": "Direct-to-consumer healthcare testing will become ubiquitous across retail channels"}
+  ],
+  "disagreements": null,
+  "dynamics": "Two-part episode: first segment Sam and Shaan react to coronavirus outbreak, discuss stock market impacts, and explore business opportunities; second segment Julia Cheek joins to discuss Everly Well's growth and Shark Tank experience, leading into rapid-fire discussion of transparent metrics and emerging fintech platforms. Tone shifts from nervous/news-reactive to entrepreneurial optimism.",
+  "frameworks": [
+    "Transparent metrics as customer acquisition tool (worked for Buffer, Convert Kit)",
+    "Subscription business unit economics: churn + new customer acquisition = net growth",
+    "Financial infrastructure stack: banking (Mercury), credit cards (Brex), receivables (Pipe), marketplace (Quiet Light)",
+    "Product-market fit in healthcare: start with the cohort you're solving for (women 25-45)",
+    "Reality TV as brand amplification with long prep/short final edit (50-page app, 40 hour process, 1 hour film → 7 minutes)"
+  ],
+  "learnings": [
+    "Transparent business metrics (revenue, churn, customer count) drive customer discovery when competitors aren't doing it",
+    "Subscription businesses need disciplined unit economics from day one, not betting on payback promises",
+    "Accessible healthcare testing solves a real problem (women dismissed by doctors, paying $2500+ with no answers)",
+    "Direct-to-consumer model requires distribution beyond online (retail, Amazon, Target, Kroger partnerships)",
+    "Shark Tank involvement is 10x more work than viewing audience realizes (9 months, contracts, image rights, producer story-crafting)",
+    "Emerging fintech firms solve problems traditional finance ignores (startup banking, contractor payments, revenue financing)"
+  ],
+  "banger_quotes": [
+    {"who": "Sam", "quote": "Most likely case: this is now a fifth annual flu strain we'll have to live with"},
+    {"who": "Guest", "quote": "100% of people who know me said I'm definitely gonna fail"},
+    {"who": "Sam", "quote": "The financial infrastructure for tech businesses is being rebuilt"}
+  ],
+  "numbers_dropped": [
+    "Everly Well: $40 million in sales in year 3",
+    "$50+ million raised (five rounds)",
+    "Shark Tank deal: $20M post-money valuation, 5% equity for line of credit at 8% interest",
+    "Coronavirus: 3,000+ deaths already (vs SARS <1,000)",
+    "Coronavirus: 3% fatality rate vs 14-day asymptomatic spread period",
+    "Pipe.com: $70 million in funding raised",
+    "Buffer: $22 million revenue company, publicly shares all metrics",
+    "Convert Kit: $1.7 million monthly recurring revenue, $20M annual run rate",
+    "Julia's doctor visits: $2,500 out of pocket across 5-6 doctors with no clear answers"
+  ],
+  "topics": ["coronavirus", "healthcare", "d2c", "saas", "fintech", "shark-tank", "testing", "business-infrastructure"],
+  "sponsor_read_count": 0,
+  "notable": "Julia Cheek left management consulting (Deloitte MBA, MoneGram) with zero health background or prior entrepreneurial experience; all colleagues predicted failure; scaled to $40M revenue in 3 years; Shark Tank was 9-month commitment (50-page app, 40-hour process, hour-long filming). Episode captures early COVID-19 moment (Feb 29, 2020) before pandemic became dominant topic, showing tech founders' real-time business analysis of emerging crisis."
+}

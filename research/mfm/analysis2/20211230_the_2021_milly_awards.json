@@ -1,0 +1,47 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Andrew Wilkinson, founder of Tiny (holding company for internet businesses)",
+  "approx_date": "Dec 2021",
+  "format": "mixed",
+  "business_ideas": [
+    {"idea": "Negotiation-as-a-service business (Buyer) helping people negotiate leases, cars, and big-ticket purchases", "who": "Sam", "conviction": "serious"},
+    {"idea": "Fake private-jet interior studio rented to influencers for photoshoots", "who": "Guest", "conviction": "throwaway"},
+    {"idea": "Marriage/relationship 'operating system' with structured recurring check-ins modeled on business board meetings", "who": "Sam", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Guest", "text": "High salary inflation from remote hiring is not here to stay as companies shift to hiring cheaper, motivated talent in India and the Philippines."},
+    {"who": "Shaan", "text": "Terraform Labs' Luna/UST stablecoin will become a leading real-world crypto payment rail over the next year."},
+    {"who": "Shaan", "text": "The Winklevoss twins could end up richer than Mark Zuckerberg within five years via their Bitcoin, Ether, and Gemini holdings."},
+    {"who": "Sam", "text": "San Francisco will be cool/relevant again (repeated from last year's prediction)."},
+    {"who": "Shaan", "text": "SPACs are an overrated trend, with sponsors profiting regardless of post-merger stock performance."}
+  ],
+  "disagreements": "No major disagreement; the episode is a friendly, structured awards format with each person giving independent answers and mild ribbing (e.g., Sam and Shaan teasing each other for both picking the 'obvious' answer OpenSea, and revisiting who was right or wrong about last year's COVID/remote-work predictions).",
+  "dynamics": "This is a fully scripted year-end 'Milly Awards' format (a sequel to the 2020 episode), with Shaan moderating through dozens of categories and all three participants giving independent, pre-prepared answers, then reacting to each other's picks. Sam is self-deprecating about a costly missed follow-up on a Deel investment; Shaan shares a vulnerable admission about being a bad friend via one-line text replies; the guest grounds the conversation with detailed business/financial breakdowns (Pershing Square Holdings, stablecoins, SPAC economics).",
+  "frameworks": ["a personal-relationship 'board meeting' cadence using structured journals/question decks to deepen connection", "SPAC economics (sponsor profits regardless of post-merger performance due to asymmetric share structure)", "trust-building through consistent public engagement leading to unexpected opportunities (e.g., a listener's DMs leading to a guest booking)"],
+  "learnings": [
+    "Founders who bet fully on themselves with asymmetric compensation structures (like Elon Musk's Tesla pay package) can realize enormous payoffs if they hit ambitious, seemingly implausible targets.",
+    "Concentrated conviction investing (e.g., putting a large share of net worth into one vehicle you trust, like Pershing Square Holdings) can outperform diversification when paired with a skilled manager.",
+    "Following up quickly and consistently on promising early-stage investments can be the difference between a modest return and a life-changing one (illustrated by a missed early Deel round).",
+    "A founder's public brand/content strategy (relentlessly pushing one narrative, like remote work's inevitability) can be an effective if somewhat manipulative growth lever.",
+    "Neglecting to reciprocate in personal relationships (one-line text replies, not staying in the loop) can quietly damage friendships even when there's no ill intent, especially as one's public profile grows."
+  ],
+  "banger_quotes": [
+    {"who": "Guest", "quote": "Just board a cruise ship. Don't try and build your own boat."},
+    {"who": "Shaan", "quote": "I need to really learn how to do that... I come across as distant and cold."},
+    {"who": "Sam", "quote": "Investing is a hell of a drug."}
+  ],
+  "numbers_dropped": [
+    "OpenSea grew from $24 million to $15 billion in GMV in one year (about 650x)",
+    "Peter Levels' one-person business grew from ~$300-500K/year to nearly $5 million in revenue in 2021",
+    "American Striping (a road-line-painting business) grew from $400K to $7 million to almost $15 million in revenue over three years at ~70% margins",
+    "OnlyFans reportedly gets about 250 million monthly visitors",
+    "Sam's $25,000 investment in Deel (at a ~$12 million cap) would have been worth over $11 million at its later $5.5 billion valuation, but he missed that round and invested later at a much higher valuation",
+    "Andrew's Pershing Square Holdings position quadrupled over a couple of years; Bill Ackman reportedly turned $25 million into $2.7 billion on a COVID hedge trade",
+    "Zillow stock fell 56% in a year despite a booming housing market, after Sam and friends invested around its peak",
+    "Oculus reportedly sold about 10 million units (~$4 billion revenue) in 2021, close to PlayStation's 14 million",
+    "Terra's Luna token went from about $1 to about $100 in 2021 (~100x)"
+  ],
+  "topics": ["2021 year in review", "crypto/nfts", "investing predictions", "business ideas", "relationships/personal growth", "media/podcast recommendations"],
+  "sponsor_read_count": 0,
+  "notable": "This is the second annual 'Milly Awards' scripted year-end format, running long with dozens of categories; the hosts explicitly review and grade their own predictions from the prior year's episode, and Shaan shares an unusually candid personal admission about realizing he'd been a poor friend to several people who became successful."
+}

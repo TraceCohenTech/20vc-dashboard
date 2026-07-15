@@ -1,0 +1,94 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Jan 2021",
+  "format": "mixed",
+  "business_ideas": [
+    {
+      "idea": "Digital meet and greets: pay to video chat with celebrity for 1 min via Zoom, scheduled queue system",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Cameo variations: personalized shout-out videos from celebrities, but cheaper or different formats",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Winter.io: copywriting testing platform finding right demographic to test your messaging",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "UCalc.pro: no-code embedded calculator tool for websites to boost SEO and engagement",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Portfolio of niche WordPress plugins: OptinMonster, WPForms, Monster Insights, WP Mail SMTP",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "User testing marketplace: people submit photos then receive videos of 250 reactions unboxing product",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Deep Senegal: home security monitoring with live human guard response service",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Printing network via Airbnb model: neighbors with printers earn $5 per job instead of FedEx",
+      "who": "Sam",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Browser extension for user testing feedback: micropay testers $3 per quick video review while browsing",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "Diversity quotas in personal social media recommendation lists are counterproductive to authentic sharing"
+    },
+    {
+      "who": "Sam",
+      "text": "Twitter will become place where women tech creators can build massive audiences, currently male-dominated"
+    }
+  ],
+  "disagreements": "Sam vs Shaan on diversity in Twitter follows: Sam says personal taste shouldn't require quotas, Shaan says as their platform grows they should model inclusivity. Both agreed quotas are wrong but disagreed whether influence creates responsibility. Shaan: 'we have crossed threshold of influence.' Sam countered: 'if I have voice I should get what interests me.'",
+  "dynamics": "Sam drives idea generation from his research and network; Shaan provides critique and deeper dives. Energy is enthusiastic and idea-focused. Sam shares from personal experiments (user testing mom, Deep Senegal at Noah Kagan's). Dynamic shows Sam finding and Shaan validating or pushing back.",
+  "frameworks": [
+    "Marketplace dynamics: supply side first (testers/celebrities) then demand side",
+    "Bottom-up virality: products that spread through company because one person finds them useful",
+    "Bottoms-up adoption where anyone at company can sign up for tool, not top-down enterprise sales"
+  ],
+  "learnings": [
+    "Boring task-removal businesses (transcription, testing, calculations) are high-margin if they remove enough friction",
+    "Newsletter businesses work when they combine free audience funnel with high-end paid tier for specialists",
+    "WordPress plugin portfolio model works because creators build huge audience then promote adjacent tools",
+    "Instagram harassment and diversity criticism became viral attention mechanic that amplified original post reach",
+    "Personal anecdotes (mom as user tester) validate market more than hypothetical examples"
+  ],
+  "banger_quotes": [
+    {"who": "Sam", "quote": "Most people in Silicon Valley are like, oh what a shame, I can't say back"},
+    {"who": "Shaan", "quote": "The nature of the product is that you share the results, that spreads through company"},
+    {"who": "Sam", "quote": "If I'm not thinking about diversity when tweeting, maybe that's the problem"},
+    {"who": "Sam", "quote": "Playing business: when you get domain, cards, logo, and swag before getting any customers"}
+  ],
+  "numbers_dropped": [
+    "User Testing at $100M+ recurring revenue from 2000 organizations",
+    "UCalc creator is Russian, appears bootstrapped, no visibility online",
+    "Saeed Balkhi's plugins estimated $30-40M recurring revenue range",
+    "WPBeginner gets 5-10M monthly uniques, probably makes $10M+ per year",
+    "Winter testing platform raised money but was less than year old",
+    "Sam gained 20,000 followers from single Twitter thread about favorite accounts"
+  ],
+  "topics": ["user-testing", "marketplace", "saas", "wordpress", "twitter", "diversity"],
+  "sponsor_read_count": 0,
+  "notable": "Sam got roasted on Twitter for all-male list of favorite accounts, sparked conversation about diversity in tech Twitter. Instagram diversity conversation showed power of relatable memes to go viral."
+}

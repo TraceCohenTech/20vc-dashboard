@@ -1,0 +1,124 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Nov 2020",
+  "format": "idea-brainstorm",
+  "business_ideas": [
+    {
+      "idea": "List-making as business (Hot guys in tech, power rankings, Silicon Alley 100)",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Viral neighborhood stereotypes infographics for roommate/city guides",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Creator Cabins: year-round retreat center for makers and online creators",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Five-minute city planned community (walkable, all amenities nearby)",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Immigrant-focused neighborhood communities for seniors/empty nesters",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Addressable: robot handwriting service for personalized direct mail campaigns",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Chrome extension products and tools built from personal systems",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Diversified solopreneur monetization: courses + newsletters + products + real estate",
+      "who": "Shaan",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "Solopreneurs like Thiago Forte (~$1.5M/year courses) will out-earn legacy creators like Tim Ferriss through diversified monetization"
+    },
+    {
+      "who": "Sam",
+      "text": "Direct mail will resurge as digital advertising becomes saturated and ROI decreases"
+    },
+    {
+      "who": "Sam",
+      "text": "Creator villages and retreat centers will become trend following Thiago Forte cabin model"
+    }
+  ],
+  "disagreements": null,
+  "dynamics": "Sam and Shaan rapidly brainstorm across multiple verticals with enthusiasm but cynicism. Shaan opens up about shutting down All Access Pass paid newsletter despite $50K/month revenue because it doesn't align with his 70M-person teaching goal—shows impact prioritization over short-term income. Both acknowledge 'bullshit lists' (Forbes 30u30) but admit they'd participate anyway. Abreyu provides running commentary and feedback. Energy is playful—they joke about being in bullshit things while acknowledging the business model works.",
+  "frameworks": [
+    "King-making — whoever creates a list becomes the kingmaker; people want to be included so will share and promote it",
+    "Viral specificity — name-drop specific people and places (neighborhood names, restaurant names) so insider audiences share it",
+    "When world moves one way, opportunity emerges in opposite direction (Facebook dominance → Snapchat; digital ads saturate → direct mail resurges)",
+    "Diversified solopreneur monetization — courses + newsletters + podcast ads + products + real estate + events; multiple revenue streams from single audience",
+    "Founder pedigree in pitch — credibility from previous companies (OkCupid engineer, Facebook PM) signals growth/product mindset",
+    "Personal media company model — individual is the brand and media platform, not affiliated with traditional publisher"
+  ],
+  "learnings": [
+    "Lists are often bullshit (pay-to-play criteria), but prestige of name drives participation regardless; becomes self-fulfilling prophecy",
+    "Solopreneurs are systematically under-monetizing relative to influence (Tim Ferriss $200M from Uber, not platform; Thiago Forte $1.5M from courses alone)",
+    "Paid newsletters at $200/month with quality content can retain 93%+ of subscribers after first-month churn",
+    "Handwritten letters (robot-pen service) get dramatically higher engagement/ROI than digital mail",
+    "Viral marketing works via understanding what specific people (with specific identities) will retweet or share as a joke or brag",
+    "Direct mail is $80B industry declining but resurging as digital saturation creates diminishing ROI",
+    "Impact goals override income goals — Shaan killed $50K/month newsletter because it didn't reach his 70M-person teaching goal",
+    "Founder-led planned communities (immigrant neighborhoods, creator cabins) are emerging as lifestyle businesses"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Shaan",
+      "quote": "I don't want to be part of any club that will accept me as a member."
+    },
+    {
+      "who": "Sam",
+      "quote": "When the whole world moves one way, it creates opportunity back for the other thing."
+    },
+    {
+      "who": "Shaan",
+      "quote": "Bullshit things that I'd love to be a part of—that's the theme of this episode."
+    },
+    {
+      "who": "Abreyu",
+      "quote": "This wasn't rapid fire? No, this was. Boom, boom, boom. ID, ID, ID."
+    }
+  ],
+  "numbers_dropped": [
+    "Shaan All Access Pass: $200/month, 300+ subscribers, $50K/month revenue, 93% retention after first month",
+    "50 pieces of content written by Shaan in 70 days for All Access Pass",
+    "Thiago Forte: ~$1.5M/year from courses (Building a Second Brain)",
+    "Tim Ferriss: ~$200M net worth primarily from Uber investment, not from platform monetization",
+    "Direct mail industry: ~$80 billion/year",
+    "Addressable: raised only $1.5M, based in LA, bootstrapped well",
+    "Kylie Kardashian: close to billionaire status from makeup/personal brand",
+    "Shaan's decade goal: teach 70 million people (1% of world population)"
+  ],
+  "topics": [
+    "solopreneur",
+    "creator-economy",
+    "list-making",
+    "viral-marketing",
+    "direct-mail",
+    "planned-communities",
+    "monetization-models",
+    "paid-newsletters",
+    "automation",
+    "impact-vs-income"
+  ],
+  "sponsor_read_count": 0,
+  "notable": "Shaan's decision to shut down $50K/month All Access Pass is unusually vulnerable moment for MFM—prioritizing teaching impact (70M goal) over short-term revenue is counter to typical founder mindset. Episode also prescient about creator villages (Thiago Forte cabins now thriving), diversified solopreneur monetization (now mainstream), and direct mail (resurging as email saturates). Discussion of 'bullshit lists' provides meta-commentary on how prestige gets manufactured in tech/startup world."
+}

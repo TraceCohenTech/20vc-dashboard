@@ -1,0 +1,54 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Feb 2022",
+  "format": "mixed",
+  "business_ideas": [
+    {"idea": "Guide runner for blind Paralympic athletes", "who": "Sam", "conviction": "serious"},
+    {"idea": "Go Links for startups - simple human-readable URL shortcuts to docs", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Nira - cloud document access audit and revocation platform", "who": "Shaan", "conviction": "says he might build it"},
+    {"idea": "Better clipboard/copy-paste optimization tool", "who": "Shaan", "conviction": "throwaway"},
+    {"idea": "Screenshot sharing made better (Bubbles)", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Coolers.co - AI color palette generator for design", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Executive database with deep profiles and relationship mapping", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Consulting course business - consulting.com model by Sam Ovens", "who": "Shaan", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "Guide running will be his path to the Olympics despite not being elite alone"},
+    {"who": "Shaan", "text": "Paper cut companies that solve frequent small annoyances will become massive"},
+    {"who": "Shaan", "text": "Nira will become valuable for enterprise security compliance"}
+  ],
+  "disagreements": "Sam argues Olympics represent optimizing life on arbitrary skills with huge sacrifice but minimal return. Shaan counters that Olympics represent culture, civil rights (Jesse Owens vs Hitler, Catherine Switzer), international unity, and refugee recognition. Shaan wins the debate with historical depth.",
+  "dynamics": "Sam drives with provocative takes; Shaan responds with depth and historical examples. High energy back-and-forth. Sam is conversational, Shaan is structured. Both riff on frameworks and ideas. Sam is the contrarian; Shaan grounds ideas in business/product reality.",
+  "frameworks": [
+    "Max Levchin's optimization trap: don't spend life optimizing for nothing, choose wisely what you optimize",
+    "Paper cut companies: solve frequent small annoyances that compound",
+    "12-star experience: define 1-star to 12-star product experience to expand what's possible",
+    "Moments between the moments: design experiences not just at peaks but in transitions",
+    "0.001% rule: price sensitivity threshold should scale with wealth (Nathan Barry wealth ladder)"
+  ],
+  "learnings": [
+    "Anything can be optimized to infinity, so pick what matters before you start",
+    "Small repeated annoyances (paper cuts) often make better business opportunities than big problems",
+    "Design details that users don't notice are what make products feel premium",
+    "Wealth changes how you should think about spending, but trauma from scarcity can override logic",
+    "Sports and art transcend culture and language in ways few other things do"
+  ],
+  "banger_quotes": [
+    {"who": "Max Levchin", "quote": "Be careful because you can spend your whole life optimizing for nothing"},
+    {"who": "Shaan", "quote": "All the magic is in the moments between the moments"},
+    {"who": "Sam", "quote": "The Olympics are an example of optimizing your life on the dumbest shit"},
+    {"who": "Shaan", "quote": "Sports represents so much more than just optimizing the seconds"}
+  ],
+  "numbers_dropped": [
+    "Go Links raised $27M Series A",
+    "Coolers.co gets ~5M monthly uniques",
+    "BoardRoom Insiders bought for $25M",
+    "Sam Ovens' consulting.com: $800K revenue/month, $60K expenses/month",
+    "0.001% rule: at $5M net worth = $500 price sensitivity threshold",
+    "Winter Olympics ratings at lowest ever"
+  ],
+  "topics": ["olympics", "business-ideas", "product-design", "entrepreneurship", "wealth-psychology", "paper-cuts"],
+  "sponsor_read_count": 1,
+  "notable": "Long form debate on whether Olympics represent cultural value or wasted optimization; pivots into multiple paper-cut business ideas with real examples (Nira, Coolers.co, Go Links) showing Shaan's investment thesis"
+}

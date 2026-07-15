@@ -1,0 +1,56 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Lloyd Blankfein, former CEO Goldman Sachs",
+  "approx_date": "Jun 2026",
+  "format": "guest-interview",
+  "business_ideas": [],
+  "predictions": [
+    {
+      "who": "Lloyd",
+      "text": "Bullish on big tech until it stops going up; 98% of portfolio is equities, heavy tech concentration"
+    },
+    {
+      "who": "Lloyd",
+      "text": "The gap between high-performing and underperforming investors is narrower than most believe"
+    }
+  ],
+  "disagreements": null,
+  "dynamics": "Sam and Shaan interview Lloyd Blankfein, treating him as investment authority while admitting their own portfolio ignorance (90% index, 10% bonds). Lloyd drives with insider perspective on market mechanics and what separates winners from losers. Hosts ask foundational investing questions from position of genuine curiosity rather than expertise.",
+  "frameworks": [
+    "Nobody knows anything principle: insiders know this; outsiders wonder if others have secret knowledge",
+    "Day trading as personal hobby vs. career: discipline-based edge rather than information edge",
+    "Equity concentration: professional investors use 98% equities; retail defaults to index+bonds conservatism"
+  ],
+  "learnings": [
+    "Successful investors believe nobody really knows; this awareness is competitive advantage over overconfident market participants",
+    "Day trading requires extreme discipline and real-time attention; most people lack psychological fortitude for it",
+    "Equity-heavy portfolios compound more than conservative mixes; risk tolerance and time horizon matter more than diversification anxiety",
+    "Being inside financial industry gives edge through understanding how irrational markets really behave"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Lloyd",
+      "quote": "The difference between really good and can't make it is not that great"
+    },
+    {
+      "who": "Lloyd",
+      "quote": "I'm a pro at day trading. It's what I've done my whole career"
+    },
+    {
+      "who": "Lloyd",
+      "quote": "Nobody knows anything. I just know others wonder"
+    },
+    {
+      "who": "Sam",
+      "quote": "My portfolio is basically 90% index, 10% bonds. I don't know what I'm doing"
+    }
+  ],
+  "numbers_dropped": [
+    "Lloyd's portfolio: 98% equities, 2% other",
+    "Big tech as 'controversial' major holding",
+    "Most investors allocate 60-70% equities; Lloyd uses 98%"
+  ],
+  "topics": ["investing", "portfolio-strategy", "market-psychology", "equities", "day-trading"],
+  "sponsor_read_count": 0,
+  "notable": "Lloyd Blankfein contrasts insider understanding of markets ('nobody knows anything') with outsider overconfidence; emphasizes discipline and risk tolerance over information edge for personal wealth building."
+}

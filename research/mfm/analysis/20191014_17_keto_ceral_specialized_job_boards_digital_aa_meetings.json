@@ -1,0 +1,32 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Oct 2019",
+  "format": "idea-brainstorm",
+  "business_ideas": [
+    {"idea": "Specialized job boards for niche verticals (pilots, construction, trucking)", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Paywall software for web-based content similar to Substack model", "who": "Sam", "conviction": "serious"},
+    {"idea": "Digital AA meetings platform (Tempest) to supplement in-person recovery groups", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Keto cereal DTC brand with minimal marketing costs", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Hunting and fishing D2C brand in underserved category", "who": "Sam", "conviction": "serious"},
+    {"idea": "Miniature cookware for apartment dwellers", "who": "Shaan", "conviction": "throwaway"},
+    {"idea": "Religious meditation app (equivalent of Calm for faith)", "who": "Sam", "conviction": "serious"},
+    {"idea": "Cloud kitchens for delivery-optimized ghost restaurants", "who": "Shaan", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "Specialized job boards will 10x engagement within niche verticals versus generic job sites"},
+    {"who": "Shaan", "text": "Addiction and mental health digital platforms will exceed in-person utilization rates"}
+  ],
+  "disagreements": null,
+  "dynamics": "Rapid-fire brainstorm between Sam and Shaan as co-hosts. Shaan leads on market research and mechanics; Sam riffs on brand positioning. High energy, building on each idea quickly.",
+  "frameworks": ["Job board valuation equation (openings × salary × friction)", "Pre-awareness marketing principle (modifying existing categories beats educating new ones)", "Vertical specialization in commoditized categories (niche = higher willingness to pay)"],
+  "learnings": ["Saturated categories can be won through extreme niche focus and personality", "D2C brands succeed by eliminating consumer decisions (3 options, not 30)", "Mental health and addiction recovery markets are seeing digital substitution rather than replacement"],
+  "banger_quotes": [
+    {"who": "Shaan", "quote": "If it was obvious it was huge someone would be doing it"},
+    {"who": "Sam", "quote": "You never want to see the finish line"}
+  ],
+  "numbers_dropped": ["105M Americans hunt or fish (one-third of country)", "Halo Top made 1M dollars in revenue despite high unit costs", "Rig Up raised hundreds of millions at multi-billion valuation"],
+  "topics": ["job-boards", "d2c", "vertical-niche", "marketplace", "mental-health", "food"],
+  "sponsor_read_count": 1,
+  "notable": "Sam mentors friend on door-knocking marketing (windows vs doors analogy); early discussion of cloud kitchens before they became mainstream."
+}

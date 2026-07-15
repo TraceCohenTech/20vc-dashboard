@@ -1,0 +1,101 @@
+{
+  "hosts": ["Shaan Puri"],
+  "guest": "Ryan Hoover, Founder of Product Hunt",
+  "approx_date": "Jul 2019",
+  "format": "guest-interview",
+  "business_ideas": [
+    {
+      "idea": "Booya Q&A platform where users share facts and others ask questions",
+      "who": "Ryan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Product Hunt email community platform for discovering new products",
+      "who": "Ryan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Product Hunt gaming vertical expansion for game discovery",
+      "who": "Ryan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Product Hunt books vertical expansion for book discovery",
+      "who": "Ryan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Product Hunt podcasts vertical expansion for podcast discovery",
+      "who": "Ryan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Weekend Fund early-stage venture capital fund ($50-100K checks)",
+      "who": "Ryan",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [],
+  "disagreements": null,
+  "dynamics": "Ryan is the guest, Shaan the host. Shaan is warm and personal, establishing their real friendship and how they met (Shaan tried to hire Ryan, Ryan didn't fit, they stayed friends, then Ryan started Product Hunt). Ryan is thoughtful and reflective, taking time to explain his reasoning. Ryan drives most airtime with his story; Shaan asks insightful follow-ups and shares related experiences. Energy is collaborative and intellectual. Format is conversational interview with deep dives into Ryan's decision-making.",
+  "frameworks": [
+    "Optionality is everything: multiple options beat single path",
+    "Success has many flavors, failure boils down to the same five",
+    "Do what's working until it stops working: iterate and change when strategy stops",
+    "Building on Twitter: use social media to build momentum and signal findings",
+    "Avoid obvious failures rather than seek single right path"
+  ],
+  "learnings": [
+    "Personal connection and authenticity beat mass marketing for community building",
+    "Product experience matters more than feature breadth or vertical expansion",
+    "Getting detailed feedback on rejection more valuable than vague let's stay in touch",
+    "Manual early-stage work (personal emails, tweets) creates momentum making community feel alive",
+    "Helping press and influencers in their own work builds leverage for your distribution",
+    "Detailed feedback on investment rejections helps founders learn and maintain relationship",
+    "People want to be part of something new and cool, not just use a product",
+    "Unsuccessful experiments are necessary and informative for finding product-market fit"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Ryan",
+      "quote": "Optionality is everything"
+    },
+    {
+      "who": "Ryan",
+      "quote": "Success has many flavors. Failure boils down to the same five."
+    },
+    {
+      "who": "Ryan",
+      "quote": "Do what's working until it stops working"
+    },
+    {
+      "who": "Ryan",
+      "quote": "I hate getting paid by the hour"
+    },
+    {
+      "who": "Ryan",
+      "quote": "There's no right way to start a startup"
+    },
+    {
+      "who": "Ryan",
+      "quote": "With communities, you need to feel it's alive and has momentum"
+    },
+    {
+      "who": "Shaan",
+      "quote": "You built your business on Twitter and nothing to do with Twitter"
+    }
+  ],
+  "numbers_dropped": [
+    "Product Hunt sold to AngelList for $20 million",
+    "Only 1.4% of Product Hunt visitors from Bay Area",
+    "20-30 initial curators in first days",
+    "Few hundred initial Twitter subscribers",
+    "175 subscribers and 30 contributors mentioned early on",
+    "Ryan's salary at PlayHaven: ended at $120,000",
+    "Weekend Fund check size: $50-100K typically",
+    "Ryan pays himself six figures from AngelList"
+  ],
+  "topics": ["product-discovery", "community-building", "startups", "venture-capital", "entrepreneurship", "investing"],
+  "sponsor_read_count": 1,
+  "notable": "Ryan celebrates the $20M acquisition by flying to LA and ordering rotisserie chicken with sparkling wine—notably restrained for a $20M exit. He's disciplined about diet (rotisserie chicken daily) and buys bulk spinach from restaurant supply company on Instacart."
+}

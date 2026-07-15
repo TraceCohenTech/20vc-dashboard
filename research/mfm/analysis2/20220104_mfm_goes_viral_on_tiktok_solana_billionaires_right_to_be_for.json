@@ -1,0 +1,45 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Jan 2022",
+  "format": "idea-brainstorm",
+  "business_ideas": [
+    {"idea": "A 'Do Not Pay'-style consumer service specifically for managing/cleaning up personal online reputation for regular (non-wealthy) people", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "Social-media reputation monitoring service sold to companies to flag employees' risky/controversial posts before they escalate", "who": "Shaan", "conviction": "throwaway"},
+    {"idea": "Branded luxury (Gucci/Louis Vuitton/Nike) implants for joint replacement surgery (hip/knee hardware) visible on X-rays, as a marketing/licensing play", "who": "Sam", "conviction": "serious"},
+    {"idea": "Branded licensed tattoo designs sold officially by fashion/shoe brands", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "Reboot of Glamour Shots for the Instagram era: green-screen photo studio with CGI backgrounds/props (private jet, fancy car, etc.) and professional posing guidance for social content", "who": "Sam", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "Crypto's talent and capital influx is a self-fulfilling prophecy that will eventually produce real, working use cases even if skeptics are currently right that none exist yet."}
+  ],
+  "disagreements": null,
+  "dynamics": "Sam drives most of the episode with a stream of research topics (reputation management, Solana/crypto wealth stories, OpenSea's SOS token hostile-takeover-style airdrop, and two rapid-fire business ideas at the end). Shaan responds with analysis, adds his own crypto anecdotes and a friend's near-hostile-takeover story of Ripple/XRP, and shares a candid personal reflection on feeling jealous of friends' sudden crypto wealth. Energy is high, fast-paced, and idea-dense, opening with discussion of the show's viral TikTok clip strategy.",
+  "frameworks": ["environment/peer-group normalization theory (being surrounded by people who bet on ideas and succeed makes ambitious risk-taking feel normal, similar to Jamaican sprinters or Silicon Valley founder culture)", "e-commerce unit economics ('break even on customer acquisition cost via first purchase, then profit on repeat purchases')", "'your success reminds people of their failure' -- reframing others' jealousy/hostility as about their own shortcomings, not you"],
+  "learnings": [
+    "Physical reputation-management firms (like Reputation.com) manipulate Google autocomplete and search rankings for wealthy clients, but this kind of service is prohibitively expensive and inaccessible for average people who suffer real reputational harm from minor incidents.",
+    "Being embedded in a peer group or geography where big financial wins and entrepreneurial risk-taking are normalized measurably changes what people believe is achievable for themselves.",
+    "Crypto's massive influx of venture capital and top technical talent, even if currently producing few proven use cases, is likely to eventually yield real working products simply due to the sheer scale of effort concentrated there.",
+    "In decentralized crypto ecosystems, a community/third party can effectively stage a 'hostile takeover' of a platform (like OpenSea) by airdropping tokens to existing users based on their on-chain transaction history, since users have no platform lock-in and can migrate freely.",
+    "E-commerce businesses are often 'great to own, bad to invest in' because they rarely reach software-like valuations even at scale, while remaining cash-poor and capital-intensive to run."
+  ],
+  "banger_quotes": [
+    {"who": "Shaan", "quote": "You can't have this much talent spend all day thinking about this and building in this and have nothing come from it."},
+    {"who": "Sam", "quote": "Investing is a hell of a drug."},
+    {"who": "Shaan", "quote": "Your success has reminded them of their failure, or your abundance has reminded them of their lack."}
+  ],
+  "numbers_dropped": [
+    "MFM TikTok clips contest generated roughly 15 million impressions in about two weeks",
+    "Chris McCann reportedly turned a $250,000 Solana investment into roughly $1 billion",
+    "Solana rose from about $1.54 to roughly $200 in about a year",
+    "A friend turned $500,000 into $15 million via DeFi trading",
+    "OpenSea did about $8-10 billion in trading volume in a single month",
+    "The OpenDAO SOS token airdrop distributed roughly $300 million worth of tokens to OpenSea users based on on-chain activity",
+    "Ripple/XRP had a market cap of roughly $44 billion at the time discussed",
+    "Native (deodorant company) sold for about $100 million after raising only about $1-2 million",
+    "Glamour Shots grew to about $100 million in sales by 1994 with 380 stores, later declining to about 5 remaining locations"
+  ],
+  "topics": ["tiktok/viral content growth", "reputation management", "crypto wealth stories", "solana/defi", "opensea/nft marketplaces", "peer environment and ambition", "e-commerce economics"],
+  "sponsor_read_count": 0,
+  "notable": "Shaan recounts a friend's unrealized plan to stage a covert 'hostile takeover' of Ripple/XRP by airdropping tokens to holders with a 5x buyback incentive to crash the price and fund a rival protocol -- foiled when the plan leaked to a journalist before it could be executed."
+}

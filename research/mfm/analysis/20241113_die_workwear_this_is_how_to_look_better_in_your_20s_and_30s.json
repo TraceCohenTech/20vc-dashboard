@@ -1,0 +1,49 @@
+{
+  "hosts": ["Sam Parr"],
+  "guest": "Ryan Peterson, founder of Flexport and Import Genius",
+  "approx_date": "Nov 2024",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "Data-driven B2B shipping manifest platform for supply chain visibility", "who": "Peterson", "conviction": "serious"},
+    {"idea": "Building permit data search engine for contractor discovery", "who": "Peterson", "conviction": "serious"},
+    {"idea": "Premium phone booth designs for open office privacy", "who": "Peterson", "conviction": "serious"},
+    {"idea": "Water quality testing and accountability app using public data", "who": "Sam (ref)", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Peterson", "text": "Freight forwarding will be disrupted by direct-to-consumer logistics platforms"},
+    {"who": "Peterson", "text": "Phone booths will scale as open office necessity without proper infrastructure"}
+  ],
+  "disagreements": null,
+  "dynamics": "Peterson shares journey from bootstrapped Import Genius to VC-backed Flexport. Discussion covers finding overlooked opportunities, negotiation philosophy, and paradox of wealth. Sam asks about business models and decision-making.",
+  "frameworks": [
+    "Schle blindness - blindness to biggest/most obvious problems in industries",
+    "Paradox of wealth - chasing money directly reduces your ability to make it",
+    "The six stakeholders model - customers, vendors, employees, investors, regulators, communities",
+    "Arbitrage through data access - public data + organization + distribution = business",
+    "Table selection - choosing which competition to engage matters more than skills"
+  ],
+  "learnings": [
+    "Biggest opportunities often in industries people have learned to accept dysfunction in",
+    "Focus on creating win-wins for all stakeholders rather than extracting maximum value",
+    "Personal values should guide business and life decisions consciously",
+    "Negotiations that feel like wins often create problems later with repeat counterparties",
+    "Cash flow beats net worth as measure of actual financial freedom"
+  ],
+  "banger_quotes": [
+    {"who": "Peterson", "quote": "You can just do things - no permission needed if it's legal"},
+    {"who": "Peterson", "quote": "The Paradox of wealth: focusing on money makes you make less money"},
+    {"who": "Peterson", "quote": "Competing with knuckleheads is better than competing with people like you"},
+    {"who": "Peterson", "quote": "Be expensive with your happiness, don't be cheap with your mood"}
+  ],
+  "numbers_dropped": [
+    "Flexport: multi-billion dollar company (went through YC)",
+    "Import Genius: still profitable, millions in annual profit",
+    "Water taxi businesses: $400K per summer per boat, 3 boats = $1.2M annually",
+    "Phone booth company: reached $50M revenue before sale",
+    "E-commerce business: $50M+ revenue using Flexport and Import Genius",
+    "Charlie Munger real estate side hustle at age 90: $1B portfolio"
+  ],
+  "topics": ["entrepreneurship", "logistics", "supply chain", "negotiation", "bootstrapping", "business philosophy", "wealth"],
+  "sponsor_read_count": 1,
+  "notable": "Unique perspective balancing bootstrap success (Import Genius still profitable) with VC growth (Flexport); emphasis on finding overlooked industries and long-term stakeholder value"
+}

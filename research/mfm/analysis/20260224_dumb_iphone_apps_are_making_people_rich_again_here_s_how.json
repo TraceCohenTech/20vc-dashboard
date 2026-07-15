@@ -1,0 +1,61 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Pat, founder of Starter Story (acquired by HubSpot)",
+  "approx_date": "Feb 2026",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "iOS apps with health/behavior gamification (push-ups before scrolling, prayer before TikTok)", "who": "Pat", "conviction": "serious"},
+    {"idea": "B2B video production services: YouTube strategy consulting for Fortune 500 ($50-100K/month)", "who": "Pat", "conviction": "serious"},
+    {"idea": "Done-for-you podcast interview format for companies (turn interviews into content clips)", "who": "Pat", "conviction": "serious"},
+    {"idea": "Street interview video format service for brand content", "who": "Pat", "conviction": "serious"},
+    {"idea": "Stop-vaping app (Puff Count) tracking to quit nicotine", "who": "Pat", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Pat", "text": "iOS apps are back as a viable business model due to AI coding tools lowering build costs"},
+    {"who": "Pat", "text": "B2B video production is the next huge market as companies struggle to produce quality content"},
+    {"who": "Pat", "text": "TikTok viral validation before product build will become standard app launch playbook"}
+  ],
+  "disagreements": "Sam pushes back on systems/EOS thinking it's a silver bullet for early-stage businesses; Pat acknowledges systems are for managing growth, not creating it. Sam advocates for brute force and drilling for oil early; Pat agrees but still emphasizes processes.",
+  "dynamics": "Pat systematically walks through frameworks and production processes (EOS, Notion, prep docs). Sam and Shaan probe and challenge, testing ideas. Pat is a systems-oriented operator who shares templates and actual workflows. Energy is collaborative and tactical.",
+  "frameworks": [
+    "Value hypothesis vs growth hypothesis: separate problems requiring different solutions (Lean Startup)",
+    "Pre-production system: title + thumbnail + treatment before filming (Hollywood model)",
+    "Reverse Field of Dreams: validate via viral TikTok before building product",
+    "EOS (Entrepreneurial Operating System): L10 meetings, 2 rocks per team, scorecards, 6-week cycles",
+    "Asynchronous task management: deep work focus, no urgency culture, Notion-based",
+    "Ego business vs actual business: align on what's actually working, not what sounds cool",
+    "Think Week methodology: dedicated time to refocus and eliminate distractions"
+  ],
+  "learnings": [
+    "AI coding tools removed the team-of-four requirement for app development, enabling solo founders to ship viable products",
+    "Startup survival requires brutal focus: dropping ego projects and doubling down on what's working is often the inflection point",
+    "Burnout signals misalignment, not overwork; solution is focus/refocus, not rest",
+    "Revenue transparency was Starter Story's differentiator—founders wanted to see 'real' numbers, not hype",
+    "Production systems (prep docs, treatments, templated workflows) are repeatable competitive advantages in content",
+    "TikTok as validation channel before product ship dramatically reduces wasted engineering time",
+    "B2B companies severely underprepared for video content; demand far exceeds supply of quality services",
+    "Format-specific businesses (street interviews, podcast-interview-as-content) scale better than generalist agencies",
+    "Systems enable delegation but don't create growth; they manage growing pains after product-market fit"
+  ],
+  "banger_quotes": [
+    {"who": "Pat", "quote": "Apps are the new info products."},
+    {"who": "Pat", "quote": "If they come, then we'll build it—reverse Field of Dreams."},
+    {"who": "Pat", "quote": "Busy people are the biggest losers."},
+    {"who": "Pat", "quote": "I am my own greatest obstacle."},
+    {"who": "Sam", "quote": "Growth doesn't come from one acronym away—it comes from finding the vein."},
+    {"who": "Pat", "quote": "The solution to burnout wasn't 6 months off—it was alignment."}
+  ],
+  "numbers_dropped": [
+    "PushScroll (push-ups blocker) doing 30K+/month publicly disclosed, significantly higher after interview",
+    "Alan Wong (50 Scanner app) made $5-8M/year solo",
+    "Cali (calorie tracker) was $30M/year at interview time, $6M/month reported later (~70M annual)",
+    "YouTube strategy agency for Fortune 500: $50-100K/month",
+    "Street interview format business: $10M/year revenue (single format)",
+    "Starter Story plateau: $8K/month for 12 months before pivot",
+    "Post-pivot growth: doubled to $25K/month within 6 months",
+    "Total build time for Starter Story: 8 years"
+  ],
+  "topics": ["ios-apps", "app-development", "ai-coding", "video-production", "b2b-services", "creator-economy", "systems-operations", "focus", "startup-growth"],
+  "sponsor_read_count": 1,
+  "notable": "Pat was closing HubSpot acquisition during recording (deal confirmed 'tomorrow'). Emphasizes production systems and templates heavily, sharing actual Notion boards and prep docs. Discusses how AI coding tools revived app economy."
+}

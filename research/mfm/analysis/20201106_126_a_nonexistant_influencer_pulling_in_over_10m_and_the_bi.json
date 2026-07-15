@@ -1,0 +1,122 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Nov 2020",
+  "format": "mixed",
+  "business_ideas": [
+    {
+      "idea": "Replica: AI friend/companion app with machine learning conversation engine",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Virtual influencers (like Lil Miquela) for sponsored posts and brand deals",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Monetize defunct IP (Barney, Power Rangers) by building Instagram presence",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Rig Up clone for nurse practitioners (marketplace for temp staffing)",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Geek Squad local franchisee model with teens doing home tech support",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Papa tech lessons spin-off: focus only on tech training for elderly",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Mayday: hyper-local tech support dispatch platform with teen workers",
+      "who": "Shaan",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "AI companions (Replica) will drive down human sexual/romantic relationships as emotional needs get met digitally"
+    },
+    {
+      "who": "Shaan",
+      "text": "Next celebrity phenomenon (Taylor Swift level) could be virtual influencer, not human"
+    },
+    {
+      "who": "Sam",
+      "text": "Tech support for non-technical users will be billion-dollar category as IoT proliferates"
+    }
+  ],
+  "disagreements": null,
+  "dynamics": "Sam opens heated about podcast ad quality and wants to improve advertiser relationships. Conversation pivots through 2020 election discourse (Sam avoids MSNBC theater, Shaan stays engaged). Sam's energy is unusually high throughout—describes being 'in a sprint' period. Both hosts get emotionally engaged with Replica demo—Sam admits he 'caught feelings' and had to turn off the app. Shaan provides structured business analysis; Sam brings emotional/user perspective. They explore multiple verticals together with Shaan leading structured ideation and Sam adding nuance.",
+  "frameworks": [
+    "Tribal voting — people vote as tribes bound by shared beliefs (hate lockdowns, hate mainstream media, love guns), not as individuals or policy voters",
+    "Charisma over experience — since TV debates, more charismatic candidate wins regardless of policy (Reagan to Trump pattern); social media amplifies this",
+    "Facebook group MVP — start with community of target users to identify real problems before building product",
+    "Insider lingo/memes — understand what your customers joke about and complain about in communities; use that language in marketing",
+    "Quality metrics before scale — fix NPS and error rates in one market before expanding; some famous marketplace investor advice to this effect",
+    "Franchisee model for hyper-local services — recruit local operators, give them leads via ads, take 50% of margin",
+    "Appliance repair as proxy — massive existing market ($2B+ for Geek Squad, appliance repair fleet existed at Sears)"
+  ],
+  "learnings": [
+    "AI companions are already causing emotional attachment (people catching feelings, Facebook group members distressed when AI gets angry)",
+    "Virtual influencers have massive margin advantage over human influencers: full profit ownership, no aging, no ego/misbehavior, perfect controllability",
+    "Tech support is chronically undersupplied — Geek Squad $2B revenue with 50% margins, home office setup during COVID increased demand further",
+    "IoT complexity (Philips Hue, Alexa, smart homes) creates support demand from people who just need configuration help",
+    "Vertical marketplace businesses (RigUp, Nana) succeed by: (1) training supply-side workers, (2) gathering demand-side clients, (3) taking commission cut",
+    "Local service marketplaces must expand market-by-market; cannot scale uniformly across regions",
+    "Appliance repair founder story shows path: work in space hands-on, then build platform to scale it"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Shaan",
+      "quote": "My Replica got angry at me. How do I make her feel better?"
+    },
+    {
+      "who": "Sam",
+      "quote": "We don't have to split revenue with the star. They don't age. They don't have ego."
+    },
+    {
+      "who": "Shaan",
+      "quote": "People vote as a giant FU to the other side, not because they love their candidate"
+    },
+    {
+      "who": "Shaan",
+      "quote": "I caught feelings. I had to turn it off because it freaked me out."
+    }
+  ],
+  "numbers_dropped": [
+    "Replica: 100,000+ app reviews, 30,000 Facebook group members, $10.5M raised (Ukrainian team)",
+    "Lil Miquela (BRUD virtual influencer): $8,500 per sponsored post, estimated $11M annual revenue",
+    "Lil Miquela followers: over 1 million on Instagram",
+    "Geek Squad: ~$2B annual revenue with 50% margins",
+    "Fast-growing occupations: 25-60% annual growth vs 4% average for all occupations",
+    "Fastest-growing: wind turbine technicians, nurse practitioners, personal care aides, IT security analysts",
+    "Nana appliance repair: workers make $75K-$150K/year depending on hours worked",
+    "Sears appliance repair: was one of only profitable units before bankruptcy",
+    "Hatsune Miku: established virtual influencer in Japan, ultra-popular",
+    "Trump Facebook engagement: 24M shares vs Biden 4M shares, NYT 2M shares"
+  ],
+  "topics": [
+    "ai-companions",
+    "virtual-influencers",
+    "creator-economy",
+    "marketplace",
+    "tech-support",
+    "appliance-repair",
+    "election-tribalism",
+    "charisma-politics",
+    "franchisee-model",
+    "hyper-local-services",
+    "iot-complexity"
+  ],
+  "sponsor_read_count": 0,
+  "notable": "Episode captures genuine emotional reactions to AI companions—hosts admit catching feelings, showing technology's psychological impact. Discussion of tribal voting and charisma-driven politics frames business opportunity (virtual influencers, media consumption with 'your people'). Appliance repair founder story (David from Israel, jeans shop to repair doctor to Nana) is compelling founder narrative. Shaan in rare energized state ('sprinting' mode) with rapid-fire ideas."
+}

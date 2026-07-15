@@ -1,0 +1,48 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "April 2024",
+  "format": "frameworks/advice",
+  "business_ideas": [
+    {"idea": "Hampton: community for high-net-worth founders with wealth surveys", "who": "Shaan Puri", "conviction": "serious"}
+  ],
+  "predictions": null,
+  "disagreements": "Sam argues Shaan's non-responsiveness creates relationship friction and hurt investors; Shaan counters that people shouldn't expect obligation to respond to unsolicited messages",
+  "dynamics": "Shaan leads with philosophy of unscheduled life; Sam challenges with practical concerns about responsiveness and relationships. Shaan is systems-oriented and conceptual; Sam is execution-oriented and people-focused. Warm debate with mutual respect.",
+  "frameworks": [
+    "Maker vs Manager schedule (Paul Graham): break day into 90-min focused sprints vs constant meeting switching",
+    "Show me your Google Calendar and I'll show your priorities: calendar reveals actual vs stated priorities",
+    "Effective not efficient: focus on right things not fast execution",
+    "Big thing first thing: tackle most important task before anything else",
+    "Barbell strategy for relationships: many light text touches plus occasional full-day deep hangs",
+    "One big thing framework: identify daily win condition before starting",
+    "Quarterly priorities over annual: review priorities every 3 months to avoid autopilot"
+  ],
+  "learnings": [
+    "Inspiration is perishable like avocado, striking while motivated matters more than perfect timing",
+    "Unscheduled life requires role autonomy and freedom from operational management",
+    "Trade-off: responsiveness for depth; some people perceive non-reply as arrogance",
+    "Financial independence enables lifestyle autonomy but takes 8-10 years to manifest",
+    "Most people confuse motion with progress; busy calendar ≠ productive output",
+    "Relationships improve when quality time concentrated rather than spread thin",
+    "Morning workouts compound: creates momentum for entire day's priorities"
+  ],
+  "banger_quotes": [
+    {"who": "Shaan", "quote": "Inspiration is perishable. It's like an avocado. It turns brown."},
+    {"who": "Shaan", "quote": "Show me your Google Calendar and I'll show you your priorities"},
+    {"who": "Naval", "quote": "The news's job is to make someone else's problem your problem"},
+    {"who": "Sahil Bloom", "quote": "I don't know any losers that work out first thing in the morning"},
+    {"who": "Shaan", "quote": "Be effective, not efficient"},
+    {"who": "Shaan", "quote": "Big thing first thing"},
+    {"who": "Shaan", "quote": "We're all looking for love, but we settle for connection"}
+  ],
+  "numbers_dropped": [
+    "Shaan started unscheduled life approach age 25, manifested by age 35 (10-year transition)",
+    "90-minute focused sprints as productive unit",
+    "15 minutes between workout and podcast start time",
+    "One to two full-day hangs per month via barbell strategy"
+  ],
+  "topics": ["productivity", "time management", "work-life balance", "scheduling", "relationships", "entrepreneurship", "fitness", "focus"],
+  "sponsor_read_count": 1,
+  "notable": "Discussion of Sahil Bloom's YouTube vlogs as inspiration; playful tension about Sahil being 'pretty boy who has everything' drives secondary motivation topic."
+}

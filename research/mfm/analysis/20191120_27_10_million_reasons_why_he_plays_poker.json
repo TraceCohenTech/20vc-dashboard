@@ -1,0 +1,64 @@
+{
+  "hosts": ["Sam Parr"],
+  "guest": "Faraz Jaka, professional poker player (nickname: The Toilet)",
+  "approx_date": "Nov 2019",
+  "format": "guest-interview",
+  "business_ideas": [
+    {
+      "idea": "Poker House: rent property, run high-stakes poker games, teach other players",
+      "who": "Faraz",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [],
+  "disagreements": null,
+  "dynamics": "Sam drives interview with probing questions about both poker success and personal development. Faraz tells detailed story arc from college dorm games through $10M career, with unusual depth on meditation, mental health, and personal discipline. The conversation balances technical poker strategy with introspection on emotional management and decision-making philosophy.",
+  "frameworks": [
+    "Plus EV (Expected Value) thinking: probabilistic decision-making applied to dating, job offers, flight bookings, investments",
+    "Bankroll management: allocating portfolio percentage to any single bet (25-100 buy-ins for professionals)",
+    "On Tilt recognition and reset: identify emotional states and use physical tactics (wind sprints, breathing exercises) to reset",
+    "Process vs. Outcomes: separate decision quality from luck-influenced results; build confidence on decision analysis not short-term results",
+    "Sample size awareness: confidence in methods scales with data volume, not single wins"
+  ],
+  "learnings": [
+    "Obsessive competitive personality can be harnessed for excellence if disciplined; most people lack this drive naturally",
+    "Public humiliation and financial rock bottom create the necessary conditions for genuine learning",
+    "Peer groups learning from forums and WhatsApp study groups accelerate skill acquisition faster than solo study",
+    "Physical reset tactics (cold showers, wind sprints, breathing exercises) work better than logic for emotional recovery",
+    "Extended meditation training rewires decision-making under uncertainty and stress",
+    "Most decision failures in business are not about strategy but about emotional tilting and sunk cost fallacies",
+    "EV thinking universally applicable: career choices, relationships, and investments all reduce to probability-weighted outcomes"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Faraz",
+      "quote": "I felt instinctively that I was really good at this thing."
+    },
+    {
+      "who": "Faraz",
+      "quote": "Don't bet on one company, have 25 bets per potential."
+    },
+    {
+      "who": "Faraz",
+      "quote": "Most of your day your mind is just wandering wandering wandering."
+    },
+    {
+      "who": "Faraz",
+      "quote": "You need to be sample size aware."
+    }
+  ],
+  "numbers_dropped": [
+    "Career poker winnings: $10M+",
+    "Built bankroll from $300 to $180K by age 19",
+    "Lost it all plus $50K debt at age 20",
+    "First big tournament win: $30K",
+    "Breakout year (age 22-23): $1.7M earnings",
+    "Second place finish: $770K",
+    "Two third-place finishes: $500K and $300K (within 6 months)",
+    "Six World Series Poker final tables",
+    "WPT Player of the Year"
+  ],
+  "topics": ["poker", "gambling", "mental-performance", "meditation", "decision-making", "expected-value", "risk-management", "personal-development"],
+  "sponsor_read_count": 0,
+  "notable": "Unusually prominent meditation arc; a 10-day silent Vipassana retreat in Thailand becomes central to his decision-making philosophy, not a side story. Explicit instruction on breathing techniques and physical reset tactics (wind sprints in tournament breaks) suggests self-optimization culture beyond poker, more in line with performance psychology than traditional poker narratives."
+}

@@ -1,0 +1,56 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Dec 2024",
+  "format": "mixed",
+  "business_ideas": [
+    {"idea": "Tipping $20 bills instead of $5; carry $1000 at all times for daily generosity", "who": "Sam", "conviction": "serious"},
+    {"idea": "Real estate syndication (passive with 30-40% returns through experienced operator)", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Stock trading strategy: bet against All-In Podcast Twitter thesis for 2.5 years", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Focus Brick phone-blocker ($29 RFID device to block phone until 2pm daily)", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Creative gym sessions 2-3x/week (piano, music production, painting, drawing)", "who": "Shaan", "conviction": "serious"}
+  ],
+  "predictions": null,
+  "disagreements": "Shaan criticizes Sam's plan to commute 2 hours/day for office. Sam defends need for in-person collaboration. Shaan says it's self-harm; Sam rejects advice. Minor tension on office need.",
+  "dynamics": "Hosts run year-end awards ceremony with 11 categories. Sam more sentimental (tipping happiness, family moments). Shaan more analytical (quantified returns, strategic investments). Energy is celebratory, nostalgic, reflective. Lots of tangents on personal anecdotes, family moments, lifestyle changes. Both increasingly value non-traditional wealth (relationships, time, creative pursuits). Tone shifts from competitive metrics to philosophical life reflections.",
+  "frameworks": [
+    "Best investment: passive + tax-advantaged + beats market + uncorrelated portfolio + great operator",
+    "Billy mentality: living life on your own terms despite norms (Scott Heiferman in Amazon warehouse)",
+    "Frame-breaking: people who shatter your expectations by living radically differently (Nick Gray)",
+    "Money in waiting, not buying/selling (Munish Pabrai investing framework)",
+    "Make the better movie: use storytelling as decision framework for life choices",
+    "Creative gym: workout creativity separate from day job to improve overall output",
+    "Highs/Lows channel: Slack channel logging ups/downs to thermostabilize emotions via stoicism"
+  ],
+  "learnings": [
+    "Tipping well creates joy for giver and receiver; highest ROI on happiness per dollar spent",
+    "Real estate beats expected returns when partnered with expert operator vs self-managing",
+    "Betting against crowded thesis (All-In) profitable because hype creates mispricing opportunities",
+    "Millionaire's advantage: studying successful people's lifestyles (home, energy, work) more valuable than 1:1 time",
+    "Money doesn't drive world changers; legacy/impact does (Brian Johnson's 2500-year rule)",
+    "Creative pursuits unrelated to profession enhance productivity and wellbeing across all domains",
+    "Stoic emotion regulation via logging history (highs/lows) mirrors negative visualization therapy",
+    "Life hack leverage: printed weekly plans with family goals outperforms digital tools (Notion, apps)"
+  ],
+  "banger_quotes": [
+    {"who": "Munish Pabrai", "quote": "Money's made in the waiting, not the buying and selling."},
+    {"who": "Shaan", "quote": "I made millions betting against the All-In Podcast's thesis for 2.5 years."},
+    {"who": "Brian Johnson", "quote": "In 2500 they won't remember the richest person but they'll remember the inventor."},
+    {"who": "Nick Gray", "quote": "I'm an activist shareholder of my own life in a way you're not."},
+    {"who": "Mike Posner", "quote": "I just make what's dope to me and sometimes the whole world agrees."},
+    {"who": "Sam", "quote": "Commuting 2 hours a day is self-harm. I let you do it anyway."}
+  ],
+  "numbers_dropped": [
+    "Shaan real estate returns: 30-40% annually with tax advantages",
+    "Shaan stock trades: 500% gain on Facebook bet, 41% gain on Google YTD",
+    "Mark Zuckerberg: $140M net worth (2020) → $10B (current), Meta stock up 500% in 24 months",
+    "Amjad (Replit) episode: 2.5M YouTube views, half-million+ downloads across platforms",
+    "Mike Posner episode: 13,000 YouTube views (lowest of year) but beloved in comments",
+    "Focus Brick price: $29 for phone-blocking RFID device",
+    "Sam commute plan: 2 hours/day, 3 days/week from 1 hour away",
+    "Shaan office relocation: moved employee Diego from Baltimore RV → California apartment in 7 days"
+  ],
+  "topics": ["investing", "lifestyle", "year-end", "awards", "personal-growth", "wealth"],
+  "sponsor_read_count": 2,
+  "notable": "This is year 4 of Milly Awards tradition. Episode showcases how hosts' values evolved from pure business metrics to lifestyle optimization, creative pursuits, stoic philosophy, and impact-oriented thinking. Nick Gray story about being 'rich in social wealth and amusement' and Scott Heiferman's warehouse work signal cultural trend toward meaning over money."
+}

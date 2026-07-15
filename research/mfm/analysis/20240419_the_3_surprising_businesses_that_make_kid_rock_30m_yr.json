@@ -1,0 +1,46 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri", "Andrew Wilkinson"],
+  "guest": "Jeremy Giffon, first employee at Tiny, Founders Fund partner",
+  "approx_date": "Apr 2024",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "Build businesses for content creators and audiences as co-founders", "who": "Giffon", "conviction": "serious"},
+    {"idea": "Wirecutter-style guide for non-toxic consumer products and homes", "who": "Giffon", "conviction": "serious"},
+    {"idea": "Regulatory compliance software for specific jurisdictions and industries", "who": "Giffon", "conviction": "serious"},
+    {"idea": "Distressed venture capital targeting misaligned cap tables", "who": "Giffon", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Giffon", "text": "Audiences are underpriced and will be primary moat for consumer businesses"},
+    {"who": "Giffon", "text": "Regulation only increases, creating durable competitive advantages"}
+  ],
+  "disagreements": null,
+  "dynamics": "Giffon presents multiple business opportunity theses. Sam and others ask clarifying questions. Discussion covers Tiny's strategy of acquiring and improving businesses while exploring new models.",
+  "frameworks": [
+    "Audience co-founder model - creator owns equity, operator runs business",
+    "Special situations investing - fixing broken cap tables, not broken businesses",
+    "Regulation as moat - increasing compliance requirements create defensibility",
+    "One-chart businesses - simple visualization of value thesis drives conviction"
+  ],
+  "learnings": [
+    "Audiences built through content are valuable moats not fully monetized yet",
+    "Creators + operators partnership more efficient than creator solo-building",
+    "Many venture-backed companies are broken due to cap table issues, not business model problems",
+    "Unglamorous industries offer better economics and less competition",
+    "Simplifying complex businesses often more valuable than building from scratch"
+  ],
+  "banger_quotes": [
+    {"who": "Giffon", "quote": "Audiences are underpriced, still very early on monetization"},
+    {"who": "Giffon", "quote": "Regulation only goes in one direction - up and to the right"},
+    {"who": "Giffon", "quote": "Everyone with an audience will eventually have tightly integrated organic products"}
+  ],
+  "numbers_dropped": [
+    "Tiny: turned $5M equity into ~$500M business value through acquisitions",
+    "Onnit (Joe Rogan): sold for significant amount, major audience monetization example",
+    "Cars and Bids (Doug DeMuro): successful audience-backed business",
+    "Prime energy drink (Logan Paul/KSI): targeting $10M+ revenue",
+    "Matina yerba mate (Huberman partnership): audience-driven co-branding"
+  ],
+  "topics": ["entrepreneurship", "investing", "audience monetization", "content creators", "special situations", "acquisitions"],
+  "sponsor_read_count": 1,
+  "notable": "Part 2 continuation of Giffon discussion; focus on identifying broken but valuable businesses and audience monetization opportunities"
+}

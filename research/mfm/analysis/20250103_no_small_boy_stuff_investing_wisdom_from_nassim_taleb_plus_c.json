@@ -1,0 +1,61 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Jan 2025",
+  "format": "frameworks/advice",
+  "business_ideas": [
+    {"idea": "ChatGPT as personal operating system: thought partner, therapist, coach, assistant, decision-maker", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Fertilo: IVF procedure with eggs matured outside body (less pain, cost, time than traditional)", "who": "Sam", "conviction": "serious"},
+    {"idea": "AI agents with access to company KPIs, financials, calendars to suggest needle-moving tasks", "who": "Shaan", "conviction": "serious"},
+    {"idea": "AI co-founders replacing human co-founders as AI becomes capable of all decision-making", "who": "Shaan", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "AI will replace most professions within 10 years; only dumb conversations left for humans"},
+    {"who": "Shaan", "text": "Artificial wombs inevitable; will be like horses for transport—possible but unnecessary within 10-15 years"},
+    {"who": "Shaan", "text": "Solo founder era coming: AI co-founder can handle all business decisions and execution"},
+    {"who": "Sam", "text": "Billion-dollar companies require network effects and category dominance; most founders don't understand this shape"}
+  ],
+  "disagreements": "Shaan slightly anxious about AI replacing human purpose/work; Sam dismisses fear as 'just deal with it when it happens.' Sam bullish AI augmentation; Shaan more existential about it.",
+  "dynamics": "Primarily Shaan-driven on ChatGPT deep-dive; Sam contributes Nassim Taleb study analysis. Lots of playful tangents on podcasting becoming obsolete (white boy with podcast song), insider trading story, Cathie Wood critique. Tone shifts from intellectual frameworks (crystal ball test) to practical daily ChatGPT usage to existential anxiety about AI agency. High energy with humor masking real concern about future labor displacement.",
+  "frameworks": [
+    "Nassim Taleb crystal ball test: even with news, humans only 51% directional accuracy; bet-sizing matters more than prediction accuracy",
+    "The one question to ask yourself: 'Why am I not already a billionaire?' reveals knowledge/execution gaps today, not tomorrow",
+    "Better questions framework: ask 'What makes this fail?' vs 'How to succeed'; 'What story?' vs 'What's smart?'",
+    "Dogs not barking: what problems do you NOT hear about yet but are certainly there?",
+    "No small boy stuff: decision filter for life/business choices (contrasts with 'what makes the better story')",
+    "Ambient intelligence (Satya Nadella 2014): AI that anticipates needs without explicit asks",
+    "ChatGPT Projects: folder system to upload context (books, health data, financials, measurements) for ongoing conversations",
+    "Prompt engineering for humans: better questions = better answers (applies to AI and people)"
+  ],
+  "learnings": [
+    "News/information is mostly noise; signal requires explicit filtering (only merger announcements highly predictive in hacking study)",
+    "Professionals beat amateurs 6% directional accuracy but 100x returns via bet-sizing discipline, not prediction skill",
+    "Half of amateur traders lose money even WITH advance knowledge; 1-in-6 blown up via overleveraging perceived edge",
+    "Great founders understand the 'shape' of billion-dollar companies (network effects, defensibility, category winners)",
+    "ChatGPT best used as sparring partner/therapist asking you questions, not as answer dispenser",
+    "AI has already changed education: homework/coding interviews gamed via AI assistance (leetcode.io $15k/month referring)",
+    "Parents can use ChatGPT voice mode to teach kids factually, play trivia, maintain engagement without adult burnout",
+    "Artificial wombs inevitable ('when not if'); will shift reproductive autonomy like smartphones shifted communication"
+  ],
+  "banger_quotes": [
+    {"who": "Nassim Taleb", "quote": "If you gave an investor tomorrow's news, he'd go bust in less than a year."},
+    {"who": "Ray Dalio", "quote": "He who lives by the crystal ball will die eating shattered glass."},
+    {"who": "Shaan", "quote": "I use ChatGPT 24/7 now. If it went away, I'd be very upset."},
+    {"who": "Shaan", "quote": "DoorDash doesn't email you. I want to be more powerful than DoorDash."},
+    {"who": "Sam", "quote": "Ask better questions, get better answers. Most rookie mistakes are answering bad questions."},
+    {"who": "Song", "quote": "Another white boy with a podcast, gonna be billionaires, just don't forget to like and share."}
+  ],
+  "numbers_dropped": [
+    "Crystal ball test: 118 financial professionals, $50 each, 15 days of Wall Street Journal headlines",
+    "Test results: 51% directional accuracy (same as coin flip), 3.2% avg return for amateurs",
+    "Pro traders: 57% directional accuracy (only 6% better) but 130% average returns via bet-sizing",
+    "Test failure rate: 50% lost money, 1-in-6 went bust (overleveraged)",
+    "Press release hacker study: merger announcements 70%+ predictive for stock price moves",
+    "Leetcode.io cheating website: $15,000/month revenue just from coding interview help",
+    "Cathie Wood: $100M/year salary despite underperforming S&P 500 over 15 years",
+    "Amjad (Replit) productivity: 'persisted' 10+ years pre-funding/recognition before breakthrough"
+  ],
+  "topics": ["ai", "chatgpt", "investing", "taleb", "decision-making", "technology", "future"],
+  "sponsor_read_count": 2,
+  "notable": "This episode marks inflection point: hosts openly discuss AI replacing them, acknowledge intelligence gap closing, joke about being 'last dumb podcast standing.' Shaan's ChatGPT usage has fundamentally changed his daily workflow (uploads projects, uses voice mode with kids, makes major decisions). Existential anxiety beneath surface despite optimistic framing. References Satya Nadella's 2014 'ambient intelligence' bet showing this wasn't sudden."
+}

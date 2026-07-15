@@ -1,0 +1,120 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Dec 2023",
+  "format": "brainstorm",
+  "business_ideas": [
+    {
+      "idea": "Copy successful business from Quiet Light Brokerage using 'me also strategy' (reverse-engineer, don't invent)",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Buy existing business via SBA loan (10-15% down on $2M business = $200K gets $600K+ profit/year)",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Niche membership community: HVAC automation, chiropractor outbound sales, B2B databases at $3K/year",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "QSBS advisory firm: help tech founders get tax-exempt small business stock designation",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Humanoid robotics company: recruit hardware engineers, focus on 'humanoid-replacing 40% of jobs'",
+      "who": "Sam",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Purpose-built specialty robots: pizza robot, roofing robot, powder-coating robot (easier than humanoids)",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Defense tech company (like Anduril): recruit engineers, sell $50-150M contracts to governments",
+      "who": "Sam",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Buy + rebrand university (full plan: campus, accreditation, speaker fees, NFT seat licenses, international students)",
+      "who": "Sam",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "Humanoid robots will be bigger than Tesla, self-driving, solar combined (Elon claim)"
+    },
+    {
+      "who": "Sam",
+      "text": "Purpose-built robots (pizza, roofing) scale faster than humanoids; solve first, then expand"
+    },
+    {
+      "who": "Sam",
+      "text": "Buying existing university at $5-25M valuation, rebranding, can reach $1B+ valuation with speaker/NFT strategy"
+    }
+  ],
+  "disagreements": null,
+  "dynamics": "Sam and Shaan riff collaboratively, building on each other's ideas with concrete calculations and examples. Shaan leads with analytical, step-by-step business models; Sam adds storytelling and vision. Both brainstorm rapid-fire, with Shaan gently reality-checking ('really?'), Sam elaborating with specifics. High energy, creative ideation across income tiers ($1M to $1B).",
+  "frameworks": [
+    "Copy-and-remix strategy: study 20-50 successful businesses on brokerages, steal model + twist it for niche",
+    "Technical risk vs demand risk: robots have technical risk (can we build?), easier than consumer brand risk (do people want?)",
+    "Niche membership ROI: charge $3K/year, need 250 customers = $750K annual revenue = 5x multiple = $3.75M company",
+    "Business broker arbitrage: buy $2M-earning business, add 10% growth = $200K extra = 5x multiple = $1M in value creation",
+    "Purpose-built vs humanoid: specific robots (dishwasher, pizza) proved easier than general humanoids; hit one problem first",
+    "University rebranding: buy accreditation for $5-25M, build brand via speakers ($6M/year), sell PSL-NFTs for $50K each (10K seats = $500M)",
+    "Narrative-driven funding: Sam Bankman-Fried model (minus fraud) = throw money at brand-building before proving business model"
+  ],
+  "learnings": [
+    "Quiet Light broker site reveals: average small business owner puts 5-10 hours/week; any competent operator can scale",
+    "SBA loans democratize acquisitions: $200K down payment controls $2M business; seller gets out, buyer gets cash flow",
+    "Membership model works when: solve specific problem (not 'accountability'), clear ROI per customer ($3K → $1 sale), community sharing",
+    "Broker arbitrage beats building: adding 10% to existing $600K profit = $60K extra annually; taking revenue from 0 to $1.8M is 10x harder",
+    "Hardware startups attract top talent via tools, not equity: Founders Inc strategy (free lab, 3D printers, robots) wins engineers over cash",
+    "Purpose-specific robots easier than humanoids: market will absorb any robot that solves one task really well; humanoid still unsolved",
+    "University acquisition path: existing schools trade at 1-2x revenue, universities make $100M+ profit/year, prestige/accreditation worth billions",
+    "PSL-NFT model for universities: copy stadium ticketing model; sell 10K non-fungible seats = $500M upfront funding without giving equity"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Sam",
+      "quote": "Elon said humanoid robots bigger than Tesla, bigger than everything"
+    },
+    {
+      "who": "Shaan",
+      "quote": "My buddy invests in companies with zero product-market-fit risk, only technical risk"
+    },
+    {
+      "who": "Sam",
+      "quote": "Dishwasher is the most successful robot; it replaced a job, it doesn't have arms"
+    },
+    {
+      "who": "Sam",
+      "quote": "Tim Chen told me payroll is just Excel numbers; you're a capital allocator, not a product maker"
+    }
+  ],
+  "numbers_dropped": [
+    "Million-dollar business target: $300K annual profit, can buy for ~$900K-$1M at 3x multiple",
+    "SBA loan: 10-15% down payment required, allows acquisition of $2-5M businesses",
+    "Money counting machine FBA business: $1.8M revenue, $625K net profit",
+    "Niche membership pricing: $3K/year per customer, need 83 customers for $250K profit, 5x multiple = $1.25M valuation",
+    "Exit 5 valuation: $2-3M from 500-1000 members paying $2-3K/year",
+    "QSBS advisory fees: $10-15K per assessment + ongoing monthly retainers ($1,500-2,000/year)",
+    "Figure AI valuation (robot company): $300M (Sam invested $60K)",
+    "Harvard endowment: $53B",
+    "Belmont University: $38K tuition, 7,300 students, $464M revenue, $350M expenses, $100M profit, $1.5B assets, $200M liabilities",
+    "Southern California accredited university for sale: $25M",
+    "University speaker fees budget: $6M/year for Obama-level speakers",
+    "University of Phoenix Google ad spend: $5M/month, 70K-880K clicks/month, $3B in last 5 years",
+    "PSL-NFT pricing per university seat: $10-50K each for 10K seats = $100-500M funding",
+    "University tuition revenue per class: 2,000 students × $38K = $76M annual topline"
+  ],
+  "topics": ["business ideas", "entrepreneurship", "robotics", "humanoid robots", "e-commerce", "acquisitions", "membership communities", "education", "fundraising", "nft", "tax strategy", "qsbs"],
+  "sponsor_read_count": 1,
+  "notable": "Episode structured as two-tier challenge: (1) make $1M in 3 years (easy mode), (2) make $1B (hard mode). Sam invests $60K in Figure AI (robotics). Shaan dismisses humanoid robots as harder than purpose-built specialists. Hosts debate university acquisition valuation (Harvard ~$300B, Belmont ~$1.5B assets). University NFT-PSL model unprecedented, ties to Sam's Hampton CEO portfolio strategy (capital allocation, not product-making)."
+}

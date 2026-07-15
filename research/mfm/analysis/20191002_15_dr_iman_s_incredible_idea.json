@@ -1,0 +1,26 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Iman Bouzade, MD, CEO and Co-Founder of Incredible Health",
+  "approx_date": "Oct 2019",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "Marketplace platform to hire permanent nurses in less than 30 days vs 90+ days", "who": "Iman", "conviction": "serious"},
+    {"idea": "Other operational healthcare backend stack innovations (compliance, revenue cycle, staffing)", "who": "Iman", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Iman", "text": "Healthcare operational stack will see major innovation similar to patient-facing solutions"},
+    {"who": "Iman", "text": "Proper staffing levels reduce medication errors, readmissions, and patient mortality rates"}
+  ],
+  "disagreements": "Shaan believes most paths to entrepreneurship require either business school pedigree or direct startup experience; Iman argues MBA is one of many valid paths, not essential",
+  "dynamics": "Iman grounds with medical/operational expertise while Shaan drives philosophical debate on education and paths to success. Strong collaborative energy as both validate each other's frameworks.",
+  "frameworks": ["Four criteria for good ideas (hair-on-fire problem, huge market, 10x better solution, ideal competitor count)", "Three optimization modes (cash, skills/learning, lifestyle) at different career stages"],
+  "learnings": ["Pivoting during accelerator with demo-day deadline is stressful but viable with good advisors", "Medical family background can both constrain choices and provide unique domain insight", "Warm introductions from respected mentors dramatically accelerate funding and fundraising success"],
+  "banger_quotes": [
+    {"who": "Iman", "quote": "There has to be a better way"},
+    {"who": "Iman", "quote": "I went straight into problem solving mode"}
+  ],
+  "numbers_dropped": ["50M Series A raised in 2019", "2M seed round took 75-100 meetings to raise", "150+ hospitals using Incredible Health platform", "$50M Series A led by Andreessen Horowitz"],
+  "topics": ["healthcare", "staffing", "marketplace", "startup", "fundraising", "pivoting"],
+  "sponsor_read_count": 0,
+  "notable": "Iman's pivot story from failed product to 50M Series A in 2 years exemplifies iterative founder resilience."
+}

@@ -1,0 +1,40 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "May 2020",
+  "format": "mixed",
+  "business_ideas": [
+    {"idea": "Convert more retail formats to drive-through (coffee etc.) to ride pandemic-era contactless demand", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Virtual museum tours as a paid at-home experience", "who": "Shaan", "conviction": "throwaway"},
+    {"idea": "Pinduoduo-style group-buying / team-purchase plugin for Shopify stores in the West", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Plays on the outdoor-recreation boom: RV rental marketplaces and campground businesses (Outdoorsy, KOA style)", "who": "Both", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "COVID's second-order effects (outdoor recreation, remote behavior shifts) will create bigger opportunities than the obvious first-order ones"},
+    {"who": "Sam", "text": "Boring roll-up compounders like Constellation Software will keep quietly outperforming flashy startups"}
+  ],
+  "disagreements": "They debate which pandemic behavior changes are permanent versus temporary snapbacks, and Shaan pushes back on the appeal of boring businesses — questioning why anyone building something big would pick a boring thing.",
+  "dynamics": "Shaan drives the second-order-effects brainstorm; Sam anchors it with concrete company breakdowns (Pinduoduo, Constellation, Outdoorsy). Energy is exploratory — one riffs a trend, the other stress-tests it with numbers.",
+  "frameworks": [
+    "Second-order effects: trace a shock's downstream consequences to find non-obvious opportunities",
+    "Group buying (Pinduoduo): price drops as more buyers join, making sharing the growth engine",
+    "Serial acquirer compounding: buy many small vertical software firms, never sell (Constellation)"
+  ],
+  "learnings": [
+    "The biggest COVID winners may be two steps removed from the obvious ones — map the chain, not the headline",
+    "A mechanic that fuses discounts with virality (team purchase) can build a ~$72B company in a few years",
+    "Unsexy industries like campgrounds and RV rentals hide large, durable economics",
+    "Quiet, low-ego operators (Mark Leonard) can massively outperform famous founders"
+  ],
+  "banger_quotes": [
+    {"who": "Shaan", "quote": "If I'm gonna do a big business, why would I do a boring thing?"}
+  ],
+  "numbers_dropped": [
+    "Pinduoduo: ~$72B Chinese group-buying startup (episode title claim)",
+    "Constellation Software: ~$2B in sales, 20% margins, 10-20 acquisitions a year; market cap grew from ~$5B to ~$31B",
+    "RV industry: $32B, with Outdoorsy running a peer-to-peer marketplace against it"
+  ],
+  "topics": ["second order effects", "pinduoduo", "group buying", "constellation software", "rv rentals", "covid"],
+  "sponsor_read_count": 2,
+  "notable": "Pairs a Pinduoduo breakdown with a 'billionaire of the week' style profile of quiet compounders as the episode's twin spines."
+}

@@ -1,0 +1,118 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Zach, founder of Cal AI (age 19, just sold to MyFitnessPal)",
+  "approx_date": "Mar 2026",
+  "format": "guest-interview",
+  "business_ideas": [
+    {
+      "idea": "Semantic search for Instagram/X followers (find dating prospects, cool people)",
+      "who": "Zach",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Quitter app for porn addiction (streak, roadmap, rewards, meditation)",
+      "who": "Zach (friend's app)",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Claim: class action lawsuit discovery app (user signs up, gets settlement shares)",
+      "who": "Zach (friend's app)",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Do Not Pay: parking ticket fighting via AI",
+      "who": "Zach (existing app reference)",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [],
+  "disagreements": null,
+  "dynamics": "Zach dominates with detailed insights about acquisition process, entrepreneurship frameworks, and future positioning. Sam and Shaan listen intently, ask clarifying questions, and share parallel experiences (their own failed early acquisition attempts, rejections). Admiration from hosts is clear. Tone is educational with Zach providing specific tactical advice.",
+  "frameworks": [
+    "Expected Value (EV) for decisions: (% chance × outcome) - (% risk × loss) = expected value",
+    "Pareto principle: learn the 20% that gives 80% of results",
+    "Idea validation framework > idea generation framework",
+    "Work backwards from virality: if you can't tweet it, don't build it",
+    "TAM via adjacent companies: what's a similar company making = your revenue floor",
+    "Self-belief cultivation: shift language from 'if' to 'when'",
+    "Acquisition rejection as path to strength: first offers low, forces long-term thinking",
+    "M&A bankers add value: access to companies you've never heard of + upcoming IPOs looking for roll-ups",
+    "Performance ads as scaling lever: influencer marketing maxes out, ads scale further",
+    "Brand equity from single sponsorship compounds: $500K MrBeast → future deal credibility"
+  ],
+  "learnings": [
+    "Skills don't need to be world-class; combination of medium skills is enough",
+    "Self-belief can be practiced/cultivated through language and daily affirmation",
+    "Acquisition process is emotional: WEO moment (we're effed), rejection, then acceptance of long-term play",
+    "First acquisition offers are frequently undervalued (1x profit); rejection hardens resolve",
+    "M&A bankers create value by surfacing acquirers you wouldn't find alone",
+    "Forced longevity thinking (after rejection) actually improves company fundamentals",
+    "Influencer marketing hits ceiling (~$2M/month); performance ads required for next phase",
+    "Single sponsorships (MrBeast $500K) are break-even on direct ROI but generate brand lift worth multiples",
+    "TAM validation comes from comparable companies' revenue, not Google research",
+    "Market vibrancy doesn't deter entry; existing competitors prove demand (not proof of failure)",
+    "Decision frameworks (EV, Pareto) matter more than domain expertise or credentials",
+    "College rejection despite $15M revenue signals admissions system misalignment with entrepreneurship",
+    "Mentorship during acquisition process is invaluable; pattern-matching across deals saves mistakes",
+    "First company success (gaming website 5M users, $100K exit at 16) taught scalability and sale process"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Zach",
+      "quote": "I'm very ambitious"
+    },
+    {
+      "who": "Zach",
+      "quote": "Combination of skills more valuable than world-class at one thing"
+    },
+    {
+      "who": "Zach",
+      "quote": "I don't like investing in other people. I like to invest in myself"
+    },
+    {
+      "who": "Steve Cohen (via Zach)",
+      "quote": "Just survive 3 years and figure it out after that"
+    },
+    {
+      "who": "Shaan",
+      "quote": "If everything's fake, then real becomes scarce and truth becomes scarce"
+    },
+    {
+      "who": "Shaan",
+      "quote": "Companies are bought, not sold is sometimes a myth"
+    },
+    {
+      "who": "Shaan",
+      "quote": "The world is probably going to be fine"
+    }
+  ],
+  "numbers_dropped": [
+    "Zach's age: 19",
+    "Cal AI 2025 revenue: $30 million",
+    "Cal AI January 2026 revenue: $5.7 million (on pace for $50M+)",
+    "First company (unblocked gaming website): 5M users, $60K/year, sold for $100K at age 16",
+    "College rejection reach: 40M views on Twitter",
+    "First acquisition offer: ~1x profit (approximately their yearly profit)",
+    "Performance ad spend: $1M+ per month",
+    "MrBeast sponsorship cost: $500K",
+    "MrBeast direct revenue: $350-400K (initially underwater, profitable long-term)",
+    "Cal AI team size: 30+ people",
+    "Grind Clock app (motivational alarm clock): mentioned but not detailed on revenue",
+    "Quitter app (friend's): $5M+ annual revenue",
+    "Claim app (friend's): $1M revenue in first 30 days before app store removal",
+    "Zach's investment allocation: 70-75% S&P 500, 25% money market/bonds, small amounts Bitcoin/gold",
+    "University of Miami: $100K/year cost; Zach paying going forward (dropped out after first semester)"
+  ],
+  "topics": [
+    "startup-acquisition",
+    "entrepreneurship",
+    "product-strategy",
+    "marketing-performance",
+    "AI-abundance",
+    "college-decision",
+    "decision-frameworks",
+    "acquisition-process"
+  ],
+  "sponsor_read_count": 1,
+  "notable": "Zach sold Cal AI (calorie-tracking app) to MyFitnessPal in Dec 2025, announced March 2026. College rejection from all Ivies/Stanford despite 4.0 GPA and $15M revenue went viral (40M views); Miami mayor reached out, leading Zach to attend University of Miami. He's now freshman, skipping many classes while transitioning company. Episode discusses AI abundance fears and how to position in uncertain future. Zach emphasizes expected value framework for acquisition decisions and plans next venture in stealth mode targeting $1B+ scale."
+}

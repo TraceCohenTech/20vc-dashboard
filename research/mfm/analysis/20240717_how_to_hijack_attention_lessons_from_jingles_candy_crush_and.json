@@ -1,0 +1,57 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "July 2024",
+  "format": "frameworks/advice",
+  "business_ideas": [
+    {"idea": "Polymarket: crypto prediction market for elections, sports, science events", "who": "Shane Coplan", "conviction": "serious"},
+    {"idea": "Jingles revival: bring back 1990s-style brand earworms for modern products", "who": "Sam", "conviction": "serious"},
+    {"idea": "McDonald's/Subway brand song integration: short 5-second hook at ad end", "who": "Example", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "Polymarket will grow massive as prediction markets replace traditional polling for accuracy"}
+  ],
+  "disagreements": "Sam uncomfortable promoting gambling products; Shaan argues wisdom-of-crowds accuracy and information value justify it despite addiction risks",
+  "dynamics": "Sam leads with jingle revival thesis; Shaan adds prediction market analysis. Discussion pivots between media/advertising to gambling ethics. Playful energy with underlying tension around moral responsibility for platform usage.",
+  "frameworks": [
+    "Jingle effectiveness: requires cringiness + repetition + brand mentions + call to action",
+    "Phonetic loop: brains naturally memorize rhythmic/rhyming content better than prose",
+    "Earworm mechanism: small repetitive snippet gets stuck in memory via neuroscience",
+    "Automated Market Maker (AMM): odds determined by volume, not central odds maker",
+    "Wisdom of crowds: betting markets more predictive than polls because money on line",
+    "Prediction market as media: data embeddable in articles makes predictions newsworthy",
+    "Corporate social responsibility vs profitability: tension between impact and business model",
+    "Effective altruism: make capital to give away vs immediate impact work"
+  ],
+  "learnings": [
+    "Jingles declined from 15% of commercials (1990s) to 1% today, but brains unchanged, not fashion trend away",
+    "Earworms and music stick better than speech; can recall capital songs from childhood decades later",
+    "Repetition (frequency) critical for jingle stickiness; needs 300+ daily plays to work",
+    "Prediction markets historically more accurate than polls because money incentivizes honesty",
+    "Crypto prediction markets enable global betting on information discovery and forecasting",
+    "Account managers gamification and personal attention drive addiction similar to mobile games",
+    "Whale hunters in mobile gaming model replicate in sports betting: 95% users spend nothing, 5% spend everything",
+    "Leverage and regulatory defensibility matter more in financial services than for consumer products"
+  ],
+  "banger_quotes": [
+    {"who": "Unknown", "quote": "I want my baby back, baby back, baby back: Ribs commercial jingle"},
+    {"who": "Unknown", "quote": "$5, $5, footlong: Subway jingle call to action"},
+    {"who": "Unknown", "quote": "Call J.G. Wentworth, 877-CASH-NOW"},
+    {"who": "Sam", "quote": "Jingles work. The brain hasn't changed. This is fashion, not utility."},
+    {"who": "Shaan", "quote": "Wisdom of crowds beats individual expertise when money is on the line"}
+  ],
+  "numbers_dropped": [
+    "Jingles in 1990s: 15% of commercials",
+    "Jingles today: 1% of commercials",
+    "Polymarket 2024: 400M betting volume on track for 1B annually",
+    "Polymarket monthly volume: ~50M (10M this week in some reports)",
+    "2024 election bet: 237M volume, Trump 61%, Biden 19%, Kamala 10%",
+    "Top bettor (Revenge Tour 1984): 1.69M in positions, up 1M profit, 169M traded",
+    "Polymarket founded: 2020 (3-4 years old)",
+    "Polymarket funding: $75M Series C from Founders Fund, Joe Gebbia, Vitalik Buterin",
+    "DraftKings woman case: $150k earner, $350k debt, 50+ addiction signals from account manager"
+  ],
+  "topics": ["marketing", "advertising", "prediction markets", "gambling", "behavioral economics", "neuroscience", "attention hijacking", "cryptocurrency"],
+  "sponsor_read_count": 1,
+  "notable": "Tension between celebration of Polymarket innovation and concerns about gambling addiction and account manager manipulation tactics; Sam expresses moral discomfort with product design to exploit users."
+}

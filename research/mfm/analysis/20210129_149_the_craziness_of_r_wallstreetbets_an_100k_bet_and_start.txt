@@ -1,0 +1,103 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Ahmad, founder of Mercury banking, prolific angel investor in 180+ companies",
+  "approx_date": "Jan 2021",
+  "format": "guest-interview",
+  "business_ideas": [
+    {
+      "idea": "Mercury: startup banking platform replacing expensive incumbents, API-first with instant payments",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Salesforce competitor API-first CRM focused on startups and developers",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Sidekick: remote-first company serendipity via tablet-based colleague connection",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Substack bundling: Every bundle combining multiple paid newsletter writers",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Embedded fintech: lending and financial products baked into SaaS platforms",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Creator economy banking: financial products for YouTubers, Twitch streamers",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Lending against Facebook ad spend for e-commerce (Clear Bank pattern)",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Momentous Space: moving cargo between orbits with SPAC at $2.2B valuation",
+      "who": "Guest",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sean",
+      "text": "GameStop short squeeze will compound and volatility will shock Wall Street elite"
+    },
+    {
+      "who": "Ahmad",
+      "text": "US fiscal stimulus too broad-based, asset bubble across stocks and crypto coming in 2021"
+    },
+    {
+      "who": "Ahmad",
+      "text": "Creator economy underserved: millions of creators earning $50k+ annually need fintech products"
+    },
+    {
+      "who": "Ahmad",
+      "text": "Hard tech (space, self-driving) will get easier to fund but 9 of 10 fail, diversification critical"
+    }
+  ],
+  "disagreements": "Sam skeptical Bitcoin is domain expertise, argues it's macro gambling outside of business fundamentals. Sean counters network effects analogous to Facebook. Sam challenges: 'if you break it down, Bitcoin is just what everyone agrees it's worth, no intrinsic value.' Sean defends asymmetric risk setup.",
+  "dynamics": "Ahmad dominates with founder perspective and angel investor heuristics; Sam and Sean query deeply. Sean energized by GameStop narrative and content value, different from typical investment discussion. Ahmad provides systematic frameworks for spotting underserved markets.",
+  "frameworks": [
+    "Sell pickaxes to gold miners: build tools for crypto/startup ecosystem, not speculate on assets",
+    "Underserved market thesis: target groups ignored by incumbents (creators, international, new job categories)",
+    "Embedded fintech: bake financial products into platforms via APIs and partnerships",
+    "Input vs output metrics for goals",
+    "Barbell strategy for controversy: being extreme keeps you from cancellation, middle ground vulnerable",
+    "Seed stage diversification with asymmetric outcomes: 100 bets, 1 home run"
+  ],
+  "learnings": [
+    "Banks see depositors as cost center, not revenue; fintech opportunity is caring about SMB experience",
+    "ChatGPT-like platforms are extremely expensive to run; every large platform has customer data surveillance",
+    "IPO/acquisition timing trumps long-term building for many founders chasing exit",
+    "Controversy generates authentic audience interest more than polished consistency",
+    "Founders optimizing for fundraising speed took on debt to achieve SPAC multiples, inflated valuations",
+    "Content creators are willing to make lifestyle trades (bigger audience, less income stability) for autonomy"
+  ],
+  "banger_quotes": [
+    {"who": "Sean", "quote": "Will remain retarded longer than you'll remain solvent (Wall Street Bets slogan)"},
+    {"who": "Ahmad", "quote": "We see all transactional data at Mercury but try to avoid it, ethics matter"},
+    {"who": "Shaan", "quote": "Stars get so big they leave bundles because they are the bundle"},
+    {"who": "Sean", "quote": "It's fun when you're OK losing the money, it's just content for me"},
+    {"who": "Ahmad", "quote": "Why do you stop them from getting their own credit card? Because traditional banks don't understand startups"}
+  ],
+  "numbers_dropped": [
+    "Sean put $100,000 into GameStop at open, would be $600-700k within 48 hours",
+    "Ahmad invested 180+ companies, claims seed diversification necessary for asymmetric returns",
+    "Mercury took 16 months (Aug 2017 to Jan 2019) to first alpha user, year and half to launch",
+    "Ahmad used 8 people building Mercury (6 engineers, 1 designer, 1 product/BD)",
+    "Momentous Space raised at $2.2B SPAC valuation, Ahmad seed invested in 2018",
+    "Ahmad bought half million dollars Bitcoin futures with leverage at nearly peak",
+    "Mercury has thousands of customers with sub-$5k balances, hundreds with $1M+"
+  ],
+  "topics": ["fintech", "startups", "crypto", "gamestop", "mercedez", "creator-economy"],
+  "sponsor_read_count": 1,
+  "notable": "Episode features live investing story (GameStop surge, missed opportunity), angel investor's portfolio thesis, and critique of traditional banking's failure to serve startups. Ahmad's Twitter following exploded 4x in 60-90 days via controversial tweet threading."
+}

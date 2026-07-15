@@ -1,0 +1,112 @@
+{
+  "hosts": ["Sam Parr"],
+  "guest": "Tom Ryan (food scientist/inventor, featured narrative); investing discussion with Shaan Puri",
+  "approx_date": "Sep 2025",
+  "format": "mixed",
+  "business_ideas": [
+    {
+      "idea": "McGriddle: sweet sandwich with syrup crystals, fits in hand, breakfast category",
+      "who": "Tom Ryan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Stuffed crust pizza: cheese inside crust, not on top; requires special dough/pan engineering",
+      "who": "Tom Ryan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Segmented pizza line: Meat Lovers, Pepperoni Lovers, Cheese Lovers (extreme vs. middle)",
+      "who": "Tom Ryan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Dollar menu at McDonald's: accessibility strategy for volume",
+      "who": "Tom Ryan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "David protein bars: ultra-processed, EPG-based, high protein density, boiled cod parody marketing",
+      "who": "Peter Rahal",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam's friend Zach",
+      "text": "Bitcoin will continue to compound; identify one power-law investment per year"
+    },
+    {
+      "who": "Sam's friend (GTA thesis)",
+      "text": "GTA 6 will be biggest selling game ever; no substitute competition"
+    },
+    {
+      "who": "Sam",
+      "text": "Robots will do human labor at scale within 20 years; Tesla best positioned"
+    }
+  ],
+  "disagreements": "Sam skeptical of Tesla due to Elon single-person risk ('what if he dies'), prefers founder story investing over fundamentals. David bars debate: Peter says ultra-processed OK if delivers results; Justin Myers criticized ultra-processing with EPG. Sam defends value prop (tastes good, high protein), acknowledges ultra-processing trade-off.",
+  "dynamics": "Highly non-linear episode: Tom Ryan narrative → David bars marketing case study → stock picks → personal investing stories. Sam drives with stories and frameworks; Shaan joins later for investing discussion. Energy meandering, conversational, enthusiasm-driven. Heavy storytelling emphasis vs. traditional interview.",
+  "frameworks": [
+    "Law of the Opposite: if not leader, position as alternative (David vs. RxBar); embrace differences, exaggerate them",
+    "Consumer segmentation/clustering: don't serve middle, go extreme for each segment (Meat Lovers vs. Pepperoni Lovers, not medium pizza)",
+    "Tom Ryan's creative framework: design for ambitious 32-year-old (has money + taste, open-minded but with-it)",
+    "Constraint-driven innovation: messy syrup problem → syrup crystals solution",
+    "Power-law investing: identify one theme per year (Bitcoin, OnlyFans, Ozempic) and go all-in vs. diversifying",
+    "Founder-centric investing: buy stocks of compelling founders, not fundamentals (Atlassian, Palantir, etc.)",
+    "Defensibility over growth: 20-year moats (SpaceX, Coinbase, Tesla) > 1-year growth"
+  ],
+  "learnings": [
+    "Product innovation requires understanding consumer psychology (cheese = value driver; crust = necessary handle, worst part)",
+    "Wow factor matters in marketing (cheese inside crust sounds different than on top; segmentation sounds better than middle)",
+    "Constraints breed creativity (no hand mess → syrup crystals; batch cooking problem → syrup injection + special pan)",
+    "Marketing is battle of perceptions, not products (David's boiled cod billboard flips criticism into brand personality)",
+    "Segmentation works empirically: don't try to serve everyone, serve segments extremely well (Meat Lovers pizza success)",
+    "Founder intensity correlates with stock performance (Alex Carp + Palantir premium, Elon + Tesla volatility)",
+    "Simple investment theses work better than complex analysis (Bitcoin and chill, Amazon and chill)",
+    "Bro science investing: buying stocks of founders you admire empirically works (Atlassian 50x return)",
+    "One investment per year dominates returns (OnlyFans, Ozempic, GTA 6 theses)",
+    "Hedonic adaptation: even high-net-worth founders have recurring anxieties; money removes existential fear but not base stress"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Tom Ryan",
+      "quote": "That pissed me off. Not because he doubted me, but because the world thinks it's full of solved problems."
+    },
+    {
+      "who": "Tom Ryan",
+      "quote": "We can't have a messy drippy syrup sandwich. You won't come back the next day."
+    },
+    {
+      "who": "Tom Ryan",
+      "quote": "I try to get inside the mind of an ambitious 32-year-old."
+    },
+    {
+      "who": "Sam's friend Zach",
+      "quote": "All you needed to do was Bitcoin and chill."
+    },
+    {
+      "who": "Sam's friend",
+      "quote": "One year it was OnlyFans. Everything else is noise."
+    },
+    {
+      "who": "David bars billboard",
+      "quote": "Boiled cod. Slightly more protein per calorie than our bars."
+    }
+  ],
+  "numbers_dropped": [
+    "David bars: ~$200M revenue in year 2 of business",
+    "David bars: $1M revenue in first week",
+    "Robinhood: $1.1B profit on $3B revenue",
+    "Robinhood stock: +117% since Feb 2024",
+    "TKO (UFC/WWE): +117% since Feb 2024",
+    "Coinbase: 9 product lines doing $100M+ revenue each",
+    "Atlassian: bought $1K worth, turned into $50K (50x return)",
+    "Friend at OpenAI: $30M made so far, grants worth $10M/year",
+    "Wealth transfer to Gen Z/Millennials: 20-50 trillion over 20-30 years",
+    "Tom Ryan: invented McGriddle, McFlurry, stuffed crust, Smashburger, dollar menu (career spanning decades)",
+    "Peter Rahal (RxBar): sold for $650M, 6 years after launch"
+  ],
+  "topics": ["food-innovation", "marketing", "investing", "product-design", "consumer-psychology", "founder-thesis", "stock-picks", "defensibility"],
+  "sponsor_read_count": 2,
+  "notable": "Episode structure highly non-linear (Tom Ryan narrative → David bars case study via marketing book → stock picks → personal investing philosophies). 'Boiled cod' billboard is masterclass in Law of Opposites execution. Sam's investment thesis is founder-centric ('bro science'), not fundamental analysis. David bars ultra-processing controversy explicitly discussed (Justin Myers criticism vs. value-prop defense). Tom Ryan's creative process ('constraints breed innovation') parallels Eric Lyman's reverse-engineering approach from earlier episode. Strong theme: perception > product reality in both food marketing and stock valuation."
+}

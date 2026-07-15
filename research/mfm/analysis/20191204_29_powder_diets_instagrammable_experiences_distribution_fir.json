@@ -1,0 +1,108 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Sean Kapos, founder of The Hustle and Trends",
+  "approx_date": "Dec 2019",
+  "format": "mixed",
+  "business_ideas": [
+    {
+      "idea": "Blab: live streaming talk show app with 2-4 hosts, unlimited viewers",
+      "who": "Sean",
+      "conviction": "serious"
+    },
+    {
+      "idea": "D2C green powder competitor to Athletic Greens (recurring subscription, health market)",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Chrome browser extension delivering daily value; stickier than any platform",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Studs: reimagined ear piercing service (like modernized Claires, Instagrammable)",
+      "who": "mentioned",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Containerly: shipping container co-living/co-working in revitalized RV parks",
+      "who": "Karen (audience)",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Firefly: Uber ad placements on vehicle exteriors for driver supplemental income",
+      "who": "discussed/skeptical",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "Green powder market will grow like protein powder did; recurring health category"
+    },
+    {
+      "who": "Sean",
+      "text": "TikTok will make scams impossible; 16-year-olds have strong authenticity filters"
+    },
+    {
+      "who": "Sean",
+      "text": "TikTok's long-term retention questionable given acquisition cost and entertainment-only model"
+    }
+  ],
+  "disagreements": "Sean skeptical of premium 'cute' D2C products like Studs; argues most startups miss middle-market. Sam champions distribution-first thinking. Sean dislikes D2C model as 'soulless marketing'; Sam points to successful friends making millions. Sean argues most founders shouldn't be CEOs; implies Sam disagrees on founder-as-CEO ideal.",
+  "dynamics": "Live event with audience participation. Sam and Sean riff and banter, delivering ideas then critiquing each other with playful tension. Sam pushes ideas optimistically; Sean questions execution risk. Audience pitches included (Containerly). Energy high, format shifts from brainstorm to Q&A. Unusually collaborative disagreement for the show.",
+  "frameworks": [
+    "Work backwards from distribution: choose channel first, design product to fit that channel second",
+    "Escape velocity: build brand independence off platforms before they change strategy",
+    "Platform risk matrix: single-dependency = failure when algorithm changes or platform pivots",
+    "Three-line core belief test: People are __, Life is __, I am __; these beliefs drive outcomes",
+    "Content quality vs. content distribution: 99% of content bad; inferior product + great distribution > great product + no distribution"
+  ],
+  "learnings": [
+    "Live streaming business model fails because 99% of live content is bad and disappears when offline; no library effect like YouTube",
+    "Distribution is primary competitive advantage; can compensate for mediocre product quality if channels are locked in",
+    "Single-platform dependence is existential risk; algorithms change, platforms turn on users (Zynga/Facebook, media companies/Facebook)",
+    "Running vs. starting require completely different skills; most founders bad at operating (disciplined execution vs. vision)",
+    "Results-oriented thinking masks good decision-making; separate decision quality from luck-influenced outcomes",
+    "Your core beliefs about people, life, self unconsciously drive business strategy and hiring",
+    "Chrome extensions and email are stickiest delivery mechanisms because they're user-initiated and habit-forming",
+    "Authenticity filters strengthen on new platforms (TikTok) vs. mature ones (Facebook); fakeness gets called out faster"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Sean",
+      "quote": "99% of content is really bad. 99% of it doesn't get views."
+    },
+    {
+      "who": "Sean",
+      "quote": "A platform is where the value of all apps built on it > the platform itself."
+    },
+    {
+      "who": "Sean",
+      "quote": "Work backwards from distribution. Choose the channel first, product second."
+    },
+    {
+      "who": "Sean",
+      "quote": "The best ways to get rich: get lucky, start a business, or become a salesperson."
+    },
+    {
+      "who": "Sam",
+      "quote": "If an inferior product has great distribution, you're gonna buy it because you need it."
+    }
+  ],
+  "numbers_dropped": [
+    "Amazing Grass: $100M+ annual revenue, private equity-backed",
+    "Grammarly raised $100M funding (2016), huge valuation at IPO",
+    "Honey acquired for hundreds of millions by PayPal",
+    "Movement Watches bootstrapped to ~$100M",
+    "Fashion Nova ~$600M annual revenue (largest Shopify store)",
+    "Clairs: 4,000 locations, sold $3B (2007), $1.5B revenue last year",
+    "Chrome plugin (Snippets): 50-60% of launch-day users still active 3 years later",
+    "Snippets: 2,500 users, 100,000-150,000 page views daily",
+    "Firefly raised hundreds of millions at high valuation",
+    "Amazon reseller companies sell for 1-2x earnings (platform risk discount)"
+  ],
+  "topics": ["d2c", "distribution", "platform-risk", "brainstorming", "entrepreneurship", "trends", "social-media", "instagrammable"],
+  "sponsor_read_count": 1,
+  "notable": "Live HustleCon event format with audience pitches. Sean and Sam visibly disagree on D2C viability and founder-as-CEO model; disagreement is playful but substantive. Explicit debates about whether beautiful/coastal products (Studs) work vs. middle-market unglamorous ones (Fashion Nova). Also notable: Martin Shkreli story as case study in platform risk when you can't control your users."
+}

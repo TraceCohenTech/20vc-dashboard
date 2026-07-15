@@ -1,0 +1,44 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Sep 2021",
+  "format": "story-breakdown",
+  "business_ideas": [
+    {"idea": "Trust-as-a-service content/subscription model (like Examine.com or UpToDate) applied to skincare/beauty", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "Trust/evidence-based content subscription applied to physical therapy and injury rehab protocols", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "Trust-as-a-service applied to chiropractic/bodywork claims, separating legitimate treatments from pseudoscience", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "Branded 'safety sealed'/COVID trust stickers and certification service sold to restaurants and businesses", "who": "Sam", "conviction": "serious"},
+    {"idea": "Revived version of Klout -- a public social-clout/engagement score service for individuals and brands", "who": "Sam", "conviction": "serious"},
+    {"idea": "A modern LEED-style certification/scoring system rebranded for consumer trust (e.g. 'green home' certification)", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "Co-authoring a bestselling business/self-help book in the style of The 4-Hour Workweek or Founders at Work", "who": "Sam", "conviction": "says he might build it"}
+  ],
+  "predictions": [],
+  "disagreements": "Sam pushes back on being publicly called 'risk averse' on Twitter by Shaan, explaining his philosophy is concentrated conviction bets rather than risk aversion; the two banter through it but it resolves amicably with Shaan clarifying it was a joke.",
+  "dynamics": "This is a story-driven, research-heavy episode where Sam does most of the talking, walking through deep dives he did the night before on trust-based content businesses (Examine.com, UpToDate, Consumer Reports) and infomercial-marketing empires (Guthy-Renker, Golden Hippo, Gundry MD). Shaan reacts, adds context, and occasionally one-ups with his own research (J2 Global, LEED certification). Energy is high and enthusiastic, with an extended personal tangent about a producer's LEED certification and Twitter verification.",
+  "frameworks": ["trust-as-a-service (turning locked-up/complex expert knowledge into a trusted, monetized subscription)", "infomercial/direct-response marketing funnel structure (testimonial teaser, celebrity authority figure, delayed reveal, hard sell)", "serial-founder pattern-matching (when a proven repeat founder joins a company instead of starting their own, treat it as a strong signal)"],
+  "learnings": [
+    "Businesses that convert complex, hard-to-parse expert information (medical studies, nutrition science) into simple trusted guidance can build large recurring-revenue subscription businesses even in a 'free content everywhere' world.",
+    "Legacy infomercial and direct-response marketing tactics from the 1980s (Guthy-Renker's Think and Grow Rich campaign) still work nearly unchanged when applied to modern long-form video and SMS funnels.",
+    "Under-the-radar 'sleazy' categories like MLM, affiliate marketing, and infomercial brands are often dismissed by mainstream tech/Silicon Valley people, but they contain some of the most effective, battle-tested sales and marketing techniques worth studying.",
+    "A founder repeatedly spinning out adjacent businesses from one initial community/forum (SitePoint -> Flippa -> 99designs -> Hire.com) shows how a single audience can seed multiple large companies.",
+    "Concentrated, high-conviction investing in a small number of ventures you deeply believe in is a different strategy from being risk-averse, even though it can look similar from the outside."
+  ],
+  "banger_quotes": [
+    {"who": "Sam", "quote": "If you didn't go subscription first, you're an idiot and you're a fool."},
+    {"who": "Sam", "quote": "Trust is one of the key things... we're in a world of abundance."},
+    {"who": "Sam", "quote": "I'm trying to get great at sales. So why would I not look at the best sold products?"}
+  ],
+  "numbers_dropped": [
+    "UpToDate estimated at roughly $500 million a year in subscription revenue (part of a $5 billion parent company)",
+    "Examine.com: ~40,000 visitors/day, 20 employees, seven figures in revenue, 50,000 membership signups in about 2 years",
+    "Consumer Reports: $212 million in subscription revenue and $245 million total revenue in 2020",
+    "J2 Global: $130/share, $6.3 billion market cap",
+    "Guthy-Renker bought Think and Grow Rich rights for $100,000 in 1988 and made $10 million in three years; company now does $1.5-2 billion/year in sales",
+    "Proactiv reportedly spent about $250 million/year on infomercial media buys at its peak, paying celebrities $5-10 million per endorsement deal",
+    "99designs does close to $100 million in revenue, raised $45 million in funding",
+    "Scott Belsky sold Behance for ~$150 million (owning ~75%) and made early investments of $15,000 each into Uber and Pinterest at $3 million valuations"
+  ],
+  "topics": ["trust-based content businesses", "infomercial/direct-response marketing", "serial entrepreneurship", "subscription business models", "skincare/wellness brands", "social clout/reputation systems"],
+  "sponsor_read_count": 0,
+  "notable": "Sam recounts watching a full 1988 Guthy-Renker infomercial for Think and Grow Rich at 4am the night before recording, and the episode features an extended tangent where a producer, Dan, is revealed on-air to be LEED-certified, sparking a bit about Twitter verification and certification-as-status-signaling."
+}

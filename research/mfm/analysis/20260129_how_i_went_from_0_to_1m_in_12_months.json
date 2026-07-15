@@ -1,0 +1,90 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Tyler, founder of Beehive (newsletter platform)",
+  "approx_date": "Jan 2026",
+  "format": "guest-interview",
+  "business_ideas": [],
+  "predictions": [],
+  "disagreements": null,
+  "dynamics": "Tyler dominates with granular tactical advice; Sam and Shaan listen intently, ask clarifying questions, and inject parallel examples (EMPT/Twitch, Ryan Hoover/Product Hunt). Very collaborative tone. Tyler is methodical and detailed; Sam amplifies with comparative examples. Episode is highly actionable throughout.",
+  "frameworks": [
+    "Founder-market fit: leverage expertise from previous role to build credibility",
+    "Marketing killshot: one sentence proof (e.g., 'grew Morning Brew to fastest newsletter') beats general claims",
+    "Story as early-stage currency: narrative precedes traction and revenue",
+    "Three-part feature prioritization: prevent churn, unblock growth, maximal hype",
+    "Work backwards from the tweet: if you can't tweet it, don't build it",
+    "Do things that don't scale: manual processes become growth levers",
+    "Product velocity: one marketable feature per week beats perfection",
+    "Implicit virality: embed brand mention in every user action (Hotmail footer, Beehive badge)",
+    "Internal distribution army: every employee amplifies wins via Slack pump channel",
+    "20-mile march: consistent daily progress beats high-variance, weather-dependent sprints"
+  ],
+  "learnings": [
+    "Credibility from past wins is your strongest asset pre-revenue; launch with that story",
+    "Customer research via Twitter is underrated; early adopters will tell you exactly what to build",
+    "Manual onboarding (Tyler's manual approval) can be reframed as personal connection and growth",
+    "Shipping 80-90% products beats perfectionism; iterate with real user feedback",
+    "Simplicity in messaging wins: $99 unlimited beats complex tiered pricing",
+    "Consistency compounds: daily communication (investor updates) builds accountability and investor FOMO",
+    "Leverage your entire team for distribution; not just marketing's job",
+    "Customer conversations reveal high-revenue features (subscriptions on Twitch, referral program at Morning Brew)",
+    "False urgency/scarcity works for waitlists; it attracts early adopters who give feedback",
+    "Building in public creates flywheel: share traction, watch it accelerate, share again"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Tyler",
+      "quote": "If I copied step by step what you did, could I do the same? Most people could"
+    },
+    {
+      "who": "Tyler",
+      "quote": "Do things that don't scale"
+    },
+    {
+      "who": "Sam",
+      "quote": "Perfection is the enemy of progress"
+    },
+    {
+      "who": "Tyler",
+      "quote": "Work backwards from the tweet"
+    },
+    {
+      "who": "Sam",
+      "quote": "People buy from who they trust and who they like"
+    },
+    {
+      "who": "Tyler",
+      "quote": "$99 unlimited emails, every feature you see here"
+    },
+    {
+      "who": "Sam",
+      "quote": "Everything you're saying is so simple. Stop searching for genius strategy"
+    }
+  ],
+  "numbers_dropped": [
+    "Morning Brew exited at 75 million in revenue",
+    "Beehive: zero to $1M revenue in 12 months",
+    "Year 2: $5M revenue (5x)",
+    "Year 4: $30M revenue",
+    "Cold storage wallet experiment: bought 997, sold 3",
+    "Initial Beehive waitlist: 400 people",
+    "25% conversion from first 400 users in initial months",
+    "Morning Brew referral program drove 1M+ subscribers",
+    "1,000+ weekly requests for Morning Brew's referral program details",
+    "Tyler's Twitter followers at launch: 5,000",
+    "Beehive email volume: 3 billion emails per month",
+    "Series A raised: $12.5M in one week",
+    "Beehive team size: 100+ employees"
+  ],
+  "topics": [
+    "startup-growth",
+    "product-strategy",
+    "customer-research",
+    "distribution",
+    "founder-narrative",
+    "newsletter-platform",
+    "product-velocity"
+  ],
+  "sponsor_read_count": 1,
+  "notable": "Tyler's technical co-founder died early in Beehive's journey, which temporarily slowed velocity but demonstrated Tyler's resilience and force of will to Sam and Shaan, who then invested. Episode is remarkably tactical and repeatable; every principle can be applied to any startup. Tyler emphasizes that success is simple, not secret."
+}

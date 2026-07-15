@@ -1,0 +1,51 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Aug 2022",
+  "format": "mixed",
+  "business_ideas": [
+    {"idea": "The B2B Shit - irreverent B2B media company mocking TechTarget model", "who": "Sam", "conviction": "serious"},
+    {"idea": "Community platform built on existing user base", "who": "Sam", "conviction": "says he might build it"},
+    {"idea": "WeWork's WeLive/Autonomy model - long-term EV rental subscription", "who": "Shaan", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "Most wealth paths involve either inheritance, family help, early real estate purchases, or high-paying careers"},
+    {"who": "Shaan", "text": "Scott Painter will successfully reinvent auto industry yet again with Drive Autonomy"},
+    {"who": "Sam", "text": "Alan Wong-style app creators can reach 100M+ valuation in 8-10 years with no employees"}
+  ],
+  "disagreements": "Mild: Shaan more skeptical of Adam Neumann credibility; Sam defends his vision as delusional optimism vs fraud distinction",
+  "dynamics": "Sam drives exploration with unusual businesses; Shaan questions assumptions and provides reality checks. Sam excited by counterintuitive findings; Shaan more measured. Both engaged in genuine debate about entrepreneur psychology.",
+  "frameworks": [
+    "Wealth mystery box—most people don't see how wealth works or number of paths available",
+    "Bitter vs inspired reaction to others' success—separates winners from complainers",
+    "Fog-lifting framework—collecting data points to demystify wealth creation",
+    "HOV lane concept—compounding skills from years of work enabling fast wins"
+  ],
+  "learnings": [
+    "In expensive cities, real estate bought 10+ years ago is the primary lever for current wealth, not new income",
+    "Most expensive neighborhood residents are teachers/artists—family money or inheritance is often the missing piece",
+    "To save $10M while spending $25k/month in NYC takes 15+ years of $1.5M annual income",
+    "B2B lead generation business model ($400-500M revenue from 3,000 customers) operates in plain sight unnoticed",
+    "TechTarget profits by tracking job titles across websites and selling their future purchase intent to vendors",
+    "Serial CEOs like Scott Painter win by entering massive markets and incrementally improving one problem",
+    "Charismatic entrepreneurs ride a knife edge between con artists and world-builders—very similar profiles"
+  ],
+  "banger_quotes": [
+    {"who": "Sam", "quote": "Wealth for most people is a complete mystery unless you grow up with it"},
+    {"who": "Sam", "quote": "If you want to get rich fast, you need examples of people getting rich fast"},
+    {"who": "Scott Painter (quoted)", "quote": "15% of everyone's gross income goes to mobility—the TAM is just enormous"},
+    {"who": "Shaan", "quote": "If he's crazy good or crazy bad, one out of ten who do makes it pays for all losers"}
+  ],
+  "numbers_dropped": [
+    "Brooklyn brownstone: $5M purchase price, $1.1M down payment, $20k/month mortgage + interest",
+    "Furnishing estimate: $150k-$175k for mid-to-high-end furniture",
+    "Total annual living expense in high-end Brooklyn neighborhood: $600k-$800k",
+    "After taxes: need $1.2M+ annual income to break even at $600k spending",
+    "TechTarget: $400-500M annual revenue from ~3,000 customers with market cap $2.1B",
+    "Alan Wong: 20M app downloads, verified $100M+ liquid by age 30, built in 8-10 years",
+    "Fair raised $300M Series B from SoftBank; Drive Autonomy placed $1B in EV purchase orders"
+  ],
+  "topics": ["wealth", "real estate", "b2b media", "business models", "wework", "elon musk", "tesla", "entrepreneurship", "lead generation"],
+  "sponsor_read_count": 1,
+  "notable": "Deep dive into TechTarget exposes how mundane B2B media generates hundreds of millions in revenue while remaining invisible—paradigmatic example of unsexy profitable business"
+}

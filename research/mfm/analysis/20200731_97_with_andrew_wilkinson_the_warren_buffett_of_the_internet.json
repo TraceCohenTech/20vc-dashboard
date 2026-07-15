@@ -1,0 +1,37 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Andrew Wilkinson, founder of MetaLab and Tiny, dubbed 'the Warren Buffett of the internet'",
+  "approx_date": "Jul 2020",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "Capital Daily: a well-funded local news operation for Victoria, BC as a repeatable local-media playbook", "who": "Guest", "conviction": "serious"},
+    {"idea": "Mailman: email firewall/scheduler that batches inbox delivery for focus", "who": "Guest", "conviction": "serious"},
+    {"idea": "Buy boring profitable internet businesses cheaply and install great operators (the Tiny model)", "who": "Guest", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Guest", "text": "Remote work will permanently reprice where people live and what offices are worth"},
+    {"who": "Guest", "text": "Local news rebuilt as lean digital-first operations can work in city after city"}
+  ],
+  "disagreements": "Philosophy clash: the hosts romanticize innovation and swinging big, while Andrew explicitly rejects the miserable-genius path in favor of boring, cash-flowing businesses and a nice life.",
+  "dynamics": "Reverent but probing — the hosts treat Andrew as a mentor figure and mine him for the holding-company playbook. Andrew is calm and deliberate against Sam's ambition-heavy energy; Shaan extracts the mechanics.",
+  "frameworks": [
+    "Buffett-for-internet model: buy wonderful boring businesses at fair prices, hold forever",
+    "Operator leverage: the constraint is finding great CEOs, then delegating with clear incentives",
+    "Anti-goal lifestyle design: choose businesses by the life they produce, not just the upside"
+  ],
+  "learnings": [
+    "Risk-adjusted, a portfolio of dull profitable companies can beat chasing one moonshot",
+    "Sourcing and retaining operators — not deal flow — is the bottleneck of the holdco model",
+    "Deciding what you actually want daily life to feel like should precede company selection"
+  ],
+  "banger_quotes": [
+    {"who": "Guest", "quote": "Rather own 10 car dealerships and sit on them for 50 years, live a nice life"}
+  ],
+  "numbers_dropped": [
+    "Tiny: roughly 30 wholly-owned companies plus dozens of minority investments",
+    "Capital Daily: ~40K subscribers in a ~200K-person city (~20% penetration)"
+  ],
+  "topics": ["andrew wilkinson", "tiny", "holding companies", "boring businesses", "local news", "operators"],
+  "sponsor_read_count": 1,
+  "notable": "The episode crystallizes the Buffett-vs-Andreessen life choice: quality of life compounding versus world-changing innovation."
+}

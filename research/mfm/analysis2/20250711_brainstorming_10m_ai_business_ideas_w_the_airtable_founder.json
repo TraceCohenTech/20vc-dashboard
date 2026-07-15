@@ -1,0 +1,55 @@
+{
+  "hosts": ["Sam Parr"],
+  "guest": "Howie Liu, co-founder/CEO of Airtable",
+  "approx_date": "Jul 2025",
+  "format": "idea-brainstorm",
+  "business_ideas": [
+    {"idea": "Live shopping powered by AI avatars of celebrities/influencers for one-on-one product pitches", "who": "Guest", "conviction": "serious"},
+    {"idea": "AI-personalized news aggregator/agent that curates and lets you converse about topics you care about", "who": "Guest", "conviction": "serious"},
+    {"idea": "White-label AI newsletter platform letting creators auto-generate personalized, interest-based content", "who": "Sam", "conviction": "serious"},
+    {"idea": "Real-time AI avatar personal finance/wealth advisor for the mass affluent", "who": "Guest", "conviction": "serious"},
+    {"idea": "AI-automated property management roll-up: buy traditional firms, automate cost structure, keep staff, scale margins", "who": "Guest", "conviction": "says he might build it"},
+    {"idea": "AI-automated call centers/BPO replacing rote analyst and support work at scale", "who": "Guest", "conviction": "serious"},
+    {"idea": "\"Cursor for email\" — an agentic email client that pre-reads, triages, and researches for power users, priced $200-$2000/mo", "who": "Guest", "conviction": "says he might build it"},
+    {"idea": "AI-native consumer social app where AI avatars are participants alongside humans in chats/social networks", "who": "Guest", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "Within 5 years, patients will tell doctors their diagnosis based on ChatGPT, and doctors will defer to it as a stamp of approval."},
+    {"who": "Guest", "text": "Every traditional labor-heavy business (property management, BPOs, call centers) is 'up for grabs' for AI-driven margin expansion."},
+    {"who": "Guest", "text": "Developer count could expand from ~30 million to 50-100 million as AI makes coding easier, expanding tools like Cursor's TAM to $30-300B."},
+    {"who": "Guest", "text": "Real-time voice AI will feel fully human within the next year or two."}
+  ],
+  "disagreements": null,
+  "dynamics": "Sam Parr interviews Howie Liu solo (no Shaan) in a structured seven-ideas format where Howie walks through a pre-written list. Sam mostly riffs, shares personal anecdotes (The Hustle, Kubera/ChatGPT finance hack, scam-call trolling) and grounds Howie's abstract ideas with concrete product comparisons; Howie drives the technical depth and frameworks. Energy is high and exploratory, structured as a numbered-idea format rather than typical banter.",
+  "frameworks": [
+    "Broad vs. narrow market strategy: attack a huge TAM and capture a niche, or go deep/narrow into a small vertical and extract more per customer (even via buyout/PE roll-up)",
+    "AI leverage playbook: identify labor-heavy cost structures and use AI to convert low-margin businesses into high-margin ones"
+  ],
+  "learnings": [
+    "Applying avatar/agent tech to live shopping could let AI-driven versions of celebrities give personalized one-on-one sales pitches at scale.",
+    "The reasoning ability of frontier models (post-o3-class) is what finally makes personalized, CFO-quality financial planning for individuals feasible.",
+    "AI making cost structures automatable turns previously low-margin service businesses (property management, BPOs) into PE-style roll-up opportunities.",
+    "Superhuman succeeded as a product but struggled to prove it was categorically better than Gmail; AI-native tools may finally deliver that 10x differentiation.",
+    "There's a durable niche of 'power users' (VCs, lawyers, realtors) for whom productivity tools tied to time-critical workflows like email can command $200-$2000/month pricing.",
+    "AI chat interactions can already outperform humans for asynchronous text support since AI gives full attention, unlike humans juggling many chats at once.",
+    "Consumer behavior under AI-native products is unpredictable in the same way the linear-TV-to-Twitch transition was, suggesting non-technologist 'artists' may build the next breakout consumer AI app."
+  ],
+  "banger_quotes": [
+    {"who": "Sam", "quote": "You got to figure out how to scam the scammer."},
+    {"who": "Guest", "quote": "It's not about using AI to completely replace the current workflow."},
+    {"who": "Sam", "quote": "ChatGPT said this. And the doctor is going to say, well, I agree with you."},
+    {"who": "Guest", "quote": "Most of the AI experiences we're getting have been very cleaned up."}
+  ],
+  "numbers_dropped": [
+    "Airtable valued at ~$10 billion",
+    "Live shopping commerce in Asia estimated at tens of billions, possibly $100B+ GMV",
+    "The Hustle newsletter reached ~3 million people a day with a 3-person team",
+    "Superhuman reportedly sold to Grammarly for ~$800 million",
+    "Stripe-quoted figure of ~30 million developers worldwide, potentially expanding to 50-100 million",
+    "Cursor-style TAM estimated at $30-300 billion if devs pay $1,000-$10,000/year",
+    "Adepar/high-end wealth platforms reportedly require ~$50 million+ liquid net worth for access"
+  ],
+  "topics": ["ai avatars", "ai business ideas", "airtable", "future of work", "email productivity", "personal finance ai", "consumer ai"],
+  "sponsor_read_count": 3,
+  "notable": "Structured as a pre-planned 'seven ideas' format pitched entirely by the guest, a departure from MFM's usual freewheeling banter, and includes an unusually frank aside about Grok's 'unhinged'/uncensored mode."
+}

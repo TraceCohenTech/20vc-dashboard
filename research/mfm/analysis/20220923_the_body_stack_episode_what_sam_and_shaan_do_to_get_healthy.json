@@ -1,0 +1,39 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Sep 2022",
+  "format": "frameworks/advice",
+  "business_ideas": [
+    {"idea": "Guy Next Door Fitness Plan - attainable fitness offering", "who": "Sam", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "People making over a million dollars a year in Brooklyn face compounding expenses requiring constant high earnings"}
+  ],
+  "disagreements": "None significant; both aligned on fitness philosophy and discipline importance",
+  "dynamics": "Sam and Shaan share personal fitness journeys—Sam highly disciplined and optimized, Shaan starting from unhealthy baseline. Sam drives with tactical specifics; Shaan grounds with relatable struggle. High energy throughout.",
+  "frameworks": [
+    "The Body Stack framework - treating fitness like engineering (strength, cardio, nutrition, recovery)",
+    "Discipline as remembering what you really want, not forced willpower",
+    "Infinite game vs finite game for fitness goals"
+  ],
+  "learnings": [
+    "High-quality coaching in any domain accelerates progress dramatically by removing friction and ensuring proper form",
+    "Long-term lifestyle change requires finding workouts and foods you actually enjoy, not forcing yourself through hate",
+    "Small functional improvements in mobility and movement quality compound into better daily life quality",
+    "The founder 15/45 weight gain is real—startup stress cascades into poor sleep, eating, and exercise habits",
+    "Discipline is stronger than motivation for consistent behavior change"
+  ],
+  "banger_quotes": [
+    {"who": "Shaan", "quote": "Discipline is just remembering what you really want"},
+    {"who": "Sam", "quote": "I don't fret over money if it makes me healthier"},
+    {"who": "Trainer (via Sam)", "quote": "You've had 32 years to build these habits—maybe take a couple years to fix it"}
+  ],
+  "numbers_dropped": [
+    "Sam spends approximately $15,000 per year on fitness (personal trainer $3,600/year, nutritionist $7,200/year, blood work $600/year, massages $520/year, apps/misc $3,000/year)",
+    "LeBron James spends $1 million per year on his body",
+    "Shaan at 11-12% body fat, works out 7 days a week"
+  ],
+  "topics": ["fitness", "discipline", "health", "wealth", "lifestyle design", "coaching"],
+  "sponsor_read_count": 1,
+  "notable": "Both hosts connect fitness investment to total net wealth philosophy—body is the foundation everything else rests on, yet most entrepreneurs neglect it"
+}

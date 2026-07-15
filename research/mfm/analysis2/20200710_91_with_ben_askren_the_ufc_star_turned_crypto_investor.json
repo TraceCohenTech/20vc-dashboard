@@ -1,0 +1,53 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Ben Askren, Olympic wrestler, former UFC/Bellator/ONE Championship fighter, wrestling-gym owner",
+  "approx_date": "Jul 2020",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "A sports-psychology/performance course teaching fear management and mental prep, à la Tony Robbins but for athletes/founders", "who": "Guest", "conviction": "says he might build it"},
+    {"idea": "A chain of wrestling academies (already 5 gyms, expanding, some with owned real estate)", "who": "Guest", "conviction": "serious"},
+    {"idea": "Rockfin: a blockchain-token-based media platform (bundled niche-sports subscriptions) that rewards early creators/users with tokens instead of cash, mirroring Uber/YouTube early-adopter upside", "who": "Guest", "conviction": "throwaway"},
+    {"idea": "Tokenizing individual athletes' future lifetime earnings/contracts (mentioned re: Spencer Dinwiddie)", "who": "Guest", "conviction": "throwaway"},
+    {"idea": "A biometric gun/holster that only fires for its authorized police officer, reducing officer vulnerability in physical struggles", "who": "Guest", "conviction": "throwaway"},
+    {"idea": "Paid public speaking / corporate leadership-training circuit leveraging world-class athletic credibility (like Chris Voss's negotiation training)", "who": "Sam", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Guest", "text": "Independent, non-traditional media creators will keep rising as legacy media declines over the next decade."},
+    {"who": "Guest", "text": "Blockchain-based token/equity models for early platform adopters will become a common growth-bootstrapping mechanism."}
+  ],
+  "disagreements": null,
+  "dynamics": "Both cohosts (Sam Parr and Shaan Puri) interview together as enthusiastic UFC fans, driving with rapid-fire questions and personal anecdotes about fear and business-launch anxiety; guest is reflective and analytical, drawing heavily on sports-psychology frameworks. Energy is high and fannish, ending in a rapid-fire MMA trivia round.",
+  "frameworks": [
+    "Dabbler vs. stressor-achiever vs. master (via Tony Robbins/Robert Greene): most people quit at the first plateau (dabbler) or grind through misery (stressor-achiever); masters expect and calmly meet the plateau",
+    "Three responses to failure: dig in, pivot, or innovate — and successful people combine all three at different times",
+    "Don't tie your ego to the outcome — separate self-worth from a single result (win/loss, launch success/failure) to stay resilient",
+    "Competing/performing as its own distinct 'skill' separate from mastery of the underlying craft, requiring its own repetitions to build"
+  ],
+  "learnings": [
+    "Elite performers often find that mental preparation (staying relaxed, bringing a trusted friend to a locker room) matters more than physical superstition or ritual, which can become a psychological vulnerability if disrupted.",
+    "Public personal authenticity, especially post-failure, resonates strongly with modern (social-media-native) audiences and can rehabilitate a reputation faster than trying to control the narrative.",
+    "Most professional MMA fighters earn far less than assumed — UFC's base contract structure (e.g., $10K/$10K show/win) leaves the 'middle class' of fighters near or below minimum wage after expenses and taxes.",
+    "Personal brand and charisma (talking trash, entertaining interviews) can significantly increase earnings independent of win-loss record or pay-per-view draw.",
+    "Token/equity-based early-adopter incentive models (Uber, PayPal's referral bonus, Ben & Jerry's local stock offering, Jet.com's referral equity) can be a powerful way to bootstrap a two-sided network from zero.",
+    "Athletes should treat career transition as a mandatory pivot, not an afterthought — many burn through savings within a couple of years post-retirement because they never built a second skill set."
+  ],
+  "banger_quotes": [
+    {"who": "Guest", "quote": "Superstition is a code word for fear."},
+    {"who": "Guest", "quote": "Competing in and of itself is a skill."},
+    {"who": "Guest", "quote": "If I'm going to do this, I might as well make some money doing it."},
+    {"who": "Host", "quote": "Launching and building stuff, intellectually it's not that hard, but emotionally it's quite challenging to overcome."}
+  ],
+  "numbers_dropped": [
+    "Guest's career record: 19 wins, 2 losses across Bellator, ONE Championship, and UFC",
+    "Twitter following of about 325K, Instagram over 600K",
+    "One wrestling gym could do about $250-300K in annual revenue at the high end; guest owns 5 gyms",
+    "Base UFC contract for a new fighter is roughly $10K to show, $10K to win, escalating slowly per fight",
+    "Standard UFC three-fight first year could gross around $72,000 before insurance, coaching, and taxes",
+    "Guest estimates he'd only be financially set for about 2 years on fighting income alone if he earned no more money",
+    "Rockfin's Flow Sports parent reportedly raised roughly $100 million in VC/private equity",
+    "Juno (a token-based Uber competitor) was acquired for about $200 million"
+  ],
+  "topics": ["mma", "sports psychology", "blockchain tokens", "network effects", "athlete post-career business", "public speaking"],
+  "sponsor_read_count": 0,
+  "notable": "The episode ends with a rapid-fire MMA trivia round (favorite fighters, PED estimates, hypothetical matchups) distinct from the show's usual business-focused close, reflecting the hosts' personal fandom driving the format that day."
+}

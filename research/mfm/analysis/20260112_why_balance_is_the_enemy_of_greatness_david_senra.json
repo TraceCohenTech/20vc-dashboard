@@ -1,0 +1,84 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "David Senra, host of Founders Podcast",
+  "approx_date": "Jan 2026",
+  "format": "guest-interview",
+  "business_ideas": [],
+  "predictions": [],
+  "disagreements": "Sam and Shaan gently challenge David's claim that founders shouldn't aim for external metrics (like billion-dollar valuations), citing RAMP founders who explicitly aimed for $1B in 18 months. David concedes the difference between making it a primary motivation vs. a cool bonus goal.",
+  "dynamics": "David Senra dominates with intense, passionate delivery about his philosophy. Sam and Shaan listen intently, ask clarifying questions, and occasionally push back. David speaks at length about biographies (407 read for Founders), the importance of association and deep relationships, and rejecting balance for specialization. Energy is philosophical and deeply introspective.",
+  "frameworks": [
+    "Constant refinement of association: upgrade friendships/partnerships as you level up",
+    "Rejection of balance: 'Anything worth doing is worth doing to excess'",
+    "Ed Thorp's balanced model vs. David's unbalanced focus (one primary craft only)",
+    "Four ways to destroy yourself: drugs, alcohol, wrong partners, megalomania (via Jimmy Iovine)",
+    "Inner scorecard: make decisions for yourself, not external validation",
+    "Frequency compounds parasocial relationships: Oprah's daily presence was key to empire",
+    "Hidden advantages exploit overlooked loopholes (Rockefeller's railroad rebates analogy)",
+    "The inner game: intuition and practice beats overthinking (Inner Game of Tennis)"
+  ],
+  "learnings": [
+    "World-class performers differ from pretty good by 1000x, not 20%; scale of excellence is logarithmic",
+    "Studying 400+ biographies reveals patterns unavailable to those without historical knowledge",
+    "Only a few investment/life bets matter across a lifetime; position sizing (conviction) determines results",
+    "Felix Dennis' deathbed wisdom: accumulate $50M by 35, then live by different rules",
+    "Frequency matters more than form: daily presence builds deeper bonds than sporadic high-effort contact",
+    "Your wealthy audience's price sensitivity doesn't scale linearly; they will pay vastly more",
+    "Learning requires behavior change, not information consumption; most people merely memorize",
+    "High performers isolate around one craft; attempting balance diffuses excellence across mediocrity",
+    "Parasocial relationships are real and powerful; they explain Oprah's empire and podcast stickiness",
+    "Rejected dreams (childhood environment, perceived slights) fuel extraordinary effort; honesty about this is rare"
+  ],
+  "banger_quotes": [
+    {
+      "who": "David",
+      "quote": "The difference between world's greatest and pretty good: thousand times better, not 20%"
+    },
+    {
+      "who": "David",
+      "quote": "Mediocrity is invisible until passion shows up and exposes it"
+    },
+    {
+      "who": "David",
+      "quote": "I'm not balanced. I don't think I want to be balanced"
+    },
+    {
+      "who": "David",
+      "quote": "Anything worth doing is worth doing to excess"
+    },
+    {
+      "who": "David",
+      "quote": "You're not learning if you didn't change your behavior"
+    },
+    {
+      "who": "David",
+      "quote": "Don't do anything someone else can do"
+    },
+    {
+      "who": "David",
+      "quote": "Most people are lying to themselves over and over again"
+    }
+  ],
+  "numbers_dropped": [
+    "David read 407 books for Founders Podcast",
+    "Eliud Kipchoge runs marathon at 4:36 per mile pace",
+    "Chapo Trap House had 20,000+ Patreon subscribers at $5/month minimum",
+    "Todd Graves' chicken restaurant has 915 stores, company worth $20+ billion",
+    "Graves owns 90% of his company",
+    "Felix Dennis spent $100 million on drugs/prostitutes over a decade",
+    "David initially had 1,500 downloads per episode (needed 50,000)",
+    "Brad Jacobs' portfolio company worth multi-billion dollars as of recent funding",
+    "Hamptons hotel room: $3,000 per night"
+  ],
+  "topics": [
+    "success-philosophy",
+    "entrepreneurship",
+    "reading-biographies",
+    "work-ethic",
+    "personal-relationships",
+    "podcast-strategy",
+    "founding-history"
+  ],
+  "sponsor_read_count": 1,
+  "notable": "David Senra is intensely focused and rejects conventional wisdom about balance; he's read 407 biographies and can recall details across hundreds of business histories. He emphasizes depth over breadth in relationships and refuses to conduct superficial interviews or short meetings. Episode covers historical figures (Rockefeller, Munger, Ed Thorp, Felix Dennis, Oprah) as case studies for how to build and sustain extraordinary careers."
+}

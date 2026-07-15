@@ -1,0 +1,110 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Suleiman Ali, founder of tiny Co and investor",
+  "approx_date": "Jun 2019",
+  "format": "guest-interview",
+  "business_ideas": [
+    {
+      "idea": "Superlatives: Facebook app where users assign funny superlatives to friends",
+      "who": "Suleiman",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Green energy newsletter for consumers",
+      "who": "Suleiman",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Twitter for colleges: local social network for college campuses",
+      "who": "Suleiman",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "tiny Co: mobile games on iPhone App Store with in-app purchases",
+      "who": "Suleiman",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Family Guy mobile game under license from Fox",
+      "who": "Suleiman",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Marvel mobile game",
+      "who": "Suleiman",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Harry Potter mobile game",
+      "who": "Suleiman",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Native deodorant: all-natural consumer product",
+      "who": "Suleiman",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Stealth-mode company generating significant revenue (details TBD)",
+      "who": "Suleiman",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Suleiman",
+      "text": "Next 20 years will be about hacking our bodies, genetics, bioengineering"
+    },
+    {
+      "who": "Suleiman",
+      "text": "Engineering is becoming a commodity; next entrepreneurs will be more well-rounded"
+    }
+  ],
+  "disagreements": null,
+  "dynamics": "Suleiman tells his entrepreneurial journey chronologically from Microsoft to tiny Co to Native. Sam and Shaan ask follow-up questions and guide the narrative. Standard guest-interview format with strong storytelling; hosts let guest lead while probing on key turning points and lessons learned.",
+  "frameworks": [
+    "Faith and urgency: core traits that come naturally, harder than discipline",
+    "Never lie to yourself about business reality: identify when failing early",
+    "Look for metrics proving failure, not just evidence of success",
+    "Optimize for right metrics: retention and repeat users, not just ever-used",
+    "Unit economics collapse can happen overnight due to market forces"
+  ],
+  "learnings": [
+    "Large companies don't provide authorship or control despite prestige and salary",
+    "Competent employees can get back to good jobs after failed ventures; real risk is overestimated",
+    "One bad hire at leadership level can destroy $100M+ company as badly as bad hires at small team",
+    "Personal capital in a failing venture signals conviction, not guarantees ROI",
+    "Entrepreneur naturally has faith and urgency; discipline is the harder trait to develop"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Suleiman",
+      "quote": "I felt like I was in a prison of my own making by being at Microsoft"
+    },
+    {
+      "who": "Suleiman",
+      "quote": "We just generated four hundred thousand dollars in revenue yesterday. Holy fuck. This is actually working"
+    },
+    {
+      "who": "Suleiman",
+      "quote": "I don't think I'm gonna be able to do that at Microsoft. I want to go out and do it"
+    },
+    {
+      "who": "Suleiman",
+      "quote": "No matter how hard I worked, promotions didn't enable sphere of influence over my work"
+    }
+  ],
+  "numbers_dropped": [
+    "Microsoft salary: $76,000/year",
+    "Superlatives acquisition: $2 million for 9 months of work",
+    "SVB loan: $10 million",
+    "Andreessen Horowitz co-investment: $1 million match + $1 million personal",
+    "Family Guy game first day revenue: $400,000",
+    "Tiny Co final year revenue: $85 million",
+    "Tiny Co final EBITDA: $15 million",
+    "Team size at sale: ~150 people"
+  ],
+  "topics": ["entrepreneurship", "startups", "facebook-apps", "mobile-games", "venture-capital", "unit-economics", "pivot", "licensing", "family-business"],
+  "sponsor_read_count": 0,
+  "notable": "Pivotal moment: Suleiman sees poor App Store featuring at Family Guy game launch, goes home defeated thinking company is dead, wakes next morning to discover $400k revenue—turning point that saves the company. Demonstrates the 'look reality in face' lesson: revenue data proved featuring wrong."
+}

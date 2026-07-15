@@ -1,0 +1,60 @@
+{
+  "hosts": ["Sam Parr"],
+  "guest": "Furcon, co-founder and CTO at AppLoving",
+  "approx_date": "Feb 2020",
+  "format": "idea-brainstorm",
+  "business_ideas": [
+    {"idea": "Mario Kart VR: AR-enabled go-kart racing experience with digital weapons and track overlays", "who": "Guest", "conviction": "serious"},
+    {"idea": "Drone-controlled go-kart racing: operate real drones racing in warehouse from home controller", "who": "Guest", "conviction": "serious"},
+    {"idea": "Remote-controlled claw machine arcade (model: warehouse in Nevada with app-based players)", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "Flow: digital whiteboard app for meetings, allowing iPad pencil notes to display on 55-inch screen", "who": "Guest", "conviction": "serious"},
+    {"idea": "AirPods always-on voice assistant: constant connection to spouse/team with opt-in audio without calls", "who": "Guest", "conviction": "serious"},
+    {"idea": "Voice-guided recipe cooking app via AirPods: walk through recipe steps hands-free", "who": "Guest", "conviction": "serious"},
+    {"idea": "Website performance testing with recorded drone video from different geographic locations", "who": "Guest", "conviction": "serious"},
+    {"idea": "Active guided meditation: Detour-style walking tours with meditation/mindfulness narration", "who": "Guest", "conviction": "serious"},
+    {"idea": "Car washing drone: autonomous drone for home garage car cleaning (Roomba-style)", "who": "Guest", "conviction": "throwaway"},
+    {"idea": "Lucid Drone: autonomous drones for building window washing (YC company, guest invested)", "who": "Guest", "conviction": "says he might build it"}
+  ],
+  "predictions": [
+    {"who": "Guest", "text": "VR/AR experiences will level up entertainment venues and theme parks"},
+    {"who": "Guest", "text": "AirPods platform will unlock software capabilities similar to App Store moment"},
+    {"who": "Sam", "text": "Sandbox and immersive experiences (escape rooms, VR arcades) are proven high-margin business models"},
+    {"who": "Guest", "text": "Boring industries with low-tech solutions offer best tech-enabled opportunities"}
+  ],
+  "disagreements": null,
+  "dynamics": "Sam moderates a collaborative brainstorm where Furcon presents ideas from his list. Conversational, high-energy tone with multiple tangents (Lance Armstrong interruption, Vegas claw machines, Bob Pittman/Six Flags, weather app scale). Sam asks clarifying questions, connects dots to existing businesses, and probes whether ideas could scale. This reads as friends riffing rather than formal interview.",
+  "frameworks": [
+    "Product-market fit is binary, not gradual: market pull is obvious when working",
+    "Remixing existing success: 'what if we applied X (restaurant model, detour concept) to Y (Indian food, cooking)'",
+    "Go B2B not B2C: sell efficiency to window washers, not to building owners; sell workflows to teams, not to individuals",
+    "AirPods as platform unlock: hardware opens software opportunity (like App Store)",
+    "Modern versions of old things: goosebumps → Hooked (SMS serialized stories)",
+    "Speed and clarity in execution create team alignment (learned from AppLoving CEO Adam)",
+    "Boring industries often have massive TAM and legacy solutions ripe for disruption"
+  ],
+  "learnings": [
+    "When product-market fit is real, the signal is unmistakable—not subtle, it's obvious and undeniable",
+    "Bias toward action and fast execution creates clarity on teams more than deliberation does",
+    "Markets expand when you solve real customer problems, not just displace workflows entirely",
+    "Find high-distribution channels (existing service providers) rather than building direct-to-consumer",
+    "The best ideas come from cross-domain remixing, not from scratch",
+    "Executing at high speed with clear communication trumps perfect planning"
+  ],
+  "banger_quotes": [
+    {"who": "Guest", "quote": "It's like the loss of control, the market is in control almost"},
+    {"who": "Guest", "quote": "When it's really working, it's so obvious"},
+    {"who": "Guest", "quote": "Just have a bias for action"}
+  ],
+  "numbers_dropped": [
+    "AppLoving: $1.4 billion valuation (portion sold to Chinese company)",
+    "$600-700 million in revenue (AppLoving estimate)",
+    "Weather apps getting 200 million impressions per day",
+    "Oculus completely sold out post-Christmas 2019",
+    "User Testing (mom's company): $100+ million annual revenue",
+    "Escape room franchise owners operate 200+ locations profitably",
+    "Chuck E. Cheese: ~$1 billion annual revenue"
+  ],
+  "topics": ["vr", "ar", "drones", "startup-ideas", "hardware", "product-market-fit", "airpods", "marketplace", "saas"],
+  "sponsor_read_count": 1,
+  "notable": "Furcon's background is exceptional: paid $120K as 15-year-old during .com boom, bootstrapped e-commerce to $1M revenue by age 17, left AppLoving early despite massively successful exit to pursue consumer products, now invests in technical hardware startups like Lucid Drone. Episode captures authentic brainstorming session with rapid-fire idea iteration and cross-domain thinking."
+}

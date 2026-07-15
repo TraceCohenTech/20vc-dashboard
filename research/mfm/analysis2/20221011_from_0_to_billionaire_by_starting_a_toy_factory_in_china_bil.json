@@ -1,0 +1,49 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Oct 2022",
+  "format": "mixed",
+  "business_ideas": [
+    {"idea": "Robot-built houses: design a home in a game-engine-like interface, then have automated robots construct it (Zuru Tech's model)", "who": "Guest", "conviction": "serious"},
+    {"idea": "Launch adjacent consumer brands (diapers, hair care, pet food, collagen supplements) leveraging toy-business cash flow and influencer/IP partnerships like CoComelon", "who": "Guest", "conviction": "serious"},
+    {"idea": "Niche Twitter quote-bot network (48 Laws of Power bot, etc.) funneling followers to $89-179 Gumroad guides on power/dating/fitness/crypto", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "A $1,500 course teaching people to build a Hollywood-quality home video/Zoom studio setup", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "Personal brand/portfolio recap episode segment tracking hosts' own angel investment wins and losses", "who": "Shaan", "conviction": "says he might build it"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "Sam predicts he'll eventually move to New York despite the tax cost, prioritizing energy/lifestyle over tax optimization."},
+    {"who": "Shaan", "text": "Shaan predicts some of his early angel investments could return 40x-80x, potentially turning $100k into $10-50M."}
+  ],
+  "disagreements": "Sam and Shaan mildly disagree about relocating for lifestyle vs. taxes: Sam is tempted to move to NYC despite losing ~50% of income to taxes, while Shaan argues taxes should never be the primary reason to move and that Sam should identify one decisive non-tax reason instead.",
+  "dynamics": "Sam drives most of the episode with the 'Billy of the Week' segment on Nick Mowbray/Zuru and several personal stories (tax math, hiring a naming/branding agency, the Hitler-episode YouTube controversy), while Shaan plays more of a grounding, analytical role, offering frameworks (landing page pitch types, before/after headlines) and questioning Sam's tax-driven relocation logic. Energy is high and casual with lots of tangents and inside jokes.",
+  "frameworks": [
+    "Landing page pitch types: 'dream outcome' (dream Hollywood look) vs. 'stop the struggle' (pain-relief framing) as two ways to sell a product.",
+    "Redhead/charlatan theory: two charlatans in a room combust the same way two redheads reportedly can't stand each other (used loosely as a business character read).",
+    "'My customers are people who love what I do': build a business/audience by doing what you love authentically rather than reverse-engineering a target customer persona.",
+    "Slow is smooth, smooth is fast: slowing down on foundational steps (like naming/positioning) makes the overall process faster and better."
+  ],
+  "learnings": [
+    "A toy company (Zuru) scaled from $13,000 in seed money and knockoff products to $1B+ in annual sales by aggressively automating manufacturing and layering new consumer brands onto the same production/distribution engine.",
+    "Early-stage growth can come from deliberately cloning proven, already-popular products to get into retail fast, then pivoting to originals once lawsuits and reputational pressure force the shift.",
+    "Media/content brands can bootstrap an audience by first creating content useful to existing large accounts in a niche (so they share it for free), rather than trying to build followers from zero.",
+    "Living an interesting life and sharing a slice of it is a more durable content strategy than optimizing SEO/growth tactics without any genuine underlying story.",
+    "Slowing down to deeply diagnose the actual customer pain (rather than jumping to a solution/name) produces branding and positioning that's dramatically better even though the process feels slower upfront."
+  ],
+  "banger_quotes": [
+    {"who": "Sam", "quote": "My customers are going to be the people that love what I do."},
+    {"who": "Shaan", "quote": "Slow is smooth and smooth is fast."},
+    {"who": "Shaan", "quote": "If you're explaining, you're losing."}
+  ],
+  "numbers_dropped": [
+    "Zuru does over $1 billion a year in toy sales, tripled to $1.1 billion in 2021",
+    "Nick Mowbray started Zuru with $13,000 borrowed from his parents",
+    "Zuru's diaper brand Rascal & Friends projected to grow from ~$150M to $200M+ in revenue",
+    "Zuru's hair care brand Monday projected to do $60M this year",
+    "Strongland/lifemathmoney Gumroad products generated roughly $500K-$1M+ per product (e.g., ~9,500 sales at $89, ~5,400 sales at $179)",
+    "Shaan says some early angel/fund investments are showing 40x-80x paper returns",
+    "Sam estimates NYC relocation would cost an extra $400-500K/year in taxes and rent vs. Texas"
+  ],
+  "topics": ["toy industry", "manufacturing", "billionaire profile", "content creation", "audience building", "taxes", "branding", "angel investing"],
+  "sponsor_read_count": 1,
+  "notable": "The episode opens with an unusually detailed 'Billy of the Week' profile of a real self-made billionaire (Nick Mowbray of Zuru) rather than the hosts' own ideas, then sprawls into personal tangents (taxes, branding agencies, a controversial Hitler-episode YouTube thumbnail) rather than following a single throughline."
+}

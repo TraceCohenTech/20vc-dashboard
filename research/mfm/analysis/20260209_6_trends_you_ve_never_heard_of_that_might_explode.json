@@ -1,0 +1,98 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Feb 2026",
+  "format": "news-reaction",
+  "business_ideas": [],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "Alcohol is going to get popular again with the next generation"
+    },
+    {
+      "who": "Shaan",
+      "text": "Sports betting will be heavily regulated in next 5 years; Polymarket/Kalshi will crumble"
+    },
+    {
+      "who": "Shaan",
+      "text": "Peptides will become part of everyday life like vitamins within 10 years"
+    }
+  ],
+  "disagreements": "Sam and Shaan debate whether YouTube clips/shorts matter or audio podcasting is what drives real engagement. Shaan argues clips matter less (15 min YouTube vs 45 min audio listening), Sam argues volume of clip exposure might overcome time-spent difference.",
+  "dynamics": "Shaan presents 6 data-driven trends; Sam listens, reacts, shares personal examples, and challenges conclusions. High energy throughout with playful moments (Handy sex toy), serious analysis (sports betting), and philosophical closing. Both bring personal lived experience to validate or contest trends.",
+  "frameworks": [
+    "Behavioral substitution: people don't become better; they substitute one vice for another",
+    "Niche-to-mainstream pipeline: early adopter behavior cascades to broad population",
+    "Eccentric loading: separate concentric/eccentric load resistance for superior muscle gains",
+    "Time spent vs volume trade-off: audio (45min/listener) wins vs YouTube (15min/viewer) on depth",
+    "Prediction markets vs news: skin-in-the-game incentives beat editorial incentives for accuracy",
+    "Victory and defeat are liars: emotional detachment from outcomes enables long-term success",
+    "Seasonality of life: work hard, enjoy, grieve, celebrate—all necessary cycles, not weakness"
+  ],
+  "learnings": [
+    "When alcohol declined, demand shifted to weed, nicotine, psychedelics—not abstinence but substitution",
+    "Fitness equipment trends (eccentric loading, Voltra) cascade from biohackers to mainstream gyms",
+    "Prediction markets (Polymarket 2B/week volume) are more accurate than news; incentives matter",
+    "Sports betting is sophisticated: companies predict lifetime value from first bet, manipulate daily",
+    "Podcast landscape: audio has 3x engagement time vs YouTube but grows much slower",
+    "Physical AI adoption will accelerate once friction drops (form factors, access, cost)",
+    "Clip farming is a different game than podcasting; volume may outweigh time-spent in influence",
+    "Early adoption of experimental health (peptides) is signal; mainstream adoption follows when easier",
+    "Teenagers betting on games at scale is new risk: death threats to athletes over parlays",
+    "Life success requires treating victory and disaster as impostors; emotional equanimity is foundation"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Shaan",
+      "quote": "Victory and defeat are both liars"
+    },
+    {
+      "who": "Coach",
+      "quote": "The number one thing you're going to learn as a coach is victory and defeat are liars"
+    },
+    {
+      "who": "Rudyard Kipling",
+      "quote": "If you can meet triumph and disaster, treat those impostors just the same"
+    },
+    {
+      "who": "Sam",
+      "quote": "Sports betting is dumb to do, but easy to look smart"
+    },
+    {
+      "who": "Shaan",
+      "quote": "Some guys rooting for World War III cuz he wins $390 on Polymarket"
+    },
+    {
+      "who": "Alex Hormozi",
+      "quote": "I've been experiencing a lot of success lately, but I feel empty"
+    },
+    {
+      "who": "Shaan",
+      "quote": "To everything there's a season"
+    }
+  ],
+  "numbers_dropped": [
+    "Ultra (nicotine-free pouches): $11M raised, 1M cans sold in 6 months, $16 per can",
+    "Plaude (meeting recorder): $100M+ in revenue",
+    "Alcohol inventory: 2011-2025 rose from <20% to 60-80% of sales",
+    "Podcast listening time: 45 min average audio vs 15 min YouTube (3x difference)",
+    "Polymarket/Kalshi sports betting: 2 billion per week volume",
+    "Commission taken: <0.2% vig",
+    "Kalshi regulation: commodities-based, enabling prediction markets in all 50 states",
+    "Wizard Labs Hone Health: performing well as peptide company (mentioned as investor success)"
+  ],
+  "topics": [
+    "trends",
+    "consumer-behavior",
+    "alcohol-decline",
+    "fitness-innovation",
+    "artificial-intelligence",
+    "podcast-industry",
+    "peptides",
+    "sports-betting",
+    "regulation",
+    "philosophy-of-life"
+  ],
+  "sponsor_read_count": 1,
+  "notable": "Episode closes with profound philosophical reflection on victory/defeat as impostors, drawing from Rudyard Kipling's 'If' poem, a high school basketball coach's wisdom, and the concept of seasonality. Sam shares the poster his college roommate's father gave him. This philosophical bookend elevates the episode beyond trend forecasting into wisdom about living well and emotional equanimity."
+}

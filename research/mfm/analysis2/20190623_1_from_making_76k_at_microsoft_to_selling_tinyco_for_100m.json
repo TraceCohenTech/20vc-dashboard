@@ -1,0 +1,54 @@
+{
+  "hosts": ["Sam Parr"],
+  "guest": "Suleiman Ali, founder of TinyCo and Native, investor via Ali Capital",
+  "approx_date": "Jun 2019",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "Superlatives, a Facebook app where friends give each other funny superlative titles", "who": "Guest", "conviction": "serious"},
+    {"idea": "Green energy email newsletter", "who": "Guest", "conviction": "throwaway"},
+    {"idea": "Twitter for colleges, a local social network for campus events", "who": "Guest", "conviction": "throwaway"},
+    {"idea": "TinyCo mobile games licensing major media brands (Family Guy, Harry Potter, Marvel)", "who": "Guest", "conviction": "serious"},
+    {"idea": "Native, an all-natural deodorant brand tested by sniffing armpits at home", "who": "Guest", "conviction": "serious"},
+    {"idea": "A new stealth-mode company already generating significant revenue", "who": "Guest", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Guest", "text": "The next 20 years will be about hacking human biology and genetics, not just software."},
+    {"who": "Guest", "text": "Engineering will become a commodity in Silicon Valley; well-rounded non-technical founders will rise."}
+  ],
+  "disagreements": null,
+  "dynamics": "Single host (Sam Parr, in this earliest 'How I Got Rich'-style format) drives with structured biographical questions while the guest narrates in long uninterrupted arcs; host occasionally interjects to highlight a lesson or ask him to double-click. Energy is reflective and admiring rather than riffing; no idea-brainstorm segment or ad breaks noted, reflecting the show's pre-cohost, single-guest-narrative original format.",
+  "frameworks": [
+    "Look reality in the face, not away from it: proactively hunt for evidence your business is failing rather than confirming success",
+    "Pre-mortem your business: list all reasons it could fail before writing a line of code and try to disprove them"
+  ],
+  "learnings": [
+    "Big companies reward incremental promotion but rarely give someone true authorship over a product, which is why some ambitious employees leave even when treated well.",
+    "People tend to overestimate the career risk of quitting a stable job, especially in a tight labor market for skilled workers.",
+    "Vanity metrics (total-ever users) can mask the fact you're not building lasting engagement or repeat usage.",
+    "Sheer persistence in a high-stakes negotiation (calling a partner every day, enlisting board members' networks) can unlock deals that seem otherwise unreachable.",
+    "Founders often lose sight of reality because everyone around them (investors, press, employees, friends) rewards them for projecting optimism.",
+    "Founder's own emotional resolve can function as a company's psychological life-support system during near-death periods.",
+    "Betting personal money back into a failing company can be as much an emotional decision as a financial one."
+  ],
+  "banger_quotes": [
+    {"who": "Guest", "quote": "I felt like I was in a prison of my own making by being at Microsoft."},
+    {"who": "Guest", "quote": "You want to look reality in the face or reality is in the room and you're looking away from it."},
+    {"who": "Guest", "quote": "It's really easy to get high on your own supply."},
+    {"who": "Guest", "quote": "I got to move on with the rest of my life, this chapter is over."}
+  ],
+  "numbers_dropped": [
+    "Made $76,000/year at Microsoft",
+    "Sold first company (Facebook apps) for $2M after 9 months",
+    "Naval Ravikant offered a $200K wire on the spot for equity",
+    "Andreessen Horowitz invested $18M in TinyCo",
+    "TinyCo grew to $20M revenue year one, $40M year two",
+    "Paid Fox $10M for the Family Guy license, funded via a Silicon Valley Bank loan",
+    "Family Guy game generated 150-200M+ in revenue over time",
+    "TinyCo sold while doing ~$85M revenue and $15M EBITDA",
+    "Turned a $100K angel investment in MoPub into $1M after Twitter's acquisition",
+    "Native deodorant sold to Procter & Gamble in a nine-figure deal"
+  ],
+  "topics": ["entrepreneurship", "mobile gaming", "facebook platform", "startup failure", "licensing deals", "venture capital"],
+  "sponsor_read_count": 0,
+  "notable": "This is episode 1 in a single-host 'How I Got Rich'-style format predating the Sam/Shaan co-host dynamic that defines later MFM episodes."
+}

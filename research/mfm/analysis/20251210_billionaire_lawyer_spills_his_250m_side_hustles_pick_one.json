@@ -1,0 +1,71 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "John Morgan (Morgan & Morgan founder, age 69)",
+  "approx_date": "Dec 2025",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "Morgan & Morgan: personal injury law firm (national scale with referral network)", "who": "John", "conviction": "serious"},
+    {"idea": "WonderWorks: upside-down interactive science center attractions", "who": "John", "conviction": "serious"},
+    {"idea": "Alcatraz East: crime and punishment museum in Pigeon Forge TN", "who": "John", "conviction": "serious"},
+    {"idea": "Litify: legal case management software (sold 60%, kept 40%)", "who": "John", "conviction": "serious"},
+    {"idea": "Practice Made Perfect: ad agency for personal injury lawyers", "who": "John", "conviction": "serious"},
+    {"idea": "Downtown Flavortown: Dave & Buster's meets Guy Fieri entertainment venue", "who": "John", "conviction": "serious"},
+    {"idea": "Santa's Chocolate Factory: themed chocolate factory with hourly Christmas show", "who": "John", "conviction": "serious"},
+    {"idea": "The Gallery: repurposed mall turned interactive illusion-based museum/attraction", "who": "John", "conviction": "serious"},
+    {"idea": "Real estate: apartment complexes and shopping centers", "who": "John", "conviction": "serious"},
+    {"idea": "Service industry scaling: plumbing, electrical, HVAC franchises", "who": "John", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "John", "text": "Entertainment and screen-free experiences will become more valuable as AI dominates digital world"},
+    {"who": "John", "text": "Malls won't all be torn down; some will be repurposed into attractions and experiences"}
+  ],
+  "disagreements": null,
+  "dynamics": "John is the dominant storyteller sharing 40+ years of business wisdom. Sam and Shaan genuinely impressed, asking probing questions. John speaks in vivid metaphors (circus, carnival, fishing) and uses colorful language. High mutual respect. Energy is electric and nostalgic.",
+  "frameworks": [
+    "Fish first, fish fast: catch clients quickly before legal work (cooking)",
+    "Love them, feed them, focus: three rules for building great teams",
+    "80/20 rule: 20% of cases generate 80% of revenue",
+    "Hunting big game vs cockroaches: target high-value opportunities",
+    "Walter Payton rule: give your best people repeated high-impact assignments",
+    "Bullets before bombs: pilot/test before scaling nationally",
+    "First-principles thinking: question assumptions (e.g., must tear down malls?)",
+    "Circus metaphor: build greatest show on earth with great performers",
+    "Bad faith law: when insurance doesn't pay, pursue bigger verdicts",
+    "Two-sided business: internal cases (30-35% margins) + referrals (85-90% margins)"
+  ],
+  "learnings": [
+    "Most entrepreneurs fail because they ignore location/market fit; they try to build round pegs in square holes",
+    "Personal injury lawyers are mediocre; John's advantage is being great trial lawyer + refusing cheap settlements",
+    "Advertising was once taboo but became competitive advantage when adopted early",
+    "Building great teams requires genuine profit-sharing and respect, not just management",
+    "Failure is survivable; losing $14M teaches lessons; batting .300 is Hall of Fame performance",
+    "Luck plays huge role (born in America, entrepreneurial seed, right time/place); most rich people deny this",
+    "Entertainment businesses have high moats (location-based, experience-based, capital-intensive)",
+    "Network effects: referral business grows more valuable as national footprint expands",
+    "Paperboys/paper routes indicate innate entrepreneurship; hard to teach"
+  ],
+  "banger_quotes": [
+    {"who": "John", "quote": "I don't hunt deer. I hunt money."},
+    {"who": "John", "quote": "95% of my competition are shit lawyers."},
+    {"who": "John", "quote": "I'm not hunting cockroaches. I'm hunting big game."},
+    {"who": "John", "quote": "Love them, feed them, focus. Build the greatest show on Earth."},
+    {"who": "John", "quote": "You can become president if 51% like you; get rich if 51% use you."}
+  ],
+  "numbers_dropped": [
+    "Morgan & Morgan: $2B revenue",
+    "WonderWorks: $33M EBITDA, admission $26/person",
+    "Alcatraz East: $5M net profit/year, cost $13-14M initial build",
+    "Pigeon Forge build: $8M new money, recouped in 1.5 years",
+    "Litify: 60% sold at $600M valuation (John kept 40%)",
+    "Practice Made Perfect: $8-9M/year, sold for $18M",
+    "Atlanta loss: $14M in hole before turnaround",
+    "Magical Midway: lost $1M on exit",
+    "Google verdict (SF): $500M",
+    "Attractions portfolio: worth ~$250M (8X multiple)",
+    "Initial advertising loan: $100K borrowed",
+    "Constitutional amendment spending: tens of millions (Florida minimum wage + medical marijuana)"
+  ],
+  "topics": ["personal-injury-law", "law-firm-scaling", "attraction-business", "entertainment", "entrepreneurship", "trial-law", "team-building", "first-principles", "real-estate"],
+  "sponsor_read_count": 1,
+  "notable": "John is 69, lives in Maui 5 months/year. Written two books (You Can't Teach Hungry, You Can't Teach Vision), editing third (Life is Luck). Recently appeared on Jubilee and Business Insider. Been approached to run for FL governor. Brother's quadriplegia inspired career in personal injury law. Spent tens of millions on constitutional amendments (medical marijuana, minimum wage)."
+}

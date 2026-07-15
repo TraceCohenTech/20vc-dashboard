@@ -1,0 +1,37 @@
+{
+  "hosts": ["Shaan Puri"],
+  "guest": null,
+  "approx_date": "May 2022",
+  "format": "frameworks/advice",
+  "business_ideas": [],
+  "predictions": [],
+  "disagreements": null,
+  "dynamics": "Solo Shaan episode (Sam is traveling in Europe) delivered as a monologue/list format rather than the usual back-and-forth banter. Shaan runs through nine personal management tactics in sequence, with no co-host or guest to riff off or ground him, giving it a more structured, lecture-like energy than typical episodes.",
+  "frameworks": [
+    "Doctor House technique: show the team raw data and ask 'what's weird here?' instead of handing them the conclusion, to build curiosity and analytical skill.",
+    "Holiday Party tactic: have the team draw/visualize a future celebration to surface the real North Star goal without triggering defensiveness.",
+    "Misery Loves Company (pre-mortem): imagine meeting for a beer after the project failed and ask what went wrong, to surface hidden risks non-defensively.",
+    "F-Marry-Kill for teams/projects: ask who/what you'd cut if forced to, without committing to actually cutting it, to surface the truth painlessly.",
+    "Superpower technique: publicly name each team member's unique strength/nickname so they grow into that identity.",
+    "Tesla Master Plan: write a public one-liner mission plus a staged roadmap (like Musk's expensive-car-first EV strategy).",
+    "Calendar audit: color-code your past week's calendar green/red/yellow by energy given vs. drained, then shift time toward green.",
+    "Peer groups: form a small text group of people with the same specific ambition to trade tactics monthly.",
+    "Kickoff document: a pre-project template defining the one-line goal, floor/stretch win, anti-goals, and a one-hour action to build immediate momentum."
+  ],
+  "learnings": [
+    "Giving a team the answer outright makes them passive; making them find the insight themselves builds durable pattern-recognition skill.",
+    "People get defensive when asked direct, analytical questions about strategy, but open up when the same question is reframed as an imaginative or hypothetical scenario.",
+    "Leaders rarely admit their own team, project list, or plan has excess fat when asked directly, but a hypothetical 'who would you cut' framing gets past that defensiveness.",
+    "Publicly naming someone's strength as an identity (a 'superpower') causes them to grow into and reinforce that behavior over time.",
+    "Auditing how your calendar actually felt (energizing vs. draining), not just what's on it, is a more honest way to redesign your schedule than intention alone."
+  ],
+  "banger_quotes": [
+    {"who": "Shaan", "quote": "Everybody sucks the first time that they are managing people."},
+    {"who": "Shaan", "quote": "It's very hard to unsee a truth."},
+    {"who": "Shaan", "quote": "I believe that clarity is power."}
+  ],
+  "numbers_dropped": [],
+  "topics": ["management", "leadership", "frameworks", "team building", "solo episode", "productivity"],
+  "sponsor_read_count": 0,
+  "notable": "This is a rare solo Shaan episode with no Sam and no guest, structured as a pure list-style monologue of nine tactics rather than the typical conversational format."
+}

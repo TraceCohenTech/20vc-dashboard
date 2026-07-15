@@ -1,0 +1,38 @@
+{
+  "hosts": ["Shaan Puri"],
+  "guest": "Ben Levy, Shaan's business partner — connector and community builder behind Hoop Group and founder dinners",
+  "approx_date": "Jun 2025",
+  "format": "mixed",
+  "business_ideas": [
+    {"idea": "Courtside-style content: interviewing interesting rich people in the seats at NBA games", "who": "Guest", "conviction": "serious"},
+    {"idea": "Auctioning lunches/experiences with notable founders and celebrities, charity-style", "who": "Guest", "conviction": "throwaway"},
+    {"idea": "Paid hardship experiences: a real Survivor-style ordeal people pay serious money to endure", "who": "Guest", "conviction": "serious"},
+    {"idea": "'Everyone needs their Birkin': collectibles/status objects as self-expression businesses", "who": "Guest", "conviction": "throwaway"},
+    {"idea": "Curated high-end communities and camps for founders (K Academy-style fantasy experiences)", "who": "Guest", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Guest", "text": "Premium voluntary-hardship and fantasy-camp experiences will become a serious luxury category"}
+  ],
+  "disagreements": null,
+  "dynamics": "Shaan hosts his own business partner and plays editor: Ben fires off half-baked ideas and stories from his text-thread firehose, Shaan filters for what's real and names the frameworks. Warm, inside-joke-heavy, five-years-of-partnership shorthand.",
+  "frameworks": [
+    "Barbell method for relationships: lightweight texts or deep in-person time, kill the middle-zone meetings",
+    "TMJ — Too Much Juice: the trait of people who make things happen through sheer energy",
+    "Engineered luck: deliberately create serendipity through camps, dinners, and connecting people"
+  ],
+  "learnings": [
+    "Luck can be manufactured like a metric — put yourself in dense rooms and make introductions constantly",
+    "Low-effort consistent relationship touches compound into outsized opportunities over years",
+    "Shallow scheduled video calls are the worst of both worlds — go async or go deep in person"
+  ],
+  "banger_quotes": [
+    {"who": "Shaan", "quote": "I got a bad case of TMJ, too much juice"},
+    {"who": "Guest", "quote": "You want to spend your time on either end of the barbell"}
+  ],
+  "numbers_dropped": [
+    "K Academy (Coach K's Duke fantasy camp): ~150 attendees at the session Ben attended"
+  ],
+  "topics": ["luck", "serendipity", "barbell method", "networking", "experiences", "communities"],
+  "sponsor_read_count": 0,
+  "notable": "An entire episode arguing luck is an engineerable system, told through Ben's fantasy-camp and founder-community escapades."
+}

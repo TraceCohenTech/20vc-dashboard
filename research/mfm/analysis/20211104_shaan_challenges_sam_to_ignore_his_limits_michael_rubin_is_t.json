@@ -1,0 +1,91 @@
+{
+  "hosts": [
+    "Sam Parr",
+    "Shaan Puri"
+  ],
+  "guest": null,
+  "approx_date": "Nov 2021",
+  "format": "frameworks/advice",
+  "business_ideas": [
+    {
+      "idea": "Weekend adventure TV series for nine-to-five workers",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Lab-grown cruelty-free leather products",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Free restaurants sponsored by brands",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Lab-grown diamonds brand for millennials",
+      "who": "Shaan",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "Breaking Facebook and Instagram apart makes Zuckerberg richer from competing subsidiaries."
+    },
+    {
+      "who": "Shaan",
+      "text": "Monopoly breakup makes founders wealthier as competing units boost total value."
+    },
+    {
+      "who": "Shaan",
+      "text": "Lab-grown diamonds capture market share despite consumer-brand awareness gap."
+    }
+  ],
+  "disagreements": "Sam avoids motorcycles, prefers surfing; minor tension on adventure format but quickly align.",
+  "dynamics": "Shaan drives intellectual exploration of business models and mental frameworks; Sam provides pragmatic reality-checks. Shaan leads conversation with ideas and historical parallels; Sam asks clarifying questions. Upbeat, collaborative problem-solving with extended personal anecdotes (sushi apprenticeship, Michael Rubin case study).",
+  "frameworks": [
+    "Self-limiting beliefs: people impose artificial ceilings on ambition",
+    "Monopoly breakup paradox: breaking monopolies makes founders richer",
+    "Apprenticeship intensity: expert feedback accelerates learning"
+  ],
+  "learnings": [
+    "Top entrepreneurs deliberately overcome self-imposed psychological limits others accept unconsciously",
+    "Michael Rubin built a multi-billion-dollar empire starting from a basement business at age 12",
+    "When monopolies are broken up, original owners often become wealthier as subdivisions compete",
+    "Consumer openness to innovation far outpaces actual market adoption rates"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Shaan",
+      "quote": "I always reply with two things: it's amazing. When launching?"
+    },
+    {
+      "who": "Shaan",
+      "quote": "I feel like I can rule the world."
+    },
+    {
+      "who": "Sam",
+      "quote": "I don't do motorcycles. After Kobe no helicopters either."
+    }
+  ],
+  "numbers_dropped": [
+    "Michael Rubin worth approximately $10 billion",
+    "Michael Rubin started ski tuning business at age 12",
+    "At 14: received $2,500 in bar mitzvah gifts",
+    "By 16: accumulated $120,000 in debt, settled with creditors",
+    "70% of millennials surveyed open to lab-grown diamonds",
+    "Standard Oil broken into 5-8 companies: Exxon, Mobil, BP, Conoco"
+  ],
+  "topics": [
+    "entrepreneurship",
+    "self-limiting-beliefs",
+    "michael-rubin",
+    "business-models",
+    "monopolies",
+    "innovation",
+    "lab-grown-products"
+  ],
+  "sponsor_read_count": 0,
+  "notable": "Episode centers on Shaan challenging Sam to ignore artificial limitations, using Michael Rubin as exemplar of boundary-breaking billionaire entrepreneur."
+}

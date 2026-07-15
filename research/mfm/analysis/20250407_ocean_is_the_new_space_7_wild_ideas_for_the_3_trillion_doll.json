@@ -1,0 +1,103 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Will O'Brien, CEO of Ulyses (ocean robotics)",
+  "approx_date": "Apr 2025",
+  "format": "guest-interview",
+  "business_ideas": [
+    {
+      "idea": "Autonomous underwater robots for seagrass restoration and ocean tasks",
+      "who": "Guest",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Unmanned surface vehicles for ocean defense and surveillance",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Data centers submerged in the ocean for AI cooling efficiency",
+      "who": "Guest",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Subsea cable protection service using autonomous drones",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Ocean treasure hunting and salvage with profit-sharing agreements",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Marine geoengineering platform for carbon sequestration and ecosystem management",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Cultivated/lab-grown sushi-grade salmon for sustainable seafood",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Cloud seeding and weather manipulation via atmospheric iron deployment",
+      "who": "Guest",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "A billion-dollar company will be built in marine geoengineering and ocean stewardship"
+    },
+    {
+      "who": "Guest",
+      "text": "New generation of tech founders combining physical fitness, entrepreneurial ambition, tech skills will dominate 2020s"
+    },
+    {
+      "who": "Sam",
+      "text": "The ocean economy will see a wave of disruption similar to SpaceX/Blue Origin in space"
+    }
+  ],
+  "disagreements": null,
+  "dynamics": "Shaan opens enthusiastically about ocean opportunities; Sam expresses fear of ocean but intellectual fascination. Will drives with domain expertise and contagious passion. Episode builds momentum toward shared conviction about new generation of unconventional founders embodying 'tech bro' identity proudly. Tone shifts from skeptical education to inspirational by end.",
+  "frameworks": [
+    "Technology Windows (James Krueger) — defined periods where tech enablers create brief startup opportunity windows before incumbents dominate",
+    "Ocean Economy Tripartite Model — segments ocean business into biosphere, prosperity-oriented, and defense/security",
+    "Hobbyist-to-Billionaire Arc — status moment, knowledge diffusion, competition, incumbent regime"
+  ],
+  "learnings": [
+    "Low-hanging software fruit has been consumed; next frontier is hardware-intensive problems requiring domain expertise and contrarian thinking",
+    "Coming from outside an industry can be an advantage when disrupting it; prior assumptions from incumbents limit innovation",
+    "Conspiratorial/contrarian mindset shares traits with great founders—pattern recognition, willingness to pursue unusual ideas despite skepticism"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Guest",
+      "quote": "Give me a tanker of iron filings and I will give you an ice age."
+    },
+    {
+      "who": "Steve Irwin (quoted)",
+      "quote": "I've been put on this planet to protect wildlife. Every single cent goes straight into conservation."
+    },
+    {
+      "who": "Guest",
+      "quote": "To really shake up an industry, it's probably good if you don't come from it."
+    }
+  ],
+  "numbers_dropped": [
+    "Ocean economy: $3 trillion annual spend",
+    "Ocean coverage: 70% of planet, only 25% explored",
+    "Ocean food/income: 3 billion rely on ocean for diet, 1 billion for primary income",
+    "Seagrass decline: 7% per year loss",
+    "U.S. Navy: 300 ships, 67 submarines",
+    "Subsea cables: ~600 active globally",
+    "Baltic Sea cable cuts: 11 in past year",
+    "Ulyses first-year revenue: ~$1 million (5-person team)",
+    "Ulyses funding: $2 million raised",
+    "Wild Type Series B: $100 million (2022)"
+  ],
+  "topics": ["ocean", "robotics", "defense-tech", "startups", "sustainability", "autonomous-vehicles"],
+  "sponsor_read_count": 1,
+  "notable": "Guest embodies new archetype of tech founder—combines physical fitness, cowboy aesthetic, contrarian thinking, domain passion with Silicon Valley ambition; represents broader cultural shift in tech beyond pure software."
+}

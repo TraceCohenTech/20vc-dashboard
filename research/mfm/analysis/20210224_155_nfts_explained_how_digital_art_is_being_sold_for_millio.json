@@ -1,0 +1,94 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Feb 2021",
+  "format": "news-reaction",
+  "business_ideas": [
+    {
+      "idea": "NFT frames for home display: digital picture frames showing rotating NFT collections",
+      "who": "Sean",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Nifty Gateway: curated NFT marketplace for artists, taking 15% cut of sales",
+      "who": "Sean",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Infinite Objects: sealed digital frame with looping video art, sold as physical NFT companion",
+      "who": "Sean",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Open Sea: open eBay for NFTs, anyone can list any digital collectible without curation",
+      "who": "Sean",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Crypto Punks: 10k unique 8-bit avatar NFTs, now selling for $150k each",
+      "who": "Sean",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Coin Market Cap for NFTs: Crypto Slam dashboard tracking NFT sales volume and trends",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Music drops as NFTs: artists release 10-second song clips or full tracks as tradeable tokens",
+      "who": "Sean",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sean",
+      "text": "Most NFTs will crash like Crypto Kitties, but art NFTs solving artist monetization will stick"
+    },
+    {
+      "who": "Sean",
+      "text": "Crypto Punks and top-tier art will remain valuable; mass-created NFTs will go to zero"
+    },
+    {
+      "who": "Sam",
+      "text": "NFT marketplace volume will exceed $100M monthly by year-end from current $20M"
+    }
+  ],
+  "disagreements": "Sean bullish on NFT opportunity beyond hype; Sam initially skeptical then convinced by art examples. Disagreement on whether this is bubble (yes) vs real lasting trend (also yes, but coexisting). Sam: 'most stuff will crash.' Sean: 'but unique art might persist like traditional collectibles.'",
+  "dynamics": "Sean drives energy and enthusiasm, Sam provides skepticism and grounds it. Back-and-forth on whether this replicates Beanie Babies crash or creates new asset class. Sean has personally bought NFTs and shows examples; Sam validates through comparison frameworks.",
+  "frameworks": [
+    "Fungible vs non-fungible: Bitcoin is fungible (interchangeable), NFT is not (each unique with serial number)",
+    "Collectibles as network: scarcity + agreement people want it = value (Beanie Babies, sports cards, now digital art)",
+    "Picks and shovels in bubble: don't speculate on asset, build infrastructure (frames, marketplaces, displays)",
+    "Resale royalties locked in blockchain: artists get cut of every resale, unlike traditional art market",
+    "Artist discovery funnel: free Twitter followers to paid collectors via authenticated scarcity"
+  ],
+  "learnings": [
+    "Digital scarcity is new problem solved by blockchain: Internet previously made everything infinitely copyable",
+    "Marketplace network effects: Nifty Gateway succeeds via artist curation and brand trust vs OpenSea chaos",
+    "Secondary market liquidity requires transparency and trust, blockchain provides both publicly",
+    "Collectible psychology same across mediums: autographs, cards, art, now digital; scarcity + desire = value",
+    "Creator monetization models: artists can sell direct to fans without gallery gatekeepers taking cut",
+    "Hype cycles predictable: early artist drops do crazy multiples, then new supply floods market"
+  ],
+  "banger_quotes": [
+    {"who": "Sean", "quote": "I 10x'd my money in 20 days, already up 2.5x on new purchase in one day"},
+    {"who": "Shaan", "quote": "It's a meme of like 'Finally someone said it' - recognizing what you felt but couldn't articulate"},
+    {"who": "Sean", "quote": "If you want the opposite of curation, go to OpenSea, it's just chaos and trash"},
+    {"who": "Sam", "quote": "Both valuable because other people believe it's valuable, that's what money is"},
+    {"who": "Sean", "quote": "Boss Logic made $4M in one 5-minute drop, artist on daily content for 8 years"}
+  ],
+  "numbers_dropped": [
+    "Top Shot sold $45M in 24 hours, up 165% in 24 hours, $164M in 30 days, up 1200%",
+    "32,000 buyers in 24 hours on Top Shot",
+    "Nifty Gateway doing ~$20M in sales monthly currently",
+    "Forever Mamba NFT: Sean bought at $824, sold at $8,100 in 20 days, now selling for $45,000",
+    "Boss Logic drop: 429 unique copies, initial $400k revenue in 5 minutes, now estimated $200M total resale",
+    "Logan Paul did $3.5M NFT drop, $1M in first 30 minutes",
+    "Crypto Punks: some selling for $150k+, specific punk #2013 sold for $92,000",
+    "OpenSea: some NFTs selling for just $3, most content worthless"
+  ],
+  "topics": ["nft", "crypto", "digital-art", "collectibles", "marketplace", "blockchain"],
+  "sponsor_read_count": 0,
+  "notable": "Sean personally invested in NFTs and profited 10x in 20 days, driving authentic enthusiasm. Episode covers both the mania (Logan Paul, Crypto Punks) and the legitimate creator monetization unlock (artist royalties, direct-to-fan sales). Infinite Objects frame purchase shows real market demand for physical NFT display."
+}

@@ -1,0 +1,45 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "May 2026",
+  "format": "mixed",
+  "business_ideas": [
+    {"idea": "Pay a 'clipper army' of young editors (CPM-based bounty) to post short clips of MFM across TikTok/Instagram/X to drive discovery", "who": "Sam", "conviction": "serious"},
+    {"idea": "Curated 'MFM 1%' retreat/event for the most interesting top listeners rather than a big-stage live show", "who": "Sam", "conviction": "serious"},
+    {"idea": "Small-scale 'Tiny Desk'-style live workshop format where hosts help ~20 entrepreneurs solve real business problems on the spot, chopped into Q&A clips", "who": "Shaan", "conviction": "serious"},
+    {"idea": "A curated MFM newsletter distilling episode takeaways, upcoming guests, and extras, written by a trained ghostwriter rather than the hosts", "who": "Sam", "conviction": "serious"},
+    {"idea": "Support-club-style decentralized city meetups for fans of the show to have dinners together without the hosts present", "who": "Shaan", "conviction": "serious"},
+    {"idea": "An 'Acquired for everyday businesses' style standalone episode format nerding out on the backstory of a single recognizable consumer brand (e.g. Stanley cup, Bitchin' Sauce)", "who": "Sam", "conviction": "serious"},
+    {"idea": "Guest-prep format asking guests to screen-share their calendar, home screen, Chrome plugins, or investment pie chart on camera for texture/insight", "who": "Sam", "conviction": "serious"}
+  ],
+  "predictions": [],
+  "disagreements": "No real disagreement; Sam and Shaan largely align on strategy, though there's a light moment where Ari notes Shaan is much blunter/harsher in internal strategy meetings than on-air, which Shaan acknowledges.",
+  "dynamics": "An unusually meta, self-referential episode: Sam and Shaan record what was meant to be a private internal strategy meeting with two staffers (Ari and new hire Cassie) about how to grow the podcast. Sam drives most of the structured facilitation (pre-work questions, gathering feedback) while Shaan is more blunt/directive in assigning concrete goals (e.g. tasking Cassie with building a 'clipper army' in 90 days). Energy is candid and unusually vulnerable about the show's own shortcomings (no social media manager, forgetting past growth wins).","frameworks": [
+    "Pre-work before meetings — send discussion questions in advance so quieter/slower thinkers can contribute fully formed ideas rather than relying on live brainstorming",
+    "'Samplers vs. loyal listeners' — most audience growth comes from bite-sized clips distributed where people already are, not the full-length core product",
+    "Barbell guest strategy — book either extremely famous/high-profile guests or completely unknown but deeply insightful people, and cut out the low-signal 'middle'",
+    "90-day aggressive stretch-goal sprints — commit fully to one or two initiatives for a fixed period rather than tiptoeing in, so you get a clear yes/no signal"
+  ],
+  "learnings": [
+    "A prior 'clipper army' bounty campaign (paying the top clip-maker) generated 20 million impressions in a single month, yet the team abandoned the tactic and forgot about it despite its success.",
+    "Podcast episodes made from genuine curiosity (a guest, a book, a personal story) energize the hosts more than episodes chosen because a headline or topic seemed likely to perform well by the numbers.",
+    "A large media brand with 800+ episodes and 115 million downloads can still lack basic infrastructure (no dedicated social media manager, forgotten Instagram password) well into its growth.",
+    "Distilling a back catalog of hundreds of episodes into short, plain-language 'here's the best stuff' takeaways (in a newsletter) can re-engage lapsed listeners better than a full AI summary.",
+    "Getting guests to show something personal and unscripted (their desk, phone home screen, browser plugins) tends to reveal more authentic, memorable material than direct interview questions.",
+    "Hosting for guests with a controversial/checkered past requires proactively deciding whether addressing it is 'worth it' before the interview, rather than being surprised by it mid-recording."
+  ],
+  "banger_quotes": [
+    {"who": "Sam", "quote": "There's an empire built on four words: dude, have you seen this?"},
+    {"who": "Shaan", "quote": "It's like the dog's not barking. We don't know what we're missing because it's not obvious."},
+    {"who": "Sam", "quote": "I want to do the selfish thing and have fun and learn and improve myself."},
+    {"who": "Shaan", "quote": "I felt like a magician cuz you get to do a magic trick of like they're stuck and you get them unstuck."}
+  ],
+  "numbers_dropped": [
+    "MFM is 822 (later stated as 850) episodes in, roughly 115 million total downloads over 6 years",
+    "A past clipper bounty campaign generated 20 million impressions in one month",
+    "The clipper who won that bounty later built a short-form content company that sold to Morning Brew"
+  ],
+  "topics": ["podcast strategy", "media growth tactics", "content clipping", "audience building", "internal team management"],
+  "sponsor_read_count": 0,
+  "notable": "Structured as a deliberately meta episode — an internal team strategy meeting recorded and published live, breaking the show's normal format entirely and including staffers Ari and Cassie as on-mic participants rather than just Sam and Shaan."
+}

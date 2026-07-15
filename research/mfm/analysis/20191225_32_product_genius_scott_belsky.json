@@ -1,0 +1,92 @@
+{
+  "hosts": ["Shaan Puri"],
+  "guest": "Scott Belsky, founder of Behance, Chief Product Officer at Adobe, author, investor",
+  "approx_date": "Dec 2019",
+  "format": "guest-interview",
+  "business_ideas": [
+    {
+      "idea": "Behance: searchable, sortable portfolio discovery platform for creatives (inverted model from artist websites)",
+      "who": "Scott",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Next-gen marketplace model: sustainable freelancer platforms with new value distribution (blockchain-driven or alternative mechanics)",
+      "who": "Scott",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Superpowers-based OS: replace app store paradigm with contextual, location/time-aware interfaces (sixth sense interface)",
+      "who": "Scott",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Scott",
+      "text": "Apps will become obsolete; OS will evolve to context-aware superpowers based on GPS, AI, notifications"
+    },
+    {
+      "who": "Scott",
+      "text": "Freelancer marketplaces need new economics beyond transaction-fee rent-seeking model"
+    }
+  ],
+  "disagreements": null,
+  "dynamics": "Shaan deliberately avoids standard interview format (skips 'first 100 customers' questions). Conversation is philosophical, hopping between topics. Scott is reflective, analytical, articulate. Both are aligned; tone is collaborative, friendly. Energy is high but thoughtful (9pm Christmas Eve recording). Scott is visibly engaged despite packed day.",
+  "frameworks": [
+    "First mile obsession: onboarding + splash pages + progressive disclosure + defaults determine product success (only part every customer experiences)",
+    "Psychology over features: products engage via insecurities/validation needs; VSCO example (hiding follower counts + likes)",
+    "Things that don't scale are the art: Airbnb photographers, custom experiences that distinguish brands",
+    "Weekly calendar audits: look back, ask what advanced your priorities? Reveals misalignment with stated values",
+    "Energy audits: mark activities green (energizing) or red (draining); reallocate towards green over time",
+    "Step-function conversations: Do people leave you thinking differently? Selects for founders/people worth investing in",
+    "Hedging paradox: Building multiple products/doing business school simultaneously dilutes focus; killing features increases core usage"
+  ],
+  "learnings": [
+    "Media coverage obsesses over beginning/end (95%); 99% of hard work is the invisible messy middle",
+    "At lows, you make fear-based decisions (emulate competitors, lose identity); at highs, you misattribute success to your decisions",
+    "Founder passion for solution > customer empathy for problem causes wasted years; must spend time with customers observing real lives",
+    "Shipping multiple features as risk hedging actually dilutes engagement; killing features led to higher core usage at Behance",
+    "Career paths emerge from following curiosity, not declaring career goals (became founder, executive, investor organically)",
+    "Small investments for education (Pinterest when you can't afford it) pays off more than risk-hedging portfolio approach",
+    "Peer networks matter more than individual deals; curated relationships >algorithms for learning",
+    "Disconnection/deep thinking is competitive advantage in always-connected world",
+    "Best investors understand present deeply and how it's shifting, not just distant futures"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Scott",
+      "quote": "95% of media coverage is 1% of time (beginning/end). 99% is the messy middle."
+    },
+    {
+      "who": "Scott",
+      "quote": "The science of business is scaling. The art is the things that don't scale."
+    },
+    {
+      "who": "Scott",
+      "quote": "Every customer is lazy, vain, and selfish in their first 15-30 seconds."
+    },
+    {
+      "who": "Scott",
+      "quote": "When you ship features and kill a few, core stuff gets used more."
+    },
+    {
+      "who": "Scott",
+      "quote": "Disconnection is a competitive advantage."
+    },
+    {
+      "who": "Shaan",
+      "quote": "526,000 listeners in 6 months on a podcast I started on a whim."
+    }
+  ],
+  "numbers_dropped": [
+    "Behance: 5 years bootstrapped, 2 years VC-backed, 3 years integration post-Adobe acquisition",
+    "Pinterest investment: ~2010, early stage, 'good chunk of salary' when couldn't afford it",
+    "Uber investment: pre-Travis, pre-Ryan, small check, product advisor role",
+    "Behance: killed Tip Exchange (Digg-like feature) + Groups feature; core usage increased post-deletion",
+    "The Messy Middle: 680+ Evernote insights distilled into ~200 book insights",
+    "MFM podcast: 526,000 listeners (from Shaan's intro) in ~6 months"
+  ],
+  "topics": ["product-management", "behance", "adobe", "creativity", "investor", "design-thinking", "venture-capital", "entrepreneurship", "books"],
+  "sponsor_read_count": 0,
+  "notable": "Shaan intentionally breaks interview formula (says no standard questions); Scott is unusually candid about hedging behavior (MBA + multiple products = mistake). 'The Messy Middle' book is meta-commentary on media obsessing over start/end while ignoring 99% of real work. Investment stories (Pinterest/Uber as education when poor) show different mindset than traditional financial investing. Recorded Christmas Eve; Scott demonstrates '80% of success is just showing up' philosophy."
+}

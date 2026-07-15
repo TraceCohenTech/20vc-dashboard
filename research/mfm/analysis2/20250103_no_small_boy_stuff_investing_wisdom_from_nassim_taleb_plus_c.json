@@ -1,0 +1,45 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Jan 2025",
+  "format": "mixed",
+  "business_ideas": [],
+  "predictions": [
+    {"who": "Sam", "text": "Fertilo-style egg-maturation-outside-the-body technology will change IVF, making it cheaper, faster, and less painful."},
+    {"who": "Sam", "text": "Artificial wombs will eventually make traditional childbirth optional, 'like riding horses for transport.'"},
+    {"who": "Sam", "text": "AI will replace human co-founders/employees for many operational tasks (marketing copy, conversion optimization, messaging) within a few years."},
+    {"who": "Shaan", "text": "AI agents will soon generate ideas as well as execute them, potentially devaluing the 'idea person' advantage smart people currently have."}
+  ],
+  "disagreements": null,
+  "dynamics": "Two-host, no-guest discussion episode structured around two long segments: (1) Sam recounts a Nassim Taleb-inspired 'crystal ball' investing experiment, and (2) both riff extensively on how they've started using ChatGPT as a daily life/business assistant. Energy is exploratory and enthusiastic, especially in the AI segment, with Shaan attempting to explain deep learning/LLMs from scratch. Closes with an existential tangent about AI eventually replacing even 'idea people,' ending on a comedic note (an outro song, 'Another White Boy With a Podcast').",
+  "frameworks": [
+    "Crystal ball test: even given tomorrow's news 24 hours early, most traders still fail because bet-sizing/leverage discipline matters more than predictive accuracy",
+    "Ask uncommonly clear questions (Tim Ferriss): confusion comes from vague questions; clarity comes from precise ones — applies to prompting AI and to yourself",
+    "What are the dogs not barking: look for the absence of expected signals (complaints, problems) as a diagnostic tool, borrowed from Amazon's OP1 writing culture and Sherlock Holmes",
+    "Why am I not already a billionaire?: instead of asking how to reach a goal, ask why it isn't already true — surfaces concrete knowledge or execution gaps rather than abstract ambition"
+  ],
+  "learnings": [
+    "Having advance access to news doesn't reliably improve trading outcomes because most people mis-size their bets even when directionally correct; sizing discipline matters more than information itself.",
+    "Even professional traders in the crystal-ball experiment were only marginally more accurate (57% vs. 51%) than amateurs, but vastly outperformed (130% vs. 3% average gain) because of disciplined position sizing.",
+    "Using an AI assistant as a question-asker (having it interview you) rather than an answer-giver produces a more effective 'thought partner' experience than direct Q&A.",
+    "Organizing AI usage into persistent 'project' folders (health, wardrobe, life-coaching) with uploaded personal documents creates much more contextually useful responses than one-off prompts.",
+    "A press release's claimed breakthrough (like Fertilo's out-of-body egg maturation) should be interrogated for spin, sample size, and peer review before being treated as proven."
+  ],
+  "banger_quotes": [
+    {"who": "Sam", "quote": "He who lives by the crystal ball will die eating shattered glass."},
+    {"who": "Shaan", "quote": "Ask a better question, get a better answer."},
+    {"who": "Shaan", "quote": "What are we stupid for not doing right now?"},
+    {"who": "Sam", "quote": "It's kind of like you have Neuralink, they just never did the surgery."}
+  ],
+  "numbers_dropped": [
+    "In the crystal-ball experiment, half of 118 finance-trained participants lost money and 1 in 6 lost everything despite having next-day news",
+    "The professional trader subgroup (5 people) averaged 130% gains vs. 3.2% for the casual group",
+    "Participants were directionally correct only 51% of the time (amateurs) vs. 57% (pros) despite having the news",
+    "A hacking group that stole press releases in advance made hundreds of millions of dollars before being caught",
+    "Sam's company's stock rose from ~$350 to ~$460 after an acquisition was mentioned on an earnings call (Feb 2021)",
+    "Cathie Wood's ARK reportedly underperformed index funds over ~15 years while earning ~$100 million a year in fees"
+  ],
+  "topics": ["nassim taleb", "investing psychology", "chatgpt daily use", "large language models explained", "ai co-founder", "artificial wombs", "prompt engineering"],
+  "sponsor_read_count": 1,
+  "notable": "Despite the title referencing Nassim Taleb, he is not a guest — the hosts discuss his ideas and a related academic experiment (the 'crystal ball test') as a pure two-host segment, followed by an extended personal show-and-tell of how each uses ChatGPT day to day."
+}

@@ -1,0 +1,47 @@
+{
+  "hosts": ["Sam Parr"],
+  "guest": "Jason Yanowitz (co-founder of Blockworks, a crypto media/research company)",
+  "approx_date": "Sep 2023",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "A 10x-better niche newsletter platform (like Beehiiv did) applied to another vertical, e.g. conference/event ticketing software for Enterprise clients", "who": "Guest", "conviction": "serious"},
+    {"idea": "Modern, higher-success-rate, lower-cost hair transplant business, similar to how Lasik and telehealth (Hims/Roman) transformed once-risky/shady categories", "who": "Guest", "conviction": "says he might build it"},
+    {"idea": "Blockworks Research: a subscription data/research platform treating crypto protocols as real businesses with financials, governance data, and analyst reports, modeled on Politico Pro/Bloomberg Terminal-style research products", "who": "Guest", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "Sam predicts Jason/Blockworks will have a multi-hundred-million-dollar exit before age 33 and Jason will be worth at least $100M liquid within 5 years."},
+    {"who": "Guest", "text": "Jason predicts modern hair transplants will follow Lasik's trajectory: costs will drop ~95% and success rates will approach 99.9% as the market grows from $5B to a projected $30B by 2031."}
+  ],
+  "disagreements": "Sam and Jason disagree over personal portfolio risk: Sam argues Jason is overexposed by keeping nearly 100% of his liquid net worth in crypto on top of an already crypto-native private company, while Jason argues his private company wealth isn't liquid crypto risk and he'd rather take the bet than regret not being invested if crypto succeeds.",
+  "dynamics": "Sam Parr hosts solo (Shaan is out for a nose-job surgery) interviewing Jason Yanowitz of Blockworks. Sam drives with detailed business-model questions (revenue, event economics, research product build cost) while Jason supplies founder-story color (MLM energy-drink downline in college, the origin of Blockworks from a chance ethereum talk) and macro views on crypto's future. Energy is warm and personal (Sam has stayed in Jason's building) with Sam playing analyst/pattern-matcher across events, media, and research businesses.",
+  "frameworks": [
+    "Events as marketplaces: a conference is really a temporary real estate/marketplace business (booth space, sponsorships) rather than a content event, and 'bigger is better' because sponsors reallocate budget rather than add more.",
+    "Max Pain threshold: founders don't get an easier life as they scale — they hold their pain tolerance constant and just take on more problems at that same threshold.",
+    "MLM vs. pyramid scheme distinction: legally defined by what percentage of buyers purchase the product for its own value vs. purchase it just to resell/recruit.",
+    "What you want to do / should do / have to do: optimize your life for the first two categories and minimize the 'should' obligations that come from running a huge company."
+  ],
+  "learnings": [
+    "Digital media businesses are a strong first venture for first-time founders because barriers to entry are low, but many founders fail because they're great at content and bad at monetization.",
+    "Event/conference businesses are extremely cash-flow-positive but structurally risky because large venues must be booked years in advance in an industry (like crypto) that is highly cyclical, which nearly killed competitor CoinDesk when attendance dropped 80% year over year.",
+    "Consolidating multiple smaller conferences into fewer, larger ones increases sponsor revenue because sponsors cut their total budget across events rather than spending more overall.",
+    "Founders rarely have the grand originating vision they later claim; most first companies emerge from iterative, unglamorous hustle rather than foresight, while second companies benefit from real pattern recognition.",
+    "Betting your entire liquid net worth on a single high-conviction asset class can be a deliberate 'regret minimization' choice rather than recklessness, if the downside is emotionally tolerable and the upside conviction is very high."
+  ],
+  "banger_quotes": [
+    {"who": "Guest", "quote": "Nobody ever got wealthy through diversification."},
+    {"who": "Sam", "quote": "You are wealthy, it's just not in cash."},
+    {"who": "Guest", "quote": "I don't want to do things that I should do."}
+  ],
+  "numbers_dropped": [
+    "Blockworks targeted $20M revenue in 2022, exceeded it, and has been profitable since inception, bootstrapped for 5.5 years before raising $12M at a $135M valuation",
+    "Blockworks' Permissionless conference did over $10 million in revenue last year with about 4,000 attendees",
+    "Hopin raised at a $7 billion valuation and later sold its events/session business to RingCentral for $15 million, with its founder reportedly taking over $100M in secondary funding",
+    "Politico sold for about $1 billion, largely driven by ~0.01% of its audience converting to the Politico Pro research subscription",
+    "Bloomberg Terminal reportedly generates around $9 billion in subscription revenue",
+    "The hair transplant market is projected to grow from $5 billion to $30 billion by 2031 (~20% CAGR)",
+    "Jason's first Blockworks event in Feb 2018 had 220 attendees and made about $12,000 in revenue"
+  ],
+  "topics": ["crypto media", "conferences/events", "research subscription business", "bootstrapping", "personal finance", "founder psychology"],
+  "sponsor_read_count": 2,
+  "notable": "Shaan Puri is absent this episode (recovering from a nose job), making this a rare solo Sam Parr interview episode; the guest also candidly discusses running a multi-level-marketing energy drink downline in college before founding Blockworks."
+}

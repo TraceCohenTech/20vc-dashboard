@@ -1,0 +1,104 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Austin Rief, CEO Morning Brew",
+  "approx_date": "Jan 2024",
+  "format": "brainstorm",
+  "business_ideas": [
+    {
+      "idea": "Bingo Loco / Bongo Bingo: boozy bingo popup events with confetti, performers, lip sync battles ($53 tickets, 20M/yr revenue)",
+      "who": "Guest",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Food challenge eating contest bar events (free entry, people bring friends, gamble on outcomes, heavy drinking)",
+      "who": "Sam",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Meat smoking equipment company: build Traeger competitor, sell $1,500 smoker + $50-100/month pellet subscriptions",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Renegade museum tours (partner with museums, $50 per person tours with theater kids as guides)",
+      "who": "Guest",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Creator product brand with equity ownership (Prime, Feastables, Skims model but in niches)",
+      "who": "Guest",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "Creator brands in niches will work better than celebrity brands; passion audiences > mass market"
+    },
+    {
+      "who": "Guest",
+      "text": "Newsletter/creator economy saturated; most 'Milk Road for X' copycats will wash out"
+    },
+    {
+      "who": "Guest",
+      "text": "B2B creator endorsements (like HubSpot with Hampton) more sustainable than consumer brands"
+    }
+  ],
+  "disagreements": "Austin skeptical on creator consumer brands; Sam believes high-margin B2B products work better (Hampton at $8K/year). Guest sees newsletter ecosystem oversaturated unlike specialized niches.",
+  "dynamics": "Austin brings personal business experience (Morning Brew sold, invested in Figure AI, Bingo Loco research). Long personal anecdotes throughout (SBF dinner Bahamas, Tony Robbins meeting, Elon house party, Kid Rock compound, David Goggins Beyonce). Riffs with Sam/Shaan on business models, challenged by Shaan on market saturation. High entertainment value with mix of business and personal storytelling.",
+  "frameworks": [
+    "Hook model: use fun activity (bingo, shuffleboard, museum tours) to keep people in venue longer, monetize via drinks/gambling/food",
+    "Passion niche vs mass market: quilters spend $millions, meat smoking enthusiasts passionate; newsletters too broad",
+    "Creator equity model: product needs actual pain point (Danny Austin's hair loss, not just endorsement)",
+    "Single-product obsession pays off: Mr Beast with content-as-product, David Goggins with extreme athleticism; 70% Elon/15% Elon strategy works",
+    "Throw weight around strategically: Andrew Wilkinson flies jet, SBF throws $200M at sponsorships, Buffett takes big conviction bets (all or nothing)",
+    "Niche Creator + affiliate model: e.g., KM Tools (woodworking) partnered with other creators' custom products"
+  ],
+  "learnings": [
+    "Physical venue events (bingo, tours) can generate $20M/year with minimal product innovation; execution + marketing wins",
+    "Newsletter/creator economy hitting commoditization: too many 'Milk Road for X' clones; differentiation through product/audience, not content alone",
+    "Creator consumer brands work only with genuine need (postpartum hair loss) + high margin + repeat purchase + visual proof",
+    "B2B creator endorsements more defensible than consumer: $40K/year from Hampton > $4 Prime bottle for Logan Paul",
+    "Specialty niches (meat smoking, quilting, woodworking) have zealous buyers; mainstream creator brands commoditized",
+    "Obsession beats balance: Elon/Goggins/McGregor win by going 100% in one domain, not by being 70% extreme everywhere",
+    "Conviction bets require access to capital + willingness to lose it all: SBF, Buffett, Wilkinson all had $millions in reserve to throw"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Guest",
+      "quote": "Bongo Bingo does $20M/year off Bingo with performers and confetti"
+    },
+    {
+      "who": "Sam",
+      "quote": "The only way to get to a billion is raising VC and catching a title wave"
+    },
+    {
+      "who": "Guest",
+      "quote": "I love these industries where I'd never think it works but people are hooked"
+    },
+    {
+      "who": "Sam",
+      "quote": "You only want to be David Goggins for one hour a day, Elon Musk 15% of the time"
+    }
+  ],
+  "numbers_dropped": [
+    "Bongo Bingo estimated annual revenue: $20M",
+    "Bingo Loco ticket price: $53",
+    "Museum Hack: sold for millions (exact not disclosed)",
+    "Food challenge event cost: ~$75 pizza entry",
+    "Traeger smoker price: $1,500 upfront",
+    "Traeger pellet cost: $50-100 per smoke session",
+    "KM Tools (creator tools) estimated revenue: $50M+",
+    "Hampton membership (Sam's B2B product): $8K/year",
+    "Morning Brew sale price: ~$75M (per Austin's opener, not confirmed)",
+    "Prime beverage (Logan Paul) retail: $4 per bottle",
+    "Daniel Austin Divi hair brand: way more valuable than Instagram influencer deals",
+    "Aman hotel lowest tier: $1,500/night",
+    "Aman hotel high-end: $6,000/night (Arizona location)",
+    "SBF bankruptcy / Bahamas trip: 2021 (pre-fraud exposure)",
+    "Sam Bankman-Fried net worth pre-collapse: $26 billion"
+  ],
+  "topics": ["business ideas", "creator economy", "newsletters", "bingo events", "meat smoking", "consumer products", "founder personalities", "conviction bets"],
+  "sponsor_read_count": 1,
+  "notable": "Episode heavy on personal anecdotes: SBF Bahamas dinner (25M apartment, 50 shoes, Beyond sausage meals, zero eye contact, crypto-only conversation), Tony Robbins (Sam visualized being hyped, Tony caught him mid-stretch), Elon house party (no furniture, naked with Grimes), Kid Rock compound (White House replica, full bar). Austin skeptical on creator consumer brands despite Morning Brew success; prefers niche B2B. Discusses David Goggins engagement video (toenail ripping, 100-mile runs post-surgery)."
+}

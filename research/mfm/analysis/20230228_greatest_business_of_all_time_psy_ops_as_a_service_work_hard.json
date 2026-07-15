@@ -1,0 +1,98 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Ben Wilson",
+  "approx_date": "Feb 2023",
+  "format": "mixed",
+  "business_ideas": [
+    {
+      "idea": "Religion as business model: eternal LTV, volunteer labor, franchisees, tax-exempt status",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Team Jorge: Israeli psyops as service hacking phones, creating fake narratives, election meddling",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Parallel Live: fake live stream app simulating 50K viewers for social media clout",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Ministry Brands: PE roll-up acquiring church software businesses for SaaS arbitrage",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "SEO content farms: Red Ventures model ranking articles then promoting affiliate links",
+      "who": "Sam",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "Team Jorge pricing is too low, should charge 3x more for the value provided"
+    },
+    {
+      "who": "Sam",
+      "text": "Fake live stream apps will become ubiquitous as people chase clout online"
+    }
+  ],
+  "disagreements": null,
+  "dynamics": "Sam and Shaan interview Ben Wilson, a Mormon who provides insider perspective on LDS church finances. Sam drives with detailed research and storytelling. Shaan adds skeptical commentary. Significant portion devoted to James Curry meeting with Shaan describing partnership frameworks and network effects in depth.",
+  "frameworks": [
+    "Religion business model: tax exemption + volunteer labor + high LTV (eternal) + network effects",
+    "Status ladder positioning: McDonald's mass-market vs. Michelin niche positioning for content",
+    "The sleep test: resolve partnership disagreements by asking who cares most emotionally",
+    "Giving contest: frame partnerships as competition to give more, not receive more",
+    "Network density matters more than individual talent at core vs. periphery",
+    "Stay in center of network: physical proximity and institutional gravity create 10x outcomes"
+  ],
+  "learnings": [
+    "Religion generates $7-30B annually per major church through tithing with minimal customer acquisition cost",
+    "Hedge funds tied to religious institutions can accumulate $100B+ while claiming transparency concerns",
+    "Psychological warfare can be commercialized at scale using fake social media profiles and narrative engineering",
+    "SEO content farms rank by gaming algorithms, then promote affiliate products regardless of editorial merit",
+    "Long-term partnerships succeed when both parties frame decisions through 20-year horizon, not quarterly wins",
+    "Being at network periphery (even as successful individual) generates 10x less value than being at core"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Sam",
+      "quote": "Religion is the greatest business of all time. Eternal LTV."
+    },
+    {
+      "who": "Ben Wilson",
+      "quote": "It's a rainy day fund. It just happens to be for a household of 200 million people."
+    },
+    {
+      "who": "Guest (James Curry via Sam)",
+      "quote": "You should stay in the middle. Don't slide down-market for views."
+    },
+    {
+      "who": "Guest (Stan via Sam)",
+      "quote": "Make it a giving contest, not about what you get."
+    },
+    {
+      "who": "Guest (Mark Zuckerberg via Stan via Sam)",
+      "quote": "You're smart enough to know when somebody else got lucky too."
+    }
+  ],
+  "numbers_dropped": [
+    "Mormon church hedge fund: $100B+ in assets, $40B in US stocks alone",
+    "Mormon tithing: $7-30B annually from 16M members",
+    "Mormon church leader salaries: $170K/year plus Toyota Highlander",
+    "Mormon church donations to charity since 1985: $64M",
+    "Ministry Brands: 30 church software companies acquired, $100M EBITDA",
+    "Team Jorge: $50K to hack phone, $400K retainer, $6M for election meddling",
+    "Team Jorge fake profiles: 39,000 fake social media accounts deployed",
+    "Tickle acquired: $100M by Monster Jobs",
+    "Bibo sold: $850M exit",
+    "App 11 valuation: $20-50B market cap"
+  ],
+  "topics": ["religion-business", "hedge-funds", "cybersecurity", "hacking", "partnership-advice", "network-effects", "psyops"],
+  "sponsor_read_count": 2,
+  "notable": "Deep exploration of religion as exemplary business model followed by psyops-as-service company; significant focus on James Curry's networking philosophy and partnership longevity; frames SEO/content farms as industrialized misinformation."
+}

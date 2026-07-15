@@ -1,0 +1,58 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Scott Galloway, Professor at NYU Stern, entrepreneur, content creator",
+  "approx_date": "Feb 2026",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "Third places (bars, sports leagues, Topgolf, Putt-shacks, wave gardens)", "who": "Scott", "conviction": "serious"},
+    {"idea": "Developers building multi-family housing to address housing shortage", "who": "Scott", "conviction": "serious"},
+    {"idea": "Members clubs (social/networking spaces for artists, musicians)", "who": "Scott", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Scott", "text": "American stocks overvalued; Europe on sale; emerging markets will outperform US over next 8 years"},
+    {"who": "Scott", "text": "GLP-1s more transformative than AI for health outcomes and economic impact"},
+    {"who": "Scott", "text": "Young people's wealth gap vs boomers will force policy shifts (tax, national service)"},
+    {"who": "Scott", "text": "NIMBY laws will be eliminated; government will subsidize developers to build housing"}
+  ],
+  "disagreements": "Scott predicts GLP-1s will tank McDonald's, but Sam/Shaan note McDonald's hasn't declined. Scott also strongly opposes capital gains tax deductions (which would hurt older asset-holders like himself), leading to discussion about whether he's self-serving.",
+  "dynamics": "Scott dominates through storytelling mastery and contrarian opinions. He circles back repeatedly to generational wealth inequality and his conviction on GLP-1s. Sam and Shaan function as structured interviewers with prepared questions, allowing Scott to expand. Energy is high; Scott is charismatic and quotable throughout.",
+  "frameworks": [
+    "Economic security formula: 25x annual burn rate at 4% return = freedom to eliminate 'should' tasks",
+    "Three buckets of life: things you must do, things you want to do, things you should do (eliminate the 'should')",
+    "Asymmetric advantage: betting on things where you have information or leverage others don't",
+    "Information diet: your reading/listening directly shapes your opportunity recognition",
+    "Real estate arbitrage: boring assets (retail, housing) outperform sexy ones (art, tech startups)"
+  ],
+  "learnings": [
+    "GLP-1s may prove more economically transformative than AI by directly reducing healthcare costs (13K→6.5K per person annually)",
+    "Generational wealth transfer is structurally broken: young people 42% less wealthy than 40 years ago while boomers 72% wealthier",
+    "Economic security is not a fixed destination—burn rate expands with lifestyle, and the psychological hole it fills never gets satisfied",
+    "The most profitable businesses exploit immature decision-making (Meta, gaming, speculation), while community-solving businesses (third places) struggle to monetize",
+    "Diversification across geographies matters more than chasing the hottest sector; cycles rotate every 8 years",
+    "Creative flow happens in solitude (late night 11pm-2am), but enterprise scales through delegation to exceptional people",
+    "Paying always in dating/dining is a status signal and practical choice (asymmetric downside for women), not a romantic gesture",
+    "Leadership improves with age: recognizing capital (praise, support, money) costs you little but means everything to receivers"
+  ],
+  "banger_quotes": [
+    {"who": "Scott", "quote": "I spend money like a 50's gangster just diagnosed with ass cancer."},
+    {"who": "Scott", "quote": "Everything does not demand your judgment."},
+    {"who": "Scott", "quote": "The ultimate aphrodisiac for young men is follow-up questions."},
+    {"who": "Scott", "quote": "Don't ask if they need help—help them."},
+    {"who": "Scott", "quote": "No one feels rich; it just expands with lifestyle."},
+    {"who": "Scott", "quote": "Pashminas and power bars—never let a woman be cold or hungry."}
+  ],
+  "numbers_dropped": [
+    "Needs $125M in assets (25x $5M annual spend) to feel economically secure",
+    "Spends $300-400K per month currently",
+    "Fractional plane membership ~$1.5-2M annually",
+    "Manhattan rent 3-bed: $14K/month (2010); moved to Florida at $5K/month—50% savings",
+    "Private school NYC: $58K/year; Florida equivalent: $14K/year",
+    "S&P trades at 210% of GDP vs Buffett's 90% target",
+    "97% of time S&P traded at lower valuations relative to earnings",
+    "US outperformed emerging markets for 17 years (breaking 8-year historical cycle)",
+    "Three fraternity friends dead (out of eight from UCLA)"
+  ],
+  "topics": ["wealth-building", "investing", "generational-inequality", "economic-policy", "business-opportunities", "glp-1s", "real-estate", "personal-development"],
+  "sponsor_read_count": 1,
+  "notable": "Fourth appearance on the show. Scott's main thesis: US stocks overvalued; diversify to emerging markets and Europe. Also argues GLP-1s are underrated economic lever vs AI. Spent significant time on generational wealth transfer and policy prescriptions."
+}

@@ -1,0 +1,33 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Nov 2022",
+  "format": "frameworks/advice",
+  "business_ideas": [
+    {"idea": "Economics framework - five value capture roles in any system", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Vice businesses (adult content, gambling, CBD) - high margin, misunderstood", "who": "Both", "conviction": "serious"}
+  ],
+  "predictions": null,
+  "disagreements": null,
+  "dynamics": "Shaan drives economic framework discussion with precision; Sam engages with examples and pushes on specifics. Both passionate about demystifying how value splits across roles—intellectual debate with practical applications throughout.",
+  "frameworks": [
+    "Five roles of value capture: logistics/labor (least capture, most work), operator/manager, capital, network/distribution, regulation/legal",
+    "Value inversely correlates with effort—manual labor captures least despite highest exertion",
+    "Position choice determines life outcome more than effort level"
+  ],
+  "learnings": [
+    "Construction/house building illustrates inequality—laborers work hardest but capture least value",
+    "Each economic system has exact five roles; only choice is which role to occupy",
+    "Vice businesses (adult, gambling, cannabis) generate outsized revenue due to stigma creating supply gaps",
+    "Regulatory capture and license control create moat for businesses in restricted categories",
+    "Fan fiction and niche communities represent underexploited value pools"
+  ],
+  "banger_quotes": [
+    {"who": "Shaan", "quote": "There are five ways to make money in any system—pick which role you want"},
+    {"who": "Sam", "quote": "Vice businesses work because good people avoid them, leaving money on table"}
+  ],
+  "numbers_dropped": null,
+  "topics": ["economics", "value creation", "vice businesses", "gambling", "cannabis", "fan fiction", "business models", "roles"],
+  "sponsor_read_count": 0,
+  "notable": "Deep structural framework episode—Shaan's five-role model becomes recurring MFM teaching tool, explaining why certain positions yield wealth while others don't despite equivalent effort"
+}

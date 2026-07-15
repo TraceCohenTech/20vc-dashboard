@@ -1,0 +1,75 @@
+{
+ "hosts": [
+  "Sam",
+  "Shaan"
+ ],
+ "guest": "Amjad Masad, CEO of Replit",
+ "approx_date": "May 2026",
+ "format": "guest-interview",
+ "business_ideas": [
+  {
+   "idea": "Multi-million dollar software businesses without VC funding using AI.",
+   "who": "Guest",
+   "conviction": "says he's building it"
+  },
+  {
+   "idea": "Democratize software development through accessible coding platforms.",
+   "who": "Guest",
+   "conviction": "building it"
+  }
+ ],
+ "predictions": [
+  {
+   "who": "Guest",
+   "text": "We're on our way to a billion in revenue this year."
+  },
+  {
+   "who": "Sam",
+   "text": "Within 12 months the world will change dramatically due to AI."
+  }
+ ],
+ "disagreements": null,
+ "dynamics": "Sam and Shaan celebrate Amjad's explosive growth from $2.5M to $250M in one year. High energy, admiration-focused conversation. Amjad expresses paranoia and competitive intensity; they probe on banking, cash management, and founder psychology.",
+ "frameworks": [
+  "Second chances framework - giving people opportunity after setbacks",
+  "Immigrant mindset - tolerance and risk-taking in America",
+  "Competitive drive - 'rarely lose deals' mentality"
+ ],
+ "learnings": [
+  "Rapid revenue scaling causes founder anxiety and paranoia despite success",
+  "People management becomes the bottleneck in hypergrowth, not product or revenue",
+  "VP of Sales hiring at critical moments can shift company trajectory",
+  "Lifestyle upgrades (chef, coaching) provide marginal utility gains"
+ ],
+ "banger_quotes": [
+  {
+   "who": "Amjad",
+   "quote": "If we're going to make this much money, why haven't we made more?"
+  },
+  {
+   "who": "Shaan",
+   "quote": "It's like someone passing you the ball with no one defending the basket."
+  },
+  {
+   "who": "Amjad",
+   "quote": "It's not only possible, it's viable to build businesses doing podcasts like this."
+  }
+ ],
+ "numbers_dropped": [
+  "$2.5 million to $250 million in 1 year (2024-2025)",
+  "On track for $1 billion revenue in 2026",
+  "$3-5 million revenue first appearance on podcast (2 years prior)",
+  "71 billionaires under age 40 globally",
+  "PWC audit passed, gross margin positive"
+ ],
+ "topics": [
+  "replit",
+  "ai",
+  "software-development",
+  "hypergrowth",
+  "founder-psychology",
+  "immigration"
+ ],
+ "sponsor_read_count": 0,
+ "notable": "Amjad is likely under 40 and in top 1000 richest people ever; discusses extreme scale-up from flat revenue for years then 100x growth."
+}

@@ -1,0 +1,76 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Jan 2026",
+  "format": "frameworks/advice",
+  "business_ideas": [],
+  "predictions": [],
+  "disagreements": null,
+  "dynamics": "Shaan drives the conversation by sharing frameworks and book learnings from 2025; Sam listens and asks clarifying questions. The format is educational and conversational, with Shaan dispensing wisdom about decision-making, life strategy, and business models. Sam occasionally shares his own observations, particularly about people and vibes rather than content details.",
+  "frameworks": [
+    "Die with Zero: allocate life energy before death, timing matters for experiences",
+    "Jar analogy: put big rocks (priorities) in first, sand (routine) fills the gaps",
+    "Decision survey: evaluate decisions by process, not outcome; honor one decisive reason",
+    "Howard Marks' selling philosophy: update thesis with new info, relative opportunity cost",
+    "Memory palaces: create 3D mental structure linking items to locations for recall",
+    "Work smarter not harder: Akon optimized ringtone format to 10 seconds for $4.99",
+    "Judgment as foundational skill: most important muscle few develop intentionally"
+  ],
+  "learnings": [
+    "Certain experiences can only be enjoyed at specific life stages; missing the window cannot be reclaimed",
+    "Money functions as quantified life energy; frame purchases as hours of work owed, not just currency",
+    "Decisions made under extreme fear or greed lack sound judgment; emotional neutrality improves outcomes",
+    "Leaders don't inspire through authority but by framing battles as resistance to an undesirable future",
+    "Reading should spark ideas and thoughts, not transfer all knowledge; guilt-free partial completion works",
+    "Most overachievers schedule work first, then fit life into gaps; inverting this yields better satisfaction",
+    "Successful businesses often exploit loopholes or overlooked market segments (ringtones, book compilations)",
+    "Honesty, conciseness, and value-alignment are critical to decision quality; blended reasons indicate poor thinking"
+  ],
+  "banger_quotes": [
+    {
+      "who": "book quote",
+      "quote": "Most people live their life like this: build a well, pump water, drink little, repeat"
+    },
+    {
+      "who": "Shaan",
+      "quote": "We're part of the resistance"
+    },
+    {
+      "who": "book quote",
+      "quote": "We cannot go back and recapture time"
+    },
+    {
+      "who": "book quote",
+      "quote": "Money is life energy"
+    },
+    {
+      "who": "Akon",
+      "quote": "$4.99 for 10-second ringtone, $1.99 for 4-minute song"
+    },
+    {
+      "who": "Akon",
+      "quote": "I broke Guinness Book of World Records, sold 11 million ringtones"
+    }
+  ],
+  "numbers_dropped": [
+    "Akon sold 11 million ringtones",
+    "Akon made $55 million from ringtone sales",
+    "Tonies revenue: 510 million euros in last 12 months",
+    "Yoto revenue: 127 million",
+    "Poppi valued at $2-3 billion",
+    "Hampton membership: improved from 40% annual churn to 85-90% annual retention by going in-person",
+    "Akon used memory palaces (technique mentioned via Elon)",
+    "Eric Jorgenson's Naval Almanack sold over 1 million copies"
+  ],
+  "topics": [
+    "reading-habits",
+    "decision-making",
+    "life-strategy",
+    "entrepreneurship",
+    "frameworks",
+    "business-models",
+    "leadership"
+  ],
+  "sponsor_read_count": 1,
+  "notable": "Shaan notes Poppi founder looks identical to him; they coordinated on Instagram video content. Episode emphasizes tools for better thinking (decision surveys, frameworks) over passive content consumption."
+}

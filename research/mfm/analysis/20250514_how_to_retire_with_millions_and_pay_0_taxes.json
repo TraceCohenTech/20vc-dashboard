@@ -1,0 +1,127 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Ankur Nagpal (Teachable founder, Carry, investor)",
+  "approx_date": "May 2025",
+  "format": "guest-interview",
+  "business_ideas": [
+    {
+      "idea": "Concierge aesthetics + health service (Function Health model + plastic surgery consultation)",
+      "who": "Ankur",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Direct-to-consumer food supply (breaking out of US food system, like Amish farm dealers)",
+      "who": "Ankur",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Travel concierge for credit card points optimization (better than FlightFox model)",
+      "who": "Ankur",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Direct indexing platform with tax-loss harvesting automation (like Freck)",
+      "who": "Ankur",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Padel tennis court franchises (capitalize on sport's US growth, $300/hr in NYC)",
+      "who": "Ankur",
+      "conviction": "serious"
+    },
+    {
+      "idea": "AI-powered personal task management for homeowners (water filters, taxes, maintenance)",
+      "who": "Ankur",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Marketplace to buy/sell airline miles (currently against ToS but high arbitrage value)",
+      "who": "Ankur",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Flat-fee financial advisor (vs percentage-based private banking model)",
+      "who": "Ankur",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Ankur",
+      "text": "Padel tennis will hit mainstream consciousness in US within 2 years (only 2K courts now vs 20K in Spain)"
+    },
+    {
+      "who": "Sam",
+      "text": "Private wealth management from Goldman Sachs consistently underperforms S&P 500"
+    },
+    {
+      "who": "Ankur",
+      "text": "Sports teams will continue appreciating as trophy assets; media rights monetization still underutilized"
+    }
+  ],
+  "disagreements": null,
+  "dynamics": "Ankur is the expert/guest sharing wealth-building lessons. Sam and Shaan probe with skepticism and tangential stories. First half: personal finance lessons (Roth IRA loopholes, tax optimization, private banking pitfalls). Second half: Ankur pitches business ideas. Ankur unusually candid with specific dollar figures; Sam frequently derails into anecdotes (Amish milk dealer, Function Health). Shaan more focused on frameworks.",
+  "frameworks": [
+    "Roth IRA backdoor strategy: after-tax dollars put into tax-free growth account; $77K/year limit (regular + mega)",
+    "Direct indexing: buy S&P 500 companies individually instead of fund; harvest tax losses on down positions (30-40% of investment)",
+    "Peter Thiel playbook: acquire cheap equity, put in Roth, let compound tax-free for decades",
+    "Mega Backdoor Roth: 401k vehicle enabling $70K/year tax-free contribution ($7K regular Roth)",
+    "Tax optimization alpha: for high earners, tax efficiency beats investment skill",
+    "Municipal bond strategy: tax-free income for high earners; state-specific munis avoid state taxes too",
+    "Percentage-based fees underperform: Goldman Sachs 6% vs S&P 13% due to 50-120 basis point annual fees",
+    "Padel/sports as community: adult males use sports communities to meet friends (replaces dating/drinking as adult)",
+    "Trophy asset investment: sports teams appreciated for brand/media rights, not just cash flow"
+  ],
+  "learnings": [
+    "Private wealth advisors often underperform index funds; their value is lifestyle/status, not investment returns",
+    "Highest ROI for wealthy people is tax optimization (direct indexing, Roth backdoors), not superior stock picking",
+    "Roth IRA loopholes enable 8-9 figure tax-free retirement accounts if started young and funded consistently",
+    "Most affluent people don't know these tax strategies exist; financial advisors hide them because it reduces AUM fees",
+    "Padel tennis is experiencing hockey-stick growth in US; still 10x fewer courts than Spain but trending up",
+    "Adult male friendships require structural reasons to gather; sports communities provide this (vs dating/nightlife)",
+    "Wealth transfer is increasingly into trophy/status assets (sports teams, luxury real estate, sports betting)",
+    "Most personal finance knowledge comes from bad sources (parents, salespeople, TV personalities with incentive misalignment)"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Ankur",
+      "quote": "Zero to something is always more life-changing than something to something bigger."
+    },
+    {
+      "who": "Ankur",
+      "quote": "There's nothing special about private banking. A lot of clout, but that's it."
+    },
+    {
+      "who": "Sam",
+      "quote": "I just found out I'm biologically 40 at age 37, so I'm going to kill myself now."
+    },
+    {
+      "who": "Ankur",
+      "quote": "Everyone gets so cranky about their Padel rating. You'd think they lost their house."
+    },
+    {
+      "who": "Ankur",
+      "quote": "For most people, focus on earning more, not tax optimization."
+    }
+  ],
+  "numbers_dropped": [
+    "Ankur's Teachable sale: $250M (owned majority, made ~$100M by age 32)",
+    "Ankur's cash after sale: ~$40M+ (rest in equity)",
+    "Goldman Sachs portfolio: 6% returns vs S&P 13% over 5 years",
+    "Goldman Sachs fees: 50-120 basis points annually (~$60K-120K/year on $10M portfolio)",
+    "Direct indexing on $250K: $16K in tax losses harvested while matching S&P performance",
+    "Ankur's Amex points: 7+ million points",
+    "Peter Thiel Roth IRA: $1.7K founder shares → $27M → $5B (now tax-free)",
+    "Tax-free cash yield: 3-4% vs muni bonds 6-7% (for high earners)",
+    "Mega Backdoor Roth: $70K/year contribution + $7K regular = $77K/year",
+    "Roth projection: $77K/year from age 21-65, S&P 500 indexing = ~$30M tax-free at retirement",
+    "Padel courts US: 2,000 (vs 20,000 in Spain)",
+    "NYC Padel court rate: $300/hour, fully booked weekends",
+    "Celtics franchise sale: $6.1B (previous owner bought ~$200M)",
+    "Chennai Super Kings ownership: high seven figures for small piece of ~$1B team",
+    "IPL (Indian cricket league): 3rd richest league by TV rights/game, 2nd after NFL"
+  ],
+  "topics": ["personal-finance", "roth-ira", "tax-optimization", "wealth-management", "business-ideas", "padel-tennis", "sports-investment", "credit-card-points", "direct-indexing"],
+  "sponsor_read_count": 1,
+  "notable": "Ankur unusually transparent with exact dollar figures and personal financial strategies. Episode splits two parts: personal finance lessons (taxes, private banking pitfalls) then business ideas. Emphasis on loopholes that may not last (Mega Backdoor Roth). Sports teams discussed as trophy assets with media rights upside. Padel tennis positioned as next fitness trend after pickleball."
+}

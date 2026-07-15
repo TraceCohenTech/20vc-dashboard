@@ -1,0 +1,83 @@
+{
+ "hosts": [
+  "Sam",
+  "Shaan"
+ ],
+ "guest": null,
+ "approx_date": "June 2026",
+ "format": "story-breakdown",
+ "business_ideas": [
+  {
+   "idea": "Premium meat supply business targeting high-end restaurants with custom blends.",
+   "who": "Story (Pat LaFrieda)",
+   "conviction": "successful business"
+  },
+  {
+   "idea": "Defense contractor R&D focused on cost-reduction vs cost-plus model.",
+   "who": "Story (Palmer Luckey/Anduril)",
+   "conviction": "building it"
+  },
+  {
+   "idea": "Award show recognition for accountants and CPAs nationwide.",
+   "who": "Shaan",
+   "conviction": "throwaway"
+  },
+  {
+   "idea": "Scout and mentor 'hacker kids' (11-19) doing low-status passionate projects.",
+   "who": "Shaan",
+   "conviction": "serious"
+  }
+ ],
+ "predictions": [
+  {
+   "who": "Shaan",
+   "text": "Homeschooled kids with contrarian thinking become world-changing founders."
+  }
+ ],
+ "disagreements": "Sam and Shaan debate whether life outcomes are predetermined by circumstance vs personal responsibility.",
+ "dynamics": "Hosts discuss deep business strategy and founder psychology through historical narratives. Shaan drives ideation; Sam pushes on first principles. Analytical, brainstorming tone focused on how winners identify market inefficiencies.",
+ "frameworks": [
+  "Idiot Index - measure R&D investment % as signal of company health",
+  "Sensitivity + Audacity + Logic - three traits of world-changing founders",
+  "Don't sell commodities, create brands and lock in customers with exclusivity",
+  "Cost-plus model incentivizes waste vs product-first pricing drives efficiency"
+ ],
+ "learnings": [
+  "Best businesses own a small niche completely rather than broad markets",
+  "Founder psychology matters: willingness to rebel against parent/mentor wisdom at right moments",
+  "Counter-intuitive decisions during crises separate winners from survivors",
+  "Homeschooling and outcast status may create founder mentality",
+  "Government contracting has perverse incentives that startups can exploit"
+ ],
+ "banger_quotes": [
+  {
+   "who": "Shaan",
+   "quote": "You can't hide your sins in a hamburger - quality shows."
+  },
+  {
+   "who": "Palmer (story)",
+   "quote": "100% revenue into R&D every year creates durable advantage."
+  },
+  {
+   "who": "Shaan",
+   "quote": "The idiot tax is everything we don't question deeply."
+  }
+ ],
+ "numbers_dropped": [
+  "$28 Black Label burger at Minetta Tavern sold 15,000+ units",
+  "$50 Japanese strawberry baskets",
+  "1909 LaFrieda founded in Brooklyn",
+  "1994 Pat Jr. takes over with 44 customers, 5 employees",
+  "Anduril investing 100% revenue vs competitors 1% on R&D",
+  "Amazon convinced investors of 20-year profit reinvestment"
+ ],
+ "topics": [
+  "business-strategy",
+  "competitive-advantage",
+  "founder-traits",
+  "premium-products",
+  "contrarian-thinking"
+ ],
+ "sponsor_read_count": 1,
+ "notable": "Core thesis: best founders combine counter-intuitive insight + audacious execution + sensitivity to inefficiency; homeschooling linked to founder mindset."
+}

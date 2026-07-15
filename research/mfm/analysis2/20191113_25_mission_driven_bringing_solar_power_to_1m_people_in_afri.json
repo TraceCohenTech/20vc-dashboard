@@ -1,0 +1,52 @@
+{
+  "hosts": ["Shaan Puri"],
+  "guest": "Xavier Helgesen, founder of Better World Books and co-founder of Zola Electric",
+  "approx_date": "Nov 2019",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "Better World Books: sell donated used college textbooks online, sharing profits with literacy nonprofits", "who": "Guest", "conviction": "serious"},
+    {"idea": "Zola Electric (formerly Off-Grid Electric): solar-plus-battery home power systems for off-grid African villages", "who": "Guest", "conviction": "serious"},
+    {"idea": "Infinity: a premium, beautifully designed home battery/inverter system that blends solar, grid, and battery power seamlessly", "who": "Guest", "conviction": "serious"},
+    {"idea": "Distributed household batteries (of all forms, including EVs) as a broad energy-storage opportunity in developed markets", "who": "Guest", "conviction": "serious"},
+    {"idea": "Disrupting university education to make it cheaper, faster, and delivered just-in-time", "who": "Guest", "conviction": "throwaway"},
+    {"idea": "Local commercial energy-storage plays tailored to regional needs (e.g. overnight ice-cooling for daytime AC in Florida)", "who": "Guest", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Guest", "text": "Batteries will eat the world — almost every home and business will have some form of battery storage within 20 years."},
+    {"who": "Guest", "text": "Americans are unprepared for unreliable power as utilities like PG&E begin planned shutoffs."}
+  ],
+  "disagreements": null,
+  "dynamics": "Single host (Shaan Puri) interviews a close personal friend, so the tone is warm, familiar, and exploratory rather than adversarial; host frequently inserts his own related anecdotes and draws explicit lessons for the audience mid-conversation. The two also discuss their shared 'Junto' mastermind group, giving the episode an extra structural layer beyond a standard guest interview.",
+  "frameworks": [
+    "The Junto/mutual-improvement society: a small recurring peer group of entrepreneurs who meet regularly for candid strategy and support, modeled on Ben Franklin's club",
+    "'I'll know everything about X in six months': don't let lack of domain expertise stop you from starting — you can crash-course your way to competence",
+    "Original idea gets you in the game, but it won't get you to the finish line — expect to pivot the model as you scale"
+  ],
+  "learnings": [
+    "A social-impact business only becomes durable when the mission is structurally baked into the economics (e.g. donated book inventory via nonprofit partnerships), not just a marketing layer on top.",
+    "You don't need to capture the whole market to build a large business — Better World Books thrived targeting a tiny fraction (0.1-1%) of the global book market.",
+    "When entering a market you don't understand (off-grid solar), talking to real customers first to nail the price point and value proposition should come before building any hardware.",
+    "Founders should be wary of viewing new competitors as purely negative — in mission-driven markets, more competitors validate and grow the whole category, benefiting the original mission.",
+    "Moving physically to live among your target customers (relocating to Tanzania) surfaced insights that couldn't be learned remotely.",
+    "Deliberately stepping back from the CEO role over several years, once the company's original need for the founder's traits has passed, can be a healthy transition rather than a failure."
+  ],
+  "banger_quotes": [
+    {"who": "Guest", "quote": "If this thing could do 500,000 in revenue, that would be shocking to me. It got to 70 million."},
+    {"who": "Guest", "quote": "There's no electricity in this entire town of like 20,000 people."},
+    {"who": "Guest", "quote": "Some of the best people I've ever met in my life have come through the mission-aligned work."},
+    {"who": "Guest", "quote": "Batteries are going to eat the world."}
+  ],
+  "numbers_dropped": [
+    "Better World Books takes in about 35 million books a year, sells about 10 million",
+    "Better World Books grew from an expected $500K lifestyle business to $70 million in revenue",
+    "Raised almost $25 million for literacy and library nonprofit partners over the years",
+    "Zola Electric delivers electricity to about a million people in Africa every day",
+    "Zola has raised over $100 million in equity plus roughly $50 million in debt/financing facilities",
+    "Off-grid customer in Malawi was paying ~$30/month on kerosene, replaceable by a 5-watt solar setup",
+    "Nigeria's grid delivers roughly 8 hours of power on, 16 hours off, per day",
+    "A friend in Australia built a $1B+ accounting-software fortune and plans to give away 99% of it within 10 years"
+  ],
+  "topics": ["social impact business", "solar energy", "off-grid africa", "e-commerce", "mastermind groups", "nonprofit partnerships"],
+  "sponsor_read_count": 1,
+  "notable": "The episode's intro/cold-open uses a scripted teaser trailer format ('Every week we sit down with self-made millionaires...') introducing the show itself, distinct from the interview content — an early branding segment for the podcast."
+}

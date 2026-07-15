@@ -1,0 +1,81 @@
+{
+  "hosts": ["Sam Parr"],
+  "guest": "Xavier Helgeson, founder of Better World Books and Solo Electric",
+  "approx_date": "Nov 2019",
+  "format": "guest-interview",
+  "business_ideas": [
+    {
+      "idea": "Better World Books: used book marketplace with literacy nonprofit partnerships",
+      "who": "Xavier",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Solo Electric: solar panels and battery systems delivering 24-hour power in Africa",
+      "who": "Xavier",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Distributed energy storage solutions (batteries in homes for grid reliability)",
+      "who": "Xavier",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Decentralized university education at lower cost with credentials",
+      "who": "Xavier",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Xavier",
+      "text": "Batteries will become ubiquitous; almost every home and business will have batteries"
+    },
+    {
+      "who": "Xavier",
+      "text": "Energy storage will be highly distributed with region-specific value propositions"
+    }
+  ],
+  "disagreements": null,
+  "dynamics": "Sam drives the conversation with sharp follow-up questions about origin stories. Xavier delivers detailed narratives of two separate businesses, showing evolution from one to the next. Unusually structured episode: covers two complete business arcs rather than focusing on one. Energy is high throughout; Junto Group discussion becomes a secondary arc.",
+  "frameworks": [
+    "Junto Group (Society of Mutual Improvement): peer advisory meetings inspired by Ben Franklin for mutual growth",
+    "Work backwards from customer willingness to pay to technical specification",
+    "Mission integration as competitive advantage, not feel-good add-on"
+  ],
+  "learnings": [
+    "Successful ideas often begin as throwaway concepts and only scale through iteration and market evolution",
+    "Living with customers and understanding their constraints is irreplaceable for product-market fit",
+    "Lack of domain expertise should not deter entry; expertise is learnable within months",
+    "In impact businesses, bake mission into the business model so it cannot be separated without killing competitive advantage",
+    "Peer advisory networks multiply strategic clarity and decision quality beyond what any individual can achieve alone",
+    "The problems that feel unsolvable have huge economic opportunities if you work backward from customer budgets"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Xavier",
+      "quote": "It got to 70 million. I thought 500,000 would shock me."
+    },
+    {
+      "who": "Xavier",
+      "quote": "The more of us attacking this problem, the more likely it gets solved."
+    },
+    {
+      "who": "Xavier",
+      "quote": "We aren't going to achieve anything unless we all go and live next to our customers."
+    }
+  ],
+  "numbers_dropped": [
+    "Better World Books revenue: $70M",
+    "Better World Books: 1M+ feedbacks on Amazon/eBay, 10M books/year",
+    "Solo Electric: 1M people receiving electricity daily in Africa",
+    "Solo Electric: $100M+ equity, ~$50M debt/financing raised",
+    "Better World raised $25M for literacy nonprofits over time",
+    "Better World: 35M books/year intake, 10M sold annually",
+    "Nigeria: 200M population, 8 hours power on / 16 hours off daily",
+    "African customers spending $30/month on kerosene, $10/month on phone charging",
+    "Friend philanthropist pledged 99% of $1B+ wealth over 10 years"
+  ],
+  "topics": ["impact-business", "used-books", "solar-energy", "africa", "social-entrepreneurship", "peer-advisory", "mission-driven"],
+  "sponsor_read_count": 0,
+  "notable": "Episode unusually covers two complete business arcs rather than one; Junto Group / Society of Mutual Improvement emphasis runs throughout as secondary narrative, suggesting this peer-advisory model is as important to Xavier's success as the businesses themselves."
+}

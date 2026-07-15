@@ -1,0 +1,26 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Ariana Simpson, Early-stage crypto investor and former Facebook employee",
+  "approx_date": "Sep 2019",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "Bitcoin and non-state currencies for financial freedom and sovereignty", "who": "Ariana", "conviction": "serious"},
+    {"idea": "Crypto venture fund to invest in early-stage projects", "who": "Ariana", "conviction": "says he might build it"}
+  ],
+  "predictions": [
+    {"who": "Ariana", "text": "Bitcoin will compete with state-run currencies and achieve massive market penetration globally"},
+    {"who": "Ariana", "text": "Large financial institutions like Goldman Sachs will increasingly build crypto products"}
+  ],
+  "disagreements": null,
+  "dynamics": "Ariana drives the narrative with deep crypto expertise from early 2013. She grounds skepticism-laden listeners with first-principles thinking about money and currencies. High engagement as Ariana pivots between technical depth and accessible analogies.",
+  "frameworks": ["Sound money definition (scarcity by design)", "Non-sovereign currency thesis (10-word explanation: money not issued by governments enables freedom from centralized control)"],
+  "learnings": ["Early adopters of emerging technology face social friction and skepticism, but those with conviction can succeed", "Being vastly outnumbered in a field (female in Bitcoin meetups) is an advantage if you persist", "Community support can emerge unexpectedly when you contribute genuine value"],
+  "banger_quotes": [
+    {"who": "Ariana", "quote": "It either goes fucking huge or it dies"},
+    {"who": "Ariana", "quote": "I'm just going to keep showing up and onwards"}
+  ],
+  "numbers_dropped": ["Bitcoin at $100-$413 when Ariana first got involved", "Bitcoin at $19,500 during conversation", "Ariana invested 50% of net worth into Bitcoin early on"],
+  "topics": ["bitcoin", "crypto", "investing", "finance", "emerging-tech", "women-in-tech"],
+  "sponsor_read_count": 0,
+  "notable": "Ariana explains Bitcoin's whitepaper and early-stage community dynamics from authentic perspective as one of few women in 2013 crypto meetups."
+}

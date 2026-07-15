@@ -1,0 +1,62 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "August 2024",
+  "format": "mixed",
+  "business_ideas": [
+    {"idea": "Cintas: uniform rental and facility service company ($9B revenue)", "who": "Richard Farmer founder", "conviction": "serious"},
+    {"idea": "School of entrepreneurship: 6-12 boarding school teaching business skills", "who": "Anand (from earlier episode)", "conviction": "says he might build it"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "Market crashes are normal; most people overreact despite 30+ year gains in index funds"}
+  ],
+  "disagreements": "Ben wants to change strategy on market crash; Shaan argues crisis doesn't justify pivoting from committed long-term priorities unless existential",
+  "dynamics": "Sam leads market discussion; Shaan provides perspective on panic vs logic. Deep conversation about family businesses, parenting, Olympics, and priorities. Multiple tangents show how life philosophy affects business decisions.",
+  "frameworks": [
+    "Reaction vs response: emotion-based immediate decision vs logical decision after cooling off",
+    "Three big shifts framework: identify annual priorities, reinforce weekly, stay focused despite noise",
+    "Is the wolf at the door: assess existential risk before changing strategy",
+    "Barbell relationships: many light touches plus occasional deep hangs",
+    "Set it and forget it: index funds beat 95% of active managers",
+    "Find people you love and do life with them: maximize joy through collaboration",
+    "Children of deadbeat dads grow up tough: independence via benign neglect",
+    "Generational wealth: family ownership requires training next generation",
+    "Opportunity cost: optimize for what matters most, accept tradeoffs"
+  ],
+  "learnings": [
+    "Market corrections normal and predictable; reacting causes losses, inaction gains",
+    "5% weekly drop in S&P recovers fully with 5-10 year horizon; worst days matter most",
+    "VTI (total market index): up 8-10% year-to-date despite crash; buy and hold beats market timing",
+    "If no existential crisis (wolf at door), maintain strategy for 30-90 days before reassessing",
+    "Over-leveraging or over-commitment creates false urgency to react to market moves",
+    "Past mistakes (COVID reaction, 2020 cash shift) show cost of over-reacting to headlines",
+    "K-shaped recovery: divergence between assets and labor; mainstream gets left behind",
+    "Successful families pass generational wealth through training, not abdication or over-control",
+    "Cintas shows durable model: started 1929 circus rag laundry, evolved into $75B company",
+    "Subscription revenue (uniform rental) more valuable than transactional sales"
+  ],
+  "banger_quotes": [
+    {"who": "Shaan", "quote": "Is the wolf at the door? If not, don't react. Wait 30-90 days."},
+    {"who": "Shaan", "quote": "Taking a simple idea very seriously is powerful"},
+    {"who": "Chris Wilkinson", "quote": "Children of deadbeat dads grow up tough and independent"},
+    {"who": "Mike Brown", "quote": "Find the people you love and do life with them"},
+    {"who": "Dad at water park", "quote": "When they come at you this way, use your feet to protect the ball"},
+    {"who": "Shaan's son", "quote": "You know why I got to do that? Dad is teaching me to be a big human"},
+    {"who": "Warren Buffett", "quote": "Stocks: short term measuring stick, long term weighing machine"}
+  ],
+  "numbers_dropped": [
+    "2024 market drop: 5% this week, S&P 500 down 5% YTD",
+    "Worst day: Dow worst day in 2 years",
+    "Tech stocks: Nvidia down 12% on correction",
+    "Cintas: started 1929 with $180k revenue, 12 employees",
+    "Cintas by 1968: $1.6M revenue (15M in today's dollars)",
+    "Cintas today: $75B market cap, $9B revenue",
+    "Cintas growth: 50+ years of scaling, family owns ~18-20%",
+    "Richard Farmer: took over age 21-23, ran for 50 years",
+    "Set and forget gains: $10k invested in 1990 = $181k if held; missed 30 best days = $31k; missed 10 best days = $83k",
+    "VTI: up 8-10% year-to-date despite crash"
+  ],
+  "topics": ["market crashes", "investing strategy", "index funds", "family businesses", "parenting", "olympics", "entrepreneurship", "generational wealth"],
+  "sponsor_read_count": 2,
+  "notable": "Olympics discussion (Cole Hocker 1500m win, Femke Bol, refugee team, Noah Lyles) interwoven with market/business themes; water park parenting moment illustrates how parental presence and teaching create generational legacy better than money."
+}

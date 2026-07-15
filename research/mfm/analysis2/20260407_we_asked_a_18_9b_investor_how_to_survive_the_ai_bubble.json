@@ -1,0 +1,52 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Graham Weaver, founder/CEO of Alpine Investors, Stanford GSB lecturer",
+  "approx_date": "Apr 2026",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "Services/PE roll-up strategy: back a high-will-to-win operator (often ex-military) with a search-fund-like model in an industry with real customer moats (plumbing, HVAC, wealth management)", "who": "Guest", "conviction": "serious"},
+    {"idea": "Wealth management-style roll-up bundling investing, taxes, trusts, and estate planning into one deep relationship to build an AI-resistant moat", "who": "Guest", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Guest", "text": "Most venture-backed AI 'app layer' startups with inflated valuations (e.g. $2M revenue at $500M valuation) will go to zero as LLMs absorb their function."},
+    {"who": "Guest", "text": "AI technology will become largely commoditized across most industries within PE roll-ups; the real differentiator will remain talent, culture, and customer relationships, not proprietary tech."},
+    {"who": "Guest", "text": "AI-native property management roll-ups launched by venture firms won't have durable tech advantages since the underlying AI tools will be broadly available."}
+  ],
+  "disagreements": "Mild pushback rather than true disagreement: Shaan challenges Sam's cynical framing of PE as inherently value-extractive/soulless, and Sam admits his prior bias against the industry; Shaan and the guest also gently debate whether high-revenue AI apps are truly at risk of failure versus the guest's more skeptical stance.",
+  "dynamics": "Sam and Shaan co-interview a private equity founder in classroom-style format ('be students in your class'), alternating between tactical business questions (roll-up mechanics, deal structure) and personal/philosophical territory (limiting beliefs, meditation, parenting, the 'genie question'). Shaan drives most of the AI/market-strategy line of questioning while Sam leans into the emotional/personal-development angle; energy is admiring and collaborative with the guest doing long expository monologues.",
+  "frameworks": [
+    "Buy-and-build roll-up via 'superpowered search fund' — install a high-attribute operator (often military veterans) into a small acquired business, then tuck-in acquisitions financed by cash flow/debt without added equity",
+    "AI value-chain: infrastructure, LLMs, apps, and use-case/services layers — most hype and risk sits in the apps layer, most durable value sits in the use-case/services layer with real customer moats",
+    "The 'genie question' — what would you do if you couldn't fail, used to surface true ambitions beneath fear-driven career choices",
+    "Writing down limiting beliefs/fears on paper to convert paralysis-inducing subconscious fear into a solvable, concrete problem",
+    "Wealth = numerator (income) minus denominator (spending); keeping the denominator small creates a feeling of wealth/freedom long before big liquidity events",
+    "Meditation as reps for a muscle (returning attention to breath after wandering) — 'failure' during meditation is actually the rep working"
+  ],
+  "learnings": [
+    "A repeatable playbook built by rolling up many similar small businesses (e.g. training superpowers found in each individual acquisition) compounds — the 11th deal in a roll-up benefits from all prior deals' lessons.",
+    "Founders who've run a business for decades often won't implement outside 'great ideas' from new owners, which is why installing your own trained operator works better than trying to redirect an existing owner-operator.",
+    "In many service industries, the durable competitive moat against AI disruption is deep customer relationships and operational execution, not proprietary technology, since AI tools will become commodity access for everyone.",
+    "Ripping out costs/staff for quick PE returns yields a modest multiple (1.5-2x) versus a much larger payoff (potentially 100x) from patiently building durable, talent-driven businesses.",
+    "Financial 'wealth' feels disconnected from net worth milestones; true peace of mind arrives around 3-6 months of savings, and true 'freedom to do what you want' arrives around 9-12 months of savings — both attainable well before large liquidity events.",
+    "Turning a subconscious fear into a written, explicit problem statement ('how would I start this business while still paying rent?') converts paralysis into a solvable question.",
+    "A liquidity event or major financial milestone often disappoints emotionally because it doesn't resolve an underlying internal sense of 'not being enough' — that requires separate internal work (therapy, meditation, journaling)."
+  ],
+  "banger_quotes": [
+    {"who": "Guest", "quote": "You go get Navy SEALs to run plumbing companies."},
+    {"who": "Guest", "quote": "You're either going to be your own best friend or you're going to be your own worst enemy."},
+    {"who": "Guest", "quote": "It's like running through life with your foot on the brakes."},
+    {"who": "Guest", "quote": "Time's your friend if you actually build something."}
+  ],
+  "numbers_dropped": [
+    "Alpine's last four funds have returned 5x or better net MOIC over roughly 6-year average holds",
+    "Plumbing and HVAC is described as a ~$170 billion industry",
+    "Average add-on acquisition deal size ~$30 million, target company $15-20M revenue",
+    "Flagship deal Apex Service Partners grew from ~$8 million earnings to a projected $500 million earnings (on ~$3 billion revenue) in six years, with only ~$59M total invested",
+    "Alpine's first fund lost money and was marked at 40 cents before recovering to return ~95 cents",
+    "Guest says he didn't have $1 million actually in the bank until 14 years into founding Alpine, in his 40s",
+    "Alpine has bought roughly 800 companies over the guest's 31-year PE career"
+  ],
+  "topics": ["private equity", "ai bubble/ai hype", "roll-up strategy", "career advice", "wealth psychology", "meditation", "parenting"],
+  "sponsor_read_count": 1,
+  "notable": "The guest, a PE fund founder, spends roughly half the episode on soft/personal-development content (meditation, limiting beliefs, parenting exercises) rather than pure business strategy, a blend the hosts explicitly call out as unusual for his industry."
+}

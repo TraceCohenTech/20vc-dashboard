@@ -1,0 +1,56 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "May 2023",
+  "format": "idea-brainstorm",
+  "business_ideas": [
+    {"idea": "Play Street Museum - clean, safe play spaces for kids like upscale Chuck E Cheese", "who": "Shaan", "conviction": "serious"},
+    {"idea": "260 Sample Sale - pop-up sales of fashion brand photo samples with commission model", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Viral content detection engine - automated system finding hot content on Reddit/Imgur/4chan first", "who": "Shaan", "conviction": "serious"},
+    {"idea": "True Med - HSA/FSA payment integration for health products and services", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Niche sample sale pop-ups - beauty, health, wellness brand sample sales by vertical", "who": "Shaan", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "Play Street Museum franchise can net $25-30K/month profit per location"},
+    {"who": "Shaan", "text": "Sample sale model can replicate across multiple verticals and geographies"},
+    {"who": "Shaan", "text": "True Med will become a major player in health spending enablement"}
+  ],
+  "disagreements": null,
+  "dynamics": "Sam and Shaan discuss business ideas in collaborative, analytical mode. Heavy storytelling about entrepreneurs (Emerson Spartz, Shane Smith, Justin Mares) alongside business model analysis. Shaan leads idea critique; Sam responds with enthusiasm and questions. Both trade examples and draw lessons.",
+  "frameworks": [
+    "Byproduct businesses: monetize waste/overstock from other businesses",
+    "10 out of 10 entrepreneur on 4 out of 10 opportunity: talent-opportunity mismatch",
+    "Viral content engineering: systematize virality through detection + testing + distribution",
+    "Showmanship over substance: leadership through captivating storytelling and presence",
+    "Regulatory arbitrage: HSA/FSA spending rules create untapped market opportunities"
+  ],
+  "learnings": [
+    "Playspaces solve parent daycare problem and operate weather-independent 24/7",
+    "Escape rooms and play spaces can work as franchises because they need minimal real estate",
+    "Fashion brands have massive inventory of photo samples with no good exit strategy",
+    "Viral content is not random - can be engineered through detection, testing, and optimization",
+    "First million dollars (nut) can come from any source; pivot to noble mission after that",
+    "Showmanship and storytelling can substitute for traditional advertising/marketing"
+  ],
+  "banger_quotes": [
+    {"who": "Shaan", "quote": "It's a 10 out of 10 entrepreneur going after a 4 out of 10 opportunity"},
+    {"who": "Sam", "quote": "Come eat rat pizza at my child casino - Chuck E. Cheese"},
+    {"who": "Shane Smith (via article)", "quote": "We're the modern-day Bonnie and Clyde and we're here to take all your money"},
+    {"who": "Shaan", "quote": "This is the best way to pitch a business - paint dreary picture, show why solution matters"}
+  ],
+  "numbers_dropped": [
+    "Play Street: ~7 sessions/day, $15 per session, 25 kids per session, 75% full = $40K+/month",
+    "Play Street: Birthday party revenue ~$8-10K/month additional",
+    "Play Street: Rent ~$5K/month, estimated profit $25-30K/month",
+    "260 Sample Sale: Based in LA, Miami, New York only",
+    "Emerson Spartz built MuggleNet at age 12, millions of visitors",
+    "Emerson Spartz published book at age 18: Harry Potter Should Have Died",
+    "Dose Media: 18 engineers, 4 writers, millions of monthly users",
+    "Vice Media: raised at $6B valuation, still makes $600M/year revenue",
+    "Shane Smith's old house: purchased $30M, sold $50M",
+    "Vice raised from: Rupert Murdoch, Viacom, and other major investors"
+  ],
+  "topics": ["business-ideas", "entrepreneurship", "byproducts", "media", "showmanship", "health-tech"],
+  "sponsor_read_count": 0,
+  "notable": "Mix of simple business ideas (play spaces, sample sales) with deeper stories about viral content engineering (Emerson Spartz/Dose Media) and media entrepreneurship (Shane Smith/Vice). Discussion of showmanship as leadership tool. Emphasis on 'first nut' philosophy - make money however needed, then pivot to mission."
+}

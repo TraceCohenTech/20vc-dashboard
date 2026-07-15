@@ -1,0 +1,115 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Rahul Vohra, founder of Superhuman (previously Reportive)",
+  "approx_date": "Dec 2020",
+  "format": "guest-interview",
+  "business_ideas": [
+    {
+      "idea": "Superhuman: premium $30/month email client for power users (existing company)",
+      "who": "Rahul",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Auto-correct library for developers building text editors and apps",
+      "who": "Rahul",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Document preview library (like Crocodoc) for web rendering of any file type",
+      "who": "Rahul",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Small-scale private equity for SaaS: buy $100K-$1M ARR companies, scale 10x",
+      "who": "Rahul",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Superhuman for X: apply premium speed + design model to calendars, browsers, issue tracking",
+      "who": "Rahul",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Rahul",
+      "text": "Superhuman will reach 300K subscribers at $30/month generating $100M+ ARR and $4-5B valuation"
+    },
+    {
+      "who": "Rahul",
+      "text": "Zapier will become $50B+ company (one of largest software companies ever)"
+    },
+    {
+      "who": "Rahul",
+      "text": "Superhuman for X will spawn multiple billion-dollar companies across different workflows"
+    }
+  ],
+  "disagreements": "Shaan plays devil's advocate on $30/month price point (calls it 'dead zone'), arguing it's needlessly hard. Rahul counters that the price is strategic because 300K users at $30/month = $100M revenue = $4-5B valuation, which is achievable given the massive email market (1B professionals × 3 hours/day).",
+  "dynamics": "Sam and Shaan genuinely impressed by Rahul's intellect and 'it factor'—his calm, measured way of speaking where he narrates rather than reacts. Shaan admits to 'creepily' following Rahul since college via Reportive. Rahul is thoughtful, not an 'ideas machine,' speaks in detailed frameworks. Discussion of meditation, coaching, and intentionality reveals a person who has optimized for performance. Episode is unusually philosophical for MFM.",
+  "frameworks": [
+    "Intentionality — deliberate thinking and acting, proactive vs reactive, updating mental models when data changes",
+    "Switch log — track every task switch in Slack to analyze where time actually goes (vs calendar which shows intent)",
+    "Import/export framework — identify business problems while working in companies (import = solve them, export = productize your hacks)",
+    "Superhuman for X — apply prosumer premium (speed + design) to other workflows where Google/Microsoft can't compete due to business model",
+    "Prosumer pricing paradox — $30/month is 'dead zone' but viable at scale if you can reach 300K subscribers (counterintuitive success path)",
+    "Private equity for SaaS — buy under-monetized $100K-$1M ARR companies, provide infrastructure/resources, scale 10x, sell to next buyer",
+    "Gmail extension as moat — Reportive was first to scale on Gmail, creating defensibility through installed base"
+  ],
+  "learnings": [
+    "Founder burnout is real; taking a break (Rahul took a year off between Reportive and LinkedIn exit) is better than pushing through",
+    "Transcendental meditation (1 hour/day in two sessions) measurably improves decision-making and efficiency when taught by qualified coach",
+    "Coaching in multiple domains (meditation, nutrition, executive presence) is high-ROI investment for founders",
+    "Document preview/rendering has been an unsolved problem for years (Crocodoc eventually acquired by Box)",
+    "Infrastructure/API companies are defensive once ingrained (Clearbit, EasyPost examples of companies that become hard to displace)",
+    "Premium prosumer pricing ($30/month email) is viable if you solve a real problem for professionals who use it hours/day",
+    "Big tech companies (Google, Microsoft) can't compete on UX/speed due to business models (ads for Google, bundling for Microsoft)",
+    "Email represents 3B hours/day globally—only activity higher is sleep; massive TAM for productivity improvements",
+    "Intentionality and mental models matter more than raw IQ for execution"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Rahul",
+      "quote": "I'm more of a let's make a great machine. Give me an idea and I can describe how to do it fantastically."
+    },
+    {
+      "who": "Rahul",
+      "quote": "When I was coming towards the end of LinkedIn, I'm thinking this one is going to be the big one. I probably have one company left in me."
+    },
+    {
+      "who": "Rahul",
+      "quote": "Three billion hours per day go into email. Only one thing we do more than email: sleeping."
+    },
+    {
+      "who": "Sam",
+      "quote": "You have this intangible charisma. You're not talking; you're narrating as if you already lived through it."
+    }
+  ],
+  "numbers_dropped": [
+    "Reportive: 20 months old when sold to LinkedIn (2011), undisclosed acquisition price (rumored $15M)",
+    "Superhuman: 60 employees, $51M raised, 360K+ people on waitlist",
+    "Superhuman pricing: $30/month ($360/year)",
+    "Superhuman math: 300K users × $30/month = $108M/year = $4-5B valuation",
+    "Global email TAM: 1 billion professionals × 3 hours/day = 3 billion hours/day",
+    "Rahul's meditation: 30 min morning + 30 min afternoon = 1 hour/day",
+    "McKinsey study: average professional spends 3 hours/day on email",
+    "Gmail extension market: Honey (multi-billion), Grammarly (multi-billion), Boomerang, Mixmax, etc.",
+    "Zapier prediction: could reach $50B+ valuation",
+    "Amazon questionnaire: took Superhuman 3 days initially, now 2 hours (15x faster due to process optimization)",
+    "Small-scale PE SaaS: acquire at $100K-$1M ARR, scale to $10M+ ARR, sell at 10x+ multiple"
+  ],
+  "topics": [
+    "email",
+    "productivity",
+    "premium-prosumer",
+    "saas",
+    "transcendental-meditation",
+    "coaching",
+    "founder-burnout",
+    "infrastructure-apis",
+    "pricing-strategy",
+    "market-opportunity",
+    "execution-frameworks"
+  ],
+  "sponsor_read_count": 0,
+  "notable": "Unusually philosophical MFM episode with genuinely thoughtful founder. Rahul's discussion of burnout recovery, transcendental meditation, and coaching is authentic, not performative. His prediction about 'Superhuman for X' becoming a trend demonstrably came true (Linear for issue tracking, Mighty for browsers, etc. launched afterward). Episode marks evolution in MFM: less gotcha questioning, more genuine admiration and deep framework exploration. Shaan's admission of 'creepily following' Rahul since college adds vulnerability to interview."
+}

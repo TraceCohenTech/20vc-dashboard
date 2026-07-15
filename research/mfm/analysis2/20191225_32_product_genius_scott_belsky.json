@@ -1,0 +1,51 @@
+{
+  "hosts": ["Shaan Puri"],
+  "guest": "Scott Belsky, founder of Behance, Chief Product Officer at Adobe, author of The Messy Middle, angel investor in Pinterest and Uber",
+  "approx_date": "Dec 2019",
+  "format": "frameworks/advice",
+  "business_ideas": [
+    {"idea": "Behance: an organized, searchable portfolio platform for creative professionals so their work (not just their network) gets discovered", "who": "Guest", "conviction": "serious"},
+    {"idea": "Action Books: paper productivity products designed for creative professionals", "who": "Guest", "conviction": "serious"},
+    {"idea": "A phone operating system with no apps — ambient, context-aware 'superpowers' that appear only when needed instead of static app icons", "who": "Guest", "conviction": "throwaway"},
+    {"idea": "A freelancer/marketplace model that doesn't tax every transaction like current on-demand marketplaces do (possibly blockchain-based value distribution)", "who": "Guest", "conviction": "throwaway"},
+    {"idea": "AR content tools/infrastructure for building interactive, animated content in augmented reality", "who": "Guest", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Guest", "text": "App-based, icon-driven phone interfaces will become antiquated, replaced by ambient always-on contextual assistance."},
+    {"who": "Guest", "text": "Remote/distributed work will keep growing and big companies will be forced to build the technology to support it."},
+    {"who": "Guest", "text": "Social products are due for a resurgence built around privacy and premium, meaningful connection rather than engagement-maximizing feeds."}
+  ],
+  "disagreements": null,
+  "dynamics": "Single host (Shaan Puri), recording on Christmas Eve, frames this as a more free-flowing, less structured conversation with someone he now considers a friend; he explicitly skips standard origin-story questions to focus on frameworks, investing philosophy, and personal habits. Energy is relaxed, intellectually exploratory, with the host frequently building on the guest's ideas with his own parallel frameworks (e.g. comparing notes on note-taking systems and habit audits).",
+  "frameworks": [
+    "The Messy Middle: the volatile, under-discussed middle period of building a company where founders are their worst selves at both lows (fear-driven decisions) and highs (false attribution of success)",
+    "The 'first mile' of product experience: obsess over onboarding since it's the only part of the product every user actually experiences, and users are 'lazy, vain, and selfish' in their first 15-30 seconds",
+    "Feature subtraction: killing secondary features often increases usage and quality of the core product, since it removes internal distraction and team attention gets refocused",
+    "The energy audit: color-code your calendar retroactively (red drains energy, green creates it) to see where your time actually goes versus where it should go",
+    "Judge relationships/founders by whether each new conversation is a 'step function' more interesting than the last, versus being a 'ready' (rehash)"
+  ],
+  "learnings": [
+    "Founders often fall in love with their own solution instead of deeply empathizing with the customer's actual problem, leading to being '30 degrees off' for months before correcting course.",
+    "Hedging (business school while founding a company, building many products/features as insurance) can be just as valid an entrepreneurial style as high-risk conviction, contrary to popular narrative.",
+    "The best investors aren't necessarily visionaries about the distant future — they have a sharp, concrete read on how the present is currently shifting.",
+    "Curating a high-quality personal network on platforms like Twitter functions as an outsourced information-discovery and curation engine.",
+    "Angel investing early (even without much capital) can function as tuition — a way to force yourself to learn a new domain by having skin in the game.",
+    "Counting yourself out of the 'investor' identity even when you have the access and insight (attending founder dinners without ever writing a check) is a common, costly mistake — acting as a scout for a friend's money can be a way in."
+  ],
+  "banger_quotes": [
+    {"who": "Guest", "quote": "Every customer is lazy, vain and selfish in their first 15 to 30 seconds of using your product."},
+    {"who": "Guest", "quote": "Disconnection is a competitive advantage."},
+    {"who": "Guest", "quote": "The greatest investors have a really deep and concrete understanding of us and how the present is about to change."},
+    {"who": "Host", "quote": "80% is just showing up."}
+  ],
+  "numbers_dropped": [
+    "Podcast had reached 526,000 listeners after about 6 months",
+    "Behance: 5 years bootstrapped, 2 years venture-backed, then acquired by Adobe with a 3-year integration",
+    "Guest's Evernote notebook of insights that became the book had about 680 entries, distilled to roughly 200 in the final book",
+    "Uber was once called 'Uber Cab' and Garrett Camp showed guest early sketches before Travis Kalanick was involved",
+    "Guest calls Uber a '$60 billion' outcome from what he initially dismissed as a distraction"
+  ],
+  "topics": ["product design", "angel investing", "creative tools", "onboarding ux", "personal productivity", "founder psychology"],
+  "sponsor_read_count": 0,
+  "notable": "Recorded live on Christmas Eve as a looser, unstructured 'friend conversation' episode; host explicitly announces the show has hit 526,000 listeners after 6 months and solicits listener questions for an upcoming Q&A episode."
+}

@@ -1,0 +1,99 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Audie Attar, Sports Manager (Paradigm Sports founder)",
+  "approx_date": "Aug 2023",
+  "format": "guest-interview",
+  "business_ideas": [
+    {
+      "idea": "Proper Twelve Irish whiskey brand",
+      "who": "Guest",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Fast fitness app and gym brand",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "3KO event-based competition (Spartan Race meets CrossFit Games)",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "August McGregor fashion/suit line",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Title recovery spray product line",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Netflix original content/documentaries",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Celebrity boxing matches across sports (Elon vs Zuckerberg)",
+      "who": "Guest",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "Elon vs Zuckerberg fight would be biggest ever, surpassing Mayweather-Pacquiao and Floyd-Conor"
+    },
+    {
+      "who": "Guest",
+      "text": "MMA fighter compensation will continue to grow but still has long way to go versus NFL/NBA"
+    }
+  ],
+  "disagreements": "Sam pushes on whether Conor/Floyd really earned the amounts claimed ($100M), suggesting inflated numbers are brand theater. Audie defends legitimacy of UFC commission-reported figures.",
+  "dynamics": "Audie is composed, measured, strategic; speaks in polished business/negotiation language. Sam and Shaan ask aggressive business questions and push on numbers. Good dynamic of hosts testing guest's claims vs guest defending with nuance. Audie rarely gives specific numbers due to confidentiality.",
+  "frameworks": [
+    "Build broader vision beyond transactional deals: IP creation, brand equity, venture launching",
+    "Reverse-engineer business partners: find 'black belts' who excel in their domain before executing",
+    "Risk management in talent: diversify portfolio beyond single-client dependency despite platform concentration",
+    "Work backwards from high-valuation multiples: trade shows/media sell for 10-15x, understand buyer psychology"
+  ],
+  "learnings": [
+    "Most people manage talent transactionally; differentiation comes from building IP, media, and ventures around the talent",
+    "Charisma and persuasion matter in high-stakes negotiation rooms more than raw information; timing and composure win deals",
+    "Celebrity endorsement deals vs venture equity have wildly different payoff multiples (sponsorship 1x vs building brand 100x+)",
+    "Regulatory advantages matter: boxers who become their own promoters (Floyd Mayweather model) capture more value than league-bound fighters",
+    "Building successful ventures requires finding domain experts, maintaining substance over hype, and aligning with client's genuine interests"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Audie",
+      "quote": "I didn't take a paycheck for seven years, paid team before myself"
+    },
+    {
+      "who": "Audie",
+      "quote": "He's not trained from institutional perspective, but he's a very natural businessman"
+    },
+    {
+      "who": "Sam",
+      "quote": "Platform risk: when Facebook changed algorithm, deal dropped from $200M to $30M"
+    },
+    {
+      "who": "Audie",
+      "quote": "You have to be ready to dream and act, prepared but fluid when reality hits"
+    }
+  ],
+  "numbers_dropped": [
+    "Mayweather-McGregor fight PPV: 4.3-4.4 million buys reported, 6M rumored, hundreds of millions illegal streams",
+    "Conor earnings from May-Mac: reportedly just under $100M",
+    "Floyd earnings from May-Mac: estimated $100M+",
+    "Proper Twelve exit: $600M (reported) in three years",
+    "Sponsorship deal offer for Proper: $250K-$1M annually (versus $600M exit)",
+    "Paradigm team size: 15 core level, plus separate team per brand venture",
+    "Bob Johnson sold BET to Viacom: $3B",
+    "Anthony Jr divorce: $400M of $1.3-1.5B awarded to ex-wife"
+  ],
+  "topics": ["sports management", "conor mcgregor", "proper twelve", "whiskey brand", "celebrity boxing", "elon zuckerberg", "entrepreneurship"],
+  "sponsor_read_count": 1,
+  "notable": "Guest repeatedly refuses to disclose specific deal structures citing confidentiality agreements; creates dynamic where hosts probe numbers but guest deflects professionally. Interesting moment: guest suggests he'd pursue managing Elon Musk if rights/IP involvement guaranteed."
+}

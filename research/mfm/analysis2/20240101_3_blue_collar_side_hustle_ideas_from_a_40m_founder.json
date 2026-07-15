@@ -1,0 +1,52 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Sam Ratner, founder who sold a sports-betting startup to FuboTV for ~$40M, now building Showroom",
+  "approx_date": "Jan 2024",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "Buy decommissioned riverboat casinos cheaply and convert them into restaurants/entertainment venues or reopen as casinos", "who": "Guest", "conviction": "says he might build it"},
+    {"idea": "Buy a rural vending-machine company, let Coke/Pepsi contracts expire, switch to cheap store-brand snacks to massively boost margins", "who": "Guest", "conviction": "serious"},
+    {"idea": "National water-taxi network (buy out a local lake operator, then expand lake-town by lake-town, eventually sell to Uber/Lyft)", "who": "Guest", "conviction": "serious"},
+    {"idea": "Buy a dominant local college-town bar/nightlife venue (like 'Shooters' or 'Shady Gators') and add daytime uses (yoga studio by day, club by night) plus modern payments to multiply revenue", "who": "Guest", "conviction": "throwaway"},
+    {"idea": "A 'blue collar Thiel Fellowship' that recruits non-elite students to find and buy an overlooked local business near their campus instead of going to college", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "Showroom: an AI/LLM-powered vertical shopping search engine spanning thousands of merchants and brands not on Amazon (e.g., Gucci, Burberry), monetized via merchant revenue share", "who": "Guest", "conviction": "serious"},
+    {"idea": "Hire divers to recover the reportedly millions of dollars of lost GoPros at the bottom of Lake of the Ozarks", "who": "Shaan", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Guest", "text": "Uber will acquire a water-taxi company by around 2028."},
+    {"who": "Guest", "text": "Showroom will be worth at least a billion dollars within 5 years (by end of 2028)."}
+  ],
+  "disagreements": null,
+  "dynamics": "Classic guest-interview format with Sam Parr leading most of the questioning and Shaan playing a lighter supporting role, occasionally riffing on ideas (the blue-collar Thiel Fellowship concept) and adding color commentary. Energy is high and playful, with recurring comic bits (the Shady Gators menu, Floribama) breaking up dense business-strategy segments. Structural note: this episode explicitly uses the recurring 'blue collar side hustle' segment framing.",
+  "frameworks": [
+    "Never pitch twice: fundraising/recruiting is informative, not persuasive — genuine buy-in shows up immediately, don't chase people who need convincing",
+    "The potential you see in others is a mirror of your own ambition, not theirs — take people at face value for what they actually want",
+    "The value is in the duck calls: real profit hides in niche, overlooked, regional micro-markets most people dismiss as too small or weird",
+    "Aim for 5x improvement, not 10% improvement: only pursue deals where you can identify a path to make something dramatically better, not marginally better"
+  ],
+  "learnings": [
+    "Deep, hands-on due diligence (flying to remote towns, calling junkyards, talking to regulators and employees on-site) reveals opportunities that a few Google searches never would.",
+    "Owning appreciated stock and borrowing against it instead of selling lets you deploy capital for new bets while avoiding a taxable event.",
+    "Entering a heavily regulated, capital-intensive industry (like licensed gambling) can be a moat precisely because most competitors are unwilling to endure the compliance grind.",
+    "A consumer platform built around real transactions (fees, revenue share) monetizes far more reliably than one built around attention/engagement alone.",
+    "Brand identity, not literal product specs, is what differentiates otherwise nearly identical goods (e.g., two black t-shirts) — which is why AI-driven shopping search needs brand-aware training data."
+  ],
+  "banger_quotes": [
+    {"who": "Guest", "quote": "The value is in the duck calls."},
+    {"who": "Guest", "quote": "I've always been a zero backup plan guy."},
+    {"who": "Guest", "quote": "If it's easy, there can't be any value in it."},
+    {"who": "Guest", "quote": "Capital is pretty cheap. If you have a great business, you're going to raise the money."}
+  ],
+  "numbers_dropped": [
+    "Sold sports-betting startup to FuboTV for ~$40 million at age 23, before it even launched",
+    "High school snow removal business generated ~$50-60K per winter",
+    "Riverboat casino purchase price was under $1 million (7 figures)",
+    "Vending machine company he passed on: 5,000 machines, seller wanted $4-5 million, ~$1.2-1.3M annual cash flow",
+    "Lake water-taxi operator making ~$400K per boat per summer across 3 boats (~$1.2M/year)",
+    "Showroom merchant revenue-share deals range 5-20%",
+    "FuboTV was doing roughly $1 billion/year in revenue (~$700M subscriptions, ~$300M advertising) when guest departed"
+  ],
+  "topics": ["blue collar side hustles", "unconventional deal sourcing", "vending machines", "riverboat casinos", "ai-powered shopping search", "due diligence philosophy"],
+  "sponsor_read_count": 1,
+  "notable": "Guest is a 27-year-old repeat founder discussing an eclectic string of niche acquisitions (a decommissioned riverboat casino, a rural vending-machine operator, a lake water-taxi business) alongside his current AI shopping-search startup, framed under the show's recurring 'blue collar side hustle' segment."
+}

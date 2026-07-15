@@ -1,0 +1,53 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Scott Galloway, NYU Stern professor and founder of Prof G Media/L2",
+  "approx_date": "Feb 2026",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "Government/private subsidies for 'third places' (bars, sports leagues, putt-shacks, wave gardens, Topgolf) to combat male loneliness", "who": "Guest", "conviction": "serious"},
+    {"idea": "Invest in unsexy retail shopping centers/strip malls (backfilled with experiential tenants) as a high-yield, low-competition asset class", "who": "Guest", "conviction": "serious"},
+    {"idea": "Resist and Unsubscribe — a website/movement helping consumers mass-cancel subscriptions to big tech platforms as economic protest leverage", "who": "Guest", "conviction": "says he might build it"}
+  ],
+  "predictions": [
+    {"who": "Guest", "text": "America will be overvalued relative to international markets; he is selling down American stocks in favor of European/global diversification."},
+    {"who": "Guest", "text": "GLP-1 drugs are the most transformative technology of the last 20-30 years, bigger than AI/GPT-4."},
+    {"who": "Guest", "text": "The best return on capital right now is boring, unsexy investments (e.g. retail shopping centers) versus AI/venture, which is producing little cash flow."},
+    {"who": "Guest", "text": "Speculation and gambling apps targeting young men's 'immature prefrontal cortex' will be the most profitable companies exploiting the male loneliness epidemic."}
+  ],
+  "disagreements": "No real disagreement between Sam and Shaan; both largely agree and prompt Galloway with pre-planned 'spiciest questions.' Mild friendly pushback occurs only when Shaan questions Galloway's inconsistent policy stance on capital gains tax and old-vs-young wealth transfer.",
+  "dynamics": "A structured '10 spiciest questions' interview format with Sam and Shaan tag-teaming pre-written prompts to a returning guest (his fourth appearance). Both hosts play straight-man/interviewer roles, occasionally injecting personal anecdotes (Sam's Dharmesh Shah dinner story) but mostly letting Galloway monologue at length in his signature aphorism-heavy style; energy is high-engagement and admiring, with long unbroken guest monologues rather than back-and-forth banter.",
+  "frameworks": [
+    "Economic security number: burn rate x 25 (assuming ~4% post-tax return) as the threshold to stop chasing money",
+    "Three life buckets — have to do, want to do, should do; eliminating the 'should' bucket is the real point of financial freedom",
+    "US vs. international market cycles — historically 8-year alternating outperformance; US has outperformed for 17 straight years, signaling reversion",
+    "Sexy-vs-boring investment inverse correlation — the less exciting/sexy an industry sounds, the higher the likely return on invested capital",
+    "'Don't ask people if they need help, help them' — proactive generosity over waiting to be asked"
+  ],
+  "learnings": [
+    "Diversification (a concept Galloway says he didn't value until his 40s) matters more than conviction once you've already built wealth, since you can't recover from losing it a third time.",
+    "Public market valuations (Buffett indicator at ~210% vs. a historical ~90% target) suggest US equities are historically expensive relative to global peers.",
+    "Reframing 'American mega-cap' companies as effectively international/global businesses changes how their valuation should be judged relative to a purely domestic thesis.",
+    "Retail real estate is being reshaped by 'experiential' tenants (trampoline parks, Topgolf) backfilling dead big-box space, creating an overlooked profitable niche.",
+    "People's sense of 'economic security' inflates over time as taste and lifestyle costs grow, so the number is not fixed and requires periodic recalibration.",
+    "Wealthy peer networks often avoid discussing exact dollar figures, which Galloway argues perpetuates inequality by keeping financial literacy opaque for lower earners.",
+    "Consumer subscription spend is described as a form of 'soft tissue' political leverage — mass individual cancellations could meaningfully dent tech company market caps and indirectly pressure policy."
+  ],
+  "banger_quotes": [
+    {"who": "Guest", "quote": "I spend money like a 50s gangster just diagnosed with ass cancer."},
+    {"who": "Guest", "quote": "Old people are basically raping our economy for the last 30 or 40 years."},
+    {"who": "Guest", "quote": "Don't ask people if they need help. Help them."},
+    {"who": "Guest", "quote": "America is the best place to earn money and Europe is the best place to spend money."}
+  ],
+  "numbers_dropped": [
+    "S&P 500 trading at ~210% of GDP (Buffett indicator) vs. historical ~90% preference",
+    "Galloway spends roughly $1.5-2 million a year on private aviation via fractional ownership",
+    "Economic security formula example: $5 million annual burn x 25 = $125 million needed",
+    "Average 70-year-old is 72% wealthier than 40 years ago; average 25-year-old is 42% less wealthy",
+    "Moderna reportedly down ~90% since a prior prediction",
+    "Galloway claims ~100,000 daily uniques to his Resist and Unsubscribe site",
+    "He estimates spending ~$35,000/year on Uber (roughly 350 rides annually at $80-120 each)"
+  ],
+  "topics": ["macro investing", "wealth and net worth", "male loneliness epidemic", "GLP-1 drugs", "politics and consumer boycotts", "relationships and marriage advice", "personal branding/content strategy"],
+  "sponsor_read_count": 1,
+  "notable": "Guest pivots midway from personal finance/relationship advice into an extended political pitch for his own consumer-boycott movement ('Resist and Unsubscribe'), a notably more overtly political turn than typical MFM guest interviews."
+}

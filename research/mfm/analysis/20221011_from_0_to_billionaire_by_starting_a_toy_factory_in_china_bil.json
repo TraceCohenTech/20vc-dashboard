@@ -1,0 +1,64 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "October 2022",
+  "format": "story-breakdown",
+  "business_ideas": [
+    {"idea": "Zuru toys: Robo Fish, water balloon fillers, Dart Blasters", "who": "Nick Mowbray", "conviction": "serious"},
+    {"idea": "Rascal and Friends diapers with Cocomelon branding", "who": "Nick Mowbray", "conviction": "serious"},
+    {"idea": "Monday hair care brand", "who": "Nick Mowbray", "conviction": "serious"},
+    {"idea": "Nude pet food brand", "who": "Nick Mowbray", "conviction": "serious"},
+    {"idea": "Dose collagen brand", "who": "Nick Mowbray", "conviction": "serious"},
+    {"idea": "Zuru Tech: robot-built homes using game engine design", "who": "Nick Mowbray", "conviction": "serious"},
+    {"idea": "Dream Studio course: Zoom setup training for $1500", "who": "Kevin Shen", "conviction": "serious"},
+    {"idea": "Marketing agency: lead generation, ads, web services", "who": "Three dropouts", "conviction": "serious"},
+    {"idea": "Ghost Town Living investment and development", "who": "Shaan Puri", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "Preventive health screening will become status symbol among wealthy over 10-30 years"}
+  ],
+  "disagreements": "Shaan expresses caution about endorsing full-body MRI without understanding science; Sam mentions success stories but they debate accuracy of different health scanning approaches",
+  "dynamics": "Sam drives episode with enthusiastic storytelling about Nick Mowbray while Shaan asks probing questions about business models and scalability. Conversation tangents into YouTube thumbnail controversy, AI music, course landing pages, and creative side hustles. Fast-paced with frequent conversational pivots.",
+  "frameworks": [
+    "Bullets before cannonballs: test small bullets first to see what works before firing big investments",
+    "Slow is smooth and smooth is fast: taking time on key decisions leads to faster overall execution",
+    "Before and After sales framework: visual transformation proof is most compelling pitch",
+    "Stop the Struggle framework: position as pain eliminator not feature list",
+    "Pizza meter: open-source intelligence via behavioral signals (pizza deliveries detecting government activity)",
+    "Big Mac Index: purchasing power parity indicator via commodity pricing",
+    "Waffle House Index: hurricane severity indicator via restaurant operational status",
+    "Play styles for content: Time Saver vs Remixer vs Original Creator vs Lifestyle Influencer",
+    "The Sims principle: design homes in 3D environment then print them via automation"
+  ],
+  "learnings": [
+    "Manufacturing excellence and scale can create billionaires in unsexy categories like toys and consumer goods",
+    "Diversification across product categories using core competency in manufacturing and distribution",
+    "Automated manufacturing reduces labor costs dramatically, enabling margin expansion",
+    "Locking in consistent profitability after failure rebuilds organizational discipline",
+    "Branding matters in institutional sales even when product is commoditized",
+    "Network effects in distribution are durable competitive advantages"
+  ],
+  "banger_quotes": [
+    {"who": "Nick Mowbray", "quote": "Bullets before cannonballs: test lots of little bullets first to see what works"},
+    {"who": "Sam", "quote": "Don't be shaken by competition, we got sued and that pushed us to innovate"},
+    {"who": "Shaan", "quote": "If you're rich you can do tax optimizations but make sure taxes don't drive the car"},
+    {"who": "Sam", "quote": "Be an interesting person, live an interesting life, be okay at talking about it"},
+    {"who": "Unknown", "quote": "My customers are people that love what I do"},
+    {"who": "Unknown", "quote": "If you're explaining you're losing"},
+    {"who": "Sahil Bloom", "quote": "I don't know any losers that work out first thing in the morning"}
+  ],
+  "numbers_dropped": [
+    "Zuru: $1.1B annual sales, 8,000 employees, 26 offices globally",
+    "Tripled sales to $1.1B in 2021",
+    "Rascal and Friends: $150M revenue last year, projecting $200M+ next year",
+    "Monday Hair: $60M revenue this year",
+    "Hasbro: $6B, Mattel: $5B, P&G: $80B (market comparisons)",
+    "David Beckham Tamagotchi deal: $28M Walmart order that couldn't be financed",
+    "Lost $200K in one month, committed to never losing money again",
+    "Zuru Tech factory: 1.6M square meters, 2 kilometers long, hiring 2000 people in 24 months",
+    "Early angel deals: 40x-80x returns after 2 years"
+  ],
+  "topics": ["toy manufacturing", "venture capital", "business scaling", "product diversification", "automation", "distribution channels", "profitability", "consumer products"],
+  "sponsor_read_count": 1,
+  "notable": "The Nazi thumbnail controversy shows tension between viral growth tactics and brand safety; Shaan cut vacation short to address."
+}

@@ -1,0 +1,56 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Elad Gil, prolific angel investor",
+  "approx_date": "Oct 2024",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "Translate 1000 classic books into dozens of languages with AI and create audiobooks", "who": "Elad", "conviction": "serious"},
+    {"idea": "K-12 school inspired by ancient Greece emphasizing reasoning, logic, mathematics, writing", "who": "Elad", "conviction": "serious"},
+    {"idea": "Monuments project: build large-scale inspiring sculptures and beauty in cities", "who": "Elad", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Elad", "text": "AI will largely be business as usual; certain teams will shrink while others won't"},
+    {"who": "Elad", "text": "Two-person billion-dollar AI companies are overstated in medium term"},
+    {"who": "Elad", "text": "Customer success will see most AI impact and team shrinkage early"}
+  ],
+  "disagreements": null,
+  "dynamics": "Elad drives with philosophical depth on investing, markets, and societal impact. Sam and Shaan ask clarifying questions and riff on tangents (cynicism in America, travel philosophy, Jiu-Jitsu community). Elad rarely reveals quick answers; prefers nuanced thinking. High intellectual engagement with personal anecdotes about travel, family, and learning. Tangent-heavy but substantive throughout.",
+  "frameworks": [
+    "Market-first vs founder-first investing; market can crush great founder or elevate mediocre ones",
+    "The four levels of luck: blind luck, prepared mind luck, luck from motion, luck from reputation",
+    "Missionary vs mercenary vs artist: career stages require different motivations over time",
+    "One critical thing matters in most businesses; executives often overthink 5 when 1-2 drive success",
+    "Aging as developmental program (not just damage) means lifespan can be extended via drugs",
+    "Technology as lever on the world; societal impact precedes financial returns",
+    "Intensive immersive travel: spend 1+ month in one place, learn skill, join community"
+  ],
+  "learnings": [
+    "Great markets can make mediocre founders succeed; terrible markets crush exceptional founders",
+    "The best investors focus on market structure, growth rates, technology shifts, not hype",
+    "Defense tech is opportunity when big tech companies retreat (Google shuttering Maven)",
+    "Community-based learning (Jiu-Jitsu, yoga, pastry-making) creates lasting bonds across language barriers",
+    "Building inspiring monuments reflects societal optimism; their absence reflects cynicism creep",
+    "Aging science dramatically underinvested due to FDA not classifying aging as disease",
+    "Most investors are money-driven; the best are mission-driven, which paradoxically creates better returns"
+  ],
+  "banger_quotes": [
+    {"who": "Elad", "quote": "When a great entrepreneur meets a bad market, only one keeps their reputation."},
+    {"who": "Elad", "quote": "Follow technology first or market change first; founders will surprise you."},
+    {"who": "Elad", "quote": "Most businesses have one or two things that matter; everything else is noise."},
+    {"who": "Sam", "quote": "The closest thing we have to monuments now is Tesla and SpaceX."},
+    {"who": "Elad", "quote": "It only takes one person to spark inspiration for everyone else."}
+  ],
+  "numbers_dropped": [
+    "Elad invested in 40+ unicorns at early stages (seed to Series A)",
+    "YC first decade: $12M invested turned into $10B value (~320x with dilution)",
+    "BioAge IPO: new drug for muscle in clinical trials",
+    "Rapamycin: extends lifespan 10-30% in mice depending on sex",
+    "Gene knockouts: can extend organism lifespan 2-3x in healthy adults",
+    "Aging research: dramatically underfunded vs cancer research at NIH",
+    "Elad deployed >50% of personal wealth into private companies",
+    "SpaceX check minimum: was $500M+ when Elad couldn't participate"
+  ],
+  "topics": ["investing", "founders", "markets", "ai", "aging", "longevity", "monuments", "philosophy"],
+  "sponsor_read_count": 1,
+  "notable": "Elad's philosophy is unusually mission-driven for a billionaire investor; emphasizes technology as lever for society over financial returns; life advice about intensive travel and community immersion unexpectedly useful to Sam"
+}

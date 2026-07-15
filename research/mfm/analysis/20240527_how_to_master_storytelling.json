@@ -1,0 +1,32 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "May 2024",
+  "format": "frameworks/advice",
+  "business_ideas": [],
+  "predictions": null,
+  "disagreements": null,
+  "dynamics": "Shaan leads discussion on storytelling craft; Sam asks clarifying questions and shares examples. Focused technical discussion on narrative structure, character development, and audience engagement. Conversational and educational without major conflict.",
+  "frameworks": [
+    "Story structure: hook, setup, inciting incident, rising action, climax, resolution",
+    "Character arc: protagonist facing obstacle, internal transformation, external victory",
+    "Show don't tell: demonstrate character through action not description",
+    "Specificity over generality: concrete details engage more than abstract statements",
+    "Tension and release: alternate between emotional buildup and resolution",
+    "Relatability: audience needs connection point to protagonist",
+    "Stakes escalation: raise emotional or material consequences throughout story"
+  ],
+  "learnings": [
+    "Storytelling is learnable skill, not innate talent requiring practice and repetition",
+    "Best stories feature protagonist struggling against obstacles reflecting audience struggles",
+    "Specific sensory details make stories memorable and emotionally resonant",
+    "Vulnerability in storytelling creates connection; polished perfection creates distance",
+    "Story structure exists across all mediums: podcasts, books, pitches, presentations",
+    "Audience cares about transformation and lessons learned, not just events that happened"
+  ],
+  "banger_quotes": [],
+  "numbers_dropped": [],
+  "topics": ["storytelling", "narrative structure", "communication", "business skills", "content creation"],
+  "sponsor_read_count": 0,
+  "notable": null
+}

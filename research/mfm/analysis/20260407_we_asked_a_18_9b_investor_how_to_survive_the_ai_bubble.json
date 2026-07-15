@@ -1,0 +1,70 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Graham Weaver, founder and CEO of Alpine Investors PE firm",
+  "approx_date": "Apr 2026",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "Service rollups (plumbing, HVAC, pest control) with AI implementation to improve efficiency", "who": "Graham", "conviction": "serious"},
+    {"idea": "Wealth management bundling: integrate stock trading + trusts + taxes + estate planning for customer stickiness", "who": "Graham", "conviction": "serious"},
+    {"idea": "Buy and build strategy in prosaic industries with high TAM and fragmented competition", "who": "Graham", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Graham", "text": "AI app layer will see massive failures; most venture-backed apps worth $500M+ will go to zero"},
+    {"who": "Graham", "text": "Infrastructure layer (chips, data centers, energy) will have sustained growth long-term"},
+    {"who": "Graham", "text": "LLMs already priced for success; unlikely to be attractive investment at current valuations"},
+    {"who": "Graham", "text": "AI will commoditize in most industries; competitive advantage shifts to talent, culture, customer moats"},
+    {"who": "Graham", "text": "Service rollups are better positioned than pure-play AI apps in a commodity tech environment"}
+  ],
+  "disagreements": "Graham more pessimistic on AI apps than Sam/Shaan. Sam argues selective AI apps will win; Graham counters that moat-building is extremely hard and most will face compression from LLMs and competition. Discussion also on whether processes/systems matter early-stage; Graham's model relies heavily on playbooks/frameworks.",
+  "dynamics": "Graham is the mentor/teacher figure. He shares his 31-year PE experience and personal journey vulnerably (14 years to first $1M in cash). Sam and Shaan serve as students, probing with strategic questions. Tone is introspective and philosophical, with Graham emphasizing internal work (meditation, therapy) over external achievement. He frequently connects business lessons to personal development.",
+  "frameworks": [
+    "Buy and build: find high-attribute CEO + great business + bolt-on acquisitions (tuck-ins)",
+    "Superpower aggregation: after N deals, consolidate best practices from each company into playbook",
+    "Who hiring: 3-hour interviews walking through entire life/background to identify 'will to win'",
+    "Numerator vs denominator: wealth = income / spending; control denominator first for freedom",
+    "Genie question: What would you do if you couldn't fail? Exercise to unlock true desires",
+    "Limiting beliefs exercise: write down all fears and limiting beliefs to externalize them",
+    "Meditation as strength training: building muscle of self-awareness and present-moment awareness",
+    "AI layer framework: infrastructure (growth) → LLMs (priced for success) → apps (hype) → use cases (actual value)",
+    "Three freedom levels: 3-6mo savings (peace of mind) → 9-12mo savings (choose your work) → investment income (true freedom)",
+    "Internal narrative reframe: your story about events matters more than events themselves"
+  ],
+  "learnings": [
+    "All major battles are internal; your interpretation/narrative about circumstances matters more than circumstances themselves",
+    "Wealth accumulation doesn't solve internal 'I'm not enough' beliefs; requires therapy, meditation, internal work",
+    "Denominator (expenses/lifestyle) control is prerequisite to numerator growth; most people inflate spending as income grows",
+    "Building durable businesses (via talent, culture, customer stickiness) yields 5-100x returns; extractive models yield 1.5-2x",
+    "90%+ of people never ask themselves what they actually want; permission and self-love are prerequisites",
+    "White-hot will to win is more predictive of success than IQ, background, or experience",
+    "AI will become commoditized utility in most industries; true moats are talent, culture, customer intimacy",
+    "5-hour-a-week experiments won't work; you need genuine excitement ('lit up') and long time horizon",
+    "Modeling behavior is far more effective than teaching; kids absorb what you do, not what you say",
+    "Early PE fund returns took 10+ years; patience and transparency with stakeholders during tough periods enabled later success"
+  ],
+  "banger_quotes": [
+    {"who": "Graham", "quote": "You go get Navy SEALs to run plumbing companies."},
+    {"who": "Graham", "quote": "All your battles are against you."},
+    {"who": "Graham", "quote": "I was my own worst enemy."},
+    {"who": "Graham", "quote": "Most of the time, the technology is going to be commoditized."},
+    {"who": "Graham", "quote": "You can't solve an internal problem with an external outcome."},
+    {"who": "Graham", "quote": "The steepest curve of utility with money is peace of mind, then freedom to choose your work."}
+  ],
+  "numbers_dropped": [
+    "Alpine AUM: $18-20 billion",
+    "Last 4 funds: all achieved 5x+ MOIC",
+    "Average deal size: $30M",
+    "Average hold period: 6 years",
+    "Plumbing/HVAC industry TAM: $170 billion",
+    "Best deal: $8M EBITDA → $500M EBITDA in 6 years (6-year hold)",
+    "Best deal revenue: $3 billion",
+    "Best deal initial investment: $50M + $9M year 1, zero additional equity",
+    "Fund 1: lost money, marked at 40 cents, returned 95 cents",
+    "Graham: 14 years to first $1M in bank (age ~43, 29+14)",
+    "Graham at year 14: managing $200-300M",
+    "31 years in PE, 800+ companies acquired",
+    "Wife's teacher salary: $18K pre-tax; apartment: $900/month"
+  ],
+  "topics": ["private-equity", "buy-and-build", "hiring-talent", "ai-strategy", "wealth-psychology", "business-operations", "leadership", "meditation-mindfulness"],
+  "sponsor_read_count": 1,
+  "notable": "Graham Weaver is CEO of Alpine Investors, one of the top-performing PE firms globally (5x+ MOIC across recent funds). Despite extreme financial success, emphasizes that true happiness came from internal work (therapy, meditation, therapy), not wealth itself. Teaches at Stanford. Exceptionally vulnerable about 14-year journey to first $1M in bank, making him highly relatable despite $20B fund. Predicts AI app layer will see mass extinction; infrastructure and service rollups are better bets."
+}

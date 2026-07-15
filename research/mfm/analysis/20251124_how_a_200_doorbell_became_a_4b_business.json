@@ -1,0 +1,27 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Jamie Siminoff, Founder of Ring Doorbell (sold to Amazon for $1.15B)",
+  "approx_date": "Nov 2025",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "Smart video doorbell solving inability to hear doorbell in garage", "who": "Jamie", "conviction": "serious"},
+    {"idea": "Solar-powered bug elimination system for farms (current obsession)", "who": "Jamie", "conviction": "serious"},
+    {"idea": "Multi-camera home security system and neighborhood safety network", "who": "Jamie", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Jamie", "text": "Global bug control market hides 5-10B dollar opportunity despite current solutions"},
+    {"who": "Jamie", "text": "Neighborhood safety and crime prevention will be primary driver of Ring expansion"}
+  ],
+  "disagreements": null,
+  "dynamics": "Jamie drives with inventor's mindset and operational depth. Sam probes founder psychology, resilience through crises. High rapport as Jamie shares ADT lawsuit crisis and wire-fund celebration moment.",
+  "frameworks": ["Problem-first not technology-first ideation (start with unsolved problem, then apply tech)", "Pre-awareness marketing (modify existing category, don't educate new ones)", "Snowball accumulation (roll small ideas into bigger company through attention to detail)"],
+  "learnings": ["Founder desperation (cutting salary to $150K on $480M revenue business) creates focus that succeeds", "Extreme detail obsession (tile interior of product, 11-second batter timing precision) compounds over time", "Resilience through multi-crisis (ADT lawsuit, Amazon pullout, capital crunch same December week)"],
+  "banger_quotes": [
+    {"who": "Jamie", "quote": "I just don't know how to stop and sometimes it's not smart"},
+    {"who": "Jamie", "quote": "The insane part of insanely great is what actually matters"}
+  ],
+  "numbers_dropped": ["$1.15B acquisition by Amazon in 2018", "$480M revenue year before sale", "Ring grew to $4B annual revenue post-Amazon (10x)", "Raised at $150K personal salary despite $480M company revenue", "Wire hit April 2018 during conference speech", "First house bought age 22 for $47K in Pittsburgh"],
+  "topics": ["iot", "smart-home", "security", "entrepreneurship", "acquisition", "founder-psychology"],
+  "sponsor_read_count": 2,
+  "notable": "Jamie talks candidly about desperation (making $150K while company did $480M), life in Missouri farm post-acquisition, investing in towns, and staying on at Amazon 7 years post-sale."
+}

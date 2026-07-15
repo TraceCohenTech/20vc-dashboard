@@ -1,0 +1,46 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Jordan Harbinger, podcaster (short intro cross-promo segment only)",
+  "approx_date": "Apr 2020",
+  "format": "mixed",
+  "business_ideas": [
+    {"idea": "Unbundled MBA-as-a-service: paid founder network/cohort like On Deck, selling the career-pivot value of business school", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "Fixing education — the topic Shaan pitched to Naval on Clubhouse", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Fast Grants model: 48-hour funding decisions applied to slow grant-style processes", "who": "Shaan", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "Clubhouse will be gone in three months; cool gadget, horrible business, not investable"},
+    {"who": "Shaan", "text": "Alt milks will keep growing like crazy and Oatly is the best of them"},
+    {"who": "Shaan", "text": "Countries hardened by adversity will thrive in hard times in ways complacent America will not"}
+  ],
+  "disagreements": "Sam thinks America can regain urgency after COVID; Shaan argues big institutions can't change culture and calls that a dream. They also split on Clubhouse — Sam dismisses it as a doomed toy while Shaan extracted real value from it. Both agree founder-dating meetups are a bad idea.",
+  "dynamics": "Shaan arrives with the topic stack ('six bullets in the chamber') and does most of the explaining; Sam reacts with hot takes and Gilded Age history analogies. Fast topic-hopping, high energy, comfortable pushback in both directions.",
+  "frameworks": [
+    "Hard times create strong men cycle: comfort breeds complacency, adversity breeds builders",
+    "Underdog positioning (Avis 'We Try Harder'): act like number two, elevate risk profile",
+    "Unbundling business school: sell the network and career pause without the degree",
+    "Monarchy model: great companies have one boss, not a democracy"
+  ],
+  "learnings": [
+    "On Deck's real product is a socially acceptable career pause plus a network, not education",
+    "Packaging and distribution can outweigh the product itself — RX Bar and Oatly both inflected on a rebrand",
+    "A founder running something part-time with an installed operator is a red flag; follow-through beats idea volume",
+    "Being attacked by a powerful incumbent (Oatly vs Swedish dairy) can be converted into marketing"
+  ],
+  "banger_quotes": [
+    {"who": "Sam", "quote": "You have to act like you're number 2"},
+    {"who": "Sam", "quote": "I think a lot of great companies are monarchies"},
+    {"who": "Sam", "quote": "Distribution is more important than product"}
+  ],
+  "numbers_dropped": [
+    "On Deck: ~$1M revenue claimed, ~1,000 members paying ~$1,000 per cohort",
+    "Oatly: over $200M in sales, cannot meet demand (black market among baristas)",
+    "Product Hunt exited to AngelList for ~$20M",
+    "Fast Grants: $15M+ committed, $10K-$500K grants decided in under 48 hours",
+    "Ethereum ICO ~$17, trading ~$180 at recording, peaked ~$1,000",
+    "RX Bar sold for $600-700M"
+  ],
+  "topics": ["it's time to build", "on deck", "clubhouse", "oatly", "fast grants", "defi"],
+  "sponsor_read_count": 0,
+  "notable": "Sam declares his next company will have no 50-50 co-founder — he wants to own it all and be the monarch."
+}

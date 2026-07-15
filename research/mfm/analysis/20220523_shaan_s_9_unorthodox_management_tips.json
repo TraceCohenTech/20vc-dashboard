@@ -1,0 +1,47 @@
+{
+  "hosts": ["Shaan Puri"],
+  "guest": null,
+  "approx_date": "May 2022",
+  "format": "frameworks/advice",
+  "business_ideas": [],
+  "predictions": [
+    {"who": "Shaan", "text": "Leaders who delegate red-energy tasks to people who find them energizing scale better"}
+  ],
+  "disagreements": null,
+  "dynamics": "Solo Shaan episode teaching management techniques. No debate or dialogue - pure instruction/mentorship format. Shaan walks through 9 discrete frameworks with examples. Tone is direct and practical. No back-and-forth with Sam.",
+  "frameworks": [
+    "Doctor House: ask 'what do you see?' instead of providing conclusions to train curiosity",
+    "Holiday Party: work backwards from celebration to identify North Star goal",
+    "Beer at the Pub: work backwards from failure to surface core risks and chief assumptions",
+    "F-Marry-Kill game: surface which 20% of people/initiatives to double down vs cut",
+    "Superpower assignment: explicitly tell people their strength and they'll embody it",
+    "Tesla Master Plan: write multi-step company roadmap showing how you'll achieve your mission",
+    "Calendar audit: color-code green (energizing) vs red (soul-draining) time blocks",
+    "Peer groups: form 5-person groups with shared ambitious goal, monthly 3-hour calls",
+    "Kickoff document: one-pager with goal, floor/stretch wins, anti-goals, power hour"
+  ],
+  "learnings": [
+    "Questions train teams to be curious and clever better than spoon-fed answers",
+    "Visualizing success (party drawing) shifts mindset from fear/doubt to certainty/confidence",
+    "Working backwards from failure uncovers risks better than asking directly",
+    "Clarity on what success looks like (floor vs stretch goals) reduces ambiguity",
+    "Identifying your anti-goals (what you don't want) is as important as goals",
+    "Delegating energy-draining work to people who enjoy it multiplies team output",
+    "Peer groups with shared goals create accountability and tactical learning"
+  ],
+  "banger_quotes": [
+    {"who": "Shaan", "quote": "Clarity is power - people go into things without being clear what they're doing"},
+    {"who": "Shaan", "quote": "Great ideas come in the shower because your brain can relax and connect dots"},
+    {"who": "Shaan", "quote": "Identify your anti-goals: what success looks like that you DON'T want"},
+    {"who": "Shaan", "quote": "What's red for you might be green for them - delegation by energy alignment"}
+  ],
+  "numbers_dropped": [
+    "9 unorthodox management tips total",
+    "Magic number for F-Marry-Kill game: 3 (or 3,000 if company is larger)",
+    "Peer groups: 5 people, once-monthly 3-hour calls",
+    "Calendar audit: use 3 highlighters (green, red, yellow)"
+  ],
+  "topics": ["management", "leadership", "frameworks", "team-building", "goal-setting", "delegation"],
+  "sponsor_read_count": 0,
+  "notable": "Solo Shaan episode with no guest. Teaching-heavy format. 9 discrete management frameworks presented as unorthodox alternatives to conventional wisdom. Emphasis on curiosity-building, risk-surfacing, and energy-alignment in teams."
+}

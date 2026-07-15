@@ -1,0 +1,82 @@
+{
+ "hosts": [
+  "Sam",
+  "Shaan"
+ ],
+ "guest": "Three entrepreneurs: Alex (Haven Lifestyles), Brian (Autopilot), Josh (outdoor business)",
+ "approx_date": "June 2026",
+ "format": "mixed",
+ "business_ideas": [
+  {
+   "idea": "Real estate listing lookbooks mailed by income/property value to 40 US/Canada zones.",
+   "who": "Guest",
+   "conviction": "building it"
+  },
+  {
+   "idea": "Autopilot service replicating hedge fund and institutional investor portfolios in real-time.",
+   "who": "Guest",
+   "conviction": "building it"
+  },
+  {
+   "idea": "Outdoor/stunt business with viral growth potential through VC funding.",
+   "who": "Guest",
+   "conviction": "building it"
+  }
+ ],
+ "predictions": [
+  {
+   "who": "Guest",
+   "text": "We will hit $100 million revenue by March next year."
+  },
+  {
+   "who": "Shaan",
+   "text": "Small 5-million dollar businesses are equally awesome as billion-dollar companies."
+  }
+ ],
+ "disagreements": null,
+ "dynamics": "Sam and Shaan showcase three outsider businesses to demonstrate abundance of opportunity. Each founder leads with revenue number, then hosts probe on growth, adjacent opportunities, and how to help. Conversational, discovery-focused; Shaan reflects on mindset shift from scarcity to abundance.",
+ "frameworks": [
+  "Start with a number, then explain business model to avoid vagueness",
+  "Adjacent opportunity analysis - see niches from market position",
+  "Root for everybody mindset - you never lose when supporting others",
+  "Lifestyle business vs VC-scale startup trade-offs"
+ ],
+ "learnings": [
+  "Niches most people ignore can generate $10-30M revenue without hype",
+  "Real estate agent magazines work because agents need proof of advertising reach",
+  "0 to 1 million is harder than 1 to 30 million in revenue",
+  "Abundance mindset unlocks pattern-matching across unrelated domains",
+  "High-touch sales (door-to-door) still works for boring B2B products"
+ ],
+ "banger_quotes": [
+  {
+   "who": "Guest",
+   "quote": "I started as a bill collector calling for money, great sales training."
+  },
+  {
+   "who": "Guest",
+   "quote": "Getting from 0 to 1 million was the hardest thing I ever did."
+  },
+  {
+   "who": "Shaan",
+   "quote": "Opportunity is abundant. It's about picking what fits you."
+  }
+ ],
+ "numbers_dropped": [
+  "Haven Lifestyles: $10 million revenue, $2.5M profit, 10 years",
+  "Haven first year revenue: $300K",
+  "Autopilot: $30 million revenue, 70M run rate, heading to $100M",
+  "Autopilot first round valuation: $7 million (2021)",
+  "40 publications covering all US and Canada",
+  "100-200 pages per magazine"
+ ],
+ "topics": [
+  "niche-markets",
+  "abundance-mindset",
+  "saas",
+  "real-estate",
+  "investing"
+ ],
+ "sponsor_read_count": 8,
+ "notable": "Shaan emphasizes learning from everyone and stealing good traits without copying whole lifestyle."
+}

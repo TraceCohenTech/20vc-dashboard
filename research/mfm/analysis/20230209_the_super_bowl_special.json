@@ -1,0 +1,101 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Feb 2023",
+  "format": "mixed",
+  "business_ideas": [
+    {
+      "idea": "Giant American flag rental business for sporting events with airflow-engineered design",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Branded player touchdown celebration ads by paying fines for sponsored integrations",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Tacos for Tails: free tacos given away based on coin flip result",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Luxury car service transporting players to stadium in high-fashion presentation",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Mr Beast as guest CMO producing alternative Super Bowl marketing video",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Will it or won't it tension-based ads with live YouTube streaming reveal",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Crab race gambling concept: numbered hermit crabs with bar betting system",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "NFL has successfully associated itself with patriotism and military through flag/anthem imagery"
+    },
+    {
+      "who": "Shaan",
+      "text": "Branded touchdown celebrations could go viral if executed with famous players"
+    }
+  ],
+  "disagreements": null,
+  "dynamics": "Sam and Shaan riff collaboratively on Super Bowl marketing and ownership topics. Sam drives with deep research into NFL ownership histories. Shaan leads the creative CMO ideation segment. High energy banter with tangential storytelling. Format emphasizes education through specific case studies then creative brainstorming.",
+  "frameworks": [
+    "Military-flag association: institutional branding through patriotic imagery and symbols",
+    "Event arbitrage: leveraging existing military training flybys for dual-purpose marketing",
+    "Niche expertise: one-person operations dominating specific, underserved market segments",
+    "Native advertising: integrating brand moments into organic event celebrations",
+    "Conversion math: validating Super Bowl ads requires multi-year LTV analysis, not immediate ROI"
+  ],
+  "learnings": [
+    "Super Bowl ownership generates 15-20% annual returns over decades, not hockey-stick spikes",
+    "Small niche businesses like giant flags can generate $1M+ annually with minimal team and inventory",
+    "Native ad moments outperform paid ads because they're organic and unfiltered",
+    "Super Bowl direct response ads may triple app downloads but often break even on $6-7M spend",
+    "Long-term brand building via Super Bowl requires accepting hand-wavy ROI metrics beyond immediate conversions"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Sam",
+      "quote": "The NFL has draped itself in the flag and made sports patriotic."
+    },
+    {
+      "who": "Shaan",
+      "quote": "Money's just a way of keeping score."
+    },
+    {
+      "who": "Sam",
+      "quote": "If you know how rich you are, you aren't very rich."
+    },
+    {
+      "who": "Shaan",
+      "quote": "I think you gotta have drama and tension in an ad to make it work."
+    }
+  ],
+  "numbers_dropped": [
+    "H.L. Hunt paid $25K for Chiefs, now worth $2-3B (15-20% annual appreciation)",
+    "Eagles owner bought team for $185M, now worth $2-3B",
+    "NFL/military receive co-benefits: $80-400K per flyover training cost",
+    "Super Bowl ad cost: $6-7M for 30 seconds plus production",
+    "Coinbase Super Bowl ad: 20M site visits in one minute, 287% app download increase",
+    "50 Star Productions: ~$1M annual revenue with 2 employees, $7K per flag rental",
+    "Super Bowl ad load: 40-50 minutes of ads in 60 minutes of game time",
+    "Average Super Bowl viewership: 100M+ viewers",
+    "Coinbase estimated LTV per user: $45/year"
+  ],
+  "topics": ["super-bowl", "sports-marketing", "business-history", "creative-marketing", "niche-business", "founder-advice"],
+  "sponsor_read_count": 2,
+  "notable": "Heavy focus on NFL ownership histories and how seemingly boring niche businesses generate significant revenue; Disney's I'm Going to Disney World strategy is a masterclass in paid integration turned organic moment."
+}

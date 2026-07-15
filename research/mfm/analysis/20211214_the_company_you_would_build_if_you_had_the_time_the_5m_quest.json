@@ -1,0 +1,63 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Dec 2021",
+  "format": "mixed",
+  "business_ideas": [
+    {"idea": "Platform to employ stay-at-home moms seeking flexible income", "who": "Shaan", "conviction": "serious"},
+    {"idea": "YouTube family/children's content production studio", "who": "Shaan", "conviction": "throwaway"},
+    {"idea": "Create Hamilton-style theatrical production for comedians (cultural variants)", "who": "Shaan", "conviction": "says he might build it"},
+    {"idea": "Y Combinator-style accelerator for content creators", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Blockchain-based reference checking network for hiring", "who": "Guest", "conviction": "throwaway"},
+    {"idea": "Platform to become largest employer of high school students in US", "who": "Guest", "conviction": "throwaway"},
+    {"idea": "VR therapy and exposure simulation tools", "who": "Guest", "conviction": "throwaway"},
+    {"idea": "Desert terraformation and reforestation business", "who": "Guest", "conviction": "throwaway"},
+    {"idea": "Drone-based wildfire fighting system", "who": "Guest", "conviction": "throwaway"},
+    {"idea": "Gift delivery service to business partners in China/East Asia", "who": "Shaan", "conviction": "serious"},
+    {"idea": "FUDware: EMF-protective clothing and tech accessories", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Laptop cooling pad + protective underwear brand", "who": "Shaan", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "Content is the best asset to own right now; streaming platforms will continue spending billions annually."},
+    {"who": "Shaan", "text": "Reese Witherspoon production company sale model will be replicated by other entertainers."},
+    {"who": "Shaan", "text": "FUDware (health/safety-anxiety products) will become a major consumer trend over next 3 years."}
+  ],
+  "disagreements": "Sam argues that the YouTube creator treadmill is not worth the life cost despite earning potential; Shaan agrees it's hard but sees the business model as solid if you diversify beyond personal brand. They both acknowledge tradeoffs but differ on whether the payoff justifies the grind.",
+  "dynamics": "Shaan drives structure and analyzes Twitter threads methodically; Sam riffs with personal stories and tangents. Mix of serious financial analysis (Hamilton revenue, South Park deal, UserTesting IPO) with playful banter. Both excited about Broadway/IP economics. High energy, lots of interruptions, clear mutual learning.",
+  "frameworks": [
+    "Who do you want to employ? — Work backward from workforce need to unlock billion-dollar businesses.",
+    "FUD (Fear, Uncertainty, Doubt) — Identify anxieties and create products that exploit them.",
+    "Diversify away from personal brand — Make creator content a production company, not a solo vlog."
+  ],
+  "learnings": [
+    "YouTube creator empires are vastly larger than public perceives—some channels have 27 billion cross-platform views.",
+    "YouTube success scales quickly if treated as a business (40-50 hrs/week), but has grueling personal costs.",
+    "Broadway/theatrical IP generates extraordinary returns: top shows $500M-$2B in lifetime ticket sales.",
+    "Best time ever to sell content—streaming platforms budgeting $6B+ annually on original content.",
+    "UserTesting.com proves employing underserved workers (stay-at-home moms, military spouses) creates both scale and culture fit.",
+    "VR training for athletes and professionals delivers real value before mainstream consumer adoption.",
+    "Health-anxiety products (blue blockers, water filters, EMF protection) form a growing consumer category."
+  ],
+  "banger_quotes": [
+    {"who": "Shaan", "quote": "Anybody who figures out how to employ the stay-at-home mom workforce will make billions."},
+    {"who": "Shaan", "quote": "You upgrade software without damaging the hardware—that's the key to athlete training."},
+    {"who": "Sam", "quote": "She's competing in a pool of one—lawyer plus hot girl content is rare."},
+    {"who": "Shaan", "quote": "If you start anything, of course you work at it for a long time."}
+  ],
+  "numbers_dropped": [
+    "Rebecca Zamarolo: 10-12M YouTube subscribers across 7 channels, releasing 8+ videos/week",
+    "Darman (DarmanTV): 13.8M subscribers, 6.3 billion views, 100 employees in 3 years",
+    "27 billion cross-platform views across Darman's content",
+    "Hamilton: $1B+ lifetime ticket sales",
+    "Lion King: $2B+ gross",
+    "Book of Mormon: $500M gross, $19M/month when launched",
+    "South Park: $900M deal (6 years with Viacom CBS)",
+    "Netflix/Amazon: $6B/year on content production",
+    "Reese Witherspoon production company: sold for $1B",
+    "Rob Dyrdek production company: sold for $200M (personal take $100M)",
+    "UserTesting IPO: Shaan's mom made $150,000 on early shares"
+  ],
+  "topics": ["entrepreneurship", "youtube", "creator-economy", "production", "broadway", "hiring", "content", "business-ideas"],
+  "sponsor_read_count": 1,
+  "notable": null
+}

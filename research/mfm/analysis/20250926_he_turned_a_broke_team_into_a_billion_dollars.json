@@ -1,0 +1,63 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Sep 2025",
+  "format": "story-breakdown",
+  "business_ideas": [
+    {"idea": "Entertainment-first minor league baseball team with flat-rate fan pricing and showmanship", "who": "Shaan", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "Savannah Bananas will sustain long-term like Harlem Globetrotters touring format, not one-time phenomenon"}
+  ],
+  "disagreements": null,
+  "dynamics": "Shaan narrates Jesse Cole's entrepreneurial origin story with deep analysis; Sam contextualizes with frameworks (Steve Jobs insanely great, unreasonable hospitality, Monster Jam comparisons). Unified high energy and genuine awe throughout. Episodic tangents but focused enthusiasm.",
+  "frameworks": [
+    "Insanely great - obsessive attention to small details nobody sees creates emotional impact",
+    "Idea muscle - generating 10+ ideas daily strengthens creativity through repetition",
+    "Unreasonable hospitality - systematically exceeding expectations creates memorable differentiation",
+    "Strategy others disagree with - true competitive advantage requires doing things competitors wouldn't",
+    "Banana Ball format - entertainment-optimized sports with custom rules prioritizing pacing and family experience"
+  ],
+  "learnings": [
+    "Obsessing over fan data (security footage, retention curves, seating engagement) reveals where customers disengage and drives business scale",
+    "Hire people who are down to execute unproven ideas with limited evidence, not people who critique every decision",
+    "Invest scarce resources in brand identity first (paid $12k logo while living on $40/week) to signal values and build narrative",
+    "Differentiation requires doing things competitors call inefficient or would fundamentally disagree with",
+    "Generate lots of ideas daily (10-40+) to train your brain through repetition to produce better ideas",
+    "Live experiences satisfy primal human needs that digital entertainment cannot replicate, making them AI-proof",
+    "Your team's culture amplifies or censors your fragile ideas - hire for willingness to try rather than risk-filtering"
+  ],
+  "banger_quotes": [
+    {"who": "Shaan", "quote": "I literally wrote in all caps this guy deserves a billion dollars"},
+    {"who": "Sam", "quote": "When you get big you'll worry about that stuff. It's the other way around"},
+    {"who": "Shaan", "quote": "It's the insane part that's the part nobody wants to do"},
+    {"who": "Sam", "quote": "If you just do expected norms it's table stakes, you get zero credit"}
+  ],
+  "numbers_dropped": [
+    "3 million person waiting list for tickets",
+    "$70-100 million estimated annual revenue",
+    "2 million fans attended last year (up from 500K, then 1M progression)",
+    "~$1 billion valuation estimate",
+    "20-30 million dollars per year in merchandise sales",
+    "$25 base ticket price",
+    "$20,000 annual stadium lease",
+    "200 fans per game original team (Gastonia Grizzlies)",
+    "$268 in checking account (original team)",
+    "$12,000 logo design fee",
+    "$40 per week living expenses during building phase",
+    "$18 million revenue (The Hustle at sale)",
+    "$35 million stadium demand (declined by city)",
+    "4 million tickets per year (Monster Jam)",
+    "$3-4 billion net worth (Kenneth Feld/Feld Entertainment)"
+  ],
+  "topics": [
+    "baseball",
+    "entrepreneurship",
+    "entertainment",
+    "brand-building",
+    "fan-experience",
+    "showmanship"
+  ],
+  "sponsor_read_count": 3,
+  "notable": "Episode designated 'Billy of the Week' with unusual emotional intensity - Shaan says 'I pray this makes it to them' about Jesse Cole. Hosts explicitly request help getting Jesse Cole as future guest. Ends with Spotify growth test asking listeners to comment to trigger ranking boost."
+}

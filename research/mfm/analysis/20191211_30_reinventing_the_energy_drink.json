@@ -1,0 +1,105 @@
+{
+  "hosts": ["Sam Parr"],
+  "guest": "Aaron Hinde, founder of LifeAid energy drinks",
+  "approx_date": "Dec 2019",
+  "format": "guest-interview",
+  "business_ideas": [
+    {
+      "idea": "Party Pills: supplement packs (5HTP, milk thistle, B vitamins) for partygoers",
+      "who": "Aaron",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Raver Aid / Party Aid: supplement-loaded energy drink for rave/party scene",
+      "who": "Aaron",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Golf Raid: energy drink targeting golfers (consumed at tee-off and turn)",
+      "who": "Aaron",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Fit Aid: recovery drink for CrossFit and fitness communities",
+      "who": "Aaron",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Focus Aid: nootropics-based drink for cognitive health",
+      "who": "Aaron",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Immunity Aid: immune-system support drink for frequent travelers",
+      "who": "Aaron",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Aaron",
+      "text": "LifeAid will reach $250M in sales to break $1B valuation; continued execution needed"
+    },
+    {
+      "who": "Aaron",
+      "text": "Big beverage companies (Nestle, Red Bull) will continue acquiring/investing in healthier brands"
+    }
+  ],
+  "disagreements": null,
+  "dynamics": "Sam asks probing questions about struggles, early days, scaling. Aaron tells narrative arc from financial desperation (mac and cheese on $400 sqft trailer) to $35M revenue. Deep emphasis on personal values (off-grid living, clean ingredients) driving product philosophy. Collaborative tone; Sam and Aaron aligned on health mission. Energy high throughout.",
+  "frameworks": [
+    "Reciprocity marketing: handwritten thank you note + gift certificate ($100 Roofers gift card) reversed a 'no' from can manufacturer into partnership",
+    "Community-first approach: focus obsessively on one community (CrossFit) over trying to serve everyone simultaneously",
+    "Lead indicator mastery: repurchase rate and velocity trump absolute revenue (16 cases/month better predictor than $700K golf revenue)",
+    "Founder-product alignment: Aaron lives off-grid, uses nootropics → Fit Aid users trusted the authenticity",
+    "Direct-to-consumer playbook: sample in context (gyms, golf courses) + direct mail + free refrigerator offer >> grocery store shelf"
+  ],
+  "learnings": [
+    "99% of beverage startups fail within 5 years; 95% fail in year one; ignorance of industry standards was an advantage, not a liability",
+    "Saying no to a supplier then showing genuine reciprocity/respect flipped rejection into partnership",
+    "Founder must be willing to make things that others say are impossible (no artificial sweeteners in high-octane drink); iterate until solved",
+    "Revenue growth from golf ($700K) to fitness ($4M in 1 year) came from choosing the community with better adoption metrics, not vanity revenue",
+    "Customer service team built before sales team; understanding user problems in-depth drives retention",
+    "Living in a 400 sqft trailer off-grid while bootstrapping builds founder credibility in community and resolves founder's own needs (real distribution of product)",
+    "Hiring wrong people out of desperation kills culture faster than staying small; resisting premature scaling is key",
+    "Once you have success + reputation, wealth accelerates through advisory roles and portfolio investing, not just operating"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Aaron",
+      "quote": "99% failure rate in beverages in the first five years."
+    },
+    {
+      "who": "Aaron",
+      "quote": "If you want to raise money, build a great company. People want to give you money."
+    },
+    {
+      "who": "Aaron",
+      "quote": "Execute on key metrics and all doors remain open."
+    },
+    {
+      "who": "Aaron",
+      "quote": "It takes a hundred things aligning to have success. One thing can completely sink you."
+    },
+    {
+      "who": "Aaron",
+      "quote": "Food and beverage poisoned people with sugar and artificial ingredients for 100 years."
+    }
+  ],
+  "numbers_dropped": [
+    "LifeAid current revenue: $35M annually",
+    "LifeAid path to $1B valuation: $250M in sales needed",
+    "Golf Raid revenue: $700K (early stage)",
+    "Growth trajectory: $700K to $4M in one year (after pivoting to CrossFit)",
+    "Early adoption: 8-16 cases/month per gym (vs. typical grocery store volume)",
+    "Direct mail results: month 1 = 12 new gym accounts, month 2 = 30, month 3 = 50, peak = 200/month",
+    "Revenue per gym: ~$2,500/year",
+    "Student loan debt paid off: $246,000 in one payment",
+    "Peak travel schedule: 52 flights per year",
+    "Consumer label readers: 65% of consumers now read labels before purchase",
+    "Minimum can order (industry standard): 204,000 units"
+  ],
+  "topics": ["cpg", "energy-drinks", "beverage-industry", "d2c", "crossfit", "direct-marketing", "health", "entrepreneurship"],
+  "sponsor_read_count": 1,
+  "notable": "Aaron's off-grid lifestyle and personal health practices are inseparable from product strategy; he's not selling health, he's living it. The reciprocity play with the can manufacturer (thank you card + Roofers gift) is unusually specific. Striking decision: pivoted from golf product ($700K) to fitness (smaller revenue) because adoption velocity and repeat purchase signals were superior—choosing leading indicators over trailing revenue metrics."
+}

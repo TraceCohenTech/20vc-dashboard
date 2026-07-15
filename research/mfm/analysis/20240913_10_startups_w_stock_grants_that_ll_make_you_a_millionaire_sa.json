@@ -1,0 +1,61 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Sep 2024",
+  "format": "frameworks/advice",
+  "business_ideas": [
+    {"idea": "Join Airbnb as employee with stock grants; obvious winner at $20B+ valuation", "who": "Sam", "conviction": "serious"},
+    {"idea": "Work at OpenAI competing with Google, fastest-growing company ever", "who": "Sam", "conviction": "serious"},
+    {"idea": "Join Retool for admin panel SaaS, 50-60% of enterprise software is internal-facing", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Work at Mercury neo-bank for startups, replacing SVB position", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Cursor IDE with AI, AI-assisted programmer tool competing with GitHub Copilot", "who": "Shaan", "conviction": "throwaway"},
+    {"idea": "Epirus defense company building EMP weapons to disable drones without bombs", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "Wiz cybersecurity for enterprise cloud, $350M ARR in 3 years", "who": "Sam", "conviction": "serious"},
+    {"idea": "Perplexity AI search engine competing with Google via better accuracy", "who": "Sam", "conviction": "serious"},
+    {"idea": "Neuralink brain-computer interface for paralyzed patients using brain-to-computer", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Replit cloud-based IDE for 20M developers globally in 175 countries", "who": "Sam", "conviction": "serious"},
+    {"idea": "Trava industrial worker staffing software for manufacturers", "who": "Shaan", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "Sarah's list companies offer better risk-adjusted returns than founding or angel investing"},
+    {"who": "Sam", "text": "Replit with 20M developers and AI tailwind could 5x from $1B valuation"},
+    {"who": "Shaan", "text": "Wiz could become $30B+ company replacing Silicon Valley Bank's market position"}
+  ],
+  "disagreements": "Shaan skeptical of Cursor's PE multiples vs Sam who sees IDE potential; Shaan worried Neuralink 40hr requirement vs Sam who pitches it as relaxed opportunity; disagreement on whether high-growth startups are overpriced.",
+  "dynamics": "Sam drives framework discussion of stock-grant investing as vehicle to wealth. Shaan adds tactical company analysis and founder psychology insights. Mix of serious pitch + comedic riffs (eggs story, dancing). Sam shows slides; both engage in competitive back-and-forth on valuations and founder quality. High engagement with tangents about culture, hiring, and CEO personalities.",
+  "frameworks": [
+    "Sarah's List framework: join obvious winners post-product-market-fit with $200k stock package for low-risk 5x upside",
+    "Work as investment: treat job choice like VC investing your time and talent",
+    "Founder quality as differentiator: strong CEO correlates with startup success more than market size",
+    "The Gili Raanan model: leverage network effects and relationship capital for exponential growth",
+    "1% ambition + 1% work ethic = 1% outcomes (Trava's 996 culture)"
+  ],
+  "learnings": [
+    "Obvious winners hidden in plain sight beat secret stock tips; visible dominance more reliable than contrarian picks",
+    "Revenue inflection points matter more than valuation; companies burning billions show actual business model",
+    "Founder origin stories reveal founder quality; immigrant founders often show unique problem-solving lens",
+    "Company culture selection trades personal wellbeing for wealth; 996 culture attracts ambitious people willing to sacrifice",
+    "Neo-banks prove market need but regulatory moat makes competitive threat real; FDIC insurance becomes product feature"
+  ],
+  "banger_quotes": [
+    {"who": "Sam", "quote": "The best place to invest is in your P&L; invest in companies you wouldn't cancel."},
+    {"who": "Sam", "quote": "Perplexity is when you need the answer to be right. ChatGPT is when accuracy doesn't matter."},
+    {"who": "Shaan", "quote": "These are the cream of the crop of founders. We're talking Olympic athletes here."},
+    {"who": "Sam", "quote": "Dream big. Be 1% in ambition, 1% in attitude, get 1% outcomes."}
+  ],
+  "numbers_dropped": [
+    "Airbnb: $20B+ valuation when Sarah joined, 1000+ employees",
+    "OpenAI: $103B valuation, $3.5B annual revenue, reached 100M users in 2-3 months",
+    "Retool: $3.7B valuation, $100M ARR in 2024 (from $500K first 9 months)",
+    "Mercury: $1.6B valuation, profitable, replacing $34B SVB position",
+    "Cursor: $400-450M valuation, $10M revenue run rate",
+    "Wiz: $12B valuation, $350M ARR in 3 years, $2B+ raised in single round",
+    "Perplexity: $3B valuation, $415M raised",
+    "Trava: ~$200M valuation, 5x YoY growth, 996 culture",
+    "Replit: $1B valuation 3 years ago, now 20M developers (was 5M), scaling revenue",
+    "Stock package size: $200k over 4-5 years typical, 50k/year equity portion"
+  ],
+  "topics": ["startups", "equity", "stock-grants", "founders", "culture", "ai"],
+  "sponsor_read_count": 2,
+  "notable": "2021 picks mostly underperformed (2 hits, 3-5 downs, pushes); 2024 picks betting market has corrected; Wiz story about Israeli intelligence mafia and CISO kickback model is dark/fascinating subplot about how business actually gets built"
+}

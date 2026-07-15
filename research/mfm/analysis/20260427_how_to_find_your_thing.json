@@ -1,0 +1,64 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Apr 2026",
+  "format": "frameworks/advice",
+  "business_ideas": [],
+  "predictions": [
+    {"who": "Sam/Shaan", "text": "Demand for finding true calling will increase as 70% of people dislike how they spend their days"}
+  ],
+  "disagreements": "Sam argues passion doesn't need to be your career/job (can be hobby); Shaan counters that 50% of waking life is work so you should find work you love. They reconcile by agreeing the goal is finding ANY 'loop' you love, whether as founder, employee, or hobbyist.",
+  "dynamics": "Hosts-only philosophical co-discussion. Sam and Shaan debate ideas about finding your calling, challenge each other respectfully, and share personal stories. Energy is exploratory and thoughtful with equal contribution from both. Tone is more introspective than usual interview format.",
+  "frameworks": [
+    "Bliss vs Passion: follow bliss (enthusiasm) not passion (suffering); Joseph Campbell originally said 'follow your blisters'",
+    "Enthusiasm as motor and rudder: enthusiasm both propels (motor) and guides direction (rudder) toward frontier—Paul Graham",
+    "Loop framework: repeatable cycle you do in a job (healer, founder, farmer, creator, salesman, etc.)",
+    "Sales motion prioritization: choose growth mechanism you love (content, ads, enterprise sales, SEO) over industry",
+    "Frontier discovery: reaching knowledge frontier in a field via enthusiasm reveals gaps = business opportunities",
+    "Blister evidence: willingly enduring pain is proof you're actually drawn to something (not just intellectually interested)",
+    "Art of noticing: recognize your own patterns and ask others to observe them for you (parents, partners often spot it first)",
+    "Denominator control first: establish 6-12mo financial security before pursuing passion (lack of money = unhappiness)",
+    "Internal vs external scorecard: comparison kills passion; must develop self-referenced success metrics",
+    "Three regrets framework: live true to self (not others' expectations), express feelings, maintain friendships, choose happiness"
+  ],
+  "learnings": [
+    "90%+ of people don't know their passion; uncertainty is normal, not disqualifying",
+    "Passion/bliss doesn't mean instant happiness; it means willingness to endure difficulty for something you're genuinely pulled toward",
+    "Actual time allocation in jobs: product ~15%, growth/sales ~50%, team/management ~35%; most time spent on growth mechanics",
+    "Industry/product choice matters far less than growth mechanism choice since that's where time is actually spent",
+    "Mastery creates passion as byproduct, not the reverse: enduring enthusiasm → 10K hours → mastery → passion satisfaction",
+    "Frontier observation creates business opportunity: when you reach expertise in a field, you spot gaps others miss (testosterone, Ozempic)",
+    "Comparison/jealousy instantly kills enthusiasm: Zillow-scrolling or seeing $18M apartments creates 'I need more' feeling",
+    "Happiness is a choice, not a destination: most dying regret living for others' expectations rather than their own path",
+    "Finding 'loop you love' is more important than entrepreneurship; same loops available in jobs, roles, hobbies",
+    "Financial security is prerequisite not luxury: lack of money creates unhappiness regardless of passion pursuit success",
+    "Historical context: work-week/weekend invented 1930s; peak leisure 1950-1970; now people work harder than ever despite valuing passion",
+    "Others can often spot your pattern before you do: parent, partner, or mentor observing you repeatedly reveals true inclination"
+  ],
+  "banger_quotes": [
+    {"who": "Joseph Campbell", "quote": "Don't follow your passion, follow your bliss."},
+    {"who": "Joseph Campbell", "quote": "I wish I had said follow your blisters instead."},
+    {"who": "Shaan", "quote": "Passion comes from the word suffering—Passion of Christ."},
+    {"who": "Paul Graham", "quote": "Let enthusiasm be motor and rudder of your boat."},
+    {"who": "Isaac French", "quote": "Light yourself on fire and people will come miles to watch you burn."},
+    {"who": "Sam", "quote": "Comparison is the thief of joy."},
+    {"who": "Shaan", "quote": "Find the loop that you love."}
+  ],
+  "numbers_dropped": [
+    "90%+ of people don't know their passion",
+    "70% of people dislike how they spend their days (Bill Gurley)",
+    "50% of waking life spent on work (20-65 age, 8 hrs/day)",
+    "Working age span: 45 years (20-65)",
+    "Paul Graham essay 'How to Do Great Work': ~2 days to read",
+    "Joseph Campbell studied indigenous tribes/myths obsessively as teen",
+    "Top 5 Regrets of the Dying: surveyed thousands at hospice",
+    "Weekend/work-week instituted: 1930s by Henry Ford",
+    "Peak leisure era: 1950-1970 post-WWII",
+    "GI Bill enabled college access for WWII vets",
+    "Friend's 'braces money': $30K savings for sailing, redirected to kids' needs",
+    "$18M penthouse apartment example (comparison trap)"
+  ],
+  "topics": ["career-finding", "passion-vs-enthusiasm", "personal-development", "calling", "work-satisfaction", "philosophy", "life-regrets", "financial-security"],
+  "sponsor_read_count": 1,
+  "notable": "Hosts-only episode (no guest). Philosophical discussion about finding your calling, primarily using Joseph Campbell ('follow your blisters'), Paul Graham ('enthusiasm as motor and rudder'), and research (Top 5 Regrets of the Dying). Sam and Shaan debate whether passion should be your career vs hobby; reconcile on importance of finding 'loop you love' regardless of context. Tone is unusually introspective for MFM."
+}

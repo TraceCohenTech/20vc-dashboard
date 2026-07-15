@@ -1,0 +1,64 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Dec 2021",
+  "format": "mixed",
+  "business_ideas": [
+    {"idea": "OpenSea: NFT marketplace for digital collectibles", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "Remote work lifestyle platforms (nomadlist, remoteok, other digital products)", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "Microacquire: marketplace to buy/sell profitable SaaS businesses", "who": "Shaan", "conviction": "throwaway"},
+    {"idea": "Private jet photo studio (fake interior for influencer Instagram photos)", "who": "Shaan", "conviction": "throwaway"},
+    {"idea": "American Striping: parking lot and road line painting business", "who": "Shaan", "conviction": "throwaway"},
+    {"idea": "At-home diagnostic testing kits and services", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "Buyer.com: negotiation-as-a-service platform (sold to Ramp)", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Luna/Terra: stable coin infrastructure for crypto payments", "who": "Shaan", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "San Francisco will bounce back and remain tech center for decades."},
+    {"who": "Shaan", "text": "Global salary arbitrage will democratize work; US tech salaries will decline."},
+    {"who": "Shaan", "text": "Winklevoss twins end up wealthier than Zuckerberg through Bitcoin and Gemini exchange."},
+    {"who": "Sam", "text": "At-home diagnostics industry will continue to boom significantly."},
+    {"who": "Shaan", "text": "VR will continue rapid growth despite mainstream skepticism and discomfort issues."}
+  ],
+  "disagreements": "Shaan believes high salary inflation will reverse as companies discover offshore talent; Sam thinks this won't happen in 2022. Shaan bullish on crypto/Luna; others (particularly around NFTs/digital art value bets) express skepticism about crypto sustainability.",
+  "dynamics": "This is the annual 'Milly Awards' ceremony where hosts rate companies, people, and trends across categories. Rapid-fire discussion of dozens of businesses with quick reactions and scoring. Sam often brings playful skepticism; Shaan goes deep on financials and numbers. High energy, competitive tone as hosts try to pick original winners vs. obvious ones. Lots of tangential stories (Nick Huber mattress, etc.).",
+  "frameworks": [
+    "Bet on yourself — Elon's Tesla compensation tied to stock milestones; true conviction aligns personal incentives.",
+    "Seek unsexy, profitable businesses — Line painting, vending machines, negotiation services outperform hype-driven startups.",
+    "Who do you employ? — Target underserved workforces (stay-at-home moms, ex-cons, military spouses) for culture + scale.",
+    "Global talent arbitrage — Offshore talent (India/Philippines) at 1/5-1/6 cost with higher motivation and skill."
+  ],
+  "learnings": [
+    "NFT market is real ($15B OpenSea GMV in 2021 vs $24M in 2020) but technology is half-baked; protocols will change.",
+    "One-person profitable internet businesses can scale to $5M revenue (Peter Levels); bootstrapped models rival VC-backed.",
+    "Unsexy businesses (line painting, private jet studios, vending machines) deliver 60-80% profit margins.",
+    "The best guests listen to the podcast first and come as genuine conversation partners, not cold interviewees.",
+    "Stable coins are the next frontier in crypto adoption; Luna moving beyond speculation to real-world usage (Korea, Mongolia).",
+    "VR adoption (Oculus 10M units, 6 games $10M+) continues despite consumer discomfort; Apple will likely dominate.",
+    "SPAC sponsors extract value regardless of outcome (20% dilution for 2% initial investment); bad risk/reward for regular investors."
+  ],
+  "banger_quotes": [
+    {"who": "Shaan", "quote": "If you can actually crack the stable coin use case, you have trillion-dollar opportunity."},
+    {"who": "Sam", "quote": "You can win the game any way—rockets to Mars or white line painting."},
+    {"who": "Shaan", "quote": "The Winklevii end up richer than Zuck—they own 1% of all Bitcoin."},
+    {"who": "Sam", "quote": "Sleep and exercise are the cure to most every problem."}
+  ],
+  "numbers_dropped": [
+    "OpenSea: $24M GMV (2020) → $15B GMV (2021) = 650x growth",
+    "Peter Levels' businesses: $400K (yr1) → $7M (yr2) → $15M+ (yr3)",
+    "Darman (YouTuber): 13.8M subscribers, 100 employees, 27B cross-platform views",
+    "Anthony von Mandel (Mark Anthony Group): $8B net worth, Mike's Hard Lemonade + White Claw = $4B revenue 2020",
+    "Vitalik Buterin: $1-2B net worth; donated $1B Shiba token to India COVID relief",
+    "Oculus: 10M units sold (~$4B hardware), outsold Xbox",
+    "PlayStation: 14M units",
+    "Crocs stock: $10/share (Mar 2020) → $130/share (13x in 1 year)",
+    "OnlyFans: 250M monthly visitors",
+    "SPAC trend: $45B (10 years) → $80B (2020) → $160B (2021)",
+    "Chamath SPACs: down 30% YTD vs S&P 500 up 30%",
+    "Luna token: $1 (start of 2021) → $100 (end of 2021) = 100x",
+    "Meet Kevin YouTube portfolio: $51M, making $30M/year with 4 employees"
+  ],
+  "topics": ["entrepreneurship", "business-awards", "startups", "crypto", "nfts", "production", "unsexy-business", "predictions"],
+  "sponsor_read_count": 0,
+  "notable": "Annual awards show format with previous year's predictions reviewed; discovers many 2020 predictions came true (OnlyFans subscription model, COVID recovery), others missed (SF recovery, NFT sustainability). First appearance of Buyer.com business, which sold to Ramp 6 months after founding."
+}

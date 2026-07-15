@@ -1,0 +1,26 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Steven (Mr. 312), Co-Founder and CEO of Cameo",
+  "approx_date": "Oct 2019",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "Marketplace for personalized video messages from celebrities (Cameo)", "who": "Steven", "conviction": "serious"},
+    {"idea": "Two-way asynchronous conversations between celebrities and fans (future vision)", "who": "Steven", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Steven", "text": "Personalized video from celebrities will eventually rival in-person meet-and-greets in value"},
+    {"who": "Steven", "text": "Creator economy platforms expand beyond written content to video and immersive experiences"}
+  ],
+  "disagreements": null,
+  "dynamics": "Steven leads with marketplace insights; Sam probes storytelling angles. Collaborative energy building narrative arc from idea to launch. Steven emphasizes marketplace dynamics, chicken-and-egg problem solving.",
+  "frameworks": ["Marketplace flywheel (talent begets demand, demand begets more talent)", "Authentic over polished creative (raw smartphone video > professional production)", "Long-tail talent penetration (capture rising creators, not just established celebrities)"],
+  "learnings": ["Marketplace launches require overcoming chicken-and-egg by recruiting supply through warm networks first", "Celebrity willingness to participate depends on ease (7-day turnaround, simple interface)", "Fan reaction videos become powerful marketing asset and proof of value"],
+  "banger_quotes": [
+    {"who": "Steven", "quote": "Selfies are the new autograph"},
+    {"who": "Steven", "quote": "This father filmed his daughter's response it was the moment we knew"}
+  ],
+  "numbers_dropped": ["300M valuation reported at time of episode", "50M raised", "Average video $55", "20,000 talent on platform by episode time"],
+  "topics": ["marketplace", "celebrities", "creator-economy", "video", "cameo"],
+  "sponsor_read_count": 0,
+  "notable": "Cassius Marsh (NFL player) was first talent; early pivot from multiple experience types (in-person, basketball games) to focused video offering; launched at Duke fraternity as startup."
+}

@@ -1,0 +1,109 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Apr 2023",
+  "format": "mixed",
+  "business_ideas": [
+    {
+      "idea": "AutoGPT/Baby AGI: AI agents that break down and execute multi-step tasks autonomously",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Magic to-do list: AI agent that not just tracks but actually completes your tasks",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Tax GPT: AI service that completes tax filings and optimization automatically",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Hustle GPT: profitable niche affiliate website (greengadgetguru.com) built by AI",
+      "who": "Guest (Jackson Hall)",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Podcast kayfabe: selling fake podcast aesthetic (mics, production value) for TikTok clout",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Figure Robotics: humanoid robots doing warehouse fulfillment work on revenue-share model",
+      "who": "Guest (Brett Adcock)",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Fake celebrity offer for sports team as viral marketing stunt and link bait",
+      "who": "Sam",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "To-do list app that actually executes tasks could reach multi-billion dollar valuation"
+    },
+    {
+      "who": "Sam",
+      "text": "AI agents will enable dozen new business categories that don't exist yet"
+    },
+    {
+      "who": "Brett Adcock",
+      "text": "Figure robotics either goes bankrupt or becomes trillion-dollar company"
+    }
+  ],
+  "disagreements": null,
+  "dynamics": "Sam and Shaan discuss AI developments, then interview Brett Adcock about robotics remotely. Shaan responds skeptically about AI capabilities and safety. They pivot to marketing/social trends (Kara Swisher feud, podcast kayfabe, TikTok comparison culture). High energy, rapid-fire segments with external interviews embedded.",
+  "frameworks": [
+    "AI capability doubling every 48 hours: narrow AI to agentic AI to multi-step task completion",
+    "Kayfabe in social media: fake authenticity (podcast mic, makeup routine) outperforms genuine content",
+    "TikTok comparison cascade: algorithm surfaces top 0.1% creating impossible standards",
+    "Viral offer strategy: absurd bids/promises generate media coverage, backlinks, audience awareness",
+    "Hardware constraints vs. software: physics-bound design is easier than infinite possibility space"
+  ],
+  "learnings": [
+    "AI agents that can chain tasks together represent leap from tool-assistance to autonomous execution",
+    "Fake podcast aesthetics signal expertise better than reality because perceived authenticity seems unmarketed",
+    "Social media creates comparison to global top 0.1% instead of local peer group, harming teen mental health",
+    "Robotics adoption happens faster when monetized through revenue-share rather than capital-intensive ownership",
+    "Viral marketing through absurd claims can outperform legitimate positioning on earned media"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Sam",
+      "quote": "Chat GPT doesn't just tell you the steps, now it can kind of do them."
+    },
+    {
+      "who": "Sam",
+      "quote": "A to-do list app that actually does your to-dos is next level, like billion-dollar level."
+    },
+    {
+      "who": "Brett Adcock",
+      "quote": "It's either going to go bankrupt or it'll be a trillion-dollar company."
+    },
+    {
+      "who": "Shaan",
+      "quote": "Now if I go on TikTok, it's the 'better than you' page."
+    },
+    {
+      "who": "Sam",
+      "quote": "For my future kids: instead of just Zack, there are a thousand perfect Zacks."
+    }
+  ],
+  "numbers_dropped": [
+    "ChatGPT: 100M+ users in 2 months, fastest growing product ever",
+    "ChatGPT search volume: 50x bigger than Web3, 10x bigger than Ethereum, more than Taylor Swift",
+    "Hustle GPT website: 500K views, $1,370 in revenue after one week",
+    "Hustle GPT valuation: $25K after raising $500 investment for 2% equity",
+    "Jackson Hall tweets: 20M views on Hustle GPT thread",
+    "Figure Robotics: 60 employees in 50,000 sq ft warehouse",
+    "Robot working hours: 20 hours per day at 30% of human labor cost",
+    "MFM YouTube subscribers: 200K (200K goal referenced, milestone)",
+    "Brian Davis NFL offer: $7B for Washington Commanders (fictitious)"
+  ],
+  "topics": ["ai", "auto-gpt", "chat-gpt", "robotics", "entrepreneurship", "social-media", "marketing", "kayfabe", "podcast-trends"],
+  "sponsor_read_count": 2,
+  "notable": "Heavy AI focus showing rapid progression from narrow to agentic AI; Brett Adcock robotics factory visit described in detail; major Kara Swisher kayfabe/feud storyline introduced; deep dive on TikTok-driven comparison culture and mental health impact."
+}

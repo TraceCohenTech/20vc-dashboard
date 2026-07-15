@@ -1,0 +1,56 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Henry Stafford, founder of Bark",
+  "approx_date": "Nov 2019",
+  "format": "guest-interview",
+  "business_ideas": [
+    {
+      "idea": "Bark Box: monthly subscription service delivering themed toys, treats for dogs",
+      "who": "Henry",
+      "conviction": "says he might build it"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Henry",
+      "text": "Space age coming, innovation will turn everything upside down in biology/microbiome"
+    }
+  ],
+  "disagreements": null,
+  "dynamics": "Henry drives the narrative with vivid storytelling about Bark's origin, while Sam and Shaan ask excellent follow-up questions. Energy is high and collaborative—no tension. Henry showcases systems-thinking approach to life; Shaan mirrors this by sharing his own framework mid-episode.",
+  "frameworks": [
+    "A+1 Framework: 8 life boxes (transact, invest, assist, learn, health, family, relationship, ego) plus a 9th meta-box for reflection",
+    "Serendipity engineering: systems-based approach to finding romantic partners via property mapping"
+  ],
+  "learnings": [
+    "Product success becomes obvious quickly if customers genuinely care, rather than through gradual adoption curves",
+    "You can be strategic about serendipity by engineering systems that increase odds of desired outcomes without over-constraining",
+    "The least compelling idea of the day can grow into a massive business if execution is disciplined",
+    "Rapid iteration and kill-criteria are more valuable than overthinking product launches"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Henry",
+      "quote": "It was kind of like the least shitty idea of the day."
+    },
+    {
+      "who": "Henry",
+      "quote": "One or two people in a bedroom have threats to giant companies because you have creativity and nothing to lose."
+    },
+    {
+      "who": "Shaan",
+      "quote": "Life is not about what you get. It's about who you become."
+    }
+  ],
+  "numbers_dropped": [
+    "Bark revenue ~$250 million annually",
+    "Bark Box subscription $22/month",
+    "150 celebrity dogs on payroll at peak",
+    "11 million followers on Bark brand page",
+    "$50 million seed round for Juice (Henry's prior startup)",
+    "70 first customers from cold pitch"
+  ],
+  "topics": ["subscription-boxes", "pet-products", "systems-thinking", "brand-building", "direct-to-consumer", "entrepreneurship"],
+  "sponsor_read_count": 0,
+  "notable": "Henry's systematic approach to finding a spouse via data-driven property matching is unusually analytical for a startup founder; Shaan shares his own life-optimization framework live on air, creating an impromptu dual-philosophy moment rare in guest interviews."
+}

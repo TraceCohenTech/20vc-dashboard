@@ -1,0 +1,45 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Dec 2024",
+  "format": "mixed",
+  "business_ideas": [],
+  "predictions": [],
+  "disagreements": "Shaan playfully attacks Sam's plan to commute two hours a day to a New York office as a terrible lifestyle decision; it's lighthearted ribbing rather than a real conflict, and Sam defends the choice as needing to be around people.",
+  "dynamics": "The fourth annual 'Milly Awards' two-host end-of-year format, structured around ~11 fixed categories (best/worst investment, biggest personal loss, coolest moment, life hack, Billy of the Year, frame-breaking person, best guest, best product, planned change for next year). No outside guest; energy is warm, reflective, and comedic, with long personal anecdotes (Elf on the Shelf chaos, private jets, Nick Gray stories) taking priority over business analysis.",
+  "frameworks": [
+    "Trading against the All-In Podcast: treat that show's confident consensus calls as a contrarian signal and bet the opposite",
+    "Highs and lows Slack channel: log every business high/low in one channel so recalling past extremes emotionally recalibrates your reaction to the current one (a practical version of stoic negative visualization)",
+    "Creative gym: deliberately practice an unrelated creative skill (music, painting) on a schedule, the way you'd work out physically, to boost overall creative energy",
+    "'What would make a better story/movie': use narrative quality as a tiebreaker decision heuristic at life forks"
+  ],
+  "learnings": [
+    "Buying on market panics and selling near euphoric highs (rather than the reverse) is a common, costly investor mistake that's much harder to avoid in the moment than in theory.",
+    "Fully-owned, actively-managed passion assets (like personally operated ranch real estate) tend to disappoint compared to passive investments in a trusted operator's existing platform.",
+    "The best moments of a year tend to come from doing something that benefits or is shared with other people, not from solo career milestones.",
+    "Spending unstructured time in successful people's actual homes/routines (not just interviewing them) reveals more about how they think and live than the interview itself.",
+    "A guest's low personal energy or an episode's low view count doesn't correlate with the quality or value of the content."
+  ],
+  "banger_quotes": [
+    {"who": "Sam", "quote": "If you can have fun watching the paint dry, you can be a great investor."},
+    {"who": "Shaan", "quote": "The best product is you pushed out."},
+    {"who": "Sam", "quote": "I've been trading against the All-In podcast for like two years now."},
+    {"who": "Shaan", "quote": "Do you know how many of them are rich people? None."}
+  ],
+  "numbers_dropped": [
+    "S&P 500 up 28% for the year",
+    "Sam's Facebook trade against Chamath's bearish take was up ~500% (5x)",
+    "Sam's Google trade after 'woke AI' criticism was up 41% year to date",
+    "Real estate co-investment with brother-in-law returning ~30-40%",
+    "Brooklyn building investment returned ~28% annually",
+    "Unity investment down ~60% versus Nvidia becoming the most valuable company in the world",
+    "Monish Pabrai YouTube episode hit ~2.5 million views, the show's first to cross 1 million",
+    "J from Ramp's episode got ~200,000 YouTube views / ~500,000 total downloads",
+    "Mark Zuckerberg's stock up ~500% in 24 months, gaining ~$100 billion in net worth, now third-richest person",
+    "Scott (Meetup.com founder) sold his ad company for ~$15 million and Meetup for hundreds of millions",
+    "Brian Johnson sold his company for $500 million"
+  ],
+  "topics": ["end-of-year awards episode", "personal investing lessons", "contrarian investing", "productivity rituals", "billionaire profiles", "frame-breaking people", "creative hobbies"],
+  "sponsor_read_count": 2,
+  "notable": "Fourth annual 'Milly Awards' special with no outside guest, built entirely around fixed award categories and personal anecdotes rather than business analysis; includes an extended riff on Elf on the Shelf as Sam's 'biggest L' of the year."
+}

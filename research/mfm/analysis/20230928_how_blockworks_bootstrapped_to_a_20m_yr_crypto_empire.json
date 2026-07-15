@@ -1,0 +1,90 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Jason Yanowitz, Co-founder Blockworks",
+  "approx_date": "Sep 2023",
+  "format": "guest-interview",
+  "business_ideas": [
+    {
+      "idea": "Blockworks: crypto media platform (podcasts, newsletters, reporters, conferences)",
+      "who": "Guest",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Blockworks Research: subscription analytics on crypto protocols (financials, governance, metrics)",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Better event ticketing platform for conferences (10x better than Eventbrite)",
+      "who": "Guest",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Hair transplant clinic/platform (consolidate shady market into trusted brand)",
+      "who": "Guest",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "Hair transplant market grows from $5B to $30B by 2031 (20% CAGR), consolidates like Lasik did"
+    },
+    {
+      "who": "Guest",
+      "text": "Crypto is best risk/reward allocation for next decade despite traditional markets remaining stable"
+    }
+  ],
+  "disagreements": "Sam skeptical of concentrated crypto portfolio; Guest defends high-conviction bet. Sam reads history as cyclical (long-term trends persist), Guest sees potential systemic breakdown. Sam thinks 90% of crypto/web3 is scam, Guest agrees but says remaining builders are serious.",
+  "dynamics": "Guest is intellectually curious, self-aware, shares personal stories transparently (MLM energy drink scheme). Both hosts push back on guest's 100% crypto bet; guest defends with philosophy of regret minimization. Collaborative tone; Sam/Shaan respect guest's conviction even when disagreeing.",
+  "frameworks": [
+    "Reverse-engineer markets: study successful businesses (Bloomberg, Politico Pro), build 10x better version for niche",
+    "Event consolidation wins: fewer, bigger conferences > many small ones (sponsorship budgets split vs consolidate)",
+    "Barbell risk strategy: safe liquid assets + high-risk private company equity, not double-high-risk",
+    "First-time founders iterate, not strategize: grand vision emerges after months of trying things",
+    "Multi-level marketing taught founder about grit, sales, and confidence despite ethical questions"
+  ],
+  "learnings": [
+    "Media businesses work backwards from monetization: monetize first (events/sponsorships), then add content layers (podcasts, research)",
+    "Crypto media has 10x better monetization than general interest media; research subscriptions outperform ads in downturns",
+    "Founding a company forces personal growth in ways employment cannot; fulfillment matters more than billionaire status",
+    "Conferences in cyclical markets are risky: must book venues 4-5 years out but can't predict market cycles (CoinDesk example)",
+    "Crypto attracts both real builders and hucksters; the industry's ideological strength attracts scammers but also genuine innovation"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Guest",
+      "quote": "No one ever got wealthy through diversification"
+    },
+    {
+      "who": "Guest",
+      "quote": "I want to only do things I want and things I have to do, not things I should do"
+    },
+    {
+      "who": "Guest",
+      "quote": "First-time founders don't have grand vision, just iterate day after day"
+    },
+    {
+      "who": "Sam",
+      "quote": "You can't have innovation without fraud; America's optimism creates both"
+    }
+  ],
+  "numbers_dropped": [
+    "Blockworks 2023 revenue: ~$25M (guest wouldn't confirm exact but said exceeded $20M goal)",
+    "Blockworks 2023 EBITDA: ~$8M (guest bootstrapped/profitable since day one)",
+    "2022: $25M revenue, $7M EBITDA",
+    "Series A (April/May 2023): raised $12M at $135M valuation from 10T Holdings, Framework Ventures, and Santiago",
+    "Blockworks team: 65 people, 60 at headquarters",
+    "Permissionless conference revenue: over $10M last year",
+    "Hair transplant market: $5B now, projected $30B by 2031 (20% CAGR)",
+    "Hoppin valuation peak: $7B; exit price: $15M",
+    "Hoppin founder secondary proceeds: $100M+ despite startup collapse",
+    "Politico Pro (research platform): ~$100M revenue before $1B sale",
+    "Bloomberg Terminal subscription: ~$9B revenue",
+    "Refinitive (capital markets data): sold for $27B",
+    "First Blockworks event (Feb 2018): 220 people, $12K revenue"
+  ],
+  "topics": ["crypto", "media", "blockworks", "blockchain", "conferences", "startups", "entrepreneurship", "multi-level marketing"],
+  "sponsor_read_count": 1,
+  "notable": "Guest very transparent about past involvement in MLM scheme (energy drink), uses as origin story for entrepreneurial confidence. Defends crypto conviction with regret minimization logic. Sean (co-host) ghosted guest via text before episode—guest called out on air humorously."
+}

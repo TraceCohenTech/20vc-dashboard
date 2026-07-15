@@ -1,0 +1,51 @@
+{
+  "hosts": ["Shaan Puri"],
+  "guest": "Sheel Mohnot, co-founder of a top-level-domain auction company and Better Tomorrow Ventures; also founded and sold The Pitch podcast to Gimlet",
+  "approx_date": "Oct 2019",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "An ascending-clock second-price auction platform to resolve contention for new top-level domains (.app, .blog, etc.) among competing bidders", "who": "Guest", "conviction": "serious"},
+    {"idea": "Replica Apple iPod-mini colored earbuds sourced cheaply from China and sold online to students", "who": "Guest", "conviction": "serious"},
+    {"idea": "Buying cheap multi-unit rental properties (Pittsburgh, Chicago, SF) for cashflow", "who": "Guest", "conviction": "serious"},
+    {"idea": "Options trading on public internet/travel companies using Google Trends data as an earnings-surprise signal", "who": "Guest", "conviction": "serious"},
+    {"idea": "Buying Uber ad-words traffic cheaper than the referral payout to arbitrage promo codes", "who": "Guest", "conviction": "throwaway"},
+    {"idea": "A new venture fund, Better Tomorrow Ventures, focused on fintech", "who": "Guest", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Guest", "text": ".app will become one of the biggest and most valuable new top-level domains."}
+  ],
+  "disagreements": null,
+  "dynamics": "Single host (Shaan Puri) drives with rapid, curious follow-up questions and injects his own parallel anecdote (a live bankruptcy-auction bidding war for the Bebo domain) to compare notes with the guest's expertise. Energy is high, fast-paced and playful, with mutual riffing on hacks and schemes; guest supplies most of the technical/business detail while host translates it for the audience.",
+  "frameworks": [
+    "Ascending clock second-price (Vickrey-style) auction: bidders drop out at their max price; winner pays just above the second-highest bid, incentivizing honest bidding",
+    "The Six/Seven Ts investing framework: Team, Technology (need), Total addressable market, Traction, Terms, totally random (like the people), and Faith"
+  ],
+  "learnings": [
+    "New top-level domains (.app, .blog, etc.) created a scarce asset class where multiple large companies (Google, Amazon, billionaires) had to bid against each other, creating demand for a neutral auction mechanism.",
+    "A well-designed auction (ascending clock, second-price) removes the incentive to bluff and tends to produce the fairest, not necessarily the highest, price.",
+    "Persistence and willingness to physically show up (attending global domain conferences, buttonholing a reluctant party by literally taking up smoking to bond with him) can unlock deals that cold outreach can't.",
+    "Entry valuation matters enormously for angel-investing returns — investing at a $5M cap versus a $12M cap for otherwise similar deals roughly halves the ultimate multiple.",
+    "A founder's unrelated bootstrapped business in an adjacent niche (import data) can be strong evidence of execution ability before the 'real' company has any traction.",
+    "Time spent living in genuine poverty/hardship (a year on $1/day doing microfinance work in India) reshaped how the guest thinks about impact investing and appreciation for privilege."
+  ],
+  "banger_quotes": [
+    {"who": "Guest", "quote": "I sold internet real estate to the tune of half a billion dollars worth."},
+    {"who": "Guest", "quote": "For the first time in my life, this is what I'm meant to be doing."},
+    {"who": "Guest", "quote": "Fucking choose adventure."},
+    {"who": "Host", "quote": "This looks like this is probably what they were pre-approved for."}
+  ],
+  "numbers_dropped": [
+    "Sold half a billion dollars worth of top-level domains",
+    "Application fee was $185,000 per domain; ICANN received about 2,000 applications (~$360M in fees)",
+    "Top auctions went for over $100 million; cheapest went for around half a million",
+    "Took a 4% auctioneer fee",
+    ".photography domain sold for roughly $3 million and generated ~$5M in registration revenue in its first year",
+    "Bought his first Pittsburgh rental house for $47,000 with an $8,000 down payment",
+    "Sold 11,000 knockoff iPod-mini headphones (bought for under $1 each, sold for $15-20 each)",
+    "Sam/Shaan's Bebo bankruptcy bidding war escalated from $150,000 to a winning bid of $1,015,000",
+    "A $25,000 angel check into Flexport's seed round (at a $10M cap) is now worth over $2 million, an ~87x return"
+  ],
+  "topics": ["domain names", "auction theory", "angel investing", "arbitrage", "real estate", "fintech"],
+  "sponsor_read_count": 0,
+  "notable": "The host interjects his own extended personal story (a live bankruptcy auction for the Bebo domain/assets) partway through, turning part of the episode into a shared story rather than a pure guest interview."
+}

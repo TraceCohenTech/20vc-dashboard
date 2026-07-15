@@ -1,0 +1,104 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Rick (CFO background, HBS, co-founder Tickle) and Jeff (Yahoo/product operator, runs Grindr)",
+  "approx_date": "Oct 2025",
+  "format": "guest-interview",
+  "business_ideas": [
+    {
+      "idea": "Private equity acquisition of profitable mid-market companies with cash-flowing operations",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Sourcing stable portfolio companies from underperforming VC portfolio companies that won't venture scale",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Bundling small-to-medium profitable companies together (IAC model) with centralized operations",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Purchasing bookkeeping business and applying AI to improve operations and customer experience",
+      "who": "Guest",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Acquiring commercial brokerage business and upgrading technology stack",
+      "who": "Guest",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "AI applications in legal, medical, and engineering sectors where documentation is high",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Crypto-focused ventures and disruption plays in legacy industries",
+      "who": "Guest",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "AI will transform legal, medical, and engineering sectors through automation and documentation leverage"
+    },
+    {
+      "who": "Guest",
+      "text": "Next decade will generate more wealth/disruption despite current bubble concerns; winners will be clear by 2035"
+    }
+  ],
+  "disagreements": null,
+  "dynamics": "Rick drives financial/risk analysis; Jeff drives product and culture narrative. Sam and Shaan are fascinated, asking deep questions about PE dealmaking vs. startup life. Episode shifts from Grindr turnaround story to practical PE playbook, ending with future opportunity thesis. High respect between parties; guests reveal philosophical preference for PE over startup grind.",
+  "frameworks": [
+    "PE Deal Sourcing Triangle — network deals, VC portfolio opportunities, bundling strategies",
+    "Risk Mitigation Framework — private equity focuses on downside protection vs. venture's portfolio math",
+    "Barbell Thesis — mix small portfolio companies (passive board) + large full-operator plays (Grindr model)",
+    "Playbook Transfer — applying proven patterns (Tinder pricing/UX) to comparable businesses",
+    "SPV Model (Special Purpose Vehicle) — assembling domain experts and capital partners for single deals"
+  ],
+  "learnings": [
+    "Homophobic market bias against Grindr created valuation arbitrage; institutional gatekeeping can create founder opportunity",
+    "Most founders overestimate valuations based on historical SaaS multiples; private equity uses EBITDA multiples for cash-flowing consumer businesses",
+    "Talent quality (and cultural turnaround) can unlock 2-3x revenue growth without new product innovation"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Guest (Rick)",
+      "quote": "In angel investing you're playing odds on one-in-ten; private equity you're a chief risk officer"
+    },
+    {
+      "who": "Guest (Jeff)",
+      "quote": "You either get lightning in a bottle or zero; private equity's the middle path with control"
+    },
+    {
+      "who": "Guest (Jeff)",
+      "quote": "Grindr saves more lives through sexual education than Tinder ever will"
+    }
+  ],
+  "numbers_dropped": [
+    "Grindr acquisition price: ~$600 million",
+    "Grindr EBITDA at purchase: $45 million (12-13x multiple)",
+    "Grindr App Store rating: 1.8 stars (0.8 vs. minimum)",
+    "Glassdoor management rating: 19%",
+    "Grindr revenue at purchase: $100 million",
+    "Grindr revenue at IPO: $200 million (doubled in 2.5 years)",
+    "IPO valuation: $2 billion",
+    "Earnout to original owner: $200 million",
+    "Equity invested: $200 million",
+    "Value created: $1.6 billion",
+    "Return multiple: 9x on $200M equity",
+    "Staff turnover: 70% (mostly engineering)",
+    "Grindr users across countries: 193",
+    "Safety/health content in languages: 57",
+    "COVID impact: 20-30% user drop",
+    "Attorney generals suing: 13",
+    "Tickle previous exit: $100 million",
+    "JibJab acquisition: $20 million at 4x EBITDA"
+  ],
+  "topics": ["private-equity", "grindr", "dating-apps", "m&a", "startups", "operations"],
+  "sponsor_read_count": 1,
+  "notable": "Rare deep dive into PE playbook by two non-traditional operators; Grindr story reveals how cultural bias created market inefficiency. Hosts shift from pure entrepreneur mentality to appreciating PE's risk-controlled alternative path."
+}

@@ -1,0 +1,49 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Sep 2025",
+  "format": "story-breakdown",
+  "business_ideas": [],
+  "predictions": [
+    {"who": "Sam", "text": "Savannah Bananas is probably worth close to a billion dollars soon, if not already."},
+    {"who": "Shaan", "text": "Live, out-of-home entertainment like Savannah Bananas/Monster Jam is essentially AI-proof and will keep growing."},
+    {"who": "Shaan", "text": "Savannah Bananas will follow a Harlem Globetrotters model (sustained touring family show) rather than fade out like a fad."}
+  ],
+  "disagreements": null,
+  "dynamics": "Sam and Shaan co-narrate a 'Billy of the Week' story breakdown of Jesse Cole and the Savannah Bananas, with Sam driving most of the researched narrative and Shaan interjecting comparisons (Monster Jam, Feld Entertainment, WWE) and business frameworks. Energy is high, admiring and emotional ('I'm bought into you'); the episode closes with a direct listener ask (Spotify growth, finding Jesse Cole) rather than a normal sign-off.",
+  "frameworks": [
+    "'They only remember you're weird' (George Mack) — table-stakes good service earns no credit; only weird, remarkable actions build brand memory",
+    "Unreasonable hospitality — going far beyond expected service (the 'unreasonable' part, not just 'hospitality', is what's hard and valuable)",
+    "'If your strategy is something everybody agrees with, it's not a strategy' (Dan Porter) — real strategy must be something reasonable people could disagree with",
+    "The 'down' hiring criterion — beyond energy/intelligence/integrity, hire people willing to back untested, faith-based ideas without demanding proof",
+    "10-ideas-a-day idea muscle — forcing daily volume of ideas (mostly bad) to surface occasional great ones"
+  ],
+  "learnings": [
+    "Turning around a failing business often starts with tiny, cheap stunts (dollar hot dogs, naming contests) before any bigger reinvention is possible.",
+    "Studying competitor/adjacent industries outside your own vertical (Disney, WWE, UFC, the Grateful Dead) can surface reinvention ideas your own industry has stopped questioning.",
+    "Watching raw behavioral data (security footage of fan attention/boredom) can be a low-tech but powerful research tool for iterating a live product experience.",
+    "Committing to a hard structural constraint (flat $25 ticket price with taxes included, strict 2-hour game length) can force product simplicity that becomes a brand differentiator.",
+    "A founder willing to sell their house and go all-in signals conviction that can carry a founding team through years with near-zero traction before any payoff.",
+    "Spending a fixed percentage of margin (e.g. 5%) on 'wacky'/brand-building gestures, expecting a 6-12 month payback, is a repeatable way to institutionalize memorable customer moments.",
+    "Categorizing new hires by whether they're intellectually 'down' for unproven ideas (not just competent) prevents founders from self-censoring their best, riskiest ideas."
+  ],
+  "banger_quotes": [
+    {"who": "Sam", "quote": "This guy deserves a billion dollars."},
+    {"who": "Shaan", "quote": "It's the way we've always done it."},
+    {"who": "Sam", "quote": "There is no data, brother. It's just soul."},
+    {"who": "Shaan", "quote": "They only remember you're weird."}
+  ],
+  "numbers_dropped": [
+    "Savannah Bananas has a 3 million person waiting list for tickets",
+    "Estimated $70-100 million in annual revenue, possibly worth $500 million to $1 billion",
+    "Tens of millions of dollars per year in merch sales alone",
+    "2 million fans attended games last year, projected over 3 million this year",
+    "150,000 people watched games in a single two-day span on their world tour",
+    "Monster Jam reportedly sells about 4 million tickets a year",
+    "Feld Entertainment (owner of Monster Jam, Ringling Bros., Sesame Street Live) founder Kenneth Feld reportedly worth $3-4 billion",
+    "The Hustle sold with the year of sale at ~$18 million revenue; Hampton does over $10 million in revenue"
+  ],
+  "topics": ["sports business", "brand building", "showmanship", "entertainment industry", "unreasonable hospitality", "founder story"],
+  "sponsor_read_count": 3,
+  "notable": "The episode ends with a direct meta-ask to listeners (comment on Spotify, help find Jesse Cole for the pod) rather than the usual sign-off, framed as a structural experiment in growing the show."
+}

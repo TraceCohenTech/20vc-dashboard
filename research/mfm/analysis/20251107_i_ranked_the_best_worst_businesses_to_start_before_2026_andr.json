@@ -1,0 +1,119 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Andrew Wilkinson, founder Tiny (holding company for internet businesses)",
+  "approx_date": "Nov 2025",
+  "format": "mixed",
+  "business_ideas": [
+    {
+      "idea": "Digital job board marketplace with SEO moat and recurring subscription revenue",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Modern investment bank/financial advisory for bootstrap founders (advisory on debt, M&A, secondaries)",
+      "who": "Guest",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Hyper-targeted personal advertising/awareness service (appearing in one decision-maker's entire information diet)",
+      "who": "Guest",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Direct-to-consumer SodaStream competitor with subscription model and better DTC execution",
+      "who": "Guest",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Premium coffee brewing device scaled online (AeroPress acquisition)",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Designer cat furniture e-commerce store (HJ Muse)",
+      "who": "Guest",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Restaurant/pizzeria concept (Famous Original)",
+      "who": "Guest",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Project management SaaS competing with Asana (Flow)",
+      "who": "Guest",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "Crypto and FTX collapse will have lasting negative effect on trust and institutional adoption"
+    },
+    {
+      "who": "Guest",
+      "text": "Most valuable businesses will be verb-status products with multi-decade staying power (Kleenex model)"
+    }
+  ],
+  "disagreements": null,
+  "dynamics": "Andrew drives through extended founder stories and business postmortems; Sam and Shaan react with fascination to both successes and brutal failures. Tone is educational and confessional—Andrew openly admits losses and wrong turns. Shifts between storytelling (Pixel Union, Famous Original failures) to ranking frameworks (business difficulty) to pitching new venture (Tenzing). High respect for founder wisdom through experience.",
+  "frameworks": [
+    "Business Difficulty Ranking — Hardest: brick-and-mortar + physical goods + labor → Medium: agencies/consulting → Easiest: digital subscriptions/job boards",
+    "Warren Buffett's Operational Involvement Model — active management of details (See's Candy letter) vs. passive capital allocation myth",
+    "Verb Status = Market Dominance — products that become verbs (Google, Uber, AeroPress) signal defensible market position",
+    "Founder Dilemma: Hold Forever vs. Sell — usually better to hold through downturns because businesses rarely die instantly",
+    "Wrong Business Before Right Business — pattern of trying hard business first teaches what not to do",
+    "Spreadsheet Investors vs. Operational Investors — understanding actual business dynamics vs. financial metrics alone"
+  ],
+  "learnings": [
+    "E-commerce and physical retail have razor-thin margins (2-3%) vs. software (30-50% EBITDA); capital tied up in inventory compounds difficulty",
+    "Restaurants and brick-and-mortar operations are unforgiving due to coordination complexity and labor dependency; early success in hard business breeds overconfidence",
+    "Operational expertise from one business transfers better to acquisitions than capital alone; understanding what works in practice beats spreadsheet analysis",
+    "Missing government incentives (R&D tax credits) or financial tools (credit lines, secondaries) costs founders millions in unrealized value"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Guest",
+      "quote": "I'm a better businessman because I'm an investor; better investor because I'm a businessman"
+    },
+    {
+      "who": "Guest (on restaurants)",
+      "quote": "If someone bails, the deep fryer's broken—it's night and day vs. internet businesses"
+    },
+    {
+      "who": "Guest (on Flow SaaS failure)",
+      "quote": "Fiji fighting the United States with unlimited budget—it's ridiculous"
+    },
+    {
+      "who": "Buffett (quoted from See's Candy letter)",
+      "quote": "99% is in the telling about it, 1% is in the drinking"
+    },
+    {
+      "who": "Guest (on holding businesses)",
+      "quote": "Better to hold through downswings than sell at 1x profit when dying"
+    }
+  ],
+  "numbers_dropped": [
+    "Pixel Union: started at $10,000/month revenue",
+    "Pixel Union first sale: $7 million",
+    "Pixel Union at reacquisition: $4 million annual profit",
+    "Pixel Union reacquisition price: $26 million",
+    "Pixel Union IPO valuation: $260 million",
+    "HJ Muse (cat furniture): $300,000 invested, total loss",
+    "Flow (SaaS): $10 million lost",
+    "Mealime sale to Albertsons: tens of millions",
+    "Agency EBITDA margins: 30-50%",
+    "E-commerce margins: 2-3%",
+    "Bakery/deli employees: 40-50",
+    "Agencies owned: 10-12",
+    "SodaStream acquisition price: $3 billion (Pepsi, 2018)",
+    "SodaStream US growth (by hired CEO): to $200 million",
+    "Canadian R&D tax credits missed: $1 million",
+    "AeroPress retail penetration: 95% of gourmet coffee shops globally",
+    "Vungle (friend Jack Smith): $800 million sale at age 29",
+    "Vista Equity Partners (SaaS PE): $100+ billion in revenue"
+  ],
+  "topics": ["business-ranking", "entrepreneurship", "private-equity", "saas", "e-commerce", "restaurants"],
+  "sponsor_read_count": 1,
+  "notable": "Rare founder postmortem of both successes and catastrophic failures across wildly different business models; Andrew's journey from 'trying everything' to disciplined acquirer mirrors Buffett's evolution. Introduces Tenzing (investment banking for bootstrapped founders) as market gap solution."
+}

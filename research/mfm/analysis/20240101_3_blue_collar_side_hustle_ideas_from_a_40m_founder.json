@@ -1,0 +1,48 @@
+{
+  "hosts": ["Sam Parr"],
+  "guest": "Sam Rattner, founder and investor, age 27",
+  "approx_date": "Jan 2024",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "Water taxi service for lakes and river destinations", "who": "Rattner", "conviction": "serious"},
+    {"idea": "Vending machine business with custom sourcing strategy", "who": "Rattner", "conviction": "throwaway"},
+    {"idea": "Riverboat casino conversions for entertainment venues", "who": "Rattner", "conviction": "serious"},
+    {"idea": "Showroom AI-powered shopping platform for premium brands", "who": "Rattner", "conviction": "says he might build it"}
+  ],
+  "predictions": [
+    {"who": "Rattner", "text": "Uber will acquire or build water taxi services by 2028"},
+    {"who": "Rattner", "text": "Showroom will reach $1B valuation within 5 years"}
+  ],
+  "disagreements": null,
+  "dynamics": "Rattner shares extensive due diligence stories on various business ideas. Sam asks clarifying questions and is impressed by depth of research and execution. Episode highlights Rattner's philosophy on spotting overlooked opportunities.",
+  "frameworks": [
+    "Never pitch twice - if investor needs to be sold twice, they didn't want it",
+    "Potential you see in others is mirror of what you would do if you were them",
+    "The value is in the duck calls - focus on niche ecosystems most don't know about",
+    "Make 5x improvements not 10% improvements - look for step-function opportunities"
+  ],
+  "learnings": [
+    "Best business opportunities often in industries others overlook as unsexy",
+    "Due diligence requires talking to users and stakeholders, not just desk research",
+    "Capital requirements and regulatory barriers create defensive moats",
+    "Transaction-based platforms more defensible than pure audience/attention plays",
+    "People reveal true values through repeated actions and small decisions"
+  ],
+  "banger_quotes": [
+    {"who": "Rattner", "quote": "The value is in the duck calls"},
+    {"who": "Rattner", "quote": "Never pitch twice - if I need to sell it again, they didn't want it"},
+    {"who": "Rattner", "quote": "Take people at face value for what they are today"},
+    {"who": "Rattner", "quote": "Have you tried just solving the problem by solving the problem"}
+  ],
+  "numbers_dropped": [
+    "Sold sports betting company for $40 million at age 23",
+    "High school snow removal business: $50-60K per winter",
+    "Fubo TV: $700M/month in subscriptions + $300M/month advertising",
+    "Water taxi boat earning: $400K per summer, 3 boats = $1.2M annually",
+    "Vending machine company: 5000 machines, $1-1.3M annual cash flow",
+    "Showroom: thousands of merchants, tens of millions of SKUs"
+  ],
+  "topics": ["entrepreneurship", "blue-collar business", "investing", "side hustles", "startups", "due diligence"],
+  "sponsor_read_count": 1,
+  "notable": "Unique perspective on finding overlooked regional and niche business opportunities; focus on practical due diligence over theory"
+}

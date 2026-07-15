@@ -1,0 +1,54 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Mar 2023",
+  "format": "mixed",
+  "business_ideas": [
+    {"idea": "Hampton - vetted network for founders and entrepreneurs with monthly groups + community", "who": "Sam", "conviction": "says he might build it"},
+    {"idea": "Re-do HARO (Help A Reporter Out) - better journalist-to-expert matching platform", "who": "Shaan", "conviction": "throwaway"},
+    {"idea": "Niche vendor lists/networks - curated lists of freelancers, lawyers, designers by niche", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Pineapple List - curated list of vetted agencies by category with paid referrals", "who": "Shaan", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "Hampton will do $100M+ annual revenue and be valued $300M-$1B"},
+    {"who": "Shaan", "text": "Niche vendor networks have strong product-market fit and can become big businesses quickly"},
+    {"who": "Sam", "text": "Hampton acceptance rate will get under 1% as elite signal"}
+  ],
+  "disagreements": null,
+  "dynamics": "Sam announces his 9-month secret project Hampton; Shaan helps explain it better and plays skeptical/supportive partner. Heavy collaboration between hosts. Shaan extrapolates into future business ideas that could spin out from Hampton. Both energized, Sam nervous, Shaan confident.",
+  "frameworks": [
+    "Founder peer groups over mentors: peers underrated, mentors overrated because peers remove need for perfect guru",
+    "Speed of vulnerability: deliberately design for people to open up quickly in group settings",
+    "Vendor discovery problem: most common ask in founder communities is 'who do you know for X service'",
+    "Acceptance/rejection as signal: exclusive communities build status through high rejection rates",
+    "Master plan + community template: founders copy what works (Sam's original mastermind template)"
+  ],
+  "learnings": [
+    "Peer groups solve the isolation problem CEOs face - can't share real struggles with employees/investors/customers",
+    "The hard part of entrepreneurship is the climb (7+ years), not the startup phase",
+    "Building a product for a customer segment you're part of creates authentic differentiation",
+    "Vendor/expert discovery is a recurring high-value problem in founder communities",
+    "Men especially underuse peer support/therapy - Hampton addresses that gap"
+  ],
+  "banger_quotes": [
+    {"who": "Sam", "quote": "I have hated this - keeping it secret for 9 months killed me"},
+    {"who": "Shaan", "quote": "Peers are massively underrated, mentors are massively overrated"},
+    {"who": "Shaan", "quote": "You're building the hard part - finding the right people and making it productive"},
+    {"who": "Sam", "quote": "The hard part isn't getting the idea, it's the seven year climb"}
+  ],
+  "numbers_dropped": [
+    "Hampton minimum: $10M/year revenue, $3M+ funding, or CEO status",
+    "Hampton group size: 8-10 people plus facilitator",
+    "Monthly group meetings + Hampton-wide community",
+    "Sam's original mastermind: met twice a month, lasted years",
+    "Shaan's mastermind PDF: 10,000+ downloads",
+    "Jack Smith (from mastermind): exited for $700-900M",
+    "Sieve's Enduring Adventures: $100M+ company",
+    "Hampton predicted revenue: $100M+/year",
+    "Hampton predicted valuation: $300M-$1B low-to-high end",
+    "HARO acquisition: bought by Decision company, has ~1.5M subscribers"
+  ],
+  "topics": ["founders", "peer-groups", "community", "entrepreneurship", "networking", "masterminds"],
+  "sponsor_read_count": 0,
+  "notable": "Sam's announcement episode for Hampton after 9 months of secret development. Shaan provides unprompted validation and extrapolates into adjacent business ideas (vendor networks). Discussion of why founder peer groups work better than mentorship. Emphasis on vulnerability and emotional support in entrepreneurship."
+}

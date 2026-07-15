@@ -1,0 +1,40 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Nov 2022",
+  "format": "news-reaction",
+  "business_ideas": [
+    {"idea": "Haunted house pop-up - rent vacant property for month, charge $40/entry", "who": "Sam", "conviction": "serious"},
+    {"idea": "Baby businesses within larger companies - acquisition and operator arbitrage", "who": "Shaan", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "Elon will continue to operate Twitter via unconventional guerrilla tactics, like walking in with a sink"},
+    {"who": "Shaan", "text": "Many companies have undervalued internal businesses that can be spun out profitably"}
+  ],
+  "disagreements": null,
+  "dynamics": "Sam drives comedic reaction to Twitter news; Shaan provides analytical foil. Both animated by 'Ligma' troll story—elaborate prank featuring fake tech employee personas with joke names. High entertainment value with underlying business model discovery.",
+  "frameworks": [
+    "Haunted house economics—capital-light operation using temporary retail arbitrage",
+    "Baby businesses inside larger companies—misaligned incentives create acquisition opportunities"
+  ],
+  "learnings": [
+    "Haunted houses generate $500k-$1M revenue in single month via pop-up retail",
+    "Elon's Twitter takeover displayed pure conviction-based execution with minimal formal process",
+    "Internet trolls can create viral stories indistinguishable from real employee departures",
+    "Working on least profitable but most interesting projects reveals true motivation",
+    "Humans need purposeful work—extended retirement without contribution reduces lifespan perception"
+  ],
+  "banger_quotes": [
+    {"who": "Sam", "quote": "Elon just walked in—playground rules. That's all it took to own Twitter"},
+    {"who": "Sam", "quote": "Derrick Lewis doesn't do jiu-jitsu, he just gets up"},
+    {"who": "Shaan", "quote": "I want to work on the most creative project, even if it makes zero dollars"}
+  ],
+  "numbers_dropped": [
+    "Haunted house: $40 entry fee, estimated $500k-$1M monthly revenue",
+    "Podcast initial plan: -$10k/year loss, now profitable plus most fulfilling project",
+    "Property rental option: pay property owner $10-15k to use vacant space"
+  ],
+  "topics": ["twitter", "elon musk", "haunted houses", "pop-up retail", "trolls", "work motivation", "internet culture"],
+  "sponsor_read_count": 0,
+  "notable": "Episode showcases MFM brand—finding legitimate business model (haunted houses) alongside entertaining cultural moment (Twitter employee pranks); illustrates how leisure/entertainment and business often intersect in discovery"
+}

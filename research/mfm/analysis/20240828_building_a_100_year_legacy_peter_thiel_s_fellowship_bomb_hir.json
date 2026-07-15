@@ -1,0 +1,50 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Aug 2024",
+  "format": "frameworks/advice",
+  "business_ideas": [
+    {"idea": "Peter Thiel Fellowship: pay students to drop out and build companies", "who": "Guest/Context", "conviction": "serious"},
+    {"idea": "Milk Money Grant: fund crypto builders with 1-3 ETH (~$2-3k) grants", "who": "Sam", "conviction": "says he might build it"},
+    {"idea": "Young Hustlers Grant: fund college students to create satirical campus papers", "who": "Sam", "conviction": "says he might build it"},
+    {"idea": "Lingerie companies funded through X Prize model incentives", "who": "Context", "conviction": "throwaway"},
+    {"idea": "Autonomous vehicle competitions via DARPA prizes", "who": "Context", "conviction": "serious"},
+    {"idea": "Vesuvius Challenge: AI-powered ancient text decryption via prizes", "who": "Context", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "Prize-based incentive models will drive more innovation than direct funding in coming years"},
+    {"who": "Shaan", "text": "Harsh early talent filtering determines long-term company success more than generous hiring"}
+  ],
+  "disagreements": null,
+  "dynamics": "Sam drives the episode with three major story arcs (Nobel Prize, Thiel Fellowship, campus newspaper idea), building narrative momentum. Shaan riffs and asks clarifying questions, grounding ideas with context and examples. High energy storytelling with tangential conversations about hiring, talent assessment, and personal anecdotes.",
+  "frameworks": [
+    "Prize-based incentives: structure competitions to spur 10x investment with 1x bounty",
+    "Harsh talent filtering: filter for obvious winners early; false positives costly",
+    "Benevolent dictatorship: company leadership requires harsh grading vs. generous outside interpretation",
+    "Merit-based philanthropy: incentivized giving vs. charity creates better outcomes"
+  ],
+  "learnings": [
+    "Structured incentive competitions can unlock innovation by creating clear goals and leveraging public competition",
+    "Great people show their capability within the first 2-3 weeks; slow starts rarely lead to great outcomes",
+    "Cultural fit in early hiring matters more than individual brilliance; homogenous teams build stronger cultures",
+    "Philanthropic impact scales when you create a game or contest rather than just giving money away"
+  ],
+  "banger_quotes": [
+    {"who": "Sam", "quote": "The Nobel Prize proved that incentives work better than capital alone."},
+    {"who": "Shaan", "quote": "Great people show up great immediately. You know in two weeks if they're a winner."},
+    {"who": "Sam", "quote": "When you're thinking about philanthropy, a contest is so much more leverage than just giving."}
+  ],
+  "numbers_dropped": [
+    "Peter Thiel Fellowship: $120k grant to drop out",
+    "Nobel Prize fund: $612 million assets, $5 million annual giveaway",
+    "Nobel Prize: 10.7% return on capital in 2023",
+    "Orteig Prize: $25,000 (1919), equivalent to ~$500k today",
+    "X Prize: $10-20 million for reusable rockets",
+    "DARPA Grand Challenge: $1 million for autonomous vehicles",
+    "Vesuvius Challenge breakthrough: 140 characters at 85% readability",
+    "Milk Road grant: 1 ETH (~$2-3k), 2,000+ submissions, 10-12 winners"
+  ],
+  "topics": ["thiel", "fellowships", "prizes", "incentives", "philanthropy", "talent"],
+  "sponsor_read_count": 1,
+  "notable": "Sam introduces the 'Young Hustlers Grant' concept with specific $10-15k campus newspaper project budget, potentially his most developed idea on the episode"
+}

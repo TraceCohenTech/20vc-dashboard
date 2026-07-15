@@ -1,0 +1,47 @@
+{
+  "hosts": ["Sam Parr"],
+  "guest": "Emmett Shear, CEO and co-founder of Twitch",
+  "approx_date": "Sep 2023",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "Video-as-system-of-record replacing text databases using AI", "who": "Emmett", "conviction": "serious"},
+    {"idea": "AI-powered search/discovery platform (e.g., video-based Yelp replacement)", "who": "Emmett", "conviction": "serious"},
+    {"idea": "Generative AI music personalization for music streaming", "who": "Emmett", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Emmett", "text": "AI will continue improving rapidly and pose existential risks alongside transformative benefits"},
+    {"who": "Emmett", "text": "Consumer experiences will be reimagined from ground up enabled by AI capabilities"},
+    {"who": "Emmett", "text": "AI lacks fluid intelligence, struggles with novel problem-solving vs crystallized knowledge"}
+  ],
+  "disagreements": null,
+  "dynamics": "Emmett presents extensive frameworks on AI, creativity, and problem-solving. Sam listens and occasionally asks clarifying questions. Emmett dominates with deep philosophical and technical insights about AI development and consumer internet opportunities.",
+  "frameworks": [
+    "Have you tried just solving the problem by solving the problem - focus on direct solutions not symptoms",
+    "Creativity as a fossil watch not a faucet - ideas generated through continuous practice",
+    "Crystallized vs Fluid Intelligence - current AI excel at known patterns, struggle with novel problems",
+    "AI as new species - smarter than humans, requires alignment on values and goals",
+    "Video-as-system-of-record - invert database model from text to raw video with AI extraction"
+  ],
+  "learnings": [
+    "Most children naturally generate ideas until social pressure teaches them to suppress creative impulses",
+    "User interviews require caring about understanding motivations rather than collecting feature requests",
+    "The most valuable product opportunities come from understanding what people actually want versus what they say they want",
+    "Current AI is brilliant at synthesizing known knowledge but weak at novel creative problem-solving",
+    "AI risk stems from optimization toward misaligned goals rather than malicious intent alone"
+  ],
+  "banger_quotes": [
+    {"who": "Emmett", "quote": "I never got the sensor installed - about not learning to suppress ideas"},
+    {"who": "Emmett", "quote": "The downside is so bad, it's really probably worse than nuclear war"},
+    {"who": "Emmett", "quote": "The thing you're selling is the experience in consumer, not features in B2B"},
+    {"who": "Emmett", "quote": "AI is going to turn us all into Rick Rubins for generative AI"}
+  ],
+  "numbers_dropped": [
+    "Twitch acquired by Amazon for approximately $1 billion",
+    "Emmett worked on Twitch for 17 years",
+    "Twitch AI opportunity probability range: 3-30% for existential risk scenario",
+    "About 40 user interviews conducted to understand streamer motivations early on"
+  ],
+  "topics": ["ai", "entrepreneurship", "consumer internet", "creativity", "startups", "technology"],
+  "sponsor_read_count": 1,
+  "notable": "Extended discussion of AI existential risk from technical founder who is optimistic on technology but concerned about misaligned optimization"
+}

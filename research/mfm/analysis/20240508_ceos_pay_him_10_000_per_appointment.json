@@ -1,0 +1,63 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "May 2024",
+  "format": "mixed",
+  "business_ideas": [
+    {"idea": "Executive health checkups in Bay Area, LA, NYC: 10-20k/year membership, 5000 members = 50M recurring", "who": "Sam", "conviction": "serious"},
+    {"idea": "Marketing lead gen agency (3 dropouts): web, ads, phone answering, $155k/month revenue", "who": "Story subject", "conviction": "serious"},
+    {"idea": "Branded fruit stickers for corporate giveaways at $5 per fruit", "who": "Danielle Baskin", "conviction": "serious"},
+    {"idea": "Bike helmets with cool designs, sold via vintage tricycle stand", "who": "Danielle Baskin", "conviction": "serious"},
+    {"idea": "Facial masks with user's uploaded face (Mask Alike)", "who": "Danielle Baskin", "conviction": "serious"},
+    {"idea": "Slime museums (experiential, low-staffing model)", "who": "Two women founders", "conviction": "serious"},
+    {"idea": "Amazon Go-style convenience store in apartment buildings", "who": "Company called D", "conviction": "serious"},
+    {"idea": "Danielle Baskin's 20+ micro-businesses: drones, trading cards of VCs, yoga pitch mats, VR tours, etc", "who": "Danielle Baskin", "conviction": "throwaway"},
+    {"idea": "SaaS for witches (Moonlight.world): tarot readings online", "who": "Danielle Baskin", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "Executive health screening will grow as status symbol among wealthy, preventive health is 10-30 year trend"}
+  ],
+  "disagreements": "Sam and Shaan debate full-body MRI safety: Shaan cautious about endorsing unproven science; Sam cites member success stories from Hampton",
+  "dynamics": "Sam pitches ideas with enthusiasm; Shaan analyzes business model viability. Multiple tangents into AI music, pizza meter geopolitics, stock exchange business models, and Danielle Baskin's creative micro-business ecosystem. Playful and energetic.",
+  "frameworks": [
+    "Network effects + Enterprise sales + Regulatory defensibility = great business model",
+    "Pizza meter: open-source intelligence detects geopolitical signals before news",
+    "Big Mac Index: purchasing power parity via commodity pricing",
+    "Waffle House Index: hurricane severity via operational status",
+    "Big launch fallacy: minimal product launch beats orchestrated big bang",
+    "Pivot execution: publicly kill old assumptions before launching new direction",
+    "Marketing is tax on unremarkable products: remarkable products market themselves",
+    "Membership model beats transactional for predictable recurring revenue"
+  ],
+  "learnings": [
+    "Preventive health becoming status symbol and competitive advantage among executives",
+    "Stock exchanges among most profitable businesses: 60%+ margins, network + regulatory defensibility",
+    "Long-term stock exchanges face adoption challenges despite good mission alignment",
+    "Early feedback and pivots are part of startup viability testing",
+    "Remarkable product design drives word-of-mouth better than marketing spend",
+    "Creative micro-entrepreneurs can spin multiple businesses from single core competency",
+    "Experiential retail (slime museums) low-labor-intensive, high-margin model",
+    "Crypto tokens could have enabled early community to share upside but faced regulatory blockers"
+  ],
+  "banger_quotes": [
+    {"who": "Sam", "quote": "Marketing is the tax you pay for an unremarkable product"},
+    {"who": "Eric Ries", "quote": "Take your old idea and shoot it in the head"},
+    {"who": "Eric Ries", "quote": "Your team will be confused unless you explicitly kill old assumptions"},
+    {"who": "Shaan", "quote": "That's $400 right there"},
+    {"who": "Unknown", "quote": "SaaS for witches"}
+  ],
+  "numbers_dropped": [
+    "Mayo Clinic executive health: $100M+ annual revenue, 177,000 patients in 2015",
+    "Executive checkups: $10-20k/year, 5000 members = $50M recurring",
+    "100 patients/week needed for $50M at $10k each",
+    "3 kids marketing agency: $155k/month revenue",
+    "Danielle's fruit: $5 per branded fruit",
+    "Stock traders: 10 minutes average holding time",
+    "10,000 public companies (20 years ago) → 4,000 today",
+    "ICE exchange: 60% profit margin, $10B revenue, $35-40B market cap",
+    "Slime museums: $6-8M per location, now $30M total revenue across cities"
+  ],
+  "topics": ["executive health", "preventive medicine", "stock exchanges", "entrepreneurship", "small business", "experiential retail", "regulatory frameworks", "crypto"],
+  "sponsor_read_count": 2,
+  "notable": "Danielle Baskin's 20+ micro-business universe shows creative generalist can build multiple ventures from taste and design sensibility; story illustrates products remarkability drives growth better than marketing."
+}

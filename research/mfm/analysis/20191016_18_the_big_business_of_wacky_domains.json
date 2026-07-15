@@ -1,0 +1,28 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Shell (EPICDESI / Sheil), Founder of domain auction platform for ICANN new TLDs",
+  "approx_date": "Oct 2019",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "Ascending clock auction platform for contested domain name auctions", "who": "Shell", "conviction": "serious"},
+    {"idea": "Apple-compatible headphones in iPod mini colors (early side business)", "who": "Shell", "conviction": "throwaway"},
+    {"idea": "Real estate rental properties targeting below-market value four-unit multifamily", "who": "Shell", "conviction": "serious"},
+    {"idea": "Options trading on internet company stocks using Google Trends data", "who": "Shell", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Shell", "text": "New generic top-level domains will generate hundreds of millions in recurring revenue"},
+    {"who": "Shell", "text": "Auction mechanism design will become critical infrastructure for internet commerce"}
+  ],
+  "disagreements": null,
+  "dynamics": "Shell drives with auction theory expertise and diverse entrepreneurial experience. Sam riffs on real estate and negotiation angles. High rapport as Shell shares diverse explorations from headphones to India travel.",
+  "frameworks": ["Ascending clock second-price auction mechanism (incentive-compatible bidding)", "Multi-unit residential property strategy under 4-unit threshold", "Discovery through diverse business experiments"],
+  "learnings": ["Credibility with domain buyers required year-long relationship building, not immediate expertise claims", "Founder persistence through conferences and cold outreach eventually builds necessary relationships", "Real estate wealth-building through leverage available to young operators with moderate capital"],
+  "banger_quotes": [
+    {"who": "Shell", "quote": "Bought a pack of cigarettes I don't smoke to talk to this guy"},
+    {"who": "Shell", "quote": "This is the closest to like CIA operatives going undercover for heroin"}
+  ],
+  "numbers_dropped": ["Sold $500M worth of domain names", "Top auctions exceeded $100M", "First house purchased at age 22 for $47K in Pittsburgh", "$8K down payment on starter house", "8 initial domains auctioned, dot.photography went for ~$3M"],
+  "topics": ["domains", "auctions", "internet-infrastructure", "real-estate", "entrepreneurship", "negotiation"],
+  "sponsor_read_count": 0,
+  "notable": "Shell met co-founder on 40-hour India train ride in 2006; bought early internet real estate (Pittsburgh 2004) before moving to Bay Area."
+}

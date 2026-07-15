@@ -1,0 +1,45 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Andrew Wilkinson, entrepreneur/investor (Tiny Capital) — recurring third co-host for this special",
+  "approx_date": "Dec 2023",
+  "format": "mixed",
+  "business_ideas": [
+    {"idea": "Privacy/identity-protection subscription service for executives (monitoring leaked data, doxxing risk)", "who": "Sam", "conviction": "serious"},
+    {"idea": "AI-generated Tinder: swipe and chat with photorealistic AI-generated matches, gamified like a casino", "who": "Andrew", "conviction": "throwaway"},
+    {"idea": "Build a product specifically to sell through TikTok Shop while the affiliate/commission ecosystem is still cheap and undersaturated", "who": "Sam", "conviction": "serious"},
+    {"idea": "Distressed venture capital: buy good-revenue startups that can't raise their next round", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "Business in the guns and ammo space", "who": "Sam", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "Privacy-focused services and products will become a mega trend, especially for Gen Z over the next 10 years."},
+    {"who": "Sam", "text": "TikTok Shop is currently a 'golden arrow' window like early Facebook ads or early Bitcoin — it won't last long."}
+  ],
+  "disagreements": null,
+  "dynamics": "This is a special 'Milly Awards' end-of-year format (part one of two) with a third rotating co-host, Andrew Wilkinson, joining Sam and Shaan. It's an awards-show structure with fixed categories (favorite guest, Billy of the Year, biggest personal change, person to bet it all on, best business idea for someone else) rather than the usual single-topic conversation. Energy is celebratory, self-deprecating, and personal; Sam and Andrew do more storytelling while Shaan reflects on marketing-era shifts and personal focus changes.",
+  "frameworks": ["Marketing eras framework: interruption ads → influencer holds product → content-is-the-product (skit/song hides the pitch), 10-word: entertainment now carries the ad instead of announcing it"],
+  "learnings": [
+    "Wealthy people who don't need to brag about access or connections (e.g., not name-dropping a doctor) signal real security and status more than those who do.",
+    "Deliberately cutting profitable-but-unloved income streams (a course, a rolling fund) frees up mental space and time for better opportunities to land.",
+    "Steadiness and loyalty in a person is an underrated trait compared to raw talent — people who stay focused on one thing for years tend to outperform serial dabblers.",
+    "A structural window of opportunity (like an under-saturated platform's affiliate/ad ecosystem) is temporary and should be exploited aggressively while it's cheap.",
+    "Founders can structure equity via QSBS and gifting stock to a kids' trust before a financing round to minimize both personal and generational tax burden."
+  ],
+  "banger_quotes": [
+    {"who": "Sam", "quote": "Whales only get harpooned when they surface."},
+    {"who": "Shaan", "quote": "You can't tell kids to follow their dreams when their dreams suck."},
+    {"who": "Shaan", "quote": "Keep the money warm, I'm coming."},
+    {"who": "Sam", "quote": "Not terrible isn't your goal."}
+  ],
+  "numbers_dropped": [
+    "Sarah Moore's eggcartons.com episode got ~500,000 listens",
+    "Connor Price racked up roughly a billion views on TikTok",
+    "Austin Rief sold most of Morning Brew at a $75 million valuation at age 26",
+    "Shaan turned off profit streams worth $1.2–1.5 million/year (course + rolling fund)",
+    "The Shadow Work Journal sold over 500,000 copies via TikTok Shop and another ~500,000 on Amazon in ~2.5-3 months",
+    "Charlie Munger backed a neighborhood kid into a billion-dollar LA apartment portfolio",
+    "Andrew Huberman ad slot pricing described as very high (no exact figure given)"
+  ],
+  "topics": ["end-of-year awards episode", "personal productivity", "tiktok shop", "privacy tech", "influencer marketing", "wealth/tax strategy"],
+  "sponsor_read_count": 1,
+  "notable": "This is a special three-host 'Milly Awards' format episode (Sam, Shaan, and guest co-host Andrew Wilkinson) rather than the standard two-host or single-guest structure, split into two parts."
+}

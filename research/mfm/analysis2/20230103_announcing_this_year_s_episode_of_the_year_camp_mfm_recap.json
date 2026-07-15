@@ -1,0 +1,52 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Jan 2023",
+  "format": "idea-brainstorm",
+  "business_ideas": [
+    {"idea": "Yardstick: paid analyst-led interviews with software buyers about their satisfaction/pricing/renewal, sold to buyers/investors for $30-50k/year (Anand's new company)", "who": "Guest", "conviction": "serious"},
+    {"idea": "Tough Mudder for kids: manufactured-adversity events for affluent kids to build resilience", "who": "Shaan", "conviction": "throwaway"},
+    {"idea": "Duolingo-style gamified app for teaching finance/accounting", "who": "Shaan", "conviction": "throwaway"},
+    {"idea": "Hosted buyer meetings on a plane: free vacation flights for B2B decision makers in exchange for sales conversations with vendors onboard", "who": "Shaan", "conviction": "says he might build it"},
+    {"idea": "Buyable Google Doc travel itineraries: purchase a friend's shared vacation itinerary with a one-click buy button", "who": "Shaan", "conviction": "throwaway"},
+    {"idea": "Win/loss reporting service for hiring: find out the real reasons candidates decline offers or employees quit, synthesized over time", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Nike of baby diapers: premium high-performance diapers using astronaut-grade absorbent materials", "who": "Shaan", "conviction": "throwaway"},
+    {"idea": "Anonymous niche 'guy mafia' Twitter accounts (car dealership guy, strip mall guy, watch guy) that give industry insider insights, then monetize via concierge/transaction fees rather than ads", "who": "Sam", "conviction": "serious"},
+    {"idea": "Female-branded version of the niche insider accounts ('gal mafia') to capture underserved niches/audiences", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "A social network exclusively for verified industry insiders sharing insights (LinkedIn-adjacent, subscription based)", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "Buy majority stakes in service-provider firms (accountants, lawyers, estate planners) that founders already use and refer, building an MFM-branded back-office holding company", "who": "Sam", "conviction": "says he might build it"},
+    {"idea": "Job-matching service that routes rejected-but-qualified applicants to other companies for a referral fee", "who": "Sam", "conviction": "throwaway"}
+  ],
+  "predictions": [],
+  "disagreements": null,
+  "dynamics": "Sam and Shaan riff conversationally through several unrelated topics (Anand's startup ideas list, the 'guy mafia' Twitter niche-account trend, the katana e-commerce store, hiring researchers). Both host and guest-like storytelling roles rotate; Sam often introduces the concrete business examples (Yardstick, katana store, guy mafia) while Shaan adds frameworks and generalized takeaways. Energy is high-engagement, tangential, and idea-dense rather than narrative-driven.",
+  "frameworks": [
+    "Pricing/packaging insight: niche B2B content (Industry Dive) can be worth more than mass consumer content (BuzzFeed) despite far smaller audience, because of who's paying and why.",
+    "Stranger Things Law: to build a great e-commerce brand, find people irrationally, obsessively into a niche lifestyle and sell directly into that obsession.",
+    "'Beautiful/wonderful' framing: any generic business idea sounds compelling if you promise it will be done exceptionally well or beautifully (a positioning trick, not a strategy).",
+    "Give, give, give, ask (Gary Vee jab-jab-jab-hook): build trust by only providing value publicly before ever asking for anything."
+  ],
+  "learnings": [
+    "Anonymous, single-niche 'insider' Twitter accounts (car dealership guy, strip mall guy) succeed because the value proposition is baked into the account name itself, removing the need to click through to a bio.",
+    "These niche insider accounts can convert audience trust directly into high-margin transactional businesses (like concierge car buying) rather than relying on ads, sponsorships, or newsletters.",
+    "A narrowly focused content feed outperforms a broad personal brand feed because audiences want a single, predictable value proposition from an account.",
+    "E-commerce brands scale fastest when they tap into a strange, highly obsessive subculture (e.g., katana/anime fans) rather than a broad rational market.",
+    "Founders often overlook the 'runner-up' pool of highly qualified rejected applicants/leads as an untapped asset that could be redirected into an adjacent business or referral revenue."
+  ],
+  "banger_quotes": [
+    {"who": "Sam", "quote": "Anytime you observe a weird behavior... you got to lean into that phenomenon."},
+    {"who": "Shaan", "quote": "You use the ladder, climb up, and then you pull the ladder up behind you."},
+    {"who": "Sam", "quote": "Give, give, give, give, give. Insights, insights, insights."}
+  ],
+  "numbers_dropped": [
+    "Industry Dive sold for $500-600M despite a much smaller audience than BuzzFeed (worth ~$100M)",
+    "Yardstick charges $30-50k/year and is only 90 days old",
+    "Car dealership guy grew from 219k to 225k Twitter followers in about 2 days, gaining ~93,000 followers in 30 days",
+    "The katana e-commerce store does an estimated $10-20M/year in revenue with 1-2 million monthly site visits and 2 million YouTube subscribers",
+    "Conor McGregor's Irish whiskey brand reportedly sold for $500-600 million within about 3 years",
+    "Sam's researcher job posting got roughly 300 applicants, about half followed directions and ~25% were legitimately strong candidates"
+  ],
+  "topics": ["startup ideas", "twitter growth", "e-commerce", "niche audiences", "personal branding", "software review business models"],
+  "sponsor_read_count": 2,
+  "notable": "Despite the filename referencing a 'Camp MFM recap,' the actual transcript content is a standard idea-brainstorming episode about Anand's startup idea list, the 'guy mafia' Twitter trend, and the katana e-commerce store rather than a camp recap."
+}

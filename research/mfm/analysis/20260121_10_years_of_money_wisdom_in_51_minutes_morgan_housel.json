@@ -1,0 +1,44 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Morgan Housel, writer and investing commentator",
+  "approx_date": "Jan 2026",
+  "format": "frameworks/advice",
+  "business_ideas": [],
+  "predictions": [
+    {"who": "Morgan Housel", "text": "AI and building on ChatGPT/GPT-4 represent a current fat-pitch opportunity"}
+  ],
+  "disagreements": null,
+  "dynamics": "Morgan Housel dominates the episode, presenting a monologue through his 'money wisdom' notebook. He teaches three interconnected frameworks for wealth building with storytelling and real-world examples. The energy is educational and deliberate rather than conversational.",
+  "frameworks": [
+    "2mm shift: small adjustments in approach create disproportionate trajectory changes",
+    "Hard work to smart work: find work that feels like play to you but looks like work to others",
+    "Hanging with money: peers + mentors + information diet = wealth-adjacent environment",
+    "Fat pitches: wait for high-conviction opportunities with asymmetric information or upside",
+    "Asymmetric information/upside: advantage when you know what others don't, or gains exceed losses"
+  ],
+  "learnings": [
+    "Wealth building is a learnable skill; if wealth redistributed equally, most wealthy people would recover it through behavioral advantage",
+    "What you work on and who you work with matter far more than raw work hours",
+    "Choosing work that feels effortless to you but difficult to others enables compounding through unlimited practice",
+    "Your information diet directly shapes your thinking and results; following wealth-adjacent voices trains pattern recognition",
+    "Peer immersion and informal mentorship (via specific questions + action + follow-up) accelerates wealth thinking faster than formal programs",
+    "Most failures come from over-swinging at mediocre opportunities; winners sit tight for high-conviction pitches in their zone",
+    "Intensity and execution intensity on obvious strategies beats endlessly searching for the 'perfect' secret formula",
+    "Observing winners operating at maximum intensity resets your baseline of what effort actually looks like"
+  ],
+  "banger_quotes": [
+    {"who": "Morgan Housel", "quote": "Wealth building is a skill and it can be learned."},
+    {"who": "Morgan Housel", "quote": "You can do anything, but you can't do everything."},
+    {"who": "Morgan Housel", "quote": "The best always gets paid."},
+    {"who": "Morgan Housel", "quote": "Intensity is the strategy."},
+    {"who": "Warren Buffett (quoted)", "quote": "There's no called strikes in investing—pass on 50 opportunities waiting for your pitch."}
+  ],
+  "numbers_dropped": [
+    "Ted Williams averaged .400 on center-zone pitches vs .230 on edge strikes",
+    "Stock market high to low variance ~150% over 12-month periods",
+    "Taylor Offer sold millions of dollars in merch through Logan Paul collaboration"
+  ],
+  "topics": ["wealth-building", "investing", "personal-development", "opportunity-recognition", "entrepreneurship", "mental-models"],
+  "sponsor_read_count": 0,
+  "notable": "Morgan Housel is the sole speaker; Sam and Shaan do not appear in this transcript. Episode is a monologue-style framework download rather than typical interview."
+}

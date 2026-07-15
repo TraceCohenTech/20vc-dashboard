@@ -1,0 +1,91 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Aug 2023",
+  "format": "mixed",
+  "business_ideas": [
+    {
+      "idea": "After.com: cremation pre-planning service capitalizing on rising cremation preference trend",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Lice testing/treatment mobile service (multiple brands: LiceLifters, HairHelpers, HairAngels)",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Covet Maine: direct-to-stylist hair extension marketplace with community events",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Roundtable.ai: AI-powered survey simulation using LLMs to model human responses",
+      "who": "Sam",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Restaurant dessert menu gamification: interactive buttons for ordering decisions",
+      "who": "Shaan",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "Cremation preference will continue rising, creating $X billion service industry"
+    },
+    {
+      "who": "Shaan",
+      "text": "Lice services can franchise nationally, following current multi-location model"
+    }
+  ],
+  "disagreements": null,
+  "dynamics": "Sam and Shaan discuss business trends observed from personal experiences and research. Sam focuses on identifying single-chart business opportunities and micro-hustles. Shaan shares personal anecdotes (restaurant owner Brisha, lice service discovery). Heavy emphasis on finding overlooked niches and implementing psychological/behavioral optimization.",
+  "frameworks": [
+    "One-chart businesses: single trend visualization can indicate entire business opportunity",
+    "Micro-hustles: small psychological/operational tweaks that compound to business success",
+    "Triple A Locksmith principle: survive by doing one small thing better in obvious ways",
+    "Direct-to-professional model: bypass retail intermediaries for higher margins",
+    "Behavioral economics in operations: small choice architecture changes drive major revenue gains"
+  ],
+  "learnings": [
+    "Business creation thesis can be derived from single trend chart (cremation, genome cost, college prices)",
+    "Micro-hustles compound: restaurant waiter's strategic dessert menu framing increases ticket size 40%",
+    "Overlooked service businesses (lice treatment, cremation) can generate $10-50K monthly with minimal overhead",
+    "Direct distribution to professionals (stylists) provides better unit economics than consumer-facing apps",
+    "AAA Locksmith thinking: solve obvious problem within existing job to bootstrap entrepreneurship mindset"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Sam",
+      "quote": "One chart alone can be your entire business plan."
+    },
+    {
+      "who": "Shaan",
+      "quote": "Restaurant owner energy is the one percent feeling, not the 99 percent hard work."
+    },
+    {
+      "who": "Sam",
+      "quote": "I want the engineer with just 10-15% of their mind on the micro-hustle."
+    },
+    {
+      "who": "Shaan",
+      "quote": "You literally become a different person when you play games in your head every day."
+    }
+  ],
+  "numbers_dropped": [
+    "Cremation preference: 10% (20 years ago) to 60-70% (2023)",
+    "After.com TAM: entire global population eventually",
+    "Lice service pricing: $300-600 per family visit",
+    "Lice service monthly revenue: tens of thousands per operator",
+    "Covet Maine year 1 revenue: $4M with 6 employees",
+    "Covet Maine year 4 revenue: tens of millions",
+    "Roundtable.ai survey simulation: 52% adoption rate (e-bikes among Tesla owners vs 28% general)",
+    "Restaurant dessert ticket lift: ~$40 per table through behavioral design",
+    "Disco Frisco Taxi revenue: ~$1K per night on New Year's (informal experiment)"
+  ],
+  "topics": ["business-ideas", "niche-services", "micro-hustles", "cremation", "hair-extensions", "lice-services", "ai-tools", "behavior-economics", "direct-to-professional"],
+  "sponsor_read_count": 1,
+  "notable": "Introduces 'one-chart business' framework: identifying $100M+ opportunities from single trend visualization; extensive focus on micro-hustles as pathway from employment to entrepreneurship; Covet Maine as case study of community-driven B2B marketplace reaching tens of millions revenue."
+}

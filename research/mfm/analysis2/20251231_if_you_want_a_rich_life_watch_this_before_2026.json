@@ -1,0 +1,41 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Jesse Itzler, entrepreneur/endurance athlete (sold private jet company to Warren Buffett, co-founded Zico Coconut Water, 29029)",
+  "approx_date": "Dec 2025",
+  "format": "frameworks/advice",
+  "business_ideas": [
+    {"idea": "Sponsor Jesse's home sky bridge and brand it 'the My First Million Sky Bridge'", "who": "Sam", "conviction": "throwaway"}
+  ],
+  "predictions": [],
+  "disagreements": null,
+  "dynamics": "Filmed on location at Jesse Itzler's house as a video-first, low-banter format; one host (primarily Sam, with Shaan present but largely silent) shadows Jesse through his personal year-planning ritual (workout, sauna, planning). Jesse drives the entire episode teaching his system; the host is a student/audience rather than a co-equal debater. Notably light on typical MFM cross-talk and business-idea riffing, emotional and personal in tone.",
+  "frameworks": [
+    "'Getting light' — declutter phone apps, subscriptions, closets, email/texts to zero before planning the new year, for psychological momentum",
+    "Year-end 'closing the books' — personal audit via calendar/phone review, written on one page, to see highlights and gaps",
+    "Misogi — one big, hard, year-defining goal chosen annually so every year has a signature accomplishment to look back on",
+    "'CEO of your life, not just your company' — plan work around life instead of life around work; treat the calendar as your honest autobiography",
+    "Handwritten thank-you letters as a networking and relationship tool ('an ink stain in your brain')"
+  ],
+  "learnings": [
+    "Planning a full year feels overwhelming, so starting with small, fast decluttering tasks (car, desk, inbox) builds momentum before tackling bigger goals.",
+    "A calendar functions less as a scheduling tool and more as a permission structure — if something isn't on it, you don't have to give it energy.",
+    "Reviewing the past year methodically (photos, calendar, texts) surfaces forgotten highlights that boost gratitude and motivation more than vague year-end reflection.",
+    "Committing to one hard, singular 'misogi' goal per year creates a lifetime portfolio of accomplishments rather than a blur of routine years.",
+    "Modeling behavior for your kids (they watch what you actually do, like training for a marathon) teaches more than telling them what to value.",
+    "Choosing a personal 'north star' person should be about picking traits you actually want (health, family, adventure), not just chasing the most famous or wealthy example (Elon Musk) wholesale."
+  ],
+  "banger_quotes": [
+    {"who": "Guest", "quote": "We don't lack time, we lack a system."},
+    {"who": "Guest", "quote": "I've always thought of myself as the CEO of my company, but not the CEO of my life."},
+    {"who": "Guest", "quote": "The calendar is your most honest autobiography."},
+    {"who": "Guest", "quote": "Who the [expletive] wants to have an okay year?"}
+  ],
+  "numbers_dropped": [
+    "Jesse canceled $1,300 of monthly subscriptions during his 'getting light' declutter",
+    "Jesse aims to write 10-25 handwritten thank-you letters per year",
+    "Host reported 815 unread text messages before doing the exercise"
+  ],
+  "topics": ["personal development", "annual planning", "productivity systems", "life design", "founder habits", "wellness"],
+  "sponsor_read_count": 1,
+  "notable": "Shot as an in-person, on-location vlog-style episode at the guest's house rather than the usual studio conversation, with minimal banter/business-idea content compared to typical episodes."
+}

@@ -1,0 +1,50 @@
+{
+  "hosts": ["Shaan Puri"],
+  "guest": "Vlad Magdalin, co-founder and CEO of Webflow",
+  "approx_date": "Jan 2020",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "Webflow: a visual software-development platform that lets people build full websites/products via direct manipulation instead of code", "who": "Guest", "conviction": "serious"},
+    {"idea": "A hypothetical 'Webflow for mobile apps' built on progressive web apps as the underlying tech", "who": "Guest", "conviction": "throwaway"},
+    {"idea": "Parabola: a visual no-code tool for data transformation pipelines (mentioned as a favorite, not guest's own)", "who": "Guest", "conviction": "throwaway"},
+    {"idea": "Voiceflow: a visual builder for Alexa/Siri voice apps (mentioned as a favorite, not guest's own)", "who": "Guest", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Guest", "text": "No-code/visual software development is at its 'gold rush' pioneer stage, like the web in 1999."},
+    {"who": "Guest", "text": "No-code tools will eventually let non-developers build full products like Airbnb or Twitter without engineers."},
+    {"who": "Guest", "text": "The industry will move toward a 'Postmates era' of software creation — push a button and a working product appears."}
+  ],
+  "disagreements": null,
+  "dynamics": "Single host (Shaan Puri) interviews a guest he clearly admires, walking chronologically through repeated startup failures before eventual success; host draws out emotional low points (health crisis, YC rejection-then-acceptance whiplash) with detailed follow-up questions. Energy is warm and reflective; a scripted mid-episode sponsor read (Microsoft Teams) breaks the conversation, an early example of the show's ad-integration format.",
+  "frameworks": [
+    "Direct manipulation (from Bret Victor's 'Inventing on Principle'): tools should let you change the actual thing you're making live, rather than code-save-refresh-check cycles",
+    "Essentialism: the disciplined pursuit of doing less — saying no to more things to focus on high-leverage (10x impact) work",
+    "Default alive: get to break-even so the company survives even if it never raises again"
+  ],
+  "learnings": [
+    "Repeatedly failing at the same idea over years (four attempts at Webflow) can still culminate in success once timing, team, and personal readiness align.",
+    "A YC rejection can be an outright mistake (an internal miscommunication), so a single rejection or acceptance shouldn't be treated as objective truth about your idea's quality.",
+    "Believing 'this next feature will unlock growth' is usually a red flag for failing startups, but in a nascent, wide-open market it can genuinely work if you have real product-market pull.",
+    "Letting the market and customers decide priorities (rather than founder intuition) can be humbling but more accurate — the CMS feature founders assumed was essential to charge money launched only after they'd already reached $1.5M ARR without it.",
+    "Deliberately choosing a slower, more sustainable growth pace (versus hypergrowth at all costs) can be the right strategy for building an enduring, foundational company rather than a race-to-exit business.",
+    "Comparing your company's growth rate to hypergrowth outliers (like Uber/Lyft) breeds chronic dissatisfaction; the right pace depends on your specific market and competitive dynamics."
+  ],
+  "banger_quotes": [
+    {"who": "Guest", "quote": "I was waking up every morning with panic attacks."},
+    {"who": "Guest", "quote": "We want to be around 50 years from now. We want to be a foundational company."},
+    {"who": "Guest", "quote": "It just feels like the gold rush or the pioneer era of the space."},
+    {"who": "Guest", "quote": "No technology in history has ever spread so fast."}
+  ],
+  "numbers_dropped": [
+    "Webflow has 75,000 paying users and just raised a $72 million Series A",
+    "Bought the Webflow domain for about $4,000 as a college student",
+    "Raised roughly $300K in early seed money, later brought total seed to $1.4M",
+    "Reached 25,000-30,000 people on a waitlist before public launch",
+    "Sub-1-2% conversion rate on initial launch of the paid product",
+    "Was already doing $1.5M in ARR by the time they built the CMS feature they assumed was required to charge money at all",
+    "Company has hired about 175 people over seven years, with 155 current employees and very low attrition (about 1 departure per year in recent years)"
+  ],
+  "topics": ["no-code", "software development tools", "startup pivots", "y combinator", "product-led growth", "web design"],
+  "sponsor_read_count": 1,
+  "notable": "Includes a scripted sponsor segment for Microsoft Teams mid-episode, an early instance of a distinct ad-read format layered into the conversational structure."
+}

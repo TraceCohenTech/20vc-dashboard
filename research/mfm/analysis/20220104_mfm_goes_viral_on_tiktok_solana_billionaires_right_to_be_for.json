@@ -1,0 +1,52 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Jan 2022",
+  "format": "mixed",
+  "business_ideas": [
+    {"idea": "Reputation management for individuals online (like Reputation.com, Yext)", "who": "Sam", "conviction": "serious"},
+    {"idea": "Do Not Pay-style service for reputation/privacy issues (class action suits, deletion)", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "Social media monitoring for company employees (flag controversial posts pre-emptively)", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "TikTok clip creation/aggregation service (monetize podcast through clips)", "who": "Sam", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "Crypto/Web3 talent influx creates self-fulfilling prophecy—projects will succeed due to engineering talent."},
+    {"who": "Shaan", "text": "Solana and Layer 2 solutions will continue explosive growth as viable Ethereum alternatives."}
+  ],
+  "disagreements": "Sam concerned about reputation management being 'soul sucking'; Shaan sees it as technically fascinating but ethically grey. Both agree crypto narrative is powerful regardless of fundamentals.",
+  "dynamics": "Sam anchors with specific business problems (right-to-be-forgotten, reputation destruction); Shaan goes deep on crypto valuations and talent migration. Sam shares personal jealousy about friends' crypto wealth; Shaan reframes it as mentorship/luck observation. Both discuss how privilege of knowing successful people creates normalcy bias around wealth building.",
+  "frameworks": [
+    "Talent arbitrage — Best people move to opportunities; their concentration signals where future value accrues.",
+    "Self-fulfilling prophecy — Massive VC/talent allocation to crypto makes success inevitable regardless of current use cases.",
+    "Wealth amnesia — Watching friends build brick-by-brick creates respect; sudden wealth from crypto creates jealousy (lottery vs. hard work)."],
+  "learnings": [
+    "Google's autocomplete dominates search reputation more than first-page results; manipulation requires beating both.",
+    "Reputation.com charges $100K-$120K for enterprise clients; most individuals cannot afford reputation defense.",
+    "Right-to-be-forgotten (EU law) doesn't exist in US; digital mistakes are permanent career damage.",
+    "Crypto is attracting top talent from BigTech (Amazon VP, Google CPO, Coinbase CFO, Twitter/Square); self-reinforcing cycle.",
+    "Wealth can be created insanely fast in crypto: $250K→$1B (Solana), $500K→$15M (DeFi), half-million→$15M (individual trader).",
+    "Normal people with no trading background can turn life savings into life-changing money through crypto (not lottery-like, but rare).",
+    "Silicon Valley's magic is not just talent but density—coffee shops full of constant pitching/meeting culture normalizes entrepreneurship."
+  ],
+  "banger_quotes": [
+    {"who": "Sam", "quote": "You can't have this much talent spend all day thinking about this without something coming from it."},
+    {"who": "Shaan", "quote": "There's a self-fulfilling prophecy in crypto—talent + capital guarantees eventual product-market fit."},
+    {"who": "Shaan", "quote": "Your success reminds them of their failure; they hate their lack, not you."},
+    {"who": "Sam", "quote": "TikTok creators understand the vibe; our employees don't know why Sam's talking about his monthly eggs."}
+  ],
+  "numbers_dropped": [
+    "MFM TikTok clips: 15M impressions in 10-15 days",
+    "Solana token: $1.54 (Jan 2021) → $200+ (Jan 2022) = 130x in 1 year",
+    "Chris McCann Solana investment: $250K → $1B+ (Benchmark fund)",
+    "Solana seed investor returns: $50K → $1B+ theoretical",
+    "Friend's DeFi returns: $500K → $15M in ~1 year",
+    "22-year-old protocol creator: Market cap $900M → $200M, personal extraction $10M, donated $7M to charity",
+    "Coinbase IPO beneficiary: CPO stake worth $600M",
+    "Moiz Ali (Native Deodorant): started to $100M exit in 2 years",
+    "Reputation.com typical package: $13,000-$120,000+",
+    "Yext revenue: $390M+ (4-5x revenue market cap)"
+  ],
+  "topics": ["crypto", "solana", "wealth-building", "reputation-management", "social-media", "tiktok", "talent-migration", "web3"],
+  "sponsor_read_count": 0,
+  "notable": "Episode documents MFM's viral TikTok moment (15M impressions) and pivots to discussing crypto wealth creation as a parallel phenomenon. Shaan proposes talent migration to crypto as proof of inevitable market creation; Sam expresses unguarded jealousy about friends' unexpected wealth gains. Includes detailed breakdown of reputation.com's business model (Google manipulation, autocomplete clearing)."
+}

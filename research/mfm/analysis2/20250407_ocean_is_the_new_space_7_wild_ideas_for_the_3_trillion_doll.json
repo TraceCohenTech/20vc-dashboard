@@ -1,0 +1,54 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Will O'Brien, co-founder of Ulysses (ocean/maritime autonomous robotics startup)",
+  "approx_date": "Apr 2025",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "Ulysses: general-purpose autonomous surface + underwater robot platform for maritime tasks (seagrass restoration, pipe/cable inspection, defense servicing)", "who": "Guest", "conviction": "serious"},
+    {"idea": "Ocean treasure hunting: recover historic shipwrecks (some allegedly worth $1B+) via profit-sharing agreements with source governments (Spain, Portugal)", "who": "Guest", "conviction": "throwaway"},
+    {"idea": "Marine geoengineering company: seed low-iron ocean regions with iron filings to stimulate algae blooms that draw down carbon and boost fish stocks", "who": "Guest", "conviction": "says he might build it"},
+    {"idea": "Subsea data-center operators/servicers (following Microsoft's and Network Ocean's underwater data center experiments) needing inspection and maintenance robots", "who": "Guest", "conviction": "serious"},
+    {"idea": "Cultivated (lab-grown) sushi-grade salmon company (referencing existing startup Wild Type) as a category others could expand", "who": "Guest", "conviction": "throwaway"},
+    {"idea": "Persistent unmanned underwater 'sentry' drones to protect undersea data/communication cables from being cut by foreign actors", "who": "Guest", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Guest", "text": "A billion-dollar company will be built in marine geoengineering within the current technology window."},
+    {"who": "Shaan", "text": "The current 'technology window' is AI, robotics, and 3D printing, mirroring past windows like mobile (2012) and B2B SaaS (20 years), and will eventually close as the low-hanging fruit gets eaten."},
+    {"who": "Guest", "text": "Ocean warfare (following the shift from decades of desert-based wars) will require a full retooling of military hardware toward unmanned surface/underwater vehicles."}
+  ],
+  "disagreements": null,
+  "dynamics": "Classic curiosity-driven guest interview: Shaan leads, clearly the more excited and knowledgeable of the two hosts on this topic, while Sam plays the skeptical/outsider role (opens by saying he's afraid of open water and would never build this). Energy is high and exploratory throughout, with both hosts repeatedly expressing amazement at guest's stats and stories. Shaan introduces a structural aside mid-episode (James Currier's 'technology windows' framework) to contextualize the opportunity. Ends with a lighter personal/spiritual segment (conspiracy theories, Steve Irwin admiration) that the intro previewed but which falls outside the available transcript excerpt.",
+  "frameworks": [
+    "Technology windows (via James Currier): innovation waves open for a fixed period tied to a technology shift (railroads ~40yrs, automobiles ~25yrs, mobile, B2B SaaS ~20yrs) then close once low-hanging fruit is eaten",
+    "Hobbyist-to-incumbent lifecycle: tech invented by hobbyists -> a hobbyist has a 'status moment' (wealth/fame) -> knowledge diffuses via podcasts/conferences -> competition floods in -> new defensible incumbents emerge and the window closes",
+    "Elad-style outsider advantage: founders without industry experience build better solutions because they aren't constrained by an industry's preconceived notions (echoed by guest's team building underwater vehicles despite no prior ocean-tech background)"
+  ],
+  "learnings": [
+    "The ocean economy is already a ~$3 trillion/year industry (not a speculative future market like space), yet its core technology stack is decades out of date compared to aerospace or software.",
+    "A profitable niche (seagrass restoration, driven by government compliance mandates) can be a smart initial wedge for a broader robotics platform business, providing revenue and traction before expanding to bigger markets.",
+    "Recent drops in cost for 3D printing, batteries/motors (from EV/drone industries), and satellite bandwidth (Starlink) have made hardware/robotics startups dramatically cheaper to build than a decade ago.",
+    "Undersea communication cables are a serious, underappreciated point of geopolitical vulnerability — reportedly ~11 cables were deliberately cut in the Baltic Sea by foreign actors in the prior year.",
+    "The stereotype of a tech founder has visibly shifted from purely intellectual (Steve Jobs/Bill Gates era) toward also physically embodied (jiu-jitsu, bodybuilding, western wear), reflecting what the guest frames as tech's 'mind-body-spirit' maturation."
+  ],
+  "banger_quotes": [
+    {"who": "Guest", "quote": "Give me a tanker of iron filings and I will give you an ice age."},
+    {"who": "Shaan", "quote": "Give me a hundred mullets and I'll give you a 10x portfolio."},
+    {"who": "Guest", "quote": "To really shake up an industry, it's probably good if you don't come from it."},
+    {"who": "Sam", "quote": "This is going to be one of the podcasts where at the end we're no longer podcasting — we're getting into the ocean business."}
+  ],
+  "numbers_dropped": [
+    "Global ocean economy estimated at ~$3 trillion in annual spend",
+    "70% of the planet is covered by ocean, only ~25% ever explored",
+    "1 billion people rely on the ocean as primary income source, 3 billion for food",
+    "Ulysses did ~$1 million in revenue in its first year on a 5-person team with ~$2 million raised",
+    "Seagrass captures carbon ~35x faster than rainforest and is disappearing at ~7% per year globally",
+    "Sail Drone has raised reportedly over $100M+ and is valued $500M-$1B",
+    "US Navy has only ~300 ships and 67 submarines",
+    "Defense contracts for these vehicles average roughly $250 million each",
+    "Wild Type (cultivated salmon startup) raised a $100 million Series B in 2022",
+    "Roughly 11 undersea cables were reportedly cut in the Baltic Sea by foreign actors in the past year, out of only ~600 active cables"
+  ],
+  "topics": ["ocean economy", "maritime robotics", "defense tech", "marine geoengineering", "cultivated seafood", "technology windows framework", "undersea cable security"],
+  "sponsor_read_count": 1,
+  "notable": "Transcript excerpt cuts off before the episode's promised closing segments (conspiracy theories and the guest's summer living with monks in Nepal), which the intro flagged as a highlight; those portions could not be captured in this analysis."
+}

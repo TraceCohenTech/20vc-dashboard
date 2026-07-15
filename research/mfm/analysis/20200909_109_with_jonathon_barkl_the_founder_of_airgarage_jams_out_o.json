@@ -1,0 +1,129 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Jonathan Barkle, founder and CEO of AirGarage",
+  "approx_date": "Sep 2020",
+  "format": "idea-brainstorm",
+  "business_ideas": [
+    {
+      "idea": "Lemonade.com-style commercial general liability insurance app with frictionless UX",
+      "who": "Jonathan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "15-30 minute insurance advisor calls: neutral expert tells you exactly what coverage you need",
+      "who": "Sam/Jonathan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Virtual mailbox for startups (existing company Stable already solving this)",
+      "who": "Jonathan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "USPS consumer forwarding service at $10/year with permanent virtual address",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Customer service marketplace using retired/elderly people seeking flexible income",
+      "who": "Jonathan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Ratings aggregation platform: post one review to Yelp, Google, and other sites",
+      "who": "Jonathan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "USPS street view competitor using postal carrier routes",
+      "who": "Jonathan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Airbnb for billboards: monetize unused window space in cities",
+      "who": "Jonathan",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Peer-to-peer shipping using unused airline checked bag allowances",
+      "who": "Jonathan",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "D2C vacuum cleaner with improved design and scent feature (Tesla of vacuums)",
+      "who": "Sam",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "D2C printer with free ink subscription (Southwest model, 80% margins)",
+      "who": "Jonathan",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Jonathan",
+      "text": "If AirGarage growth continues despite COVID recovery remaining incomplete, it signals new market demand, not just bounce-back"
+    },
+    {
+      "who": "Jonathan",
+      "text": "Underutilized resources in waste and logistics are the next major business opportunity areas"
+    }
+  ],
+  "disagreements": null,
+  "dynamics": "Sam drives curiosity with direct questions; Jonathan brainstorms fluently and riffs on underutilized resources. Energy is collaborative and exploratory. Sam pivots to deep personal questions about Jonathan's habits and information diet—unusual for the show, suggesting genuine interest in understanding how this young founder thinks. Jonathan is articulate, thoughtful, and engaged despite being 23.",
+  "frameworks": [
+    "Underutilized resources framework — find waste/excess capacity, monetize via technology",
+    "Revenue share alignment — 70/30 split beats fixed fees because owners see upside and downside",
+    "First-input-of-the-day sets tone — morning habit cascades into daily quality",
+    "Marketplace model — two-sided platform for fragmented supply (parking lots, customer service)",
+    "Information diet metaphor — junk food (TikTok, Craigslist) vs healthy (books, podcasts)"
+  ],
+  "learnings": [
+    "Pivoting early when a business model doesn't scale (P2P parking to full operator) can unlock exponential growth",
+    "Old school operators abandoned COVID-distressed parking lot owners, creating vacuum for new entrants with better incentives",
+    "Retirees and stay-at-home parents are an underutilized labor force for flexible, non-specialized work",
+    "Morning routine and first input cascades into entire day quality and productivity",
+    "Successful founders study inputs (books, podcasts, people, environments) obsessively because output cannot be copied"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Jonathan",
+      "quote": "I'm not the customer. I am the product. I'm being sold in this transaction."
+    },
+    {
+      "who": "Sam",
+      "quote": "The output is impossible to copy. It's the input that you can start to pick up."
+    },
+    {
+      "who": "Jonathan",
+      "quote": "Would I really want to be the person known for plastering ads all over every city?"
+    },
+    {
+      "who": "Sam",
+      "quote": "If you give yourself the reward first thing, then you never do the harder thing."
+    }
+  ],
+  "numbers_dropped": [
+    "AirGarage: 100 parking locations by August 2020",
+    "COVID impact: revenue dropped from 100% (Feb) → 50% (March) → 15% (April)",
+    "August recovery: 80% back to pre-COVID levels; 80% of that from new parking lots signed during COVID",
+    "USPS PO box revenue: ~$1 billion/year; completely sold out in San Francisco",
+    "Remarkable tablet v1: $600 → now $300 (with pen and case)",
+    "70/30 revenue split vs old operators who took 50% of parking lot revenue"
+  ],
+  "topics": [
+    "underutilized-assets",
+    "marketplace",
+    "peer-to-peer",
+    "customer-service",
+    "parking",
+    "insurance",
+    "d2c",
+    "covid-pivot",
+    "habits",
+    "information-diet"
+  ],
+  "sponsor_read_count": 1,
+  "notable": "Jonathan arrived with a curated list of 15+ business ideas as his 'ticket of entry' to the podcast—demonstrating that showing up prepared with ideas is more compelling than just pitching your startup. This becomes the format for the entire episode, signaling MFM's evolution toward structured ideation sessions."
+}

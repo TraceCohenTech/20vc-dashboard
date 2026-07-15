@@ -1,0 +1,81 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "David Shulman, founder of Landor (brand naming company)",
+  "approx_date": "Mar 2026",
+  "format": "guest-interview",
+  "business_ideas": [],
+  "predictions": [],
+  "disagreements": "Sam initially skeptical that naming matters; David convinced him via case studies (Swiffer $5B vs Ready Mop $200M)",
+  "dynamics": "David teaches throughout with historical examples and naming frameworks. Sam and Shaan listen, ask probing questions, become convinced of naming's importance. David uses analogies (Ship of Gold treasure hunt) to explain creative process.",
+  "frameworks": [
+    "Three things names must do: get attention, hold attention (processing fluency), be surprising",
+    "Right name vs good name vs okay name (right creates asymmetric advantage)",
+    "Treasure hunt methodology: generate 2000 names (trash → quality)",
+    "Two-person teams better than large brainstorming groups",
+    "Separate ideation (diverge) from evaluation (converge) phases",
+    "Sound symbolism: P/K/B letters signal speed/reliability; CVCV pattern (Sonos) natural",
+    "Processing fluency: familiar yet surprising (surprisingly familiar)",
+    "The comfort trap: safe → invisible vs polarizing → energetic",
+    "Proof of concept: test names in context (headlines, ads) before deciding"
+  ],
+  "learnings": [
+    "Nothing in brand used more frequently or longer than the name",
+    "Name compounds in value over time; asymmetric advantage grows",
+    "Swiffer beat Ready Mop largely due to naming ($5B vs $200M brand value)",
+    "Quantity leads to quality: generate 2000 names, not 50",
+    "Brainstorming groups suffer from peer pressure and slow iteration",
+    "Small teams and individuals generate best names (not freelancers, not committees)",
+    "Creative permission critical: encourage problem-solving, avoid evaluation during ideation",
+    "Letters carry meaning: P/K/B convey speed; X conveys innovation; B is reliable",
+    "Polarizing names have energy; consensus names become invisible",
+    "Changing names not catastrophic if launched with story/enthusiasm",
+    "Databases matter: enrich periodic table, mythology, etc. with related knowledge",
+    "Synchronicity: connecting seemingly irrelevant ideas yields creative breakthroughs"
+  ],
+  "banger_quotes": [
+    {
+      "who": "David",
+      "quote": "Nothing you do in brand gets used more often or longer than your name"
+    },
+    {
+      "who": "David",
+      "quote": "Quantity leads to quality"
+    },
+    {
+      "who": "David",
+      "quote": "Polarizing names have energy; comfort names become invisible"
+    },
+    {
+      "who": "David",
+      "quote": "We're looking for the Ship of Gold, not every shipwreck"
+    },
+    {
+      "who": "David",
+      "quote": "You have to give people permission to fail"
+    },
+    {
+      "who": "Andy Grove",
+      "quote": "A polarizing name is good because it has energy to it"
+    }
+  ],
+  "numbers_dropped": [
+    "Swiffer: $5 billion brand value",
+    "Ready Mop (Clorox competitor): $200 million brand value",
+    "Landor project cost range: $75K-$150K typical, up to $200K+ for major corporate",
+    "Names generated per project: 2,000+ (not 50-100)",
+    "Pentium sound symbolism testing: 6 countries, multiple languages",
+    "Projects in progress: 12-13 total, 6 AI-driven",
+    "BlackBerry adoption rate: took multiple pitches and research to convince client"
+  ],
+  "topics": [
+    "branding",
+    "naming-strategy",
+    "creativity-process",
+    "marketing",
+    "product-strategy",
+    "sound-symbolism",
+    "team-management"
+  ],
+  "sponsor_read_count": 1,
+  "notable": "David has named Pentium, Swiffer, Febreze, Sonos, BlackBerry, Impossible Burger, Microsoft Azure, and 50+ billion-dollar brands. He emphasizes that great names compound in value and that the difference between Swiffer and Ready Mop (same product category, different names) is roughly $5B - demonstrating name's ROI. Episode ends with Sam confessing he's been convinced that naming is critical to success."
+}

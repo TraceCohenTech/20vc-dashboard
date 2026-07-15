@@ -1,0 +1,113 @@
+{
+  "hosts": ["Shaan Puri"],
+  "guest": "Sully (Evan Stites-Clayton)",
+  "approx_date": "Jan 2023",
+  "format": "guest-interview",
+  "business_ideas": [
+    {
+      "idea": "Robinhood for real estate: mobile app for young professionals to auto-invest in properties",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Email marketing agency targeting e-commerce brands with performance case studies",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Conversion rate optimization CRO agency for high-intent business clients",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Niche B2B agencies: websites for dentists, restaurants, or legal practices",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Self-storage optimization playbook sold as service with risk-free commission model",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Industry-specific content newsletters for business owners e.g. e-commerce, self storage",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Buy and operationalize undervalued public companies like Squarespace",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Y Combinator for creators with ownership stakes in next generation influencers",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "CSC Holdings-style furniture company consolidation and digital transformation",
+      "who": "Guest",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "MFM podcast will be three times bigger in one year"
+    },
+    {
+      "who": "Guest",
+      "text": "Squarespace is fundamentally undervalued at $3B vs prior $10B private valuation"
+    },
+    {
+      "who": "Guest",
+      "text": "Constellation Software's acquisition model can work in retail and furniture"
+    }
+  ],
+  "disagreements": null,
+  "dynamics": "Shaan interviews Sully who was a guest on episode 1. Sully drives the narrative with detailed business analysis and specific examples. He provides frameworks and philosophical approaches to business building. Tone is educational and strategic rather than rapid-fire riffing. Heavy focus on boring but profitable business models.",
+  "frameworks": [
+    "Look for a blueprint: successful entrepreneurs find replicable models rather than inventing from scratch",
+    "The one-thing principle: every business needs one fundamental differentiation versus status quo",
+    "M&A value unlock: buying undervalued public companies and operationalizing better business practices",
+    "Boring agency model: target specific business functions with case studies to reach 100K+ MRR",
+    "Risk-free service economics: charge percentage of value generated rather than fixed fees"
+  ],
+  "learnings": [
+    "Successful exits often come from strategic buyers seeking stability and growth paths, not founder growth stories",
+    "Transparency about business weaknesses during M&A builds trust faster than hiding problems until due diligence",
+    "Creating portfolio of businesses in same category produces better returns than optimizing single large companies",
+    "Boring B2B service businesses targeting underserved niches generate consistent profit without scale challenges",
+    "Building agency businesses with clear ROI metrics lets entrepreneurs reach millions faster than creating consumer products"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Guest",
+      "quote": "You can't sell your job. Just like my one line case for why you should start a business."
+    },
+    {
+      "who": "Guest",
+      "quote": "Competing for deals sucks. I hate trying to convince somebody to let me invest money."
+    },
+    {
+      "who": "Guest",
+      "quote": "Constellation Software creates a machine to unlock value. That's what we're trying to become."
+    },
+    {
+      "who": "Guest",
+      "quote": "The difference between degenerate gambler and genius is just the result."
+    }
+  ],
+  "numbers_dropped": [
+    "Squarespace: $3B current valuation, $10B at IPO, $900M revenue run rate, 4M+ subscribers",
+    "Squarespace marketing spend: $300-400M annually",
+    "Squarespace headcount costs: $225M per year",
+    "Coinbase Series A: $25K investment would have been worth $200M at IPO",
+    "Facebook stock: $150K contract to buy, later paid $75K to exit, friend made $8M from $50K investment",
+    "CSC Holdings: $1B+ in revenue, owns Z Gallerie ($20M), Sur La Table ($89M), One Kings Lane",
+    "Family office real estate: ~100 single-family rentals in Florida from $1M initial investment"
+  ],
+  "topics": ["business-ideas", "m-and-a", "acquisition-strategy", "founder-advice", "startup-investing", "public-companies"],
+  "sponsor_read_count": 1,
+  "notable": "Deep focus on M&A strategy and acquihire/acquisition playbooks; introduces CSC Holdings founder model as case study for roll-up strategy; discusses why startup investing has poor returns."
+}

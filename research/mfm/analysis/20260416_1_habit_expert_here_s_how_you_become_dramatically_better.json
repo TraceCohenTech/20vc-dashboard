@@ -1,0 +1,75 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Apr 2026",
+  "format": "mixed",
+  "business_ideas": [
+    {
+      "idea": "Data labeling company supplying training footage for humanoid robots in low-wage countries",
+      "who": "Sam",
+      "conviction": "story-breakdown"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Elon",
+      "text": "Aging is solvable; once we identify what causes it, the solution will seem obviously simple."
+    },
+    {
+      "who": "Sam",
+      "text": "Within 15 years, a ChatGPT moment will occur in longevity research, moving life extension from niche to mainstream."
+    },
+    {
+      "who": "Sam",
+      "text": "AI will become the central decision-maker in organizations; humans will feed context rather than lead."
+    }
+  ],
+  "disagreements": null,
+  "dynamics": "Sam and Shaan riff collaboratively across disconnected topics (cryogenics → AI → executive coaching → mentalism → politics), with Sam driving narrative momentum and Shaan grounding with skepticism or related stories. High energy, stream-of-consciousness format; no structured interview.",
+  "frameworks": [
+    "Longevity Escape Velocity (LEV): medical research extends lifespan faster than chronological aging",
+    "Rubber ducking: explaining a problem aloud to a non-expert surface solutions faster",
+    "Be Here Now: all philosophy reduces to presence, not worrying about past or future",
+    "Multiple outs: structuring outcomes so you're never forced to perform one specific trick"
+  ],
+  "learnings": [
+    "Executive coaches provide value through 'rubber ducking'—just by articulating thoughts aloud, you find your own solutions",
+    "Celebration is more sustainable than forced gratitude; both achieve the same emotional state",
+    "Problem-solvers are wired to seek dysfunction; happiness requires also building awareness of what's working",
+    "Unconditional availability (open door, loose scheduling) enables opportunism and creative breakthroughs",
+    "Rebranding (magician → mentalist) creates category dominance without needing to outcompete existing leaders",
+    "Elon views immortality as societal stagnation; generational turnover drives progress"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Sam",
+      "quote": "I'm living my life as if there's an asteroid on its way and we just don't know yet"
+    },
+    {
+      "who": "Sam",
+      "quote": "The super intelligence is going to be the boss, and you're going to be the junior thing"
+    },
+    {
+      "who": "Sam",
+      "quote": "Celebration is just gratitude in motion"
+    },
+    {
+      "who": "Elon (quoted)",
+      "quote": "There must be a clock synchronizing across 35 trillion cells in your body"
+    },
+    {
+      "who": "Sam",
+      "quote": "You're digging your grave training AI to replace you with a camera on your head"
+    }
+  ],
+  "numbers_dropped": [
+    "$200,000 to cryogenically freeze a whole body; $80,000 for head-only",
+    "~200 people have completed cryogenic preservation through Alcor",
+    "~1,500 people signed up for cryogenics, awaiting death",
+    "50-100 phone calls per day (Trump's deal-making strategy from The Art of the Deal)",
+    "Executive coaching: $2,000-$4,000/month"
+  ],
+  "topics": ["cryogenics", "longevity", "ai-centralization", "executive-coaching", "mentalism", "trump", "business-strategy", "habit-formation"],
+  "sponsor_read_count": 1,
+  "notable": "Episode sprawls across eight disconnected domains (cryogenics, longevity, AI, executive coaching, magician Oz Pearlman, Trump, The Art of the Deal) with no guest or segmented narrative; pure free-associative co-hosted riff."
+}

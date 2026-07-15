@@ -1,0 +1,119 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": "Andrew Wilkinson, founder of Tiny Acquisitions, investor in niche software companies",
+  "approx_date": "Dec 2020",
+  "format": "mixed",
+  "business_ideas": [
+    {
+      "idea": "Shopify-adjacent SaaS software company for e-commerce, bought back and taken public",
+      "who": "Andrew",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Carte: cap table management platform turned secondary stock marketplace for private companies",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Pipe: upfront financing for SaaS contracts, turning contracts into liquid asset class",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Rogue Fitness: bootstrapped weightlifting equipment, hiring 2000 during COVID",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Callendly: scheduling tool at $70M ARR, bootstrapped by Nigerian immigrant",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Moderna: mRNA vaccine development, 10x return this year",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Zoom: held world together during pandemic, saved schools and families",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Cryptocurrency as network effect investment, analyzing adoption metrics",
+      "who": "Sean",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Supercast: paid subscription podcast platform to monetize creator audiences",
+      "who": "Shaan",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "Bitcoin going from $400 to multiples higher based on network effect analysis and institutional adoption signals"
+    },
+    {
+      "who": "Sean",
+      "text": "Nobody will give a shit about COVID in a year, life will bounce back just like after 9-11"
+    },
+    {
+      "who": "Shaan",
+      "text": "San Francisco will remain center of tech world despite government problems and will be rebuilt"
+    },
+    {
+      "who": "Shaan",
+      "text": "Porn subscription model becomes mainstream, reversing free-to-paid trend of Pornhub era"
+    },
+    {
+      "who": "Andrew",
+      "text": "Mark Leonard of Constellation Software worth $2 billion will remain anonymous and private long-term"
+    }
+  ],
+  "disagreements": "Sean and Shaan clashed on Bitcoin: Shaan bullish on network effects and institutional adoption signals; Sean skeptical of his own analysis skills vs traditional asset valuation, concerned retail investors copying him. Shaan defended Bitcoin as similar to early Facebook but for money. Fundamental disagreement on whether macro trades are legitimate vs real business analysis.",
+  "dynamics": "This is an awards show format where each host nominates winners. Andrew drives deeper business analysis with specificity; Sam provides contrarian picks; Shaan defends Bitcoin conviction passionately. Dynamic is collaborative but Shaan clearly most engaged on crypto thesis. Andrew shares business strategies from his portfolio work.",
+  "frameworks": [
+    "Billy of the Year (net worth milestone + gave fortune away)",
+    "Breakout company (new category, high growth, escaped velocity)",
+    "Under the radar company (benefiting but not yet visible)",
+    "Favorites person who influenced you (non-family)",
+    "Input vs output metrics (tracking workouts and inputs vs results)",
+    "The 1000-day rule of compounding (Mark Leonard example)",
+    "Second-order consequences (which businesses benefit indirectly from trend)",
+    "Network effect as investment thesis (Bitcoin adoption metrics)"
+  ],
+  "learnings": [
+    "Boring, unsexy business verticals with high switching costs compound value over decades better than trendy spaces",
+    "Bitcoin's strength lies in network adoption metrics and institutional capital flow, not price speculation alone",
+    "Most successful founders reinvest gains into lifestyle changes that enable compounding, not status consumption",
+    "Supply-side business models (Pipe financing, secondary markets) can unlock value faster than demand-side",
+    "Fitness is fundamentally a diet problem, not a workout problem; small dial adjustments beat aggressive yo-yo cycles",
+    "Amazon popularized measuring inputs over outputs; this framework applies beyond operations to personal progress"
+  ],
+  "banger_quotes": [
+    {"who": "Shaan", "quote": "Money is one of the largest network effect projects that there is"},
+    {"who": "Sam", "quote": "This guy is worth $2 billion and walks around with nobody knowing who he is"},
+    {"who": "Sean", "quote": "Will remain retarded longer than you'll remain solvent"},
+    {"who": "Andrew", "quote": "I'm grateful. We're just quarantined in our house with internet being healthy. This can't be that bad"},
+    {"who": "Sam", "quote": "If you understand businesses really well, Bitcoin is harder to analyze than GoPro vs Apple"}
+  ],
+  "numbers_dropped": [
+    "Chuck Feeney gave away entire fortune except $1M and SF apartment",
+    "Mark Leonard worth $1.9B, ran Constellation Software since 1995",
+    "Elon personal net worth grew from $30B to $170B in 2020",
+    "Mackenzie Scott gave away $12B in 2020 alone",
+    "Michael Saylor made $500M profit on $500M Bitcoin bet",
+    "Eric Yuan Zoom worth ~$18B personal fortune",
+    "Dan Gilbert net worth jumped $36B in one day",
+    "Shopify went from 14% to 25% of ecommerce during pandemic",
+    "Moderna stock went from $18.60 to $18.89 in 2 years, then $140+ in 2020",
+    "Callendly at $70M ARR, bootstrapped",
+    "Sean bought Bitcoin at $400, now at $27,000",
+    "Sean at 25% net worth in Bitcoin at $18,000 entry, expecting 5-7 year horizon"
+  ],
+  "topics": ["fintech", "crypto", "investing", "entrepreneurship", "network-effects", "bitcoin"],
+  "sponsor_read_count": 0,
+  "notable": "This is the 2020 Millies Awards show, the first formal awards ceremony. Andrew Wilkinson appears as guest and reveals strategy buying back sold company and taking public for $220M on $10M invested."
+}

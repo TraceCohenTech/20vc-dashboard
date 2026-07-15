@@ -1,0 +1,77 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Jun 2023",
+  "format": "mixed",
+  "business_ideas": [
+    {
+      "idea": "GA4 migration service: help businesses migrate from Google Analytics to GA4 for a fee",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Trade show business targeting niche B2B industry (using Twitter influencers as partners)",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Podcasting industry trade show (booth vendors, networking for podcasters)",
+      "who": "Sam",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "Someone can make $1M in next 6 months as GA4 migration expert for small businesses"
+    },
+    {
+      "who": "Sam",
+      "text": "Trade shows will consistently sell for 10-15x profit, unlike e-commerce at 1x"
+    }
+  ],
+  "disagreements": null,
+  "dynamics": "Sam brings half-baked ideas and observations, Shaan polishes and extends them into frameworks. Both riff collaboratively but Sam is more rapid-fire while Shaan synthesizes and adds structure. High energy, genuinely good partnership dynamic. Sam mentioned this directly: 'this is called chemistry.'",
+  "frameworks": [
+    "Rhetorical spell (Plato): charisma/oratory can override logical truth in oral debates",
+    "Delphi method: anonymous, time-delayed group decision-making to combat groupthink",
+    "Working backwards from valuation multiples to reverse-engineer which businesses to start"
+  ],
+  "learnings": [
+    "Oral debates reward persuasiveness and quick thinking rather than truth-seeking; written, cited arguments with response time would surface better ideas",
+    "Organizational hierarchies reward loud voices in meetings; anonymous, time-delayed feedback (Delphi method) reveals better thinking",
+    "Regulatory constraints (privacy laws, cookie restrictions) create business opportunities for companies solving attribution problems",
+    "Trade show businesses are underrated: consistent 10-15x profit multiples, decade+ lifespans, and strong buyer interest from PE firms",
+    "Working backwards from high valuation multiples can guide business selection even without passion-driven motivation"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Sam",
+      "quote": "I love a good freak show"
+    },
+    {
+      "who": "Sam",
+      "quote": "My nickname is the nuts and if you know poker you know what that means"
+    },
+    {
+      "who": "Shaan",
+      "quote": "This is called chemistry my friend, this is how it's done"
+    },
+    {
+      "who": "Sam",
+      "quote": "These things can sell for way more money and last dozens of decades"
+    }
+  ],
+  "numbers_dropped": [
+    "Joe Rogan's vaccine debate challenge: $100K, escalated to $2.6M from other contributors",
+    "Michael Jordan bought Charlotte Hornets for ~$275M, selling for ~$2B",
+    "Bob Johnson sold BET to Viacom for $3B",
+    "Bob Johnson divorce settlement: ex-wife awarded $400M of $1.3-1.5B net worth",
+    "Ukie Media 2019 revenue: $32M (10M profit); 2020-21: $8M; 2022: $26M (6.7M profit); 2023 expected: $30M (9M profit)",
+    "Ukie Media expected acquisition: $100-120M (12x profit multiple)",
+    "Jonathan Wiener's trade show exits: $100-150M each at 13x profit"
+  ],
+  "topics": ["vaccines", "podcasting", "michael jordan", "trade shows", "business strategy", "ga4", "ecommerce"],
+  "sponsor_read_count": 1,
+  "notable": null
+}

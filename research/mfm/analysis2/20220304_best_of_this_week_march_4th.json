@@ -1,0 +1,38 @@
+{
+  "hosts": ["Producer Ben (narrator)", "Sam Parr"],
+  "guest": "David Friedberg (Cana founder), Raoul Pal (former hedge fund manager, Real Vision), John/Ben (unclear, discussing Russian oligarchs)",
+  "approx_date": "Mar 2022",
+  "format": "news-reaction",
+  "business_ideas": [],
+  "predictions": [
+    {"who": "Guest", "text": "Raoul Pal predicts crypto (especially Ethereum) will keep rising because network effects align owners and users."}
+  ],
+  "disagreements": null,
+  "dynamics": "This is a 'Best of the Week' clip-show hosted by Producer Ben, not a standard Sam/Shaan episode. Three unrelated clips are stitched together: Friedberg on thinking big, Raoul Pal on crypto network effects, and Sam narrating a story about Russian oligarchs. No Sam/Shaan back-and-forth dynamic present.",
+  "frameworks": [
+    "Dare to dream (TPB principle): set audacious goals even if the path isn't visible, to avoid boxing yourself into a smaller market.",
+    "Metcalfe's law applied to crypto: network value scales with connected users, explaining exponential price behavior."
+  ],
+  "learnings": [
+    "Founders often self-limit by chasing the guaranteed near-term customer (e.g., restaurants) instead of the harder, bigger consumer market, permanently narrowing their ambition.",
+    "Crypto assets behave less like commodities (mean-reverting) and more like network businesses, so traditional supply/demand commodity logic doesn't apply to valuing them.",
+    "Unlike traditional network businesses where shareholders and users are separate, crypto lets users own equity in the network they use, intensifying the network effect.",
+    "Russia's oligarch class was created almost overnight through a rigged 1995 loans-for-shares auction where a handful of insiders acquired state oil and mineral giants for a tiny fraction of their eventual value.",
+    "Putin's wealth and power consolidation allegedly came from selectively jailing one oligarch as a warning to the rest, cementing loyalty rather than through transparent means."
+  ],
+  "banger_quotes": [
+    {"who": "Guest", "quote": "Your team is only as good as you challenge them to be."},
+    {"who": "Guest", "quote": "This is like behavioral economics, manna from heaven. Religion meets Metcalfe's law."},
+    {"who": "Sam", "quote": "How does a 38 year old become worth $3 billion? What the hell?"}
+  ],
+  "numbers_dropped": [
+    "Oligarchs paid ~$100M for a company that became one of the top 10 oil companies in the world",
+    "One oligarch's net worth reportedly reached $83 billion at peak",
+    "Company profits grew 50x and market caps grew 100x after the loans-for-shares deals",
+    "One jailed oligarch was worth ~$15 billion before his 14-year sentence",
+    "Putin's alleged private residence estimated at $1-2 billion"
+  ],
+  "topics": ["crypto", "network effects", "russia", "oligarchs", "leadership", "compilation episode"],
+  "sponsor_read_count": 0,
+  "notable": "This is a clip-compilation 'Best of the Week' episode narrated by Producer Ben rather than a standard Sam Parr/Shaan Puri episode, with no original business-idea brainstorming."
+}

@@ -1,0 +1,46 @@
+{
+  "hosts": ["Shaan Puri"],
+  "guest": null,
+  "approx_date": "Mar 2023",
+  "format": "story-breakdown",
+  "business_ideas": [],
+  "predictions": [
+    {"who": "Shaan", "text": "Emmett Shear will do something extraordinary next, whatever he does won't be average"}
+  ],
+  "disagreements": null,
+  "dynamics": "Solo Shaan episode reflecting on working with Emmett Shear (Twitch founder) after his resignation. Shaan shares 8-9 discrete stories/lessons from their working relationship at Twitch. Narrative-driven, teaching through anecdotes. Shaan was introspective, learning-focused.",
+  "frameworks": [
+    "Birds Fly, Fish Swim, Deals Fall Through: don't get emotionally attached to deals; they naturally collapse",
+    "Four Communication Types: (1) FYI/doing this, (2) need approval?, (3) help me decide A vs B, (4) status update on agreed item",
+    "What/Why/So What: communication structure - what happened, why it happened, what now",
+    "Fierce Nerd: competitive, fully obsessed, deeply personal investment, overconfident, sees themselves as fastest to right answer",
+    "Oven Burns Hotter: smarter, harder-working, faster thinking, higher information retention, better at connecting disparate dots",
+    "Socratic Method Leadership: ask questions to break down assumptions, don't spoon-feed answers, drive toward truth not your own rightness",
+    "Amazon Six-Page Memo: write everything, silent read 15-20 min before discussion, ensures shared context and deep thinking"
+  ],
+  "learnings": [
+    "Great founders/leaders operate at extremely high pace, cycling through teams and complex problems quickly",
+    "Clear communication frameworks (FYI/approval/decision/update) eliminate wasted context-setting time",
+    "The best operators in the room are often widely read and can connect dots across unrelated domains",
+    "High performers recognize their weaknesses and hire people (coaches, advisors) specifically to tell them uncomfortable truths",
+    "Building culture around written thinking (memos, updates) improves decision quality and reduces groupthink",
+    "Socratic questioning method surfaces better answers than directive leadership"
+  ],
+  "banger_quotes": [
+    {"who": "Emmett Shear", "quote": "Birds fly, fish swim, and deals fall through - that's what they do"},
+    {"who": "Shaan", "quote": "His oven burns hotter - he gets to the right answer faster than most people"},
+    {"who": "Shaan", "quote": "He only cared about getting things right, not being right"},
+    {"who": "Emmett Shear", "quote": "Here's how I want you to frame anything: FYI, approval needed, help decide, or status update"}
+  ],
+  "numbers_dropped": [
+    "Twitch founded 16 years before Shear's resignation (as of 2023)",
+    "Twitch has 8 million streamers",
+    "Twitch estimated valuation: $5-10 billion",
+    "Emmett read six-page memo in ~7 minutes (faster than entire meeting)",
+    "Amazon six-page memo meeting: 15-20 minutes silent reading time",
+    "Emmett's executive coach Flo: ~80 years old"
+  ],
+  "topics": ["leadership", "twitch", "startup-lessons", "communication", "management-philosophy", "founder-psychology"],
+  "sponsor_read_count": 0,
+  "notable": "Shaan reflects on Twitch founder Emmett Shear's resignation. Detailed breakdown of 8-9 specific leadership and communication practices. Emphasis on being 'fierce nerd,' using Socratic method, and surrounding yourself with truth-tellers. Shaan deeply learned-oriented and admiring."
+}

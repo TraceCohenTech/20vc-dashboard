@@ -1,0 +1,49 @@
+{
+  "hosts": ["Shaan Puri"],
+  "guest": "Brian Scudamore, founder of 1-800-GOT-JUNK and O2E Brands",
+  "approx_date": "Sep 2019",
+  "format": "guest-interview",
+  "business_ideas": [
+    {"idea": "1-800-GOT-JUNK, a franchised junk-hauling service built around a memorable phone-number brand", "who": "Guest", "conviction": "serious"},
+    {"idea": "WOW 1 Day Painting, a home-painting franchise brand", "who": "Guest", "conviction": "serious"},
+    {"idea": "Shack Shine, a window-washing and gutter-cleaning franchise brand", "who": "Guest", "conviction": "serious"},
+    {"idea": "If starting over, a low-cost fragmented home-service business like window washing, irrigation, or lawn care", "who": "Guest", "conviction": "throwaway"}
+  ],
+  "predictions": null,
+  "disagreements": null,
+  "dynamics": "Single host (Shaan Puri, in the show's early 'How I Got Rich' single-guest format) leads with structured biographical and business questions, probing hard on whether the founder's origin story is embellished. Energy is warm and admiring; guest carries most of the airtime with long reflective answers. No cohost banter or ad reads present, consistent with the earliest single-narrator episode structure.",
+  "frameworks": [
+    "The 'Can You Imagine' wall: publicly commit big audacious goals (e.g. getting on Oprah) on a visible wall to make them feel achievable",
+    "The beer-and-barbecue test: hire only people you'd genuinely want to socialize with, prioritizing culture fit over pedigree",
+    "WTF (Willing To Fail): treat repeated failures as the necessary cost of eventually succeeding"
+  ],
+  "learnings": [
+    "A strong brand is fundamentally a story you have to keep living up to, not just a marketing slogan.",
+    "Founder origin stories often get polished over retellings, so it's worth explicitly asking whether the well-worn version is accurate.",
+    "A phone number itself can become a powerful, memorable brand asset if built around simplicity and word association.",
+    "Sometimes you have to commit resources (like paying for a logo) before you've secured the underlying asset, betting on your own conviction.",
+    "Hiring impressive outside pedigree (like an ex-Starbucks executive) can still fail badly if there's no shared vision or cultural fit, even at the top of a company.",
+    "When a business nearly collapses due to a misaligned leadership pairing, radical transparency with the wider organization (open Q&A, no-attribution written questions) helps rebuild trust.",
+    "There often isn't one singular breakthrough moment in building a long-term business — success is the cumulative effect of many small decisions and persistence over decades."
+  ],
+  "banger_quotes": [
+    {"who": "Guest", "quote": "There I was on a boat... offered $75 to $100 million... I said, I wouldn't sell it for a billion."},
+    {"who": "Guest", "quote": "Grow where you're planted. Stay with the business you've got and just do your best."},
+    {"who": "Guest", "quote": "It's only impossible until it happens and it comes true."},
+    {"who": "Guest", "quote": "I'm sorry that as their leader, I let them down."}
+  ],
+  "numbers_dropped": [
+    "Bought his first junk truck for $753",
+    "Took 8 years to reach $1M in revenue; now does $1M in a single day",
+    "At 24 had 5 trucks, 11 employees, and ~$500K annual revenue",
+    "Fired all 11 employees at once after losing enjoyment in the business",
+    "Business fell $40M in revenue in one year around the 2007-2008 financial crisis",
+    "Turned down a $75-100M acquisition offer from waste-management executives, said he wouldn't sell for a billion",
+    "Company now does close to half a billion in revenue, aiming for $1 billion in 4-5 years",
+    "Shared over $1 million in profit-sharing with employees this year",
+    "1-800-GOT-JUNK brand appeared on 10 million Starbucks cups for free"
+  ],
+  "topics": ["franchising", "branding", "hiring and culture", "junk removal", "home services", "long-term entrepreneurship"],
+  "sponsor_read_count": 0,
+  "notable": "Guest says his origin story (seeing a junk truck at a McDonald's drive-thru) is '100% true,' explicitly addressing the host's pointed question about whether founder origin stories are typically embellished."
+}

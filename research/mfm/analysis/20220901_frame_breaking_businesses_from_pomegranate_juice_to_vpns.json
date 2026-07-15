@@ -1,0 +1,41 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Sep 2022",
+  "format": "idea-brainstorm",
+  "business_ideas": [
+    {"idea": "Dog supplement brand - pivot from human vitamins to pet nutrition", "who": "Sam", "conviction": "serious"},
+    {"idea": "Unclaimed baggage arbitrage - sell airport baggage via thrift retail", "who": "Sam", "conviction": "serious"},
+    {"idea": "Multi-state residency optimization for tax purposes", "who": "Both", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "More business ideas and profitable models exist in unclaimed/abandoned goods than most entrepreneurs realize"}
+  ],
+  "disagreements": null,
+  "dynamics": "Sam drives discovery through curiosity and research rabbit holes; Shaan engages intellectually and contributes parallel examples. Both exploring how unsexy businesses work—luggage, unclaimed goods, tax residency rules. Energetic and exploratory; Sam methodical, Shaan reflective.",
+  "frameworks": [
+    "Frame-breaking principle—most profitable businesses deliberately ignore what looks impressive (dog vitamins > human beauty products)",
+    "Curiosity rabbit hole—understanding how unsexy systems work reveals massive opportunity",
+    "Capitalism as education—learning how commerce works teaches how everything else works"
+  ],
+  "learnings": [
+    "Customers for pet supplements cannot judge efficacy (unlike humans), creating margin without proof requirements",
+    "Abandoned airport baggage creates $300M/year business with zero brand awareness or marketing costs",
+    "Tax residency determined by 'teddy bear test'—where would you keep meaningful possessions, not days-count formulas",
+    "IRS operates at federal level; state taxes use possession/school/work/family proximity as proof",
+    "Understanding unglamorous business systems (luggage loading, baggage claims) reveals economic truth about commerce"
+  ],
+  "banger_quotes": [
+    {"who": "Sam", "quote": "Dogs will never tell you if vitamins work—that's the business model"},
+    {"who": "Sam", "quote": "If you don't care about taxes yet, you ain't rich"},
+    {"who": "Sam", "quote": "I'm Googling this for a friend and to enforce the law on my friend"}
+  ],
+  "numbers_dropped": [
+    "Dog supplement brand: pivoted from skincare ($10M revenue) to pet focus",
+    "Unclaimed Baggage (rural Alabama): $300M annual revenue, operates as thrift store",
+    "New York apartment rental: ~$20k/month differential in taxes vs Texas/Florida residency"
+  ],
+  "topics": ["business models", "pet supplements", "tax strategy", "unclaimed goods", "curiosity", "research"],
+  "sponsor_read_count": 0,
+  "notable": "Episode emphasizes how boring, unglamorous business models (vitamins for dogs that don't need verification, abandoned luggage retail) generate more profit than flashy ventures—classic MFM pattern of finding value in what others ignore"
+}

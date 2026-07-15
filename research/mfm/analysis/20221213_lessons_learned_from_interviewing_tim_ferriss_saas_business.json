@@ -1,0 +1,37 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Dec 2022",
+  "format": "story-breakdown",
+  "business_ideas": [
+    {"idea": "Tim Ferriss fantasy world (Rooster Game of Thrones) with NFTs and IP monetization", "who": "Sam", "conviction": "serious"},
+    {"idea": "Vertical SaaS - deeply specialized software for niche industries", "who": "Shaan", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "Fantasy world IP with embedded NFT monetization will drive both engagement and revenue in long-term gaming"}
+  ],
+  "disagreements": null,
+  "dynamics": "Sam leads with Tim Ferriss story breakdown—his most ambitious project departure; Shaan contributes SaaS analysis framework. Contemplative episode balancing creative ambition against business discipline.",
+  "frameworks": [
+    "Vertical SaaS positioning—go deep in narrow industry rather than broad horizontal tools",
+    "Creator IP expansion—authors branching from books into worlds and games",
+    "NFT utility in gaming—community ownership stake beyond collectible value"
+  ],
+  "learnings": [
+    "Tim Ferriss deviated from business book formula to build fantasy world with roosters as characters",
+    "Vertical SaaS companies achieve higher valuations per revenue than horizontal platforms",
+    "Deep industry expertise enables defensible SaaS products at premium pricing",
+    "Creator economy enables IP monetization beyond traditional book royalties",
+    "Games and fantasy worlds become legitimate wealth creation tools for established authors"
+  ],
+  "banger_quotes": [
+    {"who": "Sam", "quote": "Ferriss built a Game of Thrones world but with roosters as characters"}
+  ],
+  "numbers_dropped": [
+    "Vertical SaaS typical margins: 70-80% gross margin vs 50-60% for horizontal platforms",
+    "Tim Ferriss fantasy world includes embedded NFT component for revenue capture"
+  ],
+  "topics": ["tim ferriss", "fantasy world", "nft", "vertical saas", "creator economy", "ip monetization", "gaming"],
+  "sponsor_read_count": 0,
+  "notable": "Explores how established creators leverage brand to build worlds—bridges entertainment and business, showing Tim Ferriss choosing creative ambition over formula repetition"
+}

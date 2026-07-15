@@ -1,0 +1,45 @@
+{
+  "hosts": ["Sam Parr"],
+  "guest": null,
+  "approx_date": "Feb 2024",
+  "format": "story-breakdown",
+  "business_ideas": null,
+  "predictions": [
+    {"who": "Sam", "text": "Large tech companies unprepared for disruption from agile AI-powered startups"},
+    {"who": "Ari Emanuel", "text": "WME and entertainment assets will continue consolidating value"},
+    {"who": "Egan Durban", "text": "AI will create new categories and opportunities in tech"}
+  ],
+  "disagreements": null,
+  "dynamics": "Sam delivers essay-style breakdown of three 'all-in individuals' (Egan Durban, Ari Emanuel, Dana White). Format is narrative analysis rather than interview. Shaan provides minimal interjections.",
+  "frameworks": [
+    "All-in individuals framework - complete commitment to single bets",
+    "Hits singles and doubles, then steals third - compounding wins strategy",
+    "FU Money vs FU Loyalty, FU Happiness - alternative forms of security",
+    "Pre-fall vs Post-fall - life experience shapes resilience",
+    "Mail room as opportunity - unglamorous entry point filters commitment"
+  ],
+  "learnings": [
+    "Most successful people commit fully to concentrated bets rather than diversifying",
+    "Loyalty and partnership among elite operators creates moats and network effects",
+    "Adversity early in life builds psychological resilience that pays dividends",
+    "Being 'all-in' requires willingness to lose everything on conviction",
+    "Operating in unfashionable industries avoids competition with equally talented peers"
+  ],
+  "banger_quotes": [
+    {"who": "Sam (Munger)", "quote": "The key to success is dumb competition"},
+    {"who": "Dana White", "quote": "You can always come back and be a bellhop, but you can't get back this time"},
+    {"who": "Ari Emanuel", "quote": "You need to know when you're on the field to compete and win"},
+    {"who": "Egan Durban", "quote": "My goal is to find one or two bets per year that I can't say no to"}
+  ],
+  "numbers_dropped": [
+    "Silver Lake: $72 billion in assets under management",
+    "Skype deal: bought for $1.9B, sold to Microsoft for $8.5B",
+    "Alibaba investment: 6x return on initial investment at $35B market cap",
+    "Manchester City: Silver Lake owns $500M stake",
+    "UFC: sold for $4 billion (2000x return for original $2M investment)",
+    "Fertitta brothers owned ~40% each when UFC sold"
+  ],
+  "topics": ["entrepreneurship", "investing", "leadership", "all-in mentality", "loyalty", "business strategy"],
+  "sponsor_read_count": 1,
+  "notable": "Essay format analyzing successful entrepreneurs' common traits; focus on commitment and willingness to concentrate rather than diversify"
+}

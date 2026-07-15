@@ -1,0 +1,47 @@
+{
+  "hosts": ["Sam Parr"],
+  "guest": "Craig Clements, billion-dollar marketer and CEO",
+  "approx_date": "Oct 2023",
+  "format": "frameworks/advice",
+  "business_ideas": [
+    {"idea": "Privacy services for executives and high-net-worth individuals", "who": "Sam", "conviction": "serious"},
+    {"idea": "Compliance/regulatory software for specific industries", "who": "Sam", "conviction": "serious"},
+    {"idea": "Probiotic/microbiome education and product platform", "who": "Craig", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Craig", "text": "Video will become the primary system of record replacing text and databases"},
+    {"who": "Sam", "text": "Privacy concerns will drive demand for executive-focused security products"}
+  ],
+  "disagreements": null,
+  "dynamics": "Craig delivers masterclass presentation on marketing frameworks with Sam as engaged student. Minimal back-and-forth; Craig lectures extensively with historical examples and case studies. Format intentionally one-directional.",
+  "frameworks": [
+    "7 Human Hijacks: Make it about them, Make it an event, Powerful demonstration, Unquestionable proof, Change daily behavior, Sell the dream, Help them rebel/feel superior",
+    "3 stages of product market: Clueless (no awareness), Curious (some awareness), Saturation (commoditized)",
+    "The Mario Marketing framework - sell customer transformation not product features",
+    "Goldfish attention span - humans exposed to 4000 ads/day, must grab attention immediately"
+  ],
+  "learnings": [
+    "Successful marketing hijacks the limbic system making behavior feel involuntary and natural",
+    "Demonstrations with proof more powerful than claims - people want to see it happen",
+    "Powerful demonstrations stick in memory for decades (still remember 'brain on drugs egg' from 20 years ago)",
+    "Marketers have historically created most daily behaviors people take for granted",
+    "Fear and education combined create viral content when addressing perceived threats"
+  ],
+  "banger_quotes": [
+    {"who": "Craig", "quote": "Marketers created all of that - referencing daily behaviors"},
+    {"who": "Craig", "quote": "Have you tried solving the problem by solving the problem"},
+    {"who": "Craig", "quote": "Nothing attracts a crowd like a crowd"},
+    {"who": "Craig", "quote": "Don't sell the fire flower, sell little Mario becoming big Mario"}
+  ],
+  "numbers_dropped": [
+    "Pepsodent increased daily brushing from 5% to 85% within a decade",
+    "Otis elevator sold 2000 elevators over a decade after Crystal Palace demonstration",
+    "Craig's probiotic ad reached approximately 100 million people in 4 months",
+    "Shadow work journal sold 500K+ copies in 2.5-3 months via TikTok shop",
+    "4000 ads per day exposure for average person",
+    "Dr. Oz-driven Garcinia Cambogia generated billions in sales across platforms"
+  ],
+  "topics": ["marketing", "psychology", "advertising", "persuasion", "consumer behavior", "business"],
+  "sponsor_read_count": 1,
+  "notable": "Rare masterclass format where one guest teaches extensively; focus on historical marketing case studies and ethical implications of persuasion techniques"
+}
