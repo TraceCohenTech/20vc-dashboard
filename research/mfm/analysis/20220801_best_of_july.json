@@ -1,0 +1,89 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Aug 2022",
+  "format": "mixed",
+  "business_ideas": [
+    {
+      "idea": "Entertainment product intersecting crypto (like Netflix for blockchain)",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "New age Pixar animation studio lasting 30+ years",
+      "who": "Shaan",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Digital product for apartment hotel market targeting high-end remote workers",
+      "who": "Peter Levels",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Furniture rental subscription service for temporary furnished living",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Products targeting slow-travel digital nomad niche (non-traditional travel)",
+      "who": "Peter Levels",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "Entertainment intersecting crypto unlocks next trillion dollar company"
+    },
+    {
+      "who": "Peter Levels",
+      "text": "Apartment hotels grow major due to remote work enabling families to relocate"
+    },
+    {
+      "who": "Shaan",
+      "text": "Furniture rental becomes major market as people prioritize convenience over ownership"
+    }
+  ],
+  "disagreements": "No significant clash; Sam and Shaan align on core philosophy that business can be enjoyable rather than painful, though with different emphases",
+  "dynamics": "Best-of compilation format. Shaan drives idea generation and storytelling with high enthusiasm; Sam provides grounding perspective. Playful throughout. Shaan is the optimistic idea launcher, Sam the measured pragmatist, but collaborative.",
+  "frameworks": [
+    "Trillion dollar Venn diagram - intersecting rare skills compounds value exponentially",
+    "Courage as underrated success factor - willingness to execute without external validation",
+    "Perception-difficulty trap - high perceived difficulty stops attempts despite feasibility",
+    "Business easy mode - entrepreneurship as enjoyable effort, not painful slog"
+  ],
+  "learnings": [
+    "Rare skill combinations multiply value far more than deep single-domain expertise",
+    "Skills that reinforce each other create disproportionately higher value than unrelated rare skills",
+    "Successful founders often exaggerate past hardship retroactively to appear more heroic",
+    "Perceived difficulty of challenges often prevents attempts even when feasibility is high",
+    "Entrepreneurship structured as fun game yields better results than treating as sacrifice"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Dharmesh",
+      "quote": "The intersection of those two circles is 100 times smaller than either alone"
+    },
+    {
+      "who": "Shaan",
+      "quote": "I am tired of everybody telling everybody that shit is so hard"
+    },
+    {
+      "who": "Peter Levels",
+      "quote": "If you can afford it, you reduce the headaches of ownership"
+    },
+    {
+      "who": "Shaan",
+      "quote": "Pull the number - I have courage to actually go do it"
+    }
+  ],
+  "numbers_dropped": [
+    "$20k/month revenue equals $1M valuation at 4-5x multiple",
+    "Peter Levels does $3M+ revenue annually across multiple solo businesses",
+    "Apartment hotels cost $2-3.5k/month in Europe, $10k/month in NYC",
+    "Luxury furnished travel accommodations average $2-3.5k/month"
+  ],
+  "topics": ["entrepreneurship", "business-ideas", "mindset", "rare-skills", "digital-nomad", "remote-work", "startup-philosophy"],
+  "sponsor_read_count": 1,
+  "notable": "Compilation best-of curated by Jonathan Barshop, not traditional episode. Shaan's Pixar announcement generated significant Twitter debate between supporters and skeptics arguing feasibility."
+}

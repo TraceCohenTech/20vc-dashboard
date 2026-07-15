@@ -1,0 +1,72 @@
+{
+  "hosts": ["Sam Parr", "Shaan Puri"],
+  "guest": null,
+  "approx_date": "Mar 2024",
+  "format": "mixed",
+  "business_ideas": [
+    {
+      "idea": "SMS text service sending MFM listeners post-episode voice summaries and whiteboard ideas",
+      "who": "Shaan",
+      "conviction": "says he might build it"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "Personality testing and assessment is massive profitable business with questionable scientific basis"
+    },
+    {
+      "who": "Shaan",
+      "text": "Young math prodigy founders like Scott Wu represent emerging elite talent generation"
+    }
+  ],
+  "disagreements": null,
+  "dynamics": "Shaan drives extended research narratives and storytelling; Sam provides skeptical grounding questions. Shaan deeply enthusiastic about Cognition Labs story and personality test business models. Sam more skeptical of claims and limitations. Later collaborate on speedrunning vs walk-backwards debate with alignment that both strategies win.",
+  "frameworks": [
+    "Grit framework - Ability × Zeal × Capacity for labor, or Grit = Zeal × Perseverance",
+    "Forer Effect - psychological phenomenon where vague statements feel personally tailored",
+    "Walk backwards - willingness to reinvent, restart at zero, reaccept beginner status",
+    "Speedrunning - mastering same domain repeatedly, compounding expertise each iteration",
+    "Myers-Briggs Type Indicator - 16 personality types, discussed as profitable business model"
+  ],
+  "learnings": [
+    "Personality and grit tests exploit confirmation bias despite shallow scientific foundation",
+    "Test companies create recurring revenue through practitioner certification MLM-style business",
+    "Mental and psychological traits differentiate elite performers more than measurable metrics",
+    "Top performers often willing to completely reset and lose everything financially to reinvent",
+    "Speedrunning mastery of single domain repeatedly can match success of exploring new frontiers",
+    "Neither strategic approach objectively superior - outcome depends on personal drive and preference"
+  ],
+  "banger_quotes": [
+    {
+      "who": "Sam",
+      "quote": "I scored 2.5 on this grit test, I'm in the bottom 10 percentile"
+    },
+    {
+      "who": "Shaan",
+      "quote": "There's a lot of hand-waving stuff here, this is bullshit"
+    },
+    {
+      "who": "Twitter commenter",
+      "quote": "It took longer to read explanation than him to actually answer it"
+    },
+    {
+      "who": "RxBar founder's dad",
+      "quote": "You need to shut the fuck up and go sell some bars"
+    }
+  ],
+  "numbers_dropped": [
+    "Myers-Briggs test: $15-40 per test, $2000 per practitioner certification",
+    "MBTI enrolls 5000 practitioners yearly generating $8-10M, total revenue $20M+ (private)",
+    "89 of Fortune 100 companies use Myers-Briggs, EPA uses on 25% of 20k employees",
+    "Cognition Labs raised $21M with 10 employees holding 10 gold coding competition medals",
+    "RxBar sold $600M to Kellogg's; growth: Y1=$2M, Y2=$6M, Y3=$36M, Y4=$161M",
+    "E-commerce speedrunner: $500M sale, new company targeting $1M/month in 3 months, hitting $2-3M",
+    "E-commerce speedrunner 3: $10M annual profit, no external capital, <5 years old",
+    "Gary Vaynerchuk safety net: $1 million",
+    "David Bar macros: 160 calories, 28g protein, sugar-free"
+  ],
+  "topics": ["personality-testing", "grit", "mindset", "entrepreneurship-strategy", "ai-software", "young-talent", "business-models", "speedrunning", "reinvention"],
+  "sponsor_read_count": 0,
+  "notable": "Shaan scores only 2.5/5 on Grit test despite evident success, finding contradiction humbling. Celebrates Cognition Labs/Devin as most inspiring recent story. Includes subplot about Scott Wu (CPO dropout from Harvard) whose mother still unaware of his success due to leaving school."
+}
