@@ -1,0 +1,27 @@
+{
+  "approx_date": "2021-04",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Aspiration: carbon offset credit card with eco-conscious rewards and $250M in recent funding.",
+      "who": "Story",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Lifestyle-specific credit card with branded rewards (non-travel, non-cashback oriented).",
+      "who": "Sam",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Jungle Scout: Amazon product research Chrome extension generating $100M+ annual recurring revenue.",
+      "who": "Story",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "Lifestyle-specific credit cards will capture wallet share from general-purpose cashback cards."
+    }
+  ]
+}

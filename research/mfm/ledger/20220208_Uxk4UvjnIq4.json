@@ -1,0 +1,41 @@
+{
+  "approx_date": "2022-02",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Negotiation as a service for commercial procurement across P&L expenses",
+      "who": "Andrew",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Tesla-specific product ecosystem including camper conversions and charging apps",
+      "who": "Sean",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Better route planner app for EV owners optimizing charging stops",
+      "who": "Sean",
+      "conviction": "Story"
+    },
+    {
+      "idea": "Put option insurance strategy to hedge downside in recession scenarios",
+      "who": "Andrew",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Buying distressed internet businesses during market downturns for arbitrage",
+      "who": "Andrew",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Andrew",
+      "text": "Economic winter will create 20-60% discounts on startup valuations creating venture entry opportunities"
+    },
+    {
+      "who": "Sam",
+      "text": "Venture-backed company valuations will correct significantly from 2021 peaks"
+    }
+  ]
+}

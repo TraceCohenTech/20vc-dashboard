@@ -1,0 +1,42 @@
+{
+  "approx_date": "2021-03",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Toucan: Chrome extension that contextually teaches languages by translating words on web pages.",
+      "who": "Shaan",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Chrome extensions solving friction problems in existing user behaviors.",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Grammarly: real-time grammar correction Chrome extension generating $100M+ annually.",
+      "who": "Story",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Honey: coupon/deals finder Chrome extension sold to PayPal for $4 billion.",
+      "who": "Story",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Dashworks: Chrome extension that creates branded company homepage with internal search, profiles, announcements.",
+      "who": "Story",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Luster: product recommendation engine via Chrome extension comparing reviews across sources.",
+      "who": "Story",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "Chrome extensions will outperform mobile apps due to lower churn and 3B+ potential users vs app store constraints."
+    }
+  ]
+}

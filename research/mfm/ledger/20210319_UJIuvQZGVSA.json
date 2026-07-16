@@ -1,0 +1,36 @@
+{
+  "approx_date": "2021-03",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Virtual team building experiences via Zoom (escape rooms, improv classes, wardrobe makeovers).",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Team Rodery: curated team bonding experiences (tastings, classes, inclusion lessons).",
+      "who": "Story",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "NiceBreak.fun: recurring paid team events ($2k+/month for 25-50 person companies).",
+      "who": "Story",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Paid financial newsletters with tiered pricing ($49 to $35k+, $550M revenue at Agora Financial).",
+      "who": "Story",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "Clubhouse will fail due to retention problems from the live-only content constraint and interestingness problem."
+    },
+    {
+      "who": "Shaan",
+      "text": "Virtual team building will become significant revenue driver as remote work becomes permanent."
+    }
+  ]
+}

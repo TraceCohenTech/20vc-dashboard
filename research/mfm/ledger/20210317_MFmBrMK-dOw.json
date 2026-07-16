@@ -1,0 +1,35 @@
+{
+  "approx_date": "2021-03",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Companies should adopt Bitcoin as primary treasury reserve asset instead of cash holdings.",
+      "who": "Guest",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Premium single-word domain names as scarce real estate asset (hope.com, alarm.com, etc).",
+      "who": "Story",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Free online education platform (Saylor.org) with 500k+ students.",
+      "who": "Story",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "Bitcoin investment income will generate more value for MicroStrategy than operating income in 20 years."
+    },
+    {
+      "who": "Guest",
+      "text": "Money supply will expand 15% annually for next 8 years, requiring all companies to own hard assets."
+    },
+    {
+      "who": "Sam",
+      "text": "More public companies will adopt Bitcoin treasury strategy within 6-12 months following institutional adoption."
+    }
+  ]
+}

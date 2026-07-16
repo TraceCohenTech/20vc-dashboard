@@ -1,0 +1,32 @@
+{
+  "approx_date": "2021-12",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Robo-advisor for farmers to manage commodity hedging and risk positions",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Farm succession planning and family wealth transfer platform",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Precision agriculture sensors and soil health monitoring company",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Automation and robotics for farm labor replacement",
+      "who": "Shaan",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "Salary inflation from tech recruiting will normalize as companies cut costs during recession"
+    }
+  ]
+}

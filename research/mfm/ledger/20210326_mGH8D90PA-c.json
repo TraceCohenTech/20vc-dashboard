@@ -1,0 +1,27 @@
+{
+  "approx_date": "2021-03",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Girl Boss: media company with 2M social followers and 250k newsletter subscribers, now operated as bootstrap business.",
+      "who": "Story",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Braintrust: decentralized Upwork alternative using blockchain tokens to align creator incentives.",
+      "who": "Story",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Angel syndicate investing: using AngelList to syndicate small checks ($10-25k) into high-potential startups.",
+      "who": "Sam",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "Best investments come from intersection of personal curiosity, good network access, and strong fundamentals."
+    }
+  ]
+}

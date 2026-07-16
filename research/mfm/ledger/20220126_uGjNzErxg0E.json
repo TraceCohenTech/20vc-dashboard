@@ -1,0 +1,32 @@
+{
+  "approx_date": "2022-01",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Creator economy SaaS built on newsletter audience and speaking/investing revenue",
+      "who": "Nathan Barry",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Secondary/minority buyout fund for founders with cold feet or buyout needs",
+      "who": "Andrew",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Structured venture deals with guaranteed minimums tied to performance milestones",
+      "who": "Andrew",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Incubating businesses from internal P&L expenses as standalone ventures",
+      "who": "Andrew",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Andrew",
+      "text": "High-quality software and SaaS businesses will trade at 20-30x earnings multiples during market downturns"
+    }
+  ]
+}
