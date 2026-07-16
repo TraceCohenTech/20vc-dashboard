@@ -1,3 +1,42 @@
 {
-  "error": "Transcript file exceeds maximum read capacity (32k+ tokens). File too long to extract complete ideas."
+  "approx_date": "2022-12",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "SEO-driven content sites targeting high-volume search terms for affiliate revenue",
+      "who": "Kendall",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Domain name misspelling strategy to capture typo traffic for monetization",
+      "who": "Kendall",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Sports betting affiliate sites targeting newly regulated state markets",
+      "who": "Kendall",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Precious metals e-commerce (JM Bullion) via SEO and affiliate traffic",
+      "who": "Mike",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Newsletter brand acquisition and integration with content sites",
+      "who": "Kendall",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Kendall",
+      "text": "SEO-driven brands outperform non-brand sites in long-term Google ranking power"
+    },
+    {
+      "who": "Mike",
+      "text": "Content and brand-driven businesses will continue commanding acquisition premiums"
+    }
+  ],
+  "note": "partial read - episode covers Milk Road acquisition story and founders' prior business successes"
 }

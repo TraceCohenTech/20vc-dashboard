@@ -1,3 +1,23 @@
 {
-  "error": "Transcript file too large to fully parse (37382 tokens). Partial read incomplete. Recommend segmented read with offset parameters."
+  "approx_date": "2023-04",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "PubMed biomedical research database mining for pharmaceutical innovation",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "AI pharmaceutical research and drug discovery automation",
+      "who": "Guest",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "AI will accelerate biomedical research beyond current academic pace"
+    }
+  ],
+  "note": "partial read"
 }

@@ -1,3 +1,7 @@
 {
-  "error": "Transcript file too large to parse (27798 tokens). Read operation hit token limit. Requires segmented offset reads."
+  "approx_date": "2023-04",
+  "yt_title": null,
+  "business_ideas": [],
+  "predictions": [],
+  "note": "partial read"
 }

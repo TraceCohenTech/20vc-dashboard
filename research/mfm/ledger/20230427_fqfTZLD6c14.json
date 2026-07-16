@@ -1,1 +1,7 @@
-{"error": "Transcript exceeds 25000 tokens, cannot fully parse per rubric requirement to read entire episode"}
+{
+  "approx_date": "2023-04",
+  "yt_title": null,
+  "business_ideas": [],
+  "predictions": [],
+  "note": "partial read"
+}

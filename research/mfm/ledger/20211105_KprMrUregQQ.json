@@ -1,3 +1,32 @@
 {
-  "error": "Transcript file exceeds token limit for full analysis (28607 tokens). Episode content: Guest discussion focused on various topics including business ventures and personal development stories."
+  "approx_date": "2021-11",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Bubbles: Chrome extension for easy screenshot sharing with team comments and markup.",
+      "who": "Story",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Loom competitor: screen recording and sharing tool that simplifies visual feedback workflows.",
+      "who": "Story",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Teespring: creator commerce platform enabling designers to sell custom merchandise.",
+      "who": "Story",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Fast-casual sushi restaurant chain inspired by Chipotle model.",
+      "who": "Story",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "Intensity and execution velocity matter more than perfect planning in achieving business outcomes."
+    }
+  ]
 }

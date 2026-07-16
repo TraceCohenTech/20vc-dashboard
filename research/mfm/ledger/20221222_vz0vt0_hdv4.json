@@ -1,3 +1,42 @@
 {
-  "error": "Transcript file exceeds maximum read capacity (25k+ tokens). File too long to extract complete ideas."
+  "approx_date": "2022-12",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Pirate platform: small group island experiences with VR broadcast to followers",
+      "who": "Billy",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "GPT-3 expert/consultant service teaching brands about AI",
+      "who": "Billy",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Influencer marketplace where brands upload assets, influencers get paid by engagement",
+      "who": "Billy",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Fire app 2.0: booking marketplace for artists and entertainers",
+      "who": "Billy",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Multi-channel inbox consolidator for Instagram DM/LinkedIn/email leads",
+      "who": "Billy",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Billy",
+      "text": "Virtual reality tech will enable millions to virtually attend exclusive island events"
+    },
+    {
+      "who": "Billy",
+      "text": "Influencer marketing fee structures will be disrupted by performance-based scoring"
+    }
+  ],
+  "note": "partial read"
 }

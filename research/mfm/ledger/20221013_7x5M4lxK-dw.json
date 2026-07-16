@@ -1,3 +1,66 @@
 {
-  "error": "File too large (80KB) to reliably extract ideas within token constraints"
+  "approx_date": "2022-10",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "AB testing software for QR-code restaurant menus to optimize conversions and AOV",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "DoorDash/Uber Eats optimization service for mom-and-pop restaurants",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "AngelList-style marketplace connecting college athletes to brands for NIL sponsorships",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Influencer e-commerce brand built around college athletes (energy drink, deodorant)",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "College athlete energy drink or deodorant brand with campus-specific scents and marketing",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Breakup-themed viral product line (cake, revenge body kit, vodka, packing box)",
+      "who": "Guest",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Anti-cheat software/services for competitive in-person sports like chess, poker, fishing",
+      "who": "Panel",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Ethical hacking/penetration testing services for companies to prevent data leaks",
+      "who": "Panel",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Interactive personal portfolio website (game-like) to stand out vs traditional resume",
+      "who": "Shaan",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "The UFC will become a global sport because fighting is universal and commands attention"
+    },
+    {
+      "who": "Panel",
+      "text": "Chess, poker, fishing will need to ramp up anti-cheat infrastructure like gaming industry"
+    },
+    {
+      "who": "Guest",
+      "text": "Breakup product line could do 2-10M annual revenue if executed by right influencer account"
+    }
+  ],
+  "note": "partial read - first ~40K of transcript analyzed"
 }

@@ -1,3 +1,36 @@
 {
-  "error": "Transcript file exceeds token limit for full analysis (26111 tokens). Episode content: Guest discussion focused on various topics including business ventures and personal development stories."
+  "approx_date": "2021-11",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Real estate agent referral network for interstate client transfers between agents",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Reboot glamour shots as millennial/Gen-Z nostalgia photo experience",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Collectible fractionalization platform for agricultural assets and vintage items",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Competitor to BiggerPockets as better real estate learning platform and community",
+      "who": "Sam",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "Winklevoss twins will become wealthier than Zuckerberg if Bitcoin reaches 500k and ETH reaches 50k"
+    },
+    {
+      "who": "Shaan",
+      "text": "SPACs as investment category will underperform versus other asset classes long-term"
+    }
+  ]
 }

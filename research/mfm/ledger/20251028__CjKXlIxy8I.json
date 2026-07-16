@@ -1,1 +1,48 @@
-{"error": "Not a business idea episode; transcript focuses on CEO leadership, scaling strategies, delegation frameworks, and company culture building, no new business ideas pitched"}
+{
+  "approx_date": "2025-10",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "should make You know some companies have a wall of love",
+      "who": "Panel",
+      "conviction": "serious"
+    },
+    {
+      "idea": "should make a public or at least public in your company list of write the value at the top",
+      "who": "Panel",
+      "conviction": "serious"
+    },
+    {
+      "idea": "the idea is it's almost like written like a fable",
+      "who": "Panel",
+      "conviction": "serious"
+    },
+    {
+      "idea": "the idea is like a one-minute plan essentially creating like a one-pager where the employee write...",
+      "who": "Panel",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Panel",
+      "text": "will hand you this thing and you're never fully bought in"
+    },
+    {
+      "who": "Panel",
+      "text": "will be uncomfortable about doin"
+    },
+    {
+      "who": "Panel",
+      "text": "will say something, \"This is goin"
+    },
+    {
+      "who": "Panel",
+      "text": "will pose the question, \"What do I have to do to see results for this in"
+    },
+    {
+      "who": "Panel",
+      "text": "think that at my company I've noticed that someone will say something, \"This is going to take a quarter"
+    }
+  ]
+}

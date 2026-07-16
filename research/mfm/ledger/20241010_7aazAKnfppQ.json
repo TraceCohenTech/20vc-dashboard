@@ -1,3 +1,26 @@
 {
-  "error": "Episode contains stories and philosophical discussions about content/branding but no distinct business ideas pitched or seriously discussed as startup opportunities."
+  "approx_date": "2024-10",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "the idea was we're going to go to like government agencies and when Snowden and the WikiLeaks stu...",
+      "who": "Panel",
+      "conviction": "serious"
+    },
+    {
+      "idea": "the idea is we're going to treat you just like a smart adult and we're your friend",
+      "who": "Panel",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Panel",
+      "text": "will attract, by definition, like-min"
+    },
+    {
+      "who": "Panel",
+      "text": "will start thinking about what industry do I like, what product do I like, and they when you're told to kind of like ..."
+    }
+  ]
 }
