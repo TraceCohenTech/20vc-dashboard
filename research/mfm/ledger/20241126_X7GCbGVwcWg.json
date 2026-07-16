@@ -1,0 +1,35 @@
+{
+  "approx_date": "2024-11",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Agent.dev: Professional network for AI agents (recruiting, discovery, ratings)",
+      "who": "Guest",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Results as a Service (RaaS): Sell outcomes instead of software (e.g., customer acquisition)",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "MFM Vault: AI agents extracting frameworks, stories, ideas from podcast episodes",
+      "who": "Story",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "AI agents are the new apps; hybrid human-AI teams will replace purely human organizations in 10 years"
+    },
+    {
+      "who": "Guest",
+      "text": "Never been easier to make first million than right now due to AI agents enabling leverage"
+    },
+    {
+      "who": "Guest",
+      "text": "Short-sleeper syndrome drug (like Ozempic for sleep) will be worth trillions and add 10 life-years"
+    }
+  ]
+}

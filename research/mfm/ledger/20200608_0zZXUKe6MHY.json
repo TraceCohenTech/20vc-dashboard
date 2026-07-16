@@ -1,0 +1,26 @@
+{
+  "approx_date": "2020-06",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Stripe Atlas for foundations: one-click nonprofit setup and annual compliance management SaaS",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Moe Points: course teaching credit card points optimization and airline miles maximization",
+      "who": "Sam",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "San Francisco exodus permanent; remote work enables permanent relocation away from expensive cities"
+    },
+    {
+      "who": "Sam",
+      "text": "Real estate values in cities will decline as tech workers relocate to suburbs and cheaper regions"
+    }
+  ]
+}

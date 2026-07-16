@@ -1,0 +1,63 @@
+{
+  "approx_date": "2024-12",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Premium preventative health scanning service with full body diagnostics",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "10x better annual physical checkup with labs consults and ongoing support",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Annual home environment health audit covering water air EMF lighting",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Home maintenance services for water filtration air quality EMF reduction",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Functional movement training preventing injuries through core motion patterns",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Premium organic produce sourcing direct from local farmers markets",
+      "who": "Sam",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Christmas tree seasonal sales business capturing 30-day holiday spending spike",
+      "who": "Story",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "Health market shifting from fringe early adopters to early majority making services mainstream"
+    },
+    {
+      "who": "Sam",
+      "text": "Whole Foods will become discount grocer in 15 years as premium local sourcing becomes standard"
+    },
+    {
+      "who": "Sam",
+      "text": "Blue light LED bulbs cause measurable sleep disruption driving incandescent bulb resurgence"
+    },
+    {
+      "who": "Guest",
+      "text": "Repeat purchase and retention matters more than initial signups for health subscriptions"
+    },
+    {
+      "who": "Guest",
+      "text": "EMF exposure standardized on phones from 2000s assuming 20-30 min daily use but reality far exceeds limits"
+    }
+  ]
+}

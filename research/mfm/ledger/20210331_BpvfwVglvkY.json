@@ -1,0 +1,45 @@
+{
+  "approx_date": "2021-03",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Sell NFT digital art pieces as collectible ownership with appreciation potential.",
+      "who": "Jack",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Dictionary.com monetizes via word games: mini crossword, daily word-of-year.",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Big Cloud platform lets users buy shares in other creators' personal brands.",
+      "who": "Sam",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Grammarly acquires Dictionary.com to cross-sell writing tools to word learners.",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "New York Times monetizes crossword puzzles as premium subscription game.",
+      "who": "Story",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "Jack's $77M NFT might sell; extremely low chance but high upside if it does."
+    },
+    {
+      "who": "Shaan",
+      "text": "Jack will earn more from NFTs in 2021 than from his normal design business."
+    },
+    {
+      "who": "Sam",
+      "text": "In 5 years, my crypto holdings will be worth more than my company sale."
+    }
+  ]
+}

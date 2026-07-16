@@ -1,0 +1,13 @@
+{
+  "approx_date": "2025-10",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Premium high-fiber supplement brand targeting health-conscious men seeking performance optimization.", "who": "Sam", "conviction": "serious"},
+    {"idea": "Modern SoulCycle-style diner with low time-to-fun, communal counter seating, morning focus.", "who": "Sean", "conviction": "serious"},
+    {"idea": "White Label Chicken - premium farm-to-table chicken brand with authentic farm storytelling.", "who": "Sam", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Eric", "text": "Fiber category will become as mainstream as protein for health-focused consumers."},
+    {"who": "Eric", "text": "Simplified products beat over-engineered solutions in consumer categories long-term."}
+  ]
+}

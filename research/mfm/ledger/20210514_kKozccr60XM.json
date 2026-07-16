@@ -1,0 +1,16 @@
+{
+  "approx_date": "2021-05",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Founders incubator space with hardware lab, robotics shop, machine shop", "who": "Guest", "conviction": "already building/built"},
+    {"idea": "Early-stage hardware/tech startup investment with hands-on mentorship", "who": "Guest", "conviction": "already building/built"},
+    {"idea": "Decentralized finance lending protocols with algorithmic collateralization", "who": "Guest", "conviction": "serious"},
+    {"idea": "Liquidity pools for DEX trading generating yield on stable coin pairs", "who": "Guest", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Guest", "text": "Crypto will rebuild entire financial system in parallel to traditional banking"},
+    {"who": "Guest", "text": "Permissionless DeFi enables credit access without traditional credit checks"},
+    {"who": "Guest", "text": "Commodity hardware plus software will replace entire engineering teams"},
+    {"who": "Guest", "text": "Physical founder communities (like Monkey Inferno) are essential for early-stage success"}
+  ]
+}

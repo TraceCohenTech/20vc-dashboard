@@ -1,0 +1,18 @@
+{
+  "approx_date": "2023-01",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Extract and monetize product waste/exhaust data (reservation, IoT, procurement) sold to relevant industries.", "who": "Guest", "conviction": "serious"},
+    {"idea": "Organize and simplify government data into accessible products for enterprises to purchase.", "who": "Guest", "conviction": "serious"},
+    {"idea": "Extend Rebel Girls book series to other underrepresented communities: Hispanic entrepreneurs, autistic scientists, etc.", "who": "Sam", "conviction": "serious"},
+    {"idea": "Daily executive briefing email service for specific niches (pharma, legal, finance) at enterprise price points.", "who": "Sam", "conviction": "serious"},
+    {"idea": "SaaS pricing database: collect and organize tool pricing including hidden enterprise rates, sell to product teams.", "who": "Sam", "conviction": "serious"},
+    {"idea": "Pool pricing database by region: hire people to door-knock collect pool costs, sell leads to builders and cleaners.", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "College rankings alternative using graduate W-2 data to show post-graduation earnings instead of subjective criteria.", "who": "Sam", "conviction": "serious"},
+    {"idea": "McCormick's premium competitor: differentiated spice brand with superior branding, packaging, influencer partnerships.", "who": "Guest", "conviction": "throwaway"},
+    {"idea": "School of entrepreneurship: alternative to college, buy struggling campuses, teach business building to high achievers.", "who": "Guest", "conviction": "says he might build it"}
+  ],
+  "predictions": [
+    {"who": "Guest", "text": "Private data becomes much more valuable as GPT/AI makes public data less useful for competitive advantage."}
+  ]
+}

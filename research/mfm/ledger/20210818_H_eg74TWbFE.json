@@ -1,0 +1,21 @@
+{
+  "approx_date": "2021-08",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Virtual shooting range with realistic gun feel, no bullets, digital targets", "who": "Sam", "conviction": "serious"},
+    {"idea": "Cop chase experience - controlled car chase simulation for entertainment", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "Skip Barber racing school - traveling race car driving school circuit", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Modal - Shopify for car dealers enabling online car sales and workflow automation", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Spoonflower - marketplace for fabric designers and buyers, design contests", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Margaritaville - brand extension from Jimmy Buffett restaurants and hospitality", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Dollywood - theme park extension of Dolly Parton celebrity brand", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Fenty - Rihanna cosmetics empire exceeding $1B valuation", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Honest Company - Jessica Alba CPG/beauty brand via IPO", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Birth dividend policy - government deposits $2500-5000 at birth, locked until age 21", "who": "Story", "conviction": "throwaway"},
+    {"idea": "Anti-aging human rejuvenation therapy to repair aging damage before cell death", "who": "Story", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "Virtual shooting ranges will become profitable business model for bars, events, homes"},
+    {"who": "Sam", "text": "Aubrey de Grey anti-aging research will eventually yield human rejuvenation therapy"}
+  ]
+}

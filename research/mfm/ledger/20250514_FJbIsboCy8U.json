@@ -1,0 +1,47 @@
+{
+  "approx_date": "2025-05",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Concierge health service focused on aesthetics and appearance optimization like Function Health",
+      "who": "Anker",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Business enabling US consumers to bypass the industrial food system with direct farm-to-consumer access",
+      "who": "Anker",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Travel agent service that optimizes and books luxury flights using credit card points",
+      "who": "Anker",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Marketplace for buying and selling airline miles between individuals at arbitrage prices",
+      "who": "Anker",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Padel tennis court expansion operator targeting underserved Tier 2 US cities",
+      "who": "Anker",
+      "conviction": "serious"
+    },
+    {
+      "idea": "White-label social rating and ranking app for padel players adapted to US market",
+      "who": "Anker",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Personal task and home maintenance management software for individual homeowners",
+      "who": "Anker",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Anker",
+      "text": "Padel will see massive mainstream adoption in US within 2 years based on exponential Google trends growth"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "approx_date": "2022-09",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Demand prediction SaaS for restaurants and retail (food prep, inventory forecasting)",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Travel arbitrage marketplace connecting buyers with travelers (Grabr.io model)",
+      "who": "Sam",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Personal musician marketing platform with DM campaigns, personalized songs, automated follow-up",
+      "who": "Shaan",
+      "conviction": "story"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "Demand prediction businesses could save 10-15% waste across restaurants and e-com, worth tens to hundreds of billions annually"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "approx_date": "2023-03",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "ChatSpot - natural language interface for CRM/HubSpot using GPT API",
+      "who": "Guest",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Vector embedding semantic matching for founder communities (Hampton use case)",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Build on chat.com domain - natural language interface to software platform",
+      "who": "Guest",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "OpenAI will become top 3 most likely trillion-dollar private company within 10 years"
+    },
+    {
+      "who": "Guest",
+      "text": "Natural language interface is biggest tech paradigm shift since the internet itself"
+    },
+    {
+      "who": "Guest",
+      "text": "By end of 2023 will have practical text-to-video generation with style/director specifications"
+    },
+    {
+      "who": "Guest",
+      "text": "Vector embeddings/semantic search is billion-dollar idea repeating billion times across industries"
+    }
+  ]
+}

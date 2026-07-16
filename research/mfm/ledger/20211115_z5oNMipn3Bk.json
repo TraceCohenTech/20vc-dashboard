@@ -1,0 +1,17 @@
+{
+  "approx_date": "2021-11",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Southern Sam's Sticky Icky: low-sugar ketchup and sauce brand", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Disneyland-style theme park for dogs with entertainment", "who": "Shaan", "conviction": "throwaway"},
+    {"idea": "Religious-themed theme park similar to Holy Land Experience", "who": "Shaan", "conviction": "throwaway"},
+    {"idea": "Unbundled experiences from theme parks (parade services, photo ops)", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Creator camp: sleepaway camp to learn online content creation", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Low-sugar condiment products on UberEats to test demand", "who": "Shaan", "conviction": "throwaway"},
+    {"idea": "Athlete-led training resort or camp experience", "who": "Shaan", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "Health-conscious consumers will pay premium for low-sugar versions of condiments like ketchup"},
+    {"who": "Shaan", "text": "Out-of-home experiences will boom as digital fatigue increases post-pandemic"}
+  ]
+}

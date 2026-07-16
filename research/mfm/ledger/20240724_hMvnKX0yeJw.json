@@ -1,0 +1,41 @@
+{
+  "approx_date": "2024-07",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "AI dropshipping: niche wedges combining AI models with marketing distribution.",
+      "who": "Sarah",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "AI companion app for underserved niche segments targeting specific demographics.",
+      "who": "Sarah",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Voice automation agents for service businesses like restaurants, HVAC, dental offices.",
+      "who": "Sarah",
+      "conviction": "serious"
+    },
+    {
+      "idea": "AI e-commerce assistant managing listings, pricing, copy across platforms.",
+      "who": "Sarah",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Personalized email autocomplete trained on user's writing voice.",
+      "who": "Guest",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sarah",
+      "text": "Every small business will eventually need an AI agent like every business needs a website today."
+    },
+    {
+      "who": "Sarah",
+      "text": "Healthcare admin automation is fertile ground as billing and coding are slow and manual."
+    }
+  ]
+}

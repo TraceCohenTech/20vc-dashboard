@@ -1,0 +1,27 @@
+{
+  "approx_date": "2026-01",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Somewhere (formerly Shepherd) - international hiring and global talent platform",
+      "who": "Nick Huber",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Kitchen cleaning marketplace connecting restaurants to cleaning services",
+      "who": "Panel",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Roofing company acting as middleman between materials/labor and customers",
+      "who": "Story",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Nick Huber",
+      "text": "Real estate will be less competitive in coming years, creating opportunity for growth and acquisition"
+    }
+  ]
+}

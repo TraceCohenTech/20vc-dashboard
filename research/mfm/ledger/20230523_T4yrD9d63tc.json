@@ -1,0 +1,45 @@
+{
+  "approx_date": "2023-05",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Biological age testing service similar to Inside Tracker with upsell strategy.",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "AI-generated celebrity voice service for fans similar to Cameo.",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Delphi AI digital cloning platform capturing expert knowledge and voice.",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "AI Santa personalized voice service for holiday messages to kids.",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Replica AI chatbot girlfriends engaged user community platform.",
+      "who": "Story",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "Metformin will become popular longevity drug outside diabetic use globally."
+    },
+    {
+      "who": "Sam",
+      "text": "AI body doubles and digital clones will be transformative trend next two years."
+    },
+    {
+      "who": "Panel",
+      "text": "Celebrity licenses will start offering AI versions for residual voice revenue."
+    }
+  ]
+}

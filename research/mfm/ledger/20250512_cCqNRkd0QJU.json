@@ -1,0 +1,51 @@
+{
+  "approx_date": "2025-05",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Kids dance studio: recurring revenue model ($250/mo, shows, photos, recitals)",
+      "who": "Story",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Goldfish: franchise children's swim classes ($600M revenue, $2M per location)",
+      "who": "Story",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "I-by-fax: email-to-fax service bridging Amish businesses to internet customers",
+      "who": "Story",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Lap of Love: at-home pet euthanasia service (10K customers/month at $500-1000)",
+      "who": "Story",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Tarro: AI phone ordering for restaurants, 3000+ locations, $100M run rate",
+      "who": "Story",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Owner.com: restaurant POS + website + SEO rank-own-name solution",
+      "who": "Story",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "MFM Made challenge: 30-day skill-building sprint with coaches and performance date",
+      "who": "Sam",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "AI accent-changers will enable Indian call centers to sound American automatically"
+    },
+    {
+      "who": "Sam",
+      "text": "AI-powered call centers will cut staff by 50% while maintaining or increasing profit margins"
+    }
+  ]
+}

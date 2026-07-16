@@ -1,0 +1,31 @@
+{
+  "approx_date": "2025-06",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "AI body double trained on personal content (blog, tweets, videos) that answers questions better than the person",
+      "who": "Guest",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Plaid for AI tools - port context/memory across AI apps without full data handoff",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "AI video generation for promotional content (Higsfield or similar to create speaker promos)",
+      "who": "Guest",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "Best employees will eventually work for millions of companies via productized AI agents instead of traditional hiring"
+    },
+    {
+      "who": "Sam",
+      "text": "Will spend 24 hours per day in ChatGPT soon, making traditional app interfaces obsolete"
+    }
+  ]
+}

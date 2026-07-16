@@ -1,0 +1,27 @@
+{
+  "approx_date": "2024-06",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Cover: AI weapon detection system for schools, stadiums, hospitals using radar imaging technology",
+      "who": "Brett Adcock",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Lab-grown synthetic meat using cultured cells instead of raising livestock",
+      "who": "Brett Adcock",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Electric supersonic aircraft with hybrid capabilities for different altitudes and speeds",
+      "who": "Brett Adcock",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Brett Adcock",
+      "text": "As human longevity increases, people will demand imaging systems for safety in all public spaces"
+    }
+  ]
+}

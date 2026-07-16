@@ -1,0 +1,14 @@
+{
+  "approx_date": "2022-11",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Rick's Entertainment: Publicly traded strip club conglomerate buying mom-and-pop clubs", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Empty legs arbitrage: Resell empty private jet repositioning flights to consumers at margin", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Adept.ai: AI system that uses internet browser to automate business tasks", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Custom novelty dollar bills: Real dollars with celebrity face stickers, sold at markup online", "who": "Guest", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "Strippers and service workers know economic sentiment before economists; tips precede recessions"},
+    {"who": "Shaan", "text": "Private jet empty legs market will grow as more founders discover the arbitrage"}
+  ]
+}

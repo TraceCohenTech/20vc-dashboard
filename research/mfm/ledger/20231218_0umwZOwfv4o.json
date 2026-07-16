@@ -1,0 +1,18 @@
+{
+  "approx_date": "202312",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Val's real estate portfolio business, 150-200M revenue, fully bootstrapped.", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Humanoid robot company (Figure AI) needing $1T to change the world.", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Offshore talent hiring platform (Shepherd) supporting business growth.", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Founder peer community (Hampton) for $1M+ revenue entrepreneurs.", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Acquire existing profitable businesses and optimize via marketing.", "who": "Andrew", "conviction": "serious"},
+    {"idea": "Angel investing in growing startups with added marketing support.", "who": "Andrew", "conviction": "serious"},
+    {"idea": "Immigration services (bring engineers/lawyers from Turkey to USA).", "who": "Panel", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "Humanoid robots will be bigger industry than Tesla."},
+    {"who": "Andrew", "text": "Acquiring good businesses and adding marketing delivers 10x+ returns."},
+    {"who": "Andrew", "text": "Angel investing in growing portfolio companies beats venture returns."}
+  ]
+}

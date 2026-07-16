@@ -1,0 +1,31 @@
+{
+  "approx_date": "2026-03",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Create AI-generated artist with avatar, build fanbase on Instagram, release music on Spotify",
+      "who": "Chili",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Podcast interviews with AI-recreated dead historical figures using voice cloning and avatars",
+      "who": "Chili",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Digital clone AI chatbot business similar to deli.ai for famous figures",
+      "who": "Story",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Dani",
+      "text": "Six out of ten people will regret their career choices, mostly inaction regrets not mistakes"
+    },
+    {
+      "who": "Dani",
+      "text": "Passion matters more than grit to avoid burnout in long careers"
+    }
+  ]
+}

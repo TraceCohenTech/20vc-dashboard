@@ -1,0 +1,37 @@
+{
+  "approx_date": "2025-05",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "AI-powered platform for creating video games using natural language prompts with game engines",
+      "who": "Guillermo",
+      "conviction": "serious"
+    },
+    {
+      "idea": "AI camera app that intelligently enhances photos with optimal composition and removes objects",
+      "who": "Guillermo",
+      "conviction": "serious"
+    },
+    {
+      "idea": "AI-powered form builder alternative to Typeform with intelligent question generation",
+      "who": "Guillermo",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Absurdly smart autocomplete for email and documents with full context awareness",
+      "who": "Guillermo",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Domain-specific AI creation platforms similar to V0 for other verticals like e-commerce",
+      "who": "Guillermo",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guillermo",
+      "text": "AI will democratize creation and deployment across all industries by removing technical barriers"
+    }
+  ]
+}

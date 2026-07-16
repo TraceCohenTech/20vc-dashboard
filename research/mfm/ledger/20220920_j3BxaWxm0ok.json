@@ -1,0 +1,31 @@
+{
+  "approx_date": "2022-09",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Premium bathroom product ecosystem (fixtures, accessories, hardware) with Apple-level design focus",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "D2C direct-to-consumer IQ test or personality test subscription platform with funnel ads",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Deal Doula service: M&A and fundraising coaching for founders (not a traditional advisor)",
+      "who": "Shaan",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "Personality testing company like Gallup StrengthsFinder generates hundreds of millions annually; D2C IQ test could reach nine figures"
+    },
+    {
+      "who": "Sam",
+      "text": "Premium bathroom company could reach $1B valuation like Nest thermostat due to multi-product cross-sell potential"
+    }
+  ]
+}

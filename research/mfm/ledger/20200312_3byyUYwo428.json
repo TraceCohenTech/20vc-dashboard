@@ -1,0 +1,26 @@
+{
+  "approx_date": "2020-03",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Run the World: digital conference platform during coronavirus.", "who": "Sam", "conviction": "serious"},
+    {"idea": "Book clubs for niche audiences (romance novels most profitable).", "who": "Sam", "conviction": "serious"},
+    {"idea": "Buy and revitalize legacy book properties (Book of the Month Club).", "who": "Sam", "conviction": "serious"},
+    {"idea": "Romance novel subscription boxes ($30-50/month).", "who": "Sam", "conviction": "serious"},
+    {"idea": "Notion template marketplace and app store for power users.", "who": "Sam", "conviction": "serious"},
+    {"idea": "Agora model: lead gen funnels ($5 book -> $2k newsletter backend).", "who": "Sam", "conviction": "serious"},
+    {"idea": "Just Talking: companionship-as-service for 50+ year-olds online.", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Papa: grandkids-as-a-service for elderly care and companionship.", "who": "Sam", "conviction": "already building/built"},
+    {"idea": "Honor: on-demand caretaker platform for home healthcare.", "who": "Sam", "conviction": "already building/built"},
+    {"idea": "Relationship Hero: online dating coaching for older singles.", "who": "Sam", "conviction": "already building/built"},
+    {"idea": "Open Door: house flipping at scale using data-driven models.", "who": "Sam", "conviction": "already building/built"},
+    {"idea": "Made Renovation: turnkey bathroom renovation ($5k, four designs).", "who": "Sam", "conviction": "already building/built"},
+    {"idea": "Lucy: nicotine gum subscription ($monthly deliveries).", "who": "Sam", "conviction": "already building/built"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "Stripe could become $100B+ company; already $20B+ valuation now."},
+    {"who": "Sam", "text": "Self-driving car leader will be worth $100B+; Tesla only incumbent."},
+    {"who": "Sam", "text": "Sports betting stocks will outperform as legislation opens up."},
+    {"who": "Sam", "text": "Browser replacements (Brave, etc) could be multi-billion exit."},
+    {"who": "Shaan", "text": "Stock market outperformance via FANG 5 beats venture capital returns."}
+  ]
+}

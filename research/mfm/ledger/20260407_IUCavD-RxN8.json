@@ -1,0 +1,39 @@
+{
+  "approx_date": "2026-04",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Buy-and-build roll-ups in services (plumbing, HVAC, property management)",
+      "who": "Graham",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Theme park in Dallas",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Free hospitals in India",
+      "who": "Story",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Graham",
+      "text": "AI will become commoditized in most industries; talent and operations matter more than technology moat"
+    },
+    {
+      "who": "Graham",
+      "text": "AI-native apps getting attacked by LLMs introducing new products; venture-backed apps at inflated valuations going to zero"
+    },
+    {
+      "who": "Graham",
+      "text": "Services roll-ups with deep customer relationships will win with AI as tailwind"
+    },
+    {
+      "who": "Graham",
+      "text": "Alpine plumbing rollup grew from $8M to $500M EBITDA in 6 years through systematic acquisition and talent"
+    }
+  ]
+}

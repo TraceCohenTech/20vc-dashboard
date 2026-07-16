@@ -1,0 +1,20 @@
+{
+  "approx_date": "2024-03",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Daily Stoic newsletter with merch/coins/ads monetization model", "who": "Sam", "conviction": "story"},
+    {"idea": "Memento Mori coins with Latin inspirational messages", "who": "Ryan Holiday", "conviction": "already building/built"},
+    {"idea": "James Patterson co-author scaling model for book publishing", "who": "Sam", "conviction": "story"},
+    {"idea": "Jack Carr books with product placement and affiliate links", "who": "Sam", "conviction": "story"},
+    {"idea": "James Clear Habits App partnered with Andrew Wilkinson (40% Tiny, 60% James)", "who": "Sam", "conviction": "already building/built"},
+    {"idea": "Huberman Yerba Mate drink partnership with Andrew Wilkinson", "who": "Sam", "conviction": "already building/built"},
+    {"idea": "MeatEater.com lifestyle brand expanding to $100M revenue", "who": "Sam", "conviction": "story"},
+    {"idea": "Hugh Howey self-published sci-fi strategy via Amazon with 500K copies sold", "who": "Sam", "conviction": "story"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "James Clear Habits App won't make as much as his boring businesses but 30-40M ARR possible"},
+    {"who": "Sam", "text": "Andrew Wilkinson's 3-5 content-to-commerce partnerships will generate $300M+ combined value"},
+    {"who": "Sam", "text": "MeatEater will be worth hundreds of millions or billion dollars in next 10 years"},
+    {"who": "Sam", "text": "Jack Carr will eventually make more money from affiliate product sales than book royalties"}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "approx_date": "2025-12",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "AI-powered personal clone trained on email/Slack/calls to attend meetings and answer questions", "who": "Brian Halligan", "conviction": "serious"},
+    {"idea": "Job-specific AI assistant apps (Harvey for law, Rogu for investment banking, Profound for AEO)", "who": "Brian Halligan", "conviction": "story"}
+  ],
+  "predictions": [
+    {"who": "Brian Halligan", "text": "AI will be CEO of a company within 5 years, possibly OpenAI leading this trend"},
+    {"who": "Brian Halligan", "text": "Most major AI companies are already founded; consolidation will happen in next 1-2 years"},
+    {"who": "Brian Halligan", "text": "Wealth gap will widen significantly as AI amplifies advantages for high-agency people vs passive ones"},
+    {"who": "Brian Halligan", "text": "Five-tool CEOs (code, taste, sell, fundraise, recruit) will dominate next generation of startups"}
+  ]
+}

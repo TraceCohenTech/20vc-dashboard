@@ -1,0 +1,15 @@
+{
+  "approx_date": "2025-08",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Ramp: corporate credit card for small businesses/creators with expense management.", "who": "Eric", "conviction": "already building/built"},
+    {"idea": "Manufactured homes factory for affordable housing with modern distribution", "who": "Eric", "conviction": "throwaway"},
+    {"idea": "Crypto-related business in blockchain/Web3 space", "who": "Eric", "conviction": "throwaway"},
+    {"idea": "Direct-to-consumer healthcare services", "who": "Guest", "conviction": "throwaway"},
+    {"idea": "Modern co-brand credit card for retailers and online creators", "who": "Eric", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Eric", "text": "Ramp will double revenue annually at scale and remain profitable for decades"},
+    {"who": "Eric", "text": "Manufactured homes industry still broken by zoning, not manufacturing costs"}
+  ]
+}

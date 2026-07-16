@@ -1,0 +1,18 @@
+{
+  "approx_date": "2025-07-11",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Live shopping with AI avatars for influencer-driven commerce", "who": "Howie", "conviction": "serious"},
+    {"idea": "AI-powered personalized news aggregator with interactive expert-like interface", "who": "Howie", "conviction": "serious"},
+    {"idea": "White-label AI newsletter platform for creators with customizable personalities", "who": "Howie", "conviction": "serious"},
+    {"idea": "AI avatar financial advisors for high-net-worth individuals providing personalized guidance", "who": "Howie", "conviction": "serious"},
+    {"idea": "AI-automated call centers and BPO services for cost reduction", "who": "Howie", "conviction": "serious"},
+    {"idea": "AI-enhanced email client with agentic features and vector database integration", "who": "Howie", "conviction": "serious"},
+    {"idea": "AI-native consumer social app with AI avatar participants and new engagement models", "who": "Howie", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Howie", "text": "18-year-olds will trust AI more than human doctors in medical diagnostics within 5 years"},
+    {"who": "Howie", "text": "Developer audience will expand to 50-100 million and AI will create massive TAM opportunities"},
+    {"who": "Howie", "text": "New consumer behaviors in AI-native era will emerge that we haven't yet predicted"}
+  ]
+}

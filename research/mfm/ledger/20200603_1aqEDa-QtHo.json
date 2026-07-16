@@ -1,0 +1,46 @@
+{
+  "approx_date": "2020-06",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "You probably need a haircut: virtual barber shop with stylists for DIY or friend haircuts",
+      "who": "Greg",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Metamucil for Millennials: D2C subscription fiber supplement with modern brand",
+      "who": "Greg",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Second Opinion calm: get unbiased advice on relationships, decisions, anything via text",
+      "who": "Greg",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Wash and fold service for low-income families to reclaim productive time",
+      "who": "Greg",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Watercolors: Spotify for unfinished work—artists share raw snippets, WIPs, unpolished pieces",
+      "who": "Greg",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Chef's table: drop-based luxury meal delivery with live IG stream from chef during prep",
+      "who": "Greg",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Greg",
+      "text": "You probably need a haircut will definitely go viral; 150K uniques in first 24 hours"
+    },
+    {
+      "who": "Greg",
+      "text": "Battelle sleep school could be $1M/year business or scale to $1B depending on vertical expansion"
+    }
+  ]
+}

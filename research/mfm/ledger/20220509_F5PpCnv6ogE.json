@@ -1,0 +1,31 @@
+{
+  "approx_date": "2022-05",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "High-stakes celebrity poker games live-streamed for entertainment value and content virality",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Acquire and roll up faceless YouTube channels with strong viewership without creator dependency",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Tracking personal life data (sleep, mood, productivity, diet, location) for 8 years and publishing findings",
+      "who": "Story",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "Content creators burning out from 10-hour daily streaming will look for exit businesses not tied to personal brand"
+    },
+    {
+      "who": "Sam",
+      "text": "Intro.com style time-selling platforms will scale beyond early adopters as professionals monetize availability"
+    }
+  ]
+}

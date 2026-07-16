@@ -1,0 +1,51 @@
+{
+  "approx_date": "2021-04",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Pickleball newsletter grew into merch, van sales, then retail store distribution.",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Domainflip play: buy misspelled TLDs of popular sites, capture lost traffic.",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Outline.com: bypass paywalls on news sites, read full articles for free.",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Business Pocket: news alert service tracking competitors and chosen companies.",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Robo Fish and mechanical pets for kids as alternative to live pet maintenance.",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Weighted robotic pet for dementia patients to provide comfort therapy.",
+      "who": "Story",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Adidas acquired for billions; brand licensing as path to massive value.",
+      "who": "Story",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "Robo fish will sell well to kids and families looking for low-maintenance pets."
+    },
+    {
+      "who": "Shaan",
+      "text": "Robotic pets for elderly will grow as healthcare solution for isolation and mood."
+    }
+  ]
+}

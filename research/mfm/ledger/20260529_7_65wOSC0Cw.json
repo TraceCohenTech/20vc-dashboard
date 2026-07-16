@@ -1,0 +1,50 @@
+{
+  "approx_date": "2026-05-29",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Build niche cable networks focused on single genre to compete with broadcast monopolies",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Create reality TV concept where real people live together on camera without scripts",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Develop music video channel as alternative to radio for promoting music and artists",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Build children's network and content studio to compete with Disney in kid programming",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Invest in emerging creative talent through festivals and direct partnerships",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Create high-margin consumer products from TV IP including toys and feature films",
+      "who": "Story",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "Creator economy and Patreon model will replace cable network distribution for most creators"
+    },
+    {
+      "who": "Guest",
+      "text": "Direct-to-consumer platforms will drive more value than traditional media gatekeepers"
+    },
+    {
+      "who": "Guest",
+      "text": "Music videos will remain relevant cultural format despite MTV's shift away from them"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "approx_date": "2023-06",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "GA4 migration service business - help companies migrate from Google Analytics to GA4 for $1500+",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "B2B trade show business in niche industries - automotive testing, aircraft interiors, fintech events",
+      "who": "Panel",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Niche Twitter influencer partnerships for trade shows (strip mall guy, motorhome guy, etc.)",
+      "who": "Sam",
+      "conviction": "says he might build it"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "GA4 migration services could generate $1M+ revenue in 6 months due to forced migration pressure"
+    },
+    {
+      "who": "Panel",
+      "text": "B2B trade shows sell for 10-15x profit multiples versus Ecom at 1x revenue; more defensible"
+    },
+    {
+      "who": "Sam",
+      "text": "Podcasts have significantly more influence than believed; will shape next political election outcomes"
+    },
+    {
+      "who": "Panel",
+      "text": "Trade show businesses can last 100+ years; survive recessions better than consumer-focused businesses"
+    }
+  ]
+}

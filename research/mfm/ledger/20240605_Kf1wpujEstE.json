@@ -1,0 +1,26 @@
+{
+  "approx_date": "2024-06",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Sam's List - accountant review directory built from Twitter survey, monetize via referrals",
+      "who": "Sam",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Multiple new product lines at Shopify - expand portfolio with experimental commerce products",
+      "who": "Tobi",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Tobi",
+      "text": "Businesses must balance risk injection with organizational stability as they scale beyond early stage"
+    },
+    {
+      "who": "Tobi",
+      "text": "Loosening grip on business (delegating more) paradoxically improves control and team performance"
+    }
+  ]
+}

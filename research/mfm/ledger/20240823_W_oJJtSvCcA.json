@@ -1,0 +1,41 @@
+{
+  "approx_date": "2024-08",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Clone Body Spec DEXA scan mobile service to Europe partner with gyms",
+      "who": "Jack",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Medical tourism coordination for elective surgery plastic surgery abroad",
+      "who": "Story",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Digital detox and tech recovery center for burned out entrepreneurs",
+      "who": "Jack",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Concierge biohacking center for anti-aging wellness in other countries",
+      "who": "Jack",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Shockwave therapy machine for erectile dysfunction and aging",
+      "who": "Jack",
+      "conviction": "says he might build it"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Jack",
+      "text": "Full-body MRI scanning will become more affordable and mainstream for preventive health"
+    },
+    {
+      "who": "Panel",
+      "text": "Burnout and founder overwork will drive demand for recovery and wellness services"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "approx_date": "2025-08",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Money Models framework for sequencing customer offers to maximize lifetime value",
+      "who": "Alex Hormozi",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Gym business with tiered offerings and high-margin upsells beyond memberships",
+      "who": "Alex Hormozi",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Teeth whitening and medical spa franchises leveraging demand-supply mismatch",
+      "who": "Alex Hormozi",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Talent sourcing platform connecting overseas engineers with US businesses",
+      "who": "Alex Hormozi",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Advisory practice charging for diligence process to fund acquisition pipeline",
+      "who": "Alex Hormozi",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Alex Hormozi",
+      "text": "Businesses with high demand-supply inequality in services will scale fastest"
+    },
+    {
+      "who": "Alex Hormozi",
+      "text": "Cash-flowing customer acquisition will replace traditional venture capital model"
+    }
+  ]
+}

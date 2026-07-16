@@ -1,0 +1,46 @@
+{
+  "approx_date": "2022-07",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Modernized Toastmasters: Discord-based public speaking groups instead of meetings",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Productized content remixing: repurpose podcasts into tweets and LinkedIn posts",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "D2C sparkling water machine competing with Soda Stream using viral marketing",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "YouTube Shorts optimization: mass produce clips to drive main channel viewers",
+      "who": "Story",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Twitter ghostwriting service: ghostwrite professional tweets for business leaders",
+      "who": "Story",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Growth assistant service: hire overseas team for growth hacking tasks",
+      "who": "Story",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "D2C soda stream competitor idea could become a 100 million dollar business"
+    },
+    {
+      "who": "Panel",
+      "text": "Power writing course will maintain strong sales despite economic downturn"
+    }
+  ]
+}

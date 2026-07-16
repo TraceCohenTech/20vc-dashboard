@@ -1,0 +1,44 @@
+{
+  "approx_date": "2024-07",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "VIP whale programs for gambling and sports betting platforms targeting high-volume players",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Trading apps designed like mobile games to maximize addiction and user engagement (Robinhood model)",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Building personal newsletters on Beehiiv as a way to dogfood and understand your own product",
+      "who": "Tyler",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Indie hacker movement: one-person teams building valuable software for niche audiences",
+      "who": "Story",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "Prediction markets will grow exponentially and become primary source for election and event odds"
+    },
+    {
+      "who": "Shaan",
+      "text": "Gambling and sports betting products will continue to optimize for addiction and whale retention"
+    },
+    {
+      "who": "Shaan",
+      "text": "Self-driving technology will eliminate ninety-five percent of traffic accidents within ten years"
+    },
+    {
+      "who": "Sam",
+      "text": "Content creators who stay true to authentic voice outperform those optimizing for algorithm and clicks"
+    }
+  ]
+}

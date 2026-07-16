@@ -1,0 +1,19 @@
+{
+  "approx_date": "2021-12",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Miss Excel: TikTok Excel tips and tricks with course backend", "who": "Shaan", "conviction": "already building/built"},
+    {"idea": "RockAuto-style auto parts marketplace via search/direct traffic", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Attorney training resort: UFC Performance Institute model for athletes", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Bali Fight Club: combat sports vacation with pro trainers", "who": "Guest", "conviction": "already building/built"},
+    {"idea": "Healthiest food database and guide (vs Eat This Not That)", "who": "Shaan", "conviction": "serious"},
+    {"idea": "TikTok clips for healthiest food at chains affiliate model", "who": "Shaan", "conviction": "throwaway"},
+    {"idea": "Chess platform charging subscription like chess.com", "who": "Panel", "conviction": "throwaway"},
+    {"idea": "Workweek: talent agency for individual content creators", "who": "Story", "conviction": "says he might build it"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "Miss Excel will hit 100 million in lifetime sales in low-code course space"},
+    {"who": "Shaan", "text": "Healthiest-food niche can sustain multi-million affiliate and content business"},
+    {"who": "Shaan", "text": "Demand for athletic training experiences will sustain premium resort pricing"}
+  ]
+}

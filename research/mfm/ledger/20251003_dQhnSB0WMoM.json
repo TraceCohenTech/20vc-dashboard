@@ -1,0 +1,14 @@
+{
+  "approx_date": "2025-10",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Sora - AI video generation with face/voice synthesis enabling multiplayer social content creation.", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Sunflower Sober - AI-based addiction recovery app replacing human sponsors with always-available support.", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Personalized AI learning tutor tailored to individual knowledge gaps and goals.", "who": "Story", "conviction": "already building/built"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "Sora will become fastest-to-100M-downloads app, potentially most downloaded in history."},
+    {"who": "Sam", "text": "OpenAI may become larger than Facebook, Google, and major media companies combined."},
+    {"who": "Sam", "text": "Multiplayer AI apps will dominate over single-player tools as adoption accelerates."}
+  ]
+}

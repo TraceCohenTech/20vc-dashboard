@@ -1,0 +1,16 @@
+{
+  "approx_date": "202312",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Plunge: at-home cold plunge device, 100M+ revenue, bootstrapped.", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Real Short: scripted romance soap opera short-form video app for US.", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Supplement testing and review platform in TikTok format like FlavoCity.", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Most trusted supplement verification brand using short-form video.", "who": "Shaan", "conviction": "serious"},
+    {"idea": "New age Consumer Reports for supplements, subscription model.", "who": "Shaan", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "Real Short will succeed where Quibby failed by creating junk food content people love."},
+    {"who": "Shaan", "text": "Short-form video is now the dominant content format across all platforms."},
+    {"who": "Shaan", "text": "Supplement testing business can scale to 200M+ revenue like Consumer Reports."}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "approx_date": "2026-06",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Fake food delivery app: browse restaurants, add to cart, but nothing gets delivered.", "who": "Story", "conviction": "throwaway"},
+    {"idea": "Virtual smoke break: chat rooms where people take social breaks without smoking.", "who": "Story", "conviction": "throwaway"},
+    {"idea": "Shared scale economies business: pass savings to customer, not shareholders.", "who": "Shaan", "conviction": "good crazy"},
+    {"idea": "PSA-like grading for handbags, vintage denim, and collectible clothing authentication.", "who": "Shaan", "conviction": "good crazy"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "Trends move from Asia to West: short-form drama will be huge in US soon."},
+    {"who": "Shaan", "text": "Every niche collectible has an opportunity for trust-based grading system."}
+  ]
+}

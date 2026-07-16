@@ -1,0 +1,26 @@
+{
+  "approx_date": "2022-09",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Stock option pooling platform: employees can diversify equity risk across tech company options instead of betting all on one startup",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Incentive design SaaS for sales/business operations: optimize commissions, bonuses, clawbacks, loss aversion mechanics",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "Tech employees can become millionaires through stock options; pooling options reduces concentration risk"
+    },
+    {
+      "who": "Shaan",
+      "text": "Figma will be one of first massive exits from WebGL technology inflection point"
+    }
+  ]
+}

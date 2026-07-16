@@ -1,0 +1,60 @@
+{
+  "approx_date": "2022-09",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Orangewood Robotics - programmable robotic arms for painting and precision tasks",
+      "who": "Jake",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Cafe X - automated robotic coffee machines in compact kiosk format",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "General purpose robotic arms for manufacturing, welding, pick-and-pack",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Auto charging connector for electric vehicles via robotic arm",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Veterie - job board for hiring engineers, sold for $120M+",
+      "who": "Sam",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Archer/Joby Aviation - electric VTOL aircraft with $1B+ valuation",
+      "who": "Sam",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Humanoid robots for labor-intensive service industry jobs",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "TikTok content strategy and influencer management business",
+      "who": "Sam",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "Humanoid robots will displace 5-10 percent of US workforce in next decade"
+    },
+    {
+      "who": "Sam",
+      "text": "General purpose robotic arms will commoditize and create AI software layer opportunity"
+    },
+    {
+      "who": "Sam",
+      "text": "TikTok book recommendation strategy will push titles to #1 in Amazon charts"
+    }
+  ]
+}

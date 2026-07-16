@@ -1,0 +1,27 @@
+{
+  "approx_date": "2023-09",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Creator-owned VPN service leveraging international audiences for recurring revenue",
+      "who": "John",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Roll-up of ammunition manufacturers to consolidate and optimize operations",
+      "who": "John",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Viral personality quiz/astrology app using LLMs and Barnum effect psychology",
+      "who": "John",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "John",
+      "text": "Someone will soon build a viral personality quiz using LLMs exploiting the Barnum effect"
+    }
+  ]
+}

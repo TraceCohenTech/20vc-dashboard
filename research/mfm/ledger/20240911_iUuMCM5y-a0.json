@@ -1,0 +1,45 @@
+{
+  "approx_date": "2024-09-11",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Cosme: mini dome entertainment venue showing sports with immersive IMAX-style experience",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Innovation in sleepy industries: cookware, appliances, home goods with modern branding and marketing",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "HexClad: hybrid nonstick/stainless cookware with distinctive hexagon design and celebrity backing",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Shark Ninja model: bootstrap consumer appliance company with rapid scaling and product innovation",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Smart kitchen appliances with AI (June oven with bagel recognition) for high-AOV customers",
+      "who": "Story",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "Sleepy industries with large markets and low innovation are best opportunities for founder success"
+    },
+    {
+      "who": "Sam",
+      "text": "Brand marketing and influencer backing can drive significant valuations even in commodity categories"
+    },
+    {
+      "who": "Sam",
+      "text": "Consumer products with high AOV and good branding can achieve hundreds of millions in revenue"
+    }
+  ]
+}

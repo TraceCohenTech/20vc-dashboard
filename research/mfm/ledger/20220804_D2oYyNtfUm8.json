@@ -1,0 +1,23 @@
+{
+  "approx_date": "2022-08",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "AI-generated speech/voiceovers using voice cloning technology for podcasts and ads", "who": "Sam", "conviction": "already building/built"},
+    {"idea": "AI-trained essay generation service, disrupting plagiarism and writing assignments", "who": "Sam", "conviction": "serious"},
+    {"idea": "AI deepfake and AI-generated content detection services", "who": "Sam", "conviction": "serious"},
+    {"idea": "AI-generated patterns and prints for fashion/apparel, disrupting Spoonflower marketplace", "who": "Sam", "conviction": "serious"},
+    {"idea": "AI-generated fake stock photos with customizable faces for testimonials and marketing", "who": "Sam", "conviction": "serious"},
+    {"idea": "Twitter native empire builder, applying YouTube creator playbook to Twitter for 5-7 years", "who": "Sam", "conviction": "serious"},
+    {"idea": "Twitter personality with real-world crossover via celebrities, events, books, and media", "who": "Sam", "conviction": "serious"},
+    {"idea": "Gamified gym concept structured like video game with levels, cosmetics, and fitness tracking", "who": "Guest", "conviction": "serious"},
+    {"idea": "Premium cable and connector accessories company for office environments", "who": "Guest", "conviction": "throwaway"},
+    {"idea": "Peter Thiel Fellowship validated by examining outcomes (Ethereum, Figma, OYO Rooms)", "who": "Story", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "Creation of AI-generated content AND detection services will both boom simultaneously"},
+    {"who": "Sam", "text": "AI marketplaces will disrupt and replace traditional creator/designer platforms like Spoonflower"},
+    {"who": "Sam", "text": "Billionaires will be created on Twitter in the next 2-3 years by serious content builders"},
+    {"who": "Sam", "text": "Someone will take YouTube creator playbook seriously on Twitter and build massive empire"},
+    {"who": "Sam", "text": "Peter Thiel Fellowship proves high-IQ individuals can build world-changing companies"}
+  ]
+}

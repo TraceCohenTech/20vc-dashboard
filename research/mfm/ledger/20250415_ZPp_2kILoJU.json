@@ -1,0 +1,45 @@
+{
+  "approx_date": "2025-04",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Network-based comedians' platform competing with Netflix for comedy specials distribution.",
+      "who": "Guest",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Vampire attacks on competitor networks by recruiting key network nodes strategically.",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Photo sharing platform emphasizing social features over content storage.",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Personality quiz platform (Tickle) monetizing novelty and viral virality.",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Gaming company leveraging network effects and social gameplay mechanics.",
+      "who": "Story",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "Network effects and long-term thinking will create defensibility moats for surviving founders."
+    },
+    {
+      "who": "Guest",
+      "text": "Companies with 10+ year horizons significantly outperform short-term optimization strategies."
+    },
+    {
+      "who": "Guest",
+      "text": "Language and naming strategy drives 3-5x variance in user acquisition costs across products."
+    }
+  ]
+}

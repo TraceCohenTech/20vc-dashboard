@@ -1,0 +1,36 @@
+{
+  "approx_date": "2023-11",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Resi Club - residential real estate education platform and data service with news newsletter",
+      "who": "Pomp",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Persistent Patrol companies using computer vision for government revenue enforcement",
+      "who": "Pomp",
+      "conviction": "serious"
+    },
+    {
+      "idea": "AI agents to discover business opportunities and create execution plans",
+      "who": "Story",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Acquisition of top Fiverr/Upwork profiles with AI operational leverage",
+      "who": "Pomp",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Pomp",
+      "text": "Computer vision will become persistent enforcement eye for government revenue collection"
+    },
+    {
+      "who": "Pomp",
+      "text": "AI agents will eventually enable operational leverage improvements on freelance platforms"
+    }
+  ]
+}

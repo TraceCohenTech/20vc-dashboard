@@ -1,0 +1,46 @@
+{
+  "approx_date": "2024-03",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "37 Signals: self-funded SaaS business with 25-year track record, tens of millions annual profit, high margins.",
+      "who": "Guest",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Basecamp: project management software at $299/month flat for unlimited users, no per-user pricing.",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "HEY: email service focused on privacy and reducing email overwhelm, inbox as curation tool.",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Campfire (revival): $299 one-time purchase installable chat software, own your data, unlimited users.",
+      "who": "Guest",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Once.com: umbrella brand for one-time-purchase SaaS products alternative to recurring subscription model.",
+      "who": "Guest",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "We Work Remotely job board: sold to Andrew Wilkinson, now generating $4M annual profit.",
+      "who": "Story",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "Recurring revenue model has become exploitative; one-time purchase software will regain market share as pricing gets excessive."
+    },
+    {
+      "who": "Jeff Bezos",
+      "text": "Long-term thinking and founder-controlled businesses can sustain profitability better than venture-backed growth-at-all-costs."
+    }
+  ]
+}

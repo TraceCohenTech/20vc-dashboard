@@ -1,0 +1,31 @@
+{
+  "approx_date": "2026-02",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Simplify government bureaucracy: reduce retirement paperwork from 6-12 months to days",
+      "who": "Guest",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Fix systemic government UX problems that have no political or financial incentive",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Reinvent yourself into a role that didn't exist but perfectly fits your unique skills",
+      "who": "Guest",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "Intensity is the dominant strategy separating billionaires from ordinary entrepreneurs"
+    },
+    {
+      "who": "Guest",
+      "text": "Government design improvements require entrepreneurial mindset, not political motivation"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "approx_date": "2022-12",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Character.ai: AI chatbots trained on celebrities and historical figures for conversations", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Jungle Creations: Drop-shipped pet face socks; upload photo, receive custom socks", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Caitlyn Minimalist: Etsy jewelry with custom handwriting/names, mass-customized", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Custom hoodie with couple silhouettes etched from photo; gift product", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Last-minute gift delivery via DoorDash/Uber Eats as cloud kitchen model", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Branded last-minute gift platform (Ryan Seacrest or celebrity partner)", "who": "Shaan", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "Mass customization with personal names and faces drives 5-10x higher CTR in ads"},
+    {"who": "Shaan", "text": "Last-minute gift category underserved; existing players reject orders too close to events"}
+  ]
+}

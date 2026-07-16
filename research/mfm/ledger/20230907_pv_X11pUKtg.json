@@ -1,0 +1,17 @@
+{
+  "approx_date": "2023-09",
+  "yt_title": "Info Diet & Investment Stories (Warren Buffett, David Senra)",
+  "business_ideas": [
+    {"idea": "Triple Whale: mobile dashboard for ecom store analytics across all channels", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Paper Scraper: AI system to filter and summarize 5000 daily scientific papers", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Spin Out GPT: LLM interface to query research papers for commercialization potential", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Alpha Signals: AI newsletter of scientific papers curated by top researcher activity", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Lacrosse league investment: professional sports league built from grassroots", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Presidential reality show: Survivor-style candidate selection via competence challenges", "who": "Guest", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Guest", "text": "More charismatic candidates tend to win elections regardless of qualifications"},
+    {"who": "Sam", "text": "Investing requires different discipline than entrepreneurship (wait vs action)"},
+    {"who": "Shaan", "text": "Diversified portfolios from core business often outperform the main business itself"}
+  ]
+}

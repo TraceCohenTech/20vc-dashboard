@@ -1,0 +1,20 @@
+{
+  "approx_date": "2023-01",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "D2C beautifully designed product (specific idea not revealed on air)", "who": "Sam", "conviction": "serious"},
+    {"idea": "The Daily Wire subscription media company targeting conservative audience", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Jeremy's Razors alternative razor brand for conservative market segment", "who": "Story", "conviction": "already building/built"},
+    {"idea": "More Plates More Dates supplement brands Gorilla Mind and Merrick Health", "who": "Story", "conviction": "already building/built"},
+    {"idea": "The Sweat App fitness subscription app, sold to venture capital", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Mark Rober science education subscription box service", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Cute Girl Hair hairstyle brand with Walmart integration", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Alphaland large fitness gym business with lifestyle brand", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Bring a Trailer curated car auction platform 1.2B GMV annually", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Cars and Bids similar curated car auction by Doug DeMuro", "who": "Sam", "conviction": "says he might build it"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "Cars and Bids will become multi-hundred million dollar exit based on market dynamics"},
+    {"who": "Shaan", "text": "Curated auctions are powerful business model for high-ticket items with education gap"}
+  ]
+}

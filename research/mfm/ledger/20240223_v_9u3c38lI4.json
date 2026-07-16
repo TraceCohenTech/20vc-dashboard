@@ -1,0 +1,12 @@
+{
+  "approx_date": "2024-02",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Zeck.app - CEO/founder board collaboration and presentation software", "who": "Sam", "conviction": "story"},
+    {"idea": "AI tool for presentation clarification via questions", "who": "Jason", "conviction": "throwaway"},
+    {"idea": "Twitter/LinkedIn social media management automation tool", "who": "Jason", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Jason", "text": "AI could improve presentations from -10 score to at least +2, but gap is messaging not design"}
+  ]
+}

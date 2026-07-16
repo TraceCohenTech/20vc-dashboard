@@ -1,0 +1,37 @@
+{
+  "approx_date": "2025-04",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Car dealership network and vertical integration (Mercedes model)",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Marketplace for premium AI-skilled practitioners (Upwork/Fiverr for AI experts)",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "AI website builders will commoditize into ChatGPT features",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Auto-generated sales proposals via AI agents from call recordings",
+      "who": "Shaan",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Sperm Racing: spectator sport around male fertility testing and awareness",
+      "who": "Story",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "AI website builders like Lovable/Bolt will become features of ChatGPT, not standalone companies"
+    }
+  ]
+}

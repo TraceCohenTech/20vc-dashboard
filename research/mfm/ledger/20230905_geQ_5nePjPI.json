@@ -1,0 +1,21 @@
+{
+  "approx_date": "2023-09",
+  "yt_title": "Business Ideas & Opportunities (Brainstorm Episode)",
+  "business_ideas": [
+    {"idea": "Dribble for video: portfolio platform for video editors and motion creators", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Thatcher Darby school: STEM-focused private elementary school avoiding woke curricula", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Unbundled church services: replace spiritual functions via yoga franchises or wellness", "who": "Shaan", "conviction": "throwaway"},
+    {"idea": "PostPilot: automated direct mail campaigns triggered from ecom customer data", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Teacher's Pet: AI-powered lesson plan generator trained on TeachersPayTeachers", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Clout revival: social influence scoring for brand influencer vetting", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "LinkedIn for doctors (Doximity model): niche professional networks beating LinkedIn", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Ozempic hotline: old-school lead gen for weight loss telehealth services", "who": "Shaan", "conviction": "throwaway"},
+    {"idea": "Mind Sports recruitment: elite talent pipeline from Olympiad competitors", "who": "Sam", "conviction": "serious"},
+    {"idea": "Church social media services: done-for-you social for declining congregations", "who": "Shaan", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "Video creators will demand portfolio platforms and hiring tools similar to Dribble"},
+    {"who": "Shaan", "text": "Niche professional networks will outcompete LinkedIn's $20B valuation with premium margins"},
+    {"who": "Sam", "text": "Direct mail will outperform digital ads for ecom retention campaigns"}
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "approx_date": "2024-06",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Story: Ed Thorp inventing card counting for blackjack and creating world's first wearable computer for roulette prediction",
+      "who": "Story",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Story: Ed Thorp founding one of first hedge funds using quantitative/mathematical approach instead of fundamental analysis",
+      "who": "Story",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "Pursuing hobbies and interests without outcome focus leads to unexpected business breakthroughs and better long-term success"
+    },
+    {
+      "who": "Sam",
+      "text": "Knowledge that someone else succeeded at something increases probability of finding your own solution without knowing their method"
+    }
+  ]
+}

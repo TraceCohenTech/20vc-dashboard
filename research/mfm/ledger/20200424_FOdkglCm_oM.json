@@ -1,0 +1,17 @@
+{
+  "approx_date": "2020-04",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Lawn care service scaled like 1-800-Got-Junk", "who": "Brent", "conviction": "serious"},
+    {"idea": "Irrigation service business scaled", "who": "Guest (Brian Scudamore)", "conviction": "serious"},
+    {"idea": "HVAC service company with software/tech", "who": "Brent", "conviction": "serious"},
+    {"idea": "Construction/home services business", "who": "Brent", "conviction": "serious"},
+    {"idea": "Pool digging business with scalable model", "who": "Brent", "conviction": "serious"},
+    {"idea": "Office services business", "who": "Brent", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Brent", "text": "Unemployment will reach 20-30% within 6 weeks"},
+    {"who": "Brent", "text": "Pandemic economic shock will last 6-8 weeks minimum"},
+    {"who": "Brent", "text": "Restarting businesses after lockdown will be extremely difficult"}
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "approx_date": "2022-08",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Stonks.com - live Shark Tank format where viewers can invest in startups",
+      "who": "Sam",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Cherry - browser extension showing direct booking deals vs online travel agencies",
+      "who": "Luke",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Pill Up - medication adherence reminder and sorting service for India",
+      "who": "Ankur",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Campus Ink - NIL merchandise platform for college athletes and teams",
+      "who": "Steven",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Terra Shroom - automated home mushroom grow chambers with subscription supplies",
+      "who": "Jared",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "DealBuilder - online marketplace to buy and sell small businesses",
+      "who": "Morgan",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Field Complete - free app for plumbers/electricians with banking integration",
+      "who": "Tim",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "Cherry will struggle as Honey already dominates travel affiliate market"
+    },
+    {
+      "who": "Sam",
+      "text": "Pill Up can become PillPack for India with regulatory tailwinds"
+    },
+    {
+      "who": "Sam",
+      "text": "Campus Ink will capture significant NCAA athlete NIL monetization opportunity"
+    },
+    {
+      "who": "Sam",
+      "text": "Terra Shroom hardware margins will compress, subscription play is real differentiation"
+    }
+  ]
+}

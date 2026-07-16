@@ -1,0 +1,31 @@
+{
+  "approx_date": "2023-03",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "LVMH: luxury goods conglomerate owning Louis Vuitton, Dior, Fendi, Sephora, etc.",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Rooted: mobile app for panic attack management with breathing exercises and drills",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Vesic shoes: waterproof sneakers bootstrapped from Kickstarter, Vancouver-based",
+      "who": "Story",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Bernard Arnault",
+      "text": "In 10 years far fewer luxury brands will exist, survivors will be more important as wealth grows"
+    },
+    {
+      "who": "Sam",
+      "text": "Bootstrapped niche brands with strong founder vision outperform venture-backed companies"
+    }
+  ]
+}

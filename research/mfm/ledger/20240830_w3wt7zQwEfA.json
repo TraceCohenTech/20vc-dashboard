@@ -1,0 +1,65 @@
+{
+  "approx_date": "2024-08-30",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Self-awareness test: personality test filled out by close circle (wife, parents, business partner)",
+      "who": "George",
+      "conviction": "serious"
+    },
+    {
+      "idea": "360 degree feedback service for executives at $30K per assessment",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Quiz-based personality test with viral social mechanism (how well do you know me)",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Embryo selection service using AI to identify genetic markers for diseases, height, IQ",
+      "who": "George",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Cord blood freezing and stem cell banking for parents",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Eye art business: print high-resolution magnified images of eyes as wall art or jewelry",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Color analysis/color palette service: determine personal color scheme for clothing and makeup",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Mold detection and cleanup service using Facebook ads to drive free inspections",
+      "who": "George",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Reposition UK national pride via Dunkirk Day instead of St. George's Day",
+      "who": "George",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "Integrating personality test into executive coaching will double or triple lifetime customer value"
+    },
+    {
+      "who": "George",
+      "text": "Sex will become obsolete as a reproductive mechanism due to embryo selection technology"
+    },
+    {
+      "who": "George",
+      "text": "We're one of the last generations created via sex naturally"
+    }
+  ]
+}

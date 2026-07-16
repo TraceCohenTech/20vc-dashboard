@@ -1,0 +1,23 @@
+{
+  "approx_date": "2020-02",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Weight loss via blood glucose monitoring with financial incentives.", "who": "Sam", "conviction": "serious"},
+    {"idea": "Autonomous robots for skyscraper window cleaning (drone-based)", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Roll up fragmented window washing industry via consolidation.", "who": "Sam", "conviction": "serious"},
+    {"idea": "Roll up dentistry practices across regions for efficiency gains.", "who": "Sam", "conviction": "serious"},
+    {"idea": "Senior care facility aggregation via bed expansion and upsells.", "who": "Sam", "conviction": "serious"},
+    {"idea": "Do Not Pay app: fight parking tickets, cancel free trials automatically.", "who": "Guest", "conviction": "says he might build it"},
+    {"idea": "Do Not Call registry automation with spam lawsuit generation.", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Expand chess tutoring academy (my chess tutor) to 5000+ students.", "who": "Sam", "conviction": "serious"},
+    {"idea": "Restaurant bathroom supply co-op vs Aramark; lower prices or better service.", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Modern marketplace for collectibles (coins, posters, comics, wine).", "who": "Sam", "conviction": "serious"},
+    {"idea": "First-dibs auction system for unreleased products and media.", "who": "Sam", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "Online auctions and marketplaces are among the top 2-3 business models."},
+    {"who": "Shaan", "text": "Collectors market will be much bigger in 30 years due to nostalgia."},
+    {"who": "Sam", "text": "Rope-access drone window washing will be competitive but viable."},
+    {"who": "Sam", "text": "Rollup playbook works across fragmented services (window wash, dentistry)."}
+  ]
+}

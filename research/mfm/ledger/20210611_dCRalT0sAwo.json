@@ -1,0 +1,27 @@
+{
+  "approx_date": "2021-06",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Hot desking co-working with strong community focus like The Wing to drive retention",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Tech consulting firm for Fortune 500 companies on ML, AI, and engineering transformation",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Sauna market expansion as recovery tool for health-conscious consumers",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "Multi-billion dollar co-working companies will emerge; market will have multiple winners"
+    }
+  ]
+}

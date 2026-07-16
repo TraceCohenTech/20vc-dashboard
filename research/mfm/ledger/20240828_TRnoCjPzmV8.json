@@ -1,0 +1,40 @@
+{
+  "approx_date": "2024-08",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Campus satirical newspaper The Onion for every college with Young Hustlers Grant",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "X Prize for companies to incentivize internal product innovation",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Incentive-based philanthropy with grant programs for crypto builders",
+      "who": "Shaan",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Launch cash prize for college entrepreneur to start satirical newspaper business",
+      "who": "Sam",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "Prize-based incentives will drive more innovation than traditional grants or VC funding"
+    },
+    {
+      "who": "Shaan",
+      "text": "Nobel Prize concept shows that well-designed incentives compound value over decades"
+    },
+    {
+      "who": "Sam",
+      "text": "Campus satirical newspaper business will teach entrepreneurship better than college degree"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "approx_date": "2025-05",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Vertical takeoff and landing electric aircraft for last-mile urban transportation",
+      "who": "Scott",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Distressed asset acquisition and restructuring of bankrupt companies for value extraction",
+      "who": "Scott",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Ultra-luxury residential real estate investment in billionaire destination cities",
+      "who": "Scott",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Scott",
+      "text": "US stock market PE will contract from 26 to high teens within next decade due to capital outflows"
+    },
+    {
+      "who": "Scott",
+      "text": "Massive capital reallocation from US to European markets as investors seek lower valuations"
+    },
+    {
+      "who": "Scott",
+      "text": "EU defense spending increase from 1% to 3% of GDP will drive European tech sector growth"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "approx_date": "2022-03",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Cana.com: molecular beverage printer that dispenses any drink from 80 chemical compounds and water",
+      "who": "Guest",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Permissionless beverage brand platform: creators launch custom drink brands without inventory or capital",
+      "who": "Guest",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Teleboom.com / InPhoneServices: aggregate all telecom services (cell, long-distance) on one website",
+      "who": "Guest",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Konga.com: online Q&A research marketplace where experts answer for-pay questions",
+      "who": "Guest",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "Decentralized beverage manufacturing cuts 600L water per liter wine to near-zero environmental impact"
+    },
+    {
+      "who": "Guest",
+      "text": "Gen 3 beverage printer will reach mass-market price point and become household appliance"
+    }
+  ]
+}

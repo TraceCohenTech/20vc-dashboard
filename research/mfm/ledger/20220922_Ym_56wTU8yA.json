@@ -1,0 +1,31 @@
+{
+  "approx_date": "2022-09",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Digital Inspiration: niche Google Docs/Drive plugins (mail merge, document studio, notifications) monetized with freemium tiers",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Sarah's List: job board/website tracking high-growth startups to guide employees toward stock option wealth",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Private island exploration and treasure hunting business with yacht fleet and museum",
+      "who": "Story",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "Tech employees at growth companies can build million-dollar wealth through stock compensation without being founders"
+    },
+    {
+      "who": "Shaan",
+      "text": "Figma will grow from $2B valuation to much larger (actually acquired for $20B, 10x)"
+    }
+  ]
+}

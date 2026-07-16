@@ -1,0 +1,17 @@
+{
+  "approx_date": "2024-04",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Umax: AI app rating facial attractiveness with recommendations for improvement", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Sam's List: Yelp-style reviews and recommendations for CPAs by specialty", "who": "Shaan", "conviction": "already building/built"},
+    {"idea": "Splashing: mobile app for managing assassination/tag game play among students", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Male beauty and grooming brands serving men's aesthetic self-improvement trend", "who": "Panel", "conviction": "serious"},
+    {"idea": "Forever chemical (PFAS) free product brands and certification marketplace", "who": "Panel", "conviction": "serious"},
+    {"idea": "Medical spa and aesthetic treatment franchises for non-invasive beauty", "who": "Panel", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "Male grooming/lookmaxxing becomes mainstream; beauty arms race intensifies for men"},
+    {"who": "Panel", "text": "PFAS-free product category will explode as consumer awareness grows (similar to organic food trend)"},
+    {"who": "Panel", "text": "Influencer-driven male grooming advice will consolidate audience and drive product recommendations"}
+  ]
+}

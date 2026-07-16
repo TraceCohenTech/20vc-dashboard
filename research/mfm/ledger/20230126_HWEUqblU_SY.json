@@ -1,0 +1,18 @@
+{
+  "approx_date": "2023-01",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "WHOOP continuous health monitoring wearable band for athletes and consumers", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Carb Pipes vocal lessons app for commuting drivers", "who": "Guest", "conviction": "throwaway"},
+    {"idea": "Whisper.ai brain wave technology to transcribe thoughts and write text", "who": "Guest", "conviction": "says he might build it"},
+    {"idea": "AI-generated virtual influencer personas with dating and brand deals", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Deep fake AI talent agency licensing celebrity likenesses", "who": "Shaan", "conviction": "serious"},
+    {"idea": "AI-only fans content creation with virtual models", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Blueprint age reversal system using continuous monitoring and optimization", "who": "Story", "conviction": "already building/built"}
+  ],
+  "predictions": [
+    {"who": "Guest", "text": "Majority of world population will wear continuous health monitors within 10 years"},
+    {"who": "Guest", "text": "AI combined with body scans and blood work will predict major diseases decades early"},
+    {"who": "Shaan", "text": "Future generations will view human-driven cars as dangerous as we view smoking"}
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "approx_date": "2024-07",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Focus: saying no to 100 great ideas to say yes to one exceptional one for business success",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Lead bullets not silver bullets: grinding through small wins rather than seeking magical solutions",
+      "who": "Sam",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "Businesses with singular focus and high intensity execution outperform those spreading across multiple priorities"
+    },
+    {
+      "who": "Sam",
+      "text": "Companies like Stripe and WhatsApp win by extreme customer onboarding intensity not by innovation alone"
+    }
+  ]
+}

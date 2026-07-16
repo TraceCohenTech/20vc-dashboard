@@ -1,0 +1,26 @@
+{
+  "approx_date": "2023-06",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Pandemic modeling/detection software sold to governments as ongoing contracts",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Celebrity deepfake licensing platform: manage AI clones, rights, detect unauthorized use",
+      "who": "Shaan",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "Pandemic detection software will become hundred-year defensible company"
+    },
+    {
+      "who": "Shaan",
+      "text": "Celebrities will use AI doubles for commercial work, disrupt talent booking industry"
+    }
+  ]
+}

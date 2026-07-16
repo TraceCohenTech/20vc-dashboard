@@ -1,0 +1,51 @@
+{
+  "approx_date": "2021-05",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Canva for video: drag-and-drop video editing with templates for social",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Facebook ad tech products to help advertisers save money or improve ads",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Fidget toy or desk toy product (next silly putty for adults)",
+      "who": "Sam",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "University-style apparel branded as Internet or YouTube instead of school",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Mobility and flexibility fitness programs and products (Knees Over Toes model)",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Location-based professional networking to find nearby business people",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Niche job boards for specialized communities (Angular devs, PMs, etc)",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "Video editing tools will become as accessible as image design (Canva model)"
+    },
+    {
+      "who": "Shaan",
+      "text": "Mobility and flexibility training will become mainstream fitness trend"
+    }
+  ]
+}

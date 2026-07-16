@@ -1,0 +1,32 @@
+{
+  "approx_date": "2023-03",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Smart toilet monitoring device tracking health metrics continuously",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Remote patient monitoring system sending health data to doctors real-time",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Improved trademark search interface on top of USPTO public database",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Acquire undervalued public companies trading below cash value and liquidate",
+      "who": "Sam",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Vertically specific data/intelligence business (B2B legal rankings like Chambers)",
+      "who": "Shaan",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": []
+}

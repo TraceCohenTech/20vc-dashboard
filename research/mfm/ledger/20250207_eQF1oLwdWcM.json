@@ -1,0 +1,31 @@
+{
+  "approx_date": "2025-02",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "AI dressing room for e-commerce sites to visualize clothing on customers",
+      "who": "Story",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "AI tools for real estate brokers to enhance listings and attract more buyers",
+      "who": "Story",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Professional sports team ownership and management model optimizing player health and recovery",
+      "who": "Guest",
+      "conviction": "already building"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "Bitcoin will become more valuable than real estate as store of wealth due to sovereign control"
+    },
+    {
+      "who": "Guest",
+      "text": "Proper training facility and recovery protocols will improve soccer team performance and reduce injuries"
+    }
+  ]
+}

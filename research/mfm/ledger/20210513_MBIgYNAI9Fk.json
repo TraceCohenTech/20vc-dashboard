@@ -1,0 +1,16 @@
+{
+  "approx_date": "2021-05",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Daily writing course via email with prompt, learn, then revise flow", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Cohort-based online course on copywriting and professional writing skills", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Marketplace for expert consultation calls (fitness, astrology, business)", "who": "Story", "conviction": "serious"},
+    {"idea": "Brain-wave measuring device for meditation, focus, and state detection", "who": "Guest", "conviction": "already building/built"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "One tweet about writing course generated 1000 signups; could convert to $100-400k revenue"},
+    {"who": "Shaan", "text": "Personal expertise can be packaged into repeatable high-margin courses"},
+    {"who": "Guest", "text": "Emerging hardware plus software creates next wave of consumer products"},
+    {"who": "Shaan", "text": "Simplicity in launch (shitty tweet, Google form) often beats over-engineered go-to-market"}
+  ]
+}

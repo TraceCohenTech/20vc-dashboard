@@ -1,0 +1,41 @@
+{
+  "approx_date": "2026-02",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "iOS apps that gamify productivity (push-ups before social media scrolling)",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "B2B video content agency: film street interviews for corporations",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "B2B video agency: fake podcast interviews for company marketing",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "YouTube strategy consulting for Fortune 500 companies",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Stop vaping app with gamified progression tracking",
+      "who": "Story",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Pat",
+      "text": "iOS apps will remain huge opportunity due to AI coding and TikTok distribution for next 2-3 years"
+    },
+    {
+      "who": "Sam",
+      "text": "Video content creation will become core job function at most companies within 5 years"
+    }
+  ]
+}

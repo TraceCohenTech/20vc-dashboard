@@ -1,0 +1,19 @@
+{
+  "approx_date": "202312",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Dedicated server and colocation business for gamers, built as teenager.", "who": "Guest", "conviction": "already building/built"},
+    {"idea": "Indinero: financial SaaS for accounting, tax, bill pay management.", "who": "Guest", "conviction": "already building/built"},
+    {"idea": "Litigation fintech: originate and fund personal injury lawsuits.", "who": "Guest", "conviction": "already building/built"},
+    {"idea": "Cancer therapy via cell rehabilitation instead of killing cancer cells.", "who": "Guest", "conviction": "serious"},
+    {"idea": "Astonishing Labs: bioelectricity-based biotech company founded with scientist Mike Levin.", "who": "Guest", "conviction": "already building/built"},
+    {"idea": "Test tube babies/avatar-style baby growing using genetic material only.", "who": "Guest", "conviction": "says he might build it"},
+    {"idea": "Longevity optimization platform with health coaching and custom supplements.", "who": "Guest", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Guest", "text": "Women won't need egg extraction in 5 years; can make eggs from genetic material."},
+    {"who": "Guest", "text": "Artificial embryos viable at 6 weeks, will improve over time."},
+    {"who": "Guest", "text": "30% life extension achievable; humans living to 120+ years."},
+    {"who": "Guest", "text": "Bioelectricity is key factor in health, cancer prevention, longevity."}
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "approx_date": "2023-11",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Remix framework - take existing products and remix with identity, lifestyle, science-back, premium differentiators",
+      "who": "Patrick",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Woke roast coffee - identity-based coffee for progressive customers",
+      "who": "Patrick",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Bubbles for bottoms - kombucha designed for LGBT community",
+      "who": "Patrick",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Organic condoms - premium natural materials condoms",
+      "who": "Patrick",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "AI content authentication - blockchain watermarking to verify real vs deepfake video content",
+      "who": "Guest",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Patrick",
+      "text": "Happiness with wealth continues increasing up to at least $50 million net worth based on study data"
+    },
+    {
+      "who": "Patrick",
+      "text": "Identity-aligned products increase willingness to pay by 20-40% vs generic alternatives"
+    },
+    {
+      "who": "Patrick",
+      "text": "Freedom-inducing purchases (assistants, jets) drive more happiness than status symbols"
+    },
+    {
+      "who": "Patrick",
+      "text": "Most businesses change pricing every 3 years but should change something every 3 months for growth"
+    }
+  ]
+}

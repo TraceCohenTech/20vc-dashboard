@@ -1,0 +1,36 @@
+{
+  "approx_date": "2021-06",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Export Chick-fil-A's machine learning tech stack as service to other restaurant chains",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "High-end tech consulting firm of elite engineers for Fortune 500 digital transformation",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "BitClout: open-source social graph with creator coins as revenue model instead of data harvesting",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Marketplace for speech templates: wedding toasts, best man speeches, etc",
+      "who": "Sam",
+      "conviction": "says he might build it"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "Data ownership and privacy will become critical; open data platforms will replace closed tech monopolies"
+    },
+    {
+      "who": "Shaan",
+      "text": "In 10 years we'll look back shocked that Facebook could harvest all our data freely"
+    }
+  ]
+}

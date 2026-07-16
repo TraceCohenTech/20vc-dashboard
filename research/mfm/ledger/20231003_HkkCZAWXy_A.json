@@ -1,0 +1,27 @@
+{
+  "approx_date": "2023-10",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Frozen s'mores ice cream brand, possibly tied to podcast studio ice cream truck",
+      "who": "Cody",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Shark Tank format show but for creators pitching channels/ideas, judges take equity",
+      "who": "Shaan & Cody",
+      "conviction": "serious"
+    },
+    {
+      "idea": "AI tool to generate podcast ads using creator voice and transcripts, auto-synthesize reading",
+      "who": "Panel",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Panel",
+      "text": "AI voice synthesis and deepfakes will transform creator economy, potentially replacing podcast hosts"
+    }
+  ]
+}

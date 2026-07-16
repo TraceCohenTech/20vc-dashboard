@@ -1,0 +1,31 @@
+{
+  "approx_date": "2026-04",
+  "yt_title": "John Rourke on Tesla, The Algorithm, and Building World-Class Teams",
+  "business_ideas": [
+    {
+      "idea": "Cyber security platform for SMBs with non-cloud tech stacks",
+      "who": "Guest",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Auto collision repair chain using assembly line manufacturing model",
+      "who": "Guest",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Supply chain automation platform powered by AI and agentic systems",
+      "who": "Guest",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "AI will create enormous entrepreneurial opportunities, similar to how electronic switches created call center industry"
+    },
+    {
+      "who": "Sam",
+      "text": "Self-driving cars are going to fundamentally change transportation, and people will stop driving"
+    }
+  ]
+}

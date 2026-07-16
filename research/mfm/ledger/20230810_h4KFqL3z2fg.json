@@ -1,0 +1,41 @@
+{
+  "approx_date": "2023-08",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Music streaming optimization - independent artists monetizing via Spotify, YouTube, TikTok",
+      "who": "Guest",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "YouTube Shorts strategy - pinned links to streams, better creator monetization than TikTok",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Artist brand deals - six-figure sponsorships for music placement in commercials/games",
+      "who": "Guest",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Music publishing rights strategy - separate revenue stream from master recordings",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Artist merchandise and live touring - multi-stream revenue model",
+      "who": "Guest",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "YouTube Shorts will outpace TikTok for creator monetization and control"
+    },
+    {
+      "who": "Guest",
+      "text": "Direct-to-fan revenue (merch, publishing) will exceed streaming income for successful independents"
+    }
+  ]
+}

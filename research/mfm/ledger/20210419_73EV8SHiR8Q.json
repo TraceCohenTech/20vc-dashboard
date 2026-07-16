@@ -1,0 +1,36 @@
+{
+  "approx_date": "2021-04",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Photo P clone for other Adobe products: After Effects, Illustrator, full suite alternatives",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Photo P equivalent for expensive niche software: Matlab, Autocad, specialized engineering tools",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Pay-as-you-go financing for general contractors and service professionals",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Affirm competitor with different focus: contractor payments, service industry",
+      "who": "Story",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "Free or freemium alternatives to expensive enterprise software will continue capturing markets"
+    },
+    {
+      "who": "Sam",
+      "text": "Pay-as-you-go will expand beyond e-commerce into B2B services and contractor payments"
+    }
+  ]
+}

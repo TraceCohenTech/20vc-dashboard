@@ -1,0 +1,50 @@
+{
+  "approx_date": "2023-06",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "B2B SaaS machine learning software for oil and gas operations.",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "AI-powered business breakdown as content format for engagement.",
+      "who": "Panel",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Plain men's t-shirt D2C brand high-volume scaling model.",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Telemedicine platform for erectile dysfunction and hair loss treatments.",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Stratified athlete sponsorship targeting high-school basketball players.",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Summer basketball camp for elite young players called ABCD.",
+      "who": "Story",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "Plain t-shirt D2C brands will continue thriving as arbitrage-free category."
+    },
+    {
+      "who": "Sam",
+      "text": "Machine learning for oil and gas will unlock billions in efficiency gains."
+    },
+    {
+      "who": "Sam",
+      "text": "Telemedicine regulatory shifts will create multiple billion-dollar companies."
+    }
+  ]
+}

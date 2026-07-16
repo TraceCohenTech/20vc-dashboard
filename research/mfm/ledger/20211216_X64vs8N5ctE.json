@@ -1,0 +1,15 @@
+{
+  "approx_date": "2021-12",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Adventure Book: scratch-off adventures with Polaroid memory book", "who": "Shaan", "conviction": "already building/built"},
+    {"idea": "Frat U: reality TV show following fraternity life at party schools", "who": "Shaan", "conviction": "throwaway"},
+    {"idea": "Basic to Baller: show transforming everyday person with wealth", "who": "Shaan", "conviction": "throwaway"},
+    {"idea": "Background noise entertainment content for Netflix and streaming", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Chive TV-style ambient content for bars and public spaces", "who": "Story", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "Adventure Book will reach 100 million in cumulative sales within 5 years"},
+    {"who": "Shaan", "text": "Background noise content will become major entertainment category on streaming"}
+  ]
+}

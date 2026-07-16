@@ -1,0 +1,35 @@
+{
+  "approx_date": "2021-06",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Cloud-based knowledge work platform enabling async collaboration with GitHub-like versioning",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Decentralized media and finance platforms leveraging blockchain for open data and user control",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Tech-forward infrastructure investments in America to compete with China geopolitically",
+      "who": "Guest",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "Four major inflections happening now: blockchain, cloud office culture, America Next, cloud consumer metaverse"
+    },
+    {
+      "who": "Guest",
+      "text": "Network-capitalist companies will keep winning and displace industrial-capitalist companies"
+    },
+    {
+      "who": "Shaan",
+      "text": "Privacy startups will become massive; people will regret giving tech companies so much data"
+    }
+  ]
+}

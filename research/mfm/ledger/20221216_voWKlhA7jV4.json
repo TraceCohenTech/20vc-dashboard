@@ -1,0 +1,15 @@
+{
+  "approx_date": "2022-12",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Area/OneTech: RFID tags replace barcodes for autonomous retail checkout and inventory management.", "who": "Jake", "conviction": "already building/built"},
+    {"idea": "Internet Activism: encrypted mesh networking app for censorship-resistant communication in crisis zones.", "who": "Panel", "conviction": "already building/built"},
+    {"idea": "Seafair: payroll and onboarding software for 2M global seafarers with multi-currency, mobile-first.", "who": "Jason", "conviction": "already building/built"},
+    {"idea": "Yofi: digital identity platform flagging bots/fraud in e-commerce and limiting sneaker/ticket drops.", "who": "Jordan", "conviction": "already building/built"},
+    {"idea": "Deal Dog: campus-specific marketplace for students buying/selling tickets and goods with verification.", "who": "Dolan", "conviction": "already building/built"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "RFID tagging for retail is inevitable, harder part is sales and distribution to stores."},
+    {"who": "Sam", "text": "Internet Activism will have outsized impact despite non-profit model, these founders are truly mission-driven."}
+  ]
+}

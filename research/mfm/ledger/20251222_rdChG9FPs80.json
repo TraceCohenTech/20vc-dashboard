@@ -1,0 +1,13 @@
+{
+  "approx_date": "2025-12",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Private jet industry company leveraging AI/automation abundance trend", "who": "Chris Sacca", "conviction": "says he might build it"},
+    {"idea": "Bloom Energy - rapid data center power solutions using fuel cell tech", "who": "Chris Sacca", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Chris Sacca", "text": "Age of abundance will drive increased private jet demand as people have more free time"},
+    {"who": "Chris Sacca", "text": "Bloom Energy will see earnings double year-over-year for 3-4 years as data centers scale"},
+    {"who": "Chris Sacca", "text": "Data centers in space will become viable within 2-3 years, impacting energy company valuations"}
+  ]
+}

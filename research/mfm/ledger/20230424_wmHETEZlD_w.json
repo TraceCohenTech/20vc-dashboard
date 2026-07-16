@@ -1,0 +1,3 @@
+{
+  "error": "Transcript file too large to parse (27798 tokens). Read operation hit token limit. Requires segmented offset reads."
+}

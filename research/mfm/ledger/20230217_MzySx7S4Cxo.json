@@ -1,0 +1,42 @@
+{
+  "approx_date": "2023-02",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Death Row Records: hip-hop label acquiring and developing rap/R&B artists",
+      "who": "Guest",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Limo service: 30 luxury limousine fleet offering premium car service",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Construction company with 1000+ employees managing real estate projects",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Jingle Factory: commercial jingle/music production for local radio stations",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Why Not Productions: entertainment/music production company supporting emerging artists",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Real estate investment and property rehabilitation business",
+      "who": "Story",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "Death Row Records culture-shifting impact comparable to tech startup disruption"
+    }
+  ]
+}

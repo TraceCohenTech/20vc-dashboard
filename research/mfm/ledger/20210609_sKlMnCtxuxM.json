@@ -1,0 +1,27 @@
+{
+  "approx_date": "2021-06",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Neighborhood garage mini-stores using sharing economy model, like 7-Eleven for suburbs",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Nerds on Tour: live speaking tour with interesting founders and operators",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Next sport after pickleball for older people, easier than golf",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "You will see a sport rise in popularity amongst older people that is not called golf"
+    }
+  ]
+}

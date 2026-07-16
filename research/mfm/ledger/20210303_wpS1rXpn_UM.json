@@ -1,0 +1,65 @@
+{
+  "approx_date": "2021-03",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Cloud bakeries: Instagram-based drops of specialty baked goods selling out instantly.",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Make side ingredient the main product (cookie dough, cereal bars, whipped cream).",
+      "who": "Panel",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Viral food by changing colors of normal products (rainbow bagels, cloud bread).",
+      "who": "Panel",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Oversized or miniature versions of foods for novelty appeal and photos.",
+      "who": "Panel",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Mashup foods combining two unlikely items (cronut, sushi burrito, ramen burger).",
+      "who": "Panel",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Fancy/upscale versions of cheap foods (gourmet tater tots, mozzarella sticks).",
+      "who": "Panel",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Revival of Eat This Not That as Instagram account with nutrition comparisons.",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Tiller Money: Google Sheets plugin for automatic bank import and tracking.",
+      "who": "Shaan",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Salary transparency database for any industry beyond tech (medical, consulting).",
+      "who": "Shaan",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "Cloud bakeries will be acquired by PE firms and moved into retail channels."
+    },
+    {
+      "who": "Shaan",
+      "text": "Next Ben & Jerry's or Mrs. Fields will emerge from Instagram food brands."
+    },
+    {
+      "who": "Shaan",
+      "text": "Food virality will shift more towards TikTok-native formats in coming years."
+    }
+  ]
+}

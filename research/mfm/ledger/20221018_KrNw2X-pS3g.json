@@ -1,0 +1,50 @@
+{
+  "approx_date": "2022-10",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "AI Companion/Therapist - AI friend for loneliness epidemic, outcompeting human therapists on cost",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "AI Spotify - generative music platform with NFT ownership of AI-generated songs",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Jasper AI - AI writing assistant generating emails, blog posts, ads",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Interior AI - generate interior design renderings from photos",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Dream Booth - AI product photography replacing studio sessions",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Carter - AI NPCs for video games enabling natural conversations",
+      "who": "Story",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "Next 10 years dominated by right-brain creative AI replacing human artists in text, image, video, music"
+    },
+    {
+      "who": "Shaan",
+      "text": "AI companion/therapist is tens-of-billions opportunity solving loneliness epidemic"
+    },
+    {
+      "who": "Shaan",
+      "text": "Music generation model will train on all Spotify music and disrupt music industry economics"
+    }
+  ]
+}

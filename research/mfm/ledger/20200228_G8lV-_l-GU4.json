@@ -1,0 +1,19 @@
+{
+  "approx_date": "2020-02",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "At-home blood testing kits (Everlywell); 35+ test types available.", "who": "Guest", "conviction": "already building/built"},
+    {"idea": "STI testing kits delivered at home with telemedicine follow-up.", "who": "Guest", "conviction": "already building/built"},
+    {"idea": "Food sensitivity testing via at-home sample collection.", "who": "Guest", "conviction": "already building/built"},
+    {"idea": "Healthcare pricing transparency (fix costs upfront vs insurance).", "who": "Guest", "conviction": "serious"},
+    {"idea": "Vertical integration of healthcare supply chain (testing + pharmacy).", "who": "Guest", "conviction": "serious"},
+    {"idea": "Direct-to-consumer subscription healthcare without insurance middlemen.", "who": "Guest", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Julia Cheek", "text": "Everlywell reached $40M sales year three, on path to $100M+."},
+    {"who": "Julia Cheek", "text": "Food sensitivity testing resonates deeply if used with elimination diet."},
+    {"who": "Julia Cheek", "text": "NPS of 60 (world-class is 80+) shows room for improvement."},
+    {"who": "Julia Cheek", "text": "Direct DTC models work when unit economics are profitable upfront."},
+    {"who": "Sam", "text": "Food allergy tests are often misused; need regulatory guardrails."}
+  ]
+}

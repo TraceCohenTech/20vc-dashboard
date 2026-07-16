@@ -1,0 +1,36 @@
+{
+  "approx_date": "2025-06",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Physical newsletter/reading digest with curated articles, marked up and printed weekly ('Scratch the Itch')",
+      "who": "Guest",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "AI-powered McKenzie consulting jokes (satirizing consulting inefficiency and overpriced advice)",
+      "who": "Panel",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Dude Wipes - premium wet wipes sold as lifestyle product, $220M revenue annual",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Tushy - bidet attachment for toilets to convert standard toilets to Japanese-style seats",
+      "who": "Story",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Panel",
+      "text": "Of 900k listeners, roughly 100-1000 will achieve life-changing wealth from podcast ideas shared"
+    },
+    {
+      "who": "Guest",
+      "text": "Physical curation and analog touchpoints will become luxury competitive advantage as digital scales"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "approx_date": "2023-04",
+  "yt_title": "Acquired founders on podcasting & media empires (David & Ben)",
+  "business_ideas": [
+    {
+      "idea": "Corporate podcast agency: create internal or external podcasts for companies as sales enablement and customer relationship building",
+      "who": "Panel",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Milk Road: crypto news newsletter and product",
+      "who": "Sam",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Investment fund on AngelList managing $30M+ of capital across SPVs",
+      "who": "David",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Panel",
+      "text": "Corporate podcast agencies have high margins but are first to cut during recessions when budgets tighten"
+    },
+    {
+      "who": "Sam",
+      "text": "Acquired podcast worth tens of millions based on audience quality and durability of the business"
+    }
+  ]
+}

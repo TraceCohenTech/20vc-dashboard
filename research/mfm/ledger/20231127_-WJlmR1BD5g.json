@@ -1,0 +1,40 @@
+{
+  "approx_date": "2023-11",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Primer - operating system for spinning up micro schools, handling compliance and school choice vouchers",
+      "who": "Guest",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "The Warehouse - luxury car storage + wine cellar + social club for car collectors",
+      "who": "TJ Parker",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Fiber supplement redesigned as Flintstone-style gummy for modern consumption",
+      "who": "Panel",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Chewable creatine supplement (Dan McCormick business model - $3M revenue in first year)",
+      "who": "Story",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam/Shaan",
+      "text": "Homeschooling will continue growing 40-50% year-over-year for next several years"
+    },
+    {
+      "who": "Sam/Shaan",
+      "text": "School choice voucher programs expanding across more US states"
+    },
+    {
+      "who": "Shaan",
+      "text": "Supplement industry, especially fiber and wellness products, represents significant market opportunity"
+    }
+  ]
+}

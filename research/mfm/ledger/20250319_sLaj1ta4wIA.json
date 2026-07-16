@@ -1,0 +1,19 @@
+{
+  "approx_date": "2025-03",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "American short-form drama app (like Chinese Drama Box, Real Short) - 90 second episodes", "who": "Sam", "conviction": "serious"},
+    {"idea": "Walmart-priced ruck/weighted fitness vest (undercut GoRuck $420 packs)", "who": "Sam", "conviction": "serious"},
+    {"idea": "Plastic-free product line for baby space (cotton diapers, glass bottles)", "who": "Sam", "conviction": "serious"},
+    {"idea": "Nervous system reset/parasympathetic training service (retreat or app)", "who": "Panel", "conviction": "serious"},
+    {"idea": "AI-powered plant biohacking startup using CRISPR/protein-folding (Hollow model)", "who": "Sam", "conviction": "serious"},
+    {"idea": "AI music generation and curation platform (Spotify meets Replit for music)", "who": "Sam", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "Mini drama apps will be as big in US as China within 2 years"},
+    {"who": "Sam", "text": "Rucking becomes mainstream fitness trend, replaces walking for health optimization"},
+    {"who": "Sam", "text": "Plastic-free trend spreads to clothes, homeware, pans, and baby products"},
+    {"who": "Sam", "text": "Next breakout social network will be AI-generated content based"},
+    {"who": "Sam", "text": "AI music generation will commoditize music production like coding tools do"}
+  ]
+}

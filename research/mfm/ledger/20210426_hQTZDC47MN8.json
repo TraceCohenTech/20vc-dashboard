@@ -1,0 +1,56 @@
+{
+  "approx_date": "2021-04",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Deal: platform for hiring remote contractors internationally with compliance automation",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Adulting Vault: aggregated dashboard for all adult responsibilities and renewals",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Snoo for adults: smart connected bed with temperature control and movement tracking",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Subscription running shoe service: auto-delivery triggered by watch fitness data at 300-500 miles",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Therapunch: padded rage room with boxing followed by guided meditation and spa relaxation",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Startup SaaS Bundle: bundled software suite for seed/series A companies with modular add-ons",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Educational games on Roblox for financial literacy and life skills with creator revenue sharing",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Wellness membership bundling cryo, float tank, sauna and meditation classes",
+      "who": "Shaan",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "Companies built with data + algorithms can identify seed stage founders before VCs see them"
+    },
+    {
+      "who": "Shaan",
+      "text": "Roblox-based educational games will scale faster than standalone learning apps due to existing user base"
+    }
+  ]
+}

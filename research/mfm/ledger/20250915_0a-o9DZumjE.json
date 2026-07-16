@@ -1,0 +1,36 @@
+{
+  "approx_date": "2025-09",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Story of inbound marketing: create movement around idea, build tool for believers",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Don't die movement: biohacking/longevity community driving product adoption",
+      "who": "Guest",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Funnel hacking movement: conferences + community → Clickfunnels platform adoption",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Vibe coding marketplace: engineers support non-developers in community for $500/hour",
+      "who": "Daresh",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Daresh",
+      "text": "Loop marketing is the new inbound marketing - AI-enabled content discovery category"
+    },
+    {
+      "who": "Daresh",
+      "text": "Vibe coding becomes massive market as non-developers hit production complexity walls"
+    }
+  ]
+}

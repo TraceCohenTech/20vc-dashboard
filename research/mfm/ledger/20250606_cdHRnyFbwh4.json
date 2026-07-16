@@ -1,0 +1,32 @@
+{
+  "approx_date": "2025-06",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "AI-powered personal styling with color theory and outfit recommendations, sold daily or as upsell",
+      "who": "Guest",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "AI-generated personalized outreach at scale using Clay to scrape public data and create custom content",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Social-first AI products (Discord communities for shared outcomes vs. siloed individual use)",
+      "who": "Panel",
+      "conviction": "serious"
+    },
+    {
+      "idea": "AI workflow marketplace (fork/remix workflows like Zapier recipes but with social proof)",
+      "who": "Guest",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "AI models will soon be commoditized and the major advantage shift to distribution and go-to-market mechanics"
+    }
+  ]
+}

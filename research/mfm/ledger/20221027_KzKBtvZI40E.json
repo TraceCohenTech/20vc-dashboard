@@ -1,0 +1,26 @@
+{
+  "approx_date": "2022-10",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Sarah's List curated job board with 25 companies, quarterly deep dives, recruiter fee model for half million ARR.",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Gas app teen polling app with premium $6.99 weekly subscription to see voter identities.",
+      "who": "Story",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "Gas app will reach number one in app store and generate millions in revenue quickly."
+    },
+    {
+      "who": "Guest",
+      "text": "Teen social apps with high K-factor viral coefficients can hit million DAU within weeks."
+    }
+  ]
+}

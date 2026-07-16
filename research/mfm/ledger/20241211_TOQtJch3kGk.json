@@ -1,0 +1,59 @@
+{
+  "approx_date": "2024-12",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Browser-based code editor and runtime environment",
+      "who": "Guest",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Compile Python Ruby to JavaScript running in browser",
+      "who": "Guest",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "AI-powered software agent that builds apps from prompts",
+      "who": "Guest",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Stripe integration for easy app monetization",
+      "who": "Guest",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "AI tutoring platform for educators to generate lesson plans and quizzes",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "AI SDRs replacing human sales development representatives",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "AI marketing copy generation for content creators",
+      "who": "Story",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "AI agents will fundamentally change how programmers work within 2-3 years"
+    },
+    {
+      "who": "Guest",
+      "text": "Full software engineering automation will trigger AGI through self-improving loop in 10-15 years"
+    },
+    {
+      "who": "Guest",
+      "text": "2 billion people will become software creators as barriers drop vs current 30M developers"
+    },
+    {
+      "who": "Guest",
+      "text": "Most valuable software creator advantage is audience not technical skill"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "approx_date": "2020-02",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Christian media company engaging Gen Z via social (not just church).", "who": "Stu", "conviction": "serious"},
+    {"idea": "Digital tithing app (Venmo for churches); process $4B annually now.", "who": "Stu", "conviction": "serious"},
+    {"idea": "Church merchandise and branded goods (preacher sneakers, apparel).", "who": "Stu", "conviction": "serious"},
+    {"idea": "Beautiful Bibles: coffee table design editions like Kinfolk magazine.", "who": "Stu", "conviction": "serious"},
+    {"idea": "Simplify Bible content for kids; distill anecdotes for engagement.", "who": "Stu", "conviction": "serious"},
+    {"idea": "Capitalize on idle Uber/Lyft driver time with revenue streams.", "who": "Stu", "conviction": "serious"},
+    {"idea": "Interactive ad network for Uber drivers (similar to Octopus).", "who": "Stu", "conviction": "serious"},
+    {"idea": "Music promotion platform via Uber/Lyft drivers as captive audience.", "who": "Stu", "conviction": "serious"},
+    {"idea": "Cloud kitchens for food influencers (Clout Kitchens).", "who": "Stu", "conviction": "says he might build it"},
+    {"idea": "Influencer restaurant chains (Gordon Ramsay model but for influencers).", "who": "Stu", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Stu", "text": "40M net new Christians join annually; 3.3B by 2050."},
+    {"who": "Stu", "text": "Uber/Lyft drivers make $8.55-$11.77/hour on average."},
+    {"who": "Stu", "text": "Full-time Uber drivers earn ~$36,525/year (minimum wage)."},
+    {"who": "Stu", "text": "Cloud kitchens have $5k startup vs $500k for traditional restaurants."},
+    {"who": "Stu", "text": "Influencer-based businesses (Kylie, Rihanna) show scalability."}
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "approx_date": "2020-05",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Home office equipment e-commerce targeting remote workers", "who": "Sam", "conviction": "serious"},
+    {"idea": "Drive-in movie theaters for post-COVID entertainment", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Drive-through coffee shops expansion", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Church live-streaming platform", "who": "Sam", "conviction": "serious"},
+    {"idea": "Outdoor camping and glamping experiences", "who": "Shaan", "conviction": "serious"},
+    {"idea": "RV rental marketplace (Outdoorsy)", "who": "Shaan", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "Cities will become less popular, suburbs and rural areas more popular long-term"},
+    {"who": "Sam", "text": "Home fitness will permanently take market share from traditional gyms"},
+    {"who": "Sam", "text": "Virtual tours and museums will become mainstream entertainment"},
+    {"who": "Shaan", "text": "Drive-through services will expand significantly across categories"},
+    {"who": "Sam", "text": "Outdoor recreation and camping will surge in popularity"}
+  ]
+}

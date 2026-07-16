@@ -1,0 +1,14 @@
+{
+  "approx_date": "2024-02",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Jenny AI: AI writing assistant for college students with plagiarism checking and citation", "who": "Guest", "conviction": "already building/built"},
+    {"idea": "Hostage Tape: mouth tape for breathing optimization marketed to health-conscious consumers", "who": "Guest", "conviction": "already building/built"},
+    {"idea": "Flo: women's health super-app expanding beyond period tracking to health coaching and AI", "who": "Story", "conviction": "already building/built"}
+  ],
+  "predictions": [
+    {"who": "Panel", "text": "AI writing assistants will face commoditization risk as ChatGPT integrates student use cases."},
+    {"who": "Sam", "text": "Wellness habit businesses (mouth taping) will continue growing as biohacking trends accelerate."},
+    {"who": "Panel", "text": "Flo could reach 2-3B valuation as women's health market consolidation continues globally."}
+  ]
+}

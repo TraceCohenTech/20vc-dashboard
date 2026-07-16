@@ -1,0 +1,41 @@
+{
+  "approx_date": "2026-05-13",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Build architecturally beautiful data centers to reduce community opposition and NIMBY resistance",
+      "who": "Story",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Create modern luxury off-road SUV replicating classic Defender appeal for contemporary buyers",
+      "who": "Guest",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Manufacture spare parts for classic vehicles that enthusiasts need but companies stopped making",
+      "who": "Guest",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Build premium adventure and exploration tourism business targeting high-net-worth individuals",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Invest in sports teams and properties across multiple leagues to build portfolio",
+      "who": "Guest",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "Classic vehicles will continue appreciating as collector items and status symbols"
+    },
+    {
+      "who": "Guest",
+      "text": "Wealthy entrepreneurs will increasingly fund passion projects and FU ventures regardless of ROI"
+    }
+  ]
+}

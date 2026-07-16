@@ -1,0 +1,12 @@
+{
+  "approx_date": "2026-06",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Satellite direct-to-cell service: satellite coverage on regular phones in dead zones.", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Space-based data centers powered by sun for AI token generation at lower cost.", "who": "Story", "conviction": "already building/built"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "Starship will work eventually. Betting against Elon's technical ability is unprofitable."},
+    {"who": "Shaan", "text": "SpaceX could be the Saudi Arabia of compute if space data centers work."}
+  ]
+}

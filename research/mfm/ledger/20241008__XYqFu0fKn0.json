@@ -1,0 +1,35 @@
+{
+  "approx_date": "2024-10",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Translate 1000+ out-of-copyright books into dozens of languages using AI, create audiobooks for global access",
+      "who": "Elad",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "K-through-12 school chain inspired by Ancient Greece emphasizing reasoning, math, writing, beauty, physical fitness",
+      "who": "Elad",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Monumental: Build large-scale inspiring monuments to progress in cities to encourage societal optimism and innovation",
+      "who": "Elad",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "What Silicon Valley nerds do for fun now will become mainstream behavior within 10-15 years"
+    },
+    {
+      "who": "Elad",
+      "text": "AI will largely be business as usual; certain teams like customer success will shrink significantly"
+    },
+    {
+      "who": "Elad",
+      "text": "Aging/longevity is severely underinvested; regulatory clarity will unlock major pharmaceutical innovation in space"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "approx_date": "2024-03",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Electric Sheep: robot lawn mower that buys landscaping businesses as testing ground for autonomous tech.",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Sweetgreen Infinite Kitchen: robots dispense ingredients, make bowls 2.5x faster than humans, 500/hour capacity.",
+      "who": "Guest",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Kernel (Steve Ells): plant-based vegan bowl concept with robotic dispensing and mixing equipment.",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Pizza bot: robotic pizza maker for chain deployment (Dominos, Pizza Hut). Softbank invested hundreds of millions.",
+      "who": "Panel",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "OpenAI alternative to Google via AI: AI agents will reduce need for traditional search.",
+      "who": "Panel",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "In 10 years, most restaurants will be robot-operated, not human-staffed."
+    },
+    {
+      "who": "Panel",
+      "text": "Single-purpose robots (lawn mowers, kitchen automation) will deploy before general humanoid robots."
+    }
+  ]
+}

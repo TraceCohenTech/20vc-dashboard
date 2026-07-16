@@ -1,0 +1,20 @@
+{
+  "approx_date": "2021-08",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "I Will Teach You to Be Rich podcast featuring couples discussing money", "who": "Ramit", "conviction": "already building/built"},
+    {"idea": "Cohort-based courses with live interactive learning groups", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Pet luxury products business - vitamins, subscription boxes, accessories", "who": "Ramit", "conviction": "serious"},
+    {"idea": "Cosmetics and skincare brand focusing on packaging and celebrity partnerships", "who": "Ramit", "conviction": "serious"},
+    {"idea": "Children's products and toys - high parental price insensitivity market", "who": "Ramit", "conviction": "serious"},
+    {"idea": "Personal brand extension into multiple content formats and monetization streams", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Entertainment/creative content creation as scalable business (comedy, screenwriting, music)", "who": "Sam", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Ramit", "text": "Cohort-based course format is trending but likely not sustainable long-term"},
+    {"who": "Ramit", "text": "To reach $100M revenue in course business requires mercenary acquisition focus"},
+    {"who": "Ramit", "text": "Most people should use boring diversified index funds, not concentrated bets"},
+    {"who": "Ramit", "text": "Personal finance education follows 'chicken and rice' approach - simple, proven, boring"},
+    {"who": "Sam", "text": "Foundational business experience enables taking calculated risks in concentrated bets"}
+  ]
+}

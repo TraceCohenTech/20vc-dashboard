@@ -1,0 +1,40 @@
+{
+  "approx_date": "2023-10",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Productized service agency targeting 10 customers paying $10k/month for $100k monthly revenue",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Web development agency for real estate agents and local businesses",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Senior living facility occupancy/lead generation service paying commission per new resident",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Marketing/customer acquisition agency for businesses lacking marketing expertise",
+      "who": "Sam",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "Content creation increases surface area for luck and attracts right opportunities"
+    },
+    {
+      "who": "Sam",
+      "text": "Spend 10 years in learning phase building skills before transitioning to earning phase"
+    },
+    {
+      "who": "Sam",
+      "text": "Geographic proximity to ambitious peers pursuing same goal is highly valuable for success"
+    }
+  ]
+}

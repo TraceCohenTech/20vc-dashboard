@@ -1,0 +1,55 @@
+{
+  "approx_date": "2024-06",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Roaring Kitty monetization - creator building financial audience through stock pick content",
+      "who": "Shaan",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Wanderer.com - luxury remote work properties with amenities, targeting digital workers",
+      "who": "Story",
+      "conviction": "Story"
+    },
+    {
+      "idea": "Slime museums expansion - experiential indoor venues for kids, high-margin operations",
+      "who": "Story",
+      "conviction": "Story"
+    },
+    {
+      "idea": "Amazon Go style convenience stores in apartment complexes - frictionless retail for residents",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Online addiction treatment centers - inpatient facilities for gambling, gaming, social media",
+      "who": "Anan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Run clubs as scalable fitness business - community building around running events",
+      "who": "Story",
+      "conviction": "Story"
+    },
+    {
+      "idea": "Premium sports competition series - HYROX, 29029, Speed Project model scaling",
+      "who": "Story",
+      "conviction": "Story"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Anan",
+      "text": "Online gambling addiction will become massive issue as sports betting integrates into mainstream media"
+    },
+    {
+      "who": "Shaan",
+      "text": "Experiential venues and run clubs filling void of in-person community post-pandemic"
+    },
+    {
+      "who": "Shaan",
+      "text": "High-end fitness competitions (HYROX, 29029) scaling rapidly as subculture sports professionalize"
+    }
+  ]
+}

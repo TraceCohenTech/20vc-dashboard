@@ -1,0 +1,19 @@
+{
+  "approx_date": "2022-08",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Study Verse: virtual study hall app with synchronized music, shared to-do lists, peer accountability", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Lofi chill beats style YouTube channel monetization via community and Discord engagement", "who": "Story", "conviction": "serious"},
+    {"idea": "Premium speaking fee model: $50K virtual event, $250K international event for thought leaders", "who": "Story", "conviction": "serious"},
+    {"idea": "Section 4 / Reforge model: online marketing/business courses, $1K/year per learner at scale", "who": "Story", "conviction": "serious"},
+    {"idea": "Aging Media: B2B newsletters for nursing homes, $10M revenue, $3-4M EBITDA, bootstrapped", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Industry Dive ecosystem: 53 niche industry newsletters, $110M revenue, 30% profit margins", "who": "Story", "conviction": "serious"},
+    {"idea": "Low-touch B2B media: newsletters + sponsored webinars = $20-40K per lead generation touch", "who": "Shaan", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "$500M Industry Dive exit will attract aggressive competitors to B2B newsletter space"},
+    {"who": "Shaan", "text": "B2B newsletter costs to acquire customers will 10x in next 5 years as competition increases"},
+    {"who": "Shaan", "text": "Scott Galloway makes $5M+/year from speaking despite being wrong on many predictions"},
+    {"who": "Panel", "text": "Virtual study hall category can reach 1M+ daily active users during school season"}
+  ]
+}

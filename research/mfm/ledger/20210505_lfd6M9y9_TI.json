@@ -1,0 +1,17 @@
+{
+  "approx_date": "2021-05",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Testosterone replacement therapy subscription service with telehealth workflow", "who": "Sam", "conviction": "says he might build it"},
+    {"idea": "Digital horse racing NFTs — collectible, breedable, raceable digital assets", "who": "Shaan", "conviction": "serious"},
+    {"idea": "User-generated content platform for e-commerce product testimonial videos", "who": "Shaan", "conviction": "serious"},
+    {"idea": "No-loss lottery savings account on blockchain — gamified yield farming", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Prediction market betting platform for sports, politics, events, crypto", "who": "Shaan", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "Peak testosterone company will do $100M+ in annual sales within 3 years"},
+    {"who": "Shaan", "text": "Zed Run will experience massive hype cycle then fade as speculation ends"},
+    {"who": "Shaan", "text": "B-roll UGC platform could easily become 9-figure revenue business"},
+    {"who": "Shaan", "text": "No-loss lotteries like Pool Together will scale in crypto parallel financial system"}
+  ]
+}

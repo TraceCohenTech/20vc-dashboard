@@ -1,0 +1,47 @@
+{
+  "approx_date": "2022-04",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "NFT vending machines where customers pay in Doge and win digital NFT assets instead of physical toys",
+      "who": "Greg",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Security deposit reclamation service focused on landlord disputes, similar to Do Not Pay expansion",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Hassle service that makes annoying calls on your behalf like politician outreach or bill contests",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Web3 crypto accounting firm providing tax strategy for NFT and token projects",
+      "who": "Greg",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Web3 crypto law firm specializing in securities law and SEC compliance for NFT launches",
+      "who": "Greg",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Bookkeeping firm for startups and ecommerce businesses with marketing-driven lead generation",
+      "who": "Sam",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "E-commerce and startup insurance brokerage serving underserved market for online businesses",
+      "who": "Sam",
+      "conviction": "says he might build it"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Greg",
+      "text": "NFTs will eventually become 99% free; people will use free NFTs instead of paid ones"
+    }
+  ]
+}

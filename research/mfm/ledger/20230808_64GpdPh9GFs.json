@@ -1,0 +1,40 @@
+{
+  "approx_date": "2023-08",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Chaos Singles Party - live events matching Tinder users for group dating",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Date Me Docs - Google Docs dating profiles with Airtable directory",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "The League - expensive exclusive dating app ($99/week subscription)",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Field - dating app with ultra-direct preference communication",
+      "who": "Story",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Panel",
+      "text": "Exclusive/expensive dating apps outperform mass-market options significantly"
+    },
+    {
+      "who": "Sam",
+      "text": "Bobby Altoff will become one of most famous podcasters within 2 years"
+    },
+    {
+      "who": "Panel",
+      "text": "Health/longevity trends (ice baths, fitness, supplements) becoming mainstream"
+    }
+  ]
+}

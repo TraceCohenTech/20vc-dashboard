@@ -1,0 +1,30 @@
+{
+  "approx_date": "2021-03",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Video production services targeting podcast/creator upgrades, optimizing for quality.",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Collectible vintage computers resale (Apple II, Macintosh, iMac G3).",
+      "who": "Panel",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Panel",
+      "text": "Younger generation has video superpowers from growing up with cameras."
+    },
+    {
+      "who": "Shaan",
+      "text": "Vintage computers will become collectibles appreciating in value like art."
+    },
+    {
+      "who": "Panel",
+      "text": "Studio setup costs will become lower priority than content quality focus."
+    }
+  ]
+}

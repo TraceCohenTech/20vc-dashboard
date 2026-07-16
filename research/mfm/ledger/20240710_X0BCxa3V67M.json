@@ -1,0 +1,40 @@
+{
+  "approx_date": "2024-07",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Build media brands around tight-knit communities using principles from cults, bands, soccer clubs",
+      "who": "Dan",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Sports media league focused on storytelling and community over stats and traditional metrics",
+      "who": "Dan",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Personal brand newsletter as dogfooding your own product platform (Big Desk Energy model)",
+      "who": "Tyler",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Using hand signs and symbols to create in-group identity and community belonging",
+      "who": "Dan",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Dan",
+      "text": "Sports media will shift from stat-driven coverage to community-driven storytelling that builds parasocial connection"
+    },
+    {
+      "who": "Dan",
+      "text": "Startup sports leagues can compete with established leagues by prioritizing community and culture over production value"
+    },
+    {
+      "who": "Sam",
+      "text": "Celebrity and influencer participation grows when content achieves cultural zeitgeist rather than being forced"
+    }
+  ]
+}

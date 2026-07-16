@@ -1,0 +1,95 @@
+{
+  "approx_date": "2021-09",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Flexport: modern freight-forwarding software for international shipping logistics",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Zapier: connect and automate any APIs without coding, build entire workflows",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Uniswap: decentralized exchange for trading any crypto-to-crypto, $10B weekly volume",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Anduril: defense-tech drones and autonomous surveillance for government border/security",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Replit: browser-based sandbox for coding, learning, and social code remixing",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Airtable: cloud spreadsheet alternative to Excel, database-like power",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Figma: cloud-based collaborative design tool replacing Photoshop",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Rippling: payroll plus device management and HR for onboarding employees",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "OpenStore: acquire and consolidate Shopify e-commerce stores at scale",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "NextHealth: unified medical records platform and health-data app ecosystem",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "OneTrust: GDPR compliance and privacy law automation for enterprises",
+      "who": "Sam",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "Flexport can be worth $50B+ in 5 years, take $250M seed stake from SoftBank"
+    },
+    {
+      "who": "Sam",
+      "text": "Zapier will become $25-50B company within 5 years, already outpaced GitHub growth"
+    },
+    {
+      "who": "Shaan",
+      "text": "Uniswap does $10B weekly trading volume with 35 employees, likely $1B+ ARR this year"
+    },
+    {
+      "who": "Sam",
+      "text": "Anduril can be worth $20-50B in 5 years despite controversial founder Palmer Lucky"
+    },
+    {
+      "who": "Sam",
+      "text": "Rippling could 30-50x from $1.3B valuation, top candidate for appreciation on this list"
+    },
+    {
+      "who": "Shaan",
+      "text": "OpenStore's roll-up model is fastest path to billion-dollar company, could 10x from $250M"
+    },
+    {
+      "who": "Sam",
+      "text": "Airtable could reach $20-30B valuation, Excel market cap may be $100B"
+    },
+    {
+      "who": "Sam",
+      "text": "Figma could 5x+ in value; Adobe grew 6x in 5 years and Figma grows faster"
+    }
+  ]
+}

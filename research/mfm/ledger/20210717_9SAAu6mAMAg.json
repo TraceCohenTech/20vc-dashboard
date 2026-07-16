@@ -1,0 +1,40 @@
+{
+  "approx_date": "2021-07",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Micro-SaaS tools that help users dominate specific platforms; replicate Buffer/Jungle Scout success",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Ghost.org marketed as WordPress + Substack alternative with full revenue transparency",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Marketplace for customizable speeches: wedding, best man, bridesmaid, corporate events",
+      "who": "Sam",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Privacy-focused startups solving data tracking and surveillance concerns",
+      "who": "Shaan",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "In 10-30 years we will look back horrified that companies tracked user location without consent"
+    },
+    {
+      "who": "Shaan",
+      "text": "Privacy is an inflection point; next generation won't tolerate current data practices"
+    },
+    {
+      "who": "Shaan",
+      "text": "Apple's privacy pivot signals major market shift; Facebook's data advantage disappearing"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "approx_date": "2020-02",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Arsenic: Playboy for Snapchat generation with model takeovers.", "who": "Shaan", "conviction": "already building/built"},
+    {"idea": "OnlyFans-style cam girl platform (Patreon for adult content).", "who": "Guest", "conviction": "already building/built"},
+    {"idea": "Vice Ventures: VC fund for controversial/sin businesses (sex, drugs, alcohol).", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Lucy: nicotine gum subscription (like Nicorette).", "who": "Sam", "conviction": "already building/built"},
+    {"idea": "Create Arsenic clones for niche genres (college, different categories).", "who": "Shaan", "conviction": "serious"},
+    {"idea": "HQ Trivia format on Twitch/YouTube instead of standalone app.", "who": "Sam", "conviction": "serious"},
+    {"idea": "Educational afterschool trivia game subscription for kids.", "who": "Sam", "conviction": "serious"},
+    {"idea": "Allowance tracking app with chore automation for kids.", "who": "Sam", "conviction": "serious"},
+    {"idea": "DIY perfume kit marketplace; home-brew communities exist.", "who": "Shaan", "conviction": "serious"},
+    {"idea": "DIY soap kits for home crafting.", "who": "Shaan", "conviction": "serious"},
+    {"idea": "DIY juice kits and home juicing supplies.", "who": "Shaan", "conviction": "throwaway"},
+    {"idea": "Niche auction marketplaces (coins, comics, wine, posters).", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Business auction marketplace for selling/flipping businesses.", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Storage unit blind auctions (mystery box concept).", "who": "Shaan", "conviction": "serious"},
+    {"idea": "TopHatter-style declining price auction app.", "who": "Shaan", "conviction": "already building/built"},
+    {"idea": "Classic car auctions at scale (Bring a Trailer model).", "who": "Shaan", "conviction": "already building/built"},
+    {"idea": "Notion template and theme app store/marketplace.", "who": "Guest", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "OnlyFans likely doing 100M+ in subscription revenue annually."},
+    {"who": "Shaan", "text": "HQ Trivia format was a fad that inevitably died due to hype cycles."},
+    {"who": "Shaan", "text": "DIY crafting communities (perfume, soap, juice) show strong demand."},
+    {"who": "Shaan", "text": "Mobile-first niche auction platforms could crush heritage auctions."},
+    {"who": "Sam", "text": "OnlyFans will make more money long-term than Substack."}
+  ]
+}

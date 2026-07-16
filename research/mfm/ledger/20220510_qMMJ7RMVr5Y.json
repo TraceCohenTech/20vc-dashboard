@@ -1,0 +1,36 @@
+{
+  "approx_date": "2022-05",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Acquire underperforming software companies and grow them to profitability via aggressive SEO and features",
+      "who": "Neil",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Free product with premium tier monetization: build 99% free, charge on 1% of high-value features",
+      "who": "Neil",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "D2C brand roll-up: buy e-commerce shops at low multiples post-COVID, fix operations and grow revenue",
+      "who": "Neil",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Minority-owned business setup: use MBE certification to win government contracts, white-label to larger firms",
+      "who": "Story",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Neil",
+      "text": "E-commerce multiples will compress from COVID highs, creating acquisition opportunities for operators"
+    },
+    {
+      "who": "Neil",
+      "text": "Free software products can reach 40M+ visitors and cash-flow millions monthly with smart monetization layer"
+    }
+  ]
+}

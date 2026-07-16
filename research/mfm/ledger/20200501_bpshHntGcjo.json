@@ -1,0 +1,17 @@
+{
+  "approx_date": "2020-05",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Credentialing agency like JD Power for legitimacy verification", "who": "Sam", "conviction": "serious"},
+    {"idea": "Executive assistant training program using lambda school model", "who": "Sam", "conviction": "serious"},
+    {"idea": "Salary transparency database for tech companies", "who": "Sam", "conviction": "serious"},
+    {"idea": "Freelancer/agency review and vetting platform", "who": "Sam", "conviction": "serious"},
+    {"idea": "Mid-tier comedian streaming service subscription", "who": "Sam", "conviction": "serious"},
+    {"idea": "Concerts and live performance streaming subscription", "who": "Sam", "conviction": "serious"},
+    {"idea": "Software stack discovery social network", "who": "Sam", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "Deep fakes will become major problem for legal evidence and authentication"},
+    {"who": "Sam", "text": "Credibility verification icons will become necessary like organic/gluten-free labels"}
+  ]
+}

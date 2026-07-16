@@ -1,0 +1,46 @@
+{
+  "approx_date": "2022-04",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Restart Milo: a search engine finding where to buy products in nearby stores",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Zoom waiting room experience: branded virtual office with video, interactive elements before calls",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "B2B Spencer's: quirky/fun office merchandise (signs, water bottles, wall art) for company personality",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Discord property managers: agency service managing Discord communities, combating spam/scammers",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Fit furniture: modular couches and furniture designed to fit through standard doorways",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Haters as a service: filter negative feedback about you and drip it as weekly motivation",
+      "who": "Sam",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "VaynerMedia-style community manager model will work for crypto/Discord managing at scale"
+    },
+    {
+      "who": "Sam",
+      "text": "Third-party DMV services and government-mandated document handling are underrated cash-flow businesses"
+    }
+  ]
+}

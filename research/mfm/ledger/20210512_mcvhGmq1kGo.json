@@ -1,0 +1,16 @@
+{
+  "approx_date": "2021-05",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Vertical farming direct-to-consumer subscription for ultra-fresh produce", "who": "Guest", "conviction": "serious"},
+    {"idea": "Hardware and robotics lab/incubator space for early-stage hardware founders", "who": "Guest", "conviction": "already building/built"},
+    {"idea": "Commodity hardware plus machine learning fitness device (computer vision coach)", "who": "Guest", "conviction": "serious"},
+    {"idea": "Brain-computer interface device for focus measurement and thought-based control", "who": "Guest", "conviction": "already building/built"}
+  ],
+  "predictions": [
+    {"who": "Guest", "text": "Vertical farming will scale to major cities via distributed warehouse farms"},
+    {"who": "Guest", "text": "Hardware startups need physical maker spaces to compete with well-funded labs"},
+    {"who": "Guest", "text": "Commodity hardware plus ML will create entirely new product categories"},
+    {"who": "Guest", "text": "Brain-computer interfaces will move from research to consumer products"}
+  ]
+}

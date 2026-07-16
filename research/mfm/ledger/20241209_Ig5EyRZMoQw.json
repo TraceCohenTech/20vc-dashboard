@@ -1,0 +1,56 @@
+{
+  "approx_date": "2024-12",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Dinners with strangers matched by personality algorithm",
+      "who": "Sam/Shaan",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "MFM monthly meetup dinners in 100 cities worldwide",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Bucket list creation and sharing app",
+      "who": "Sam",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Connect people over shared dreams dating app",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "One-on-one activity matching for bucket list items",
+      "who": "Sam",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Money burn ritual event celebrating detachment from wealth",
+      "who": "Sam",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Monthly compliment challenge among friends",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "One-week no-spending consumer challenge",
+      "who": "Sam",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "Timeleft will scale globally like Meetup.com due to loneliness epidemic and need for in-person connection"
+    },
+    {
+      "who": "Shaan",
+      "text": "Multiple colors needed for discrete data charts; single color charts fail to communicate effectively"
+    }
+  ]
+}

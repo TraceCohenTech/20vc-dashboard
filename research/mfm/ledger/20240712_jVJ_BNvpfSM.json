@@ -1,0 +1,64 @@
+{
+  "approx_date": "2024-07",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Employee tracking software like Hubstaff monitoring remote worker productivity at scale",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Mouse jigglers and undetectable device movers to fake activity for remote workers",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Community platform (Discord) around overemployed lifestyle with paid membership tier",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Bring back jingles in modern advertising using repetition and earworm psychology",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Free web-based alternatives to expensive software (Photopea for Photoshop, Pikimov for After Effects)",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Prediction markets (Polymarket) as embedded media widget replacing traditional polls",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Netflix shows as twenty-hour infomercials for your core business (Ryan Serhant model)",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Corporate slang and phrases to create unique company culture and brand identity",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "Jingles will make a comeback as marketing fashion cycles and nostalgia drives brand recall"
+    },
+    {
+      "who": "Shaan",
+      "text": "Prediction markets will replace traditional polling for elections and major events within five years"
+    },
+    {
+      "who": "Shaan",
+      "text": "Indie hackers building one-person niche software will continue to thrive and find product-market fit"
+    },
+    {
+      "who": "Shaan",
+      "text": "Self-driving cars will reduce traffic accidents by ninety percent and transform parking and car ownership"
+    }
+  ]
+}

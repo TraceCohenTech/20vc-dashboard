@@ -1,0 +1,41 @@
+{
+  "approx_date": "2025-02-19",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "AI-powered email categorization and folder system trained on user's personal context",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Deep research tool with paywall credential access to academic journals and paywalled articles",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Fake dating app with AI-generated attractive profiles linking to real Instagram accounts",
+      "who": "Guest",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Luxury pet brand targeting affluent pet owners inspired by Louis Vuitton validation",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Chisel gum: jawline enhancement chewing gum targeting looks-maxing male demographic",
+      "who": "Guest",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "Most medical innovation happens off standard-of-care due to rare disease research funding gaps."
+    },
+    {
+      "who": "Guest",
+      "text": "Crypto community will continue funding public health research through coin speculation and narrative-driven social tokens."
+    }
+  ]
+}

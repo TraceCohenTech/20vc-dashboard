@@ -1,0 +1,45 @@
+{
+  "approx_date": "2023-03",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Remote monitoring device tracking blood pressure, glucose, heart rate continuously",
+      "who": "Suleiman Ali",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Debt brokerage firm sourcing and securing commercial real estate financing",
+      "who": "Nick Huber",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Recruit Jet: headhunting platform for placing qualified talent at companies",
+      "who": "Nick Huber",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Revenue-based recruiting firm taking percentage of first year salary",
+      "who": "Nick Huber",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Blue Key Capital: debt brokerage for real estate developers and investors",
+      "who": "Nick Huber",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Nick Huber",
+      "text": "Ari Costa will do $2.5M EBITDA annually by end of 2024"
+    },
+    {
+      "who": "Nick Huber",
+      "text": "WebRun will reach $10M in annual sales by 2024"
+    },
+    {
+      "who": "Nick Huber",
+      "text": "Recruit Jet will hit $5M revenue and $3M EBITDA by 2024"
+    }
+  ]
+}

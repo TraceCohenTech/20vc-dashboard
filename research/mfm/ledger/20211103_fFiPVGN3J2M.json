@@ -1,0 +1,53 @@
+{
+  "approx_date": "2021-11",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "DeSo (Diesel) blockchain: blockchain infrastructure optimized for decentralized social networks",
+      "who": "Matter",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Bitcloud: prototype social app on DeSo blockchain with profile coins and open content database",
+      "who": "Matter",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Diamond App: improved social app built on DeSo with better UX than Bitcloud",
+      "who": "Guest App Creator",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Polygram: NFT marketplace app built on DeSo blockchain for creator royalties",
+      "who": "Guest App Creator",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Creator coins: coins attached to user profiles enabling fan ownership and cash flow sharing",
+      "who": "Matter",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Matter",
+      "text": "Decentralized social media is asymmetrically favored to win; open content enables faster iteration than centralized platforms"
+    },
+    {
+      "who": "Shaan",
+      "text": "Only 5% chance this works, but multi-trillion dollar opportunity if successful"
+    },
+    {
+      "who": "Matter",
+      "text": "Native apps will be built in non-US countries tailored to local users, bypassing Silicon Valley monopoly"
+    },
+    {
+      "who": "Matter",
+      "text": "Cash flows from NFTs and creator monetization will compound, making creator coins valuable long-term holdings"
+    },
+    {
+      "who": "Sam",
+      "text": "$80M already invested in creator coins on DeSo, showing real market demand"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "approx_date": "2025-06",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Flint - luxury Duraflame alternative made from kiln-dried Canadian softwood with premium branding",
+      "who": "Harley",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Disrupting boring product categories through luxury/design (tools, hand dryers, mugs, karaoke machines)",
+      "who": "Panel",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Touchland - luxury hand sanitizer with designer collaborations sold at premium prices",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Prose - personalized shampoo based on hair type analysis, $100M+ revenue recurring",
+      "who": "Story",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Panel",
+      "text": "TAM (total addressable market) is often misunderstood as static - entrepreneurs grow the pie itself"
+    },
+    {
+      "who": "Harley",
+      "text": "Shopify enables commerce to happen everywhere, not just e-commerce - retail is omnichannel going forward"
+    }
+  ]
+}

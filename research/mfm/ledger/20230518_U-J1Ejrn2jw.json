@@ -1,0 +1,41 @@
+{
+  "approx_date": "2023-05",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "User testing service for startups early-stage testing feedback platform.",
+      "who": "Panel",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Bitcoin exchange or financial services for early crypto market.",
+      "who": "Panel",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Blab to B2B webinar software pivot from consumer social app.",
+      "who": "Panel",
+      "conviction": "serious"
+    },
+    {
+      "idea": "D2C crystal brand ecommerce business selling rose quartz products.",
+      "who": "Panel",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "D2C IQ test subscription measuring personality intelligence levels.",
+      "who": "Sam",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Panel",
+      "text": "User testing became multi-hundred million dollar business as predicted early on."
+    },
+    {
+      "who": "Panel",
+      "text": "Bitcoin infrastructure would become massive opportunity missed in 2013."
+    }
+  ]
+}

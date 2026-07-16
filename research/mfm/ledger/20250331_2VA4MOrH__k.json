@@ -1,0 +1,20 @@
+{
+  "approx_date": "2025-03",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Fresh pet food delivery (like Farmers Dog) - lagging 2-3 years behind human health trend", "who": "Justin", "conviction": "serious"},
+    {"idea": "Toxin testing & transparency platform for consumer brands (Light Labs model)", "who": "Justin", "conviction": "already building/built"},
+    {"idea": "Pet-specific water filtration and health product line", "who": "Justin", "conviction": "serious"},
+    {"idea": "Integrated skincare company combining gut health + topical (probiotics + peptides + detox)", "who": "Justin", "conviction": "serious"},
+    {"idea": "Home health assessment service (air/water/EMF/lighting/VOCs) - Lightwork model", "who": "Justin", "conviction": "already building/built"},
+    {"idea": "Natural fiber athletic apparel (cotton-only shorts/shirts vs polyester)", "who": "Justin", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Justin", "text": "Pet health trends follow 2-3 years behind human health trends"},
+    {"who": "Justin", "text": "Cancer rates in dogs rising to 1 in 4 due to poor nutrition"},
+    {"who": "Justin", "text": "Biomarker testing will spawn new category of biomarker-optimization trainers/apps"},
+    {"who": "Justin", "text": "Skincare market mostly ineffective; only peptides, retinol, sunscreen work"},
+    {"who": "Justin", "text": "Gut health improvements visible in skin within 6 months"},
+    {"who": "Panel", "text": "Polyester underwear reduces male sperm count 60-70%; switching restores it"}
+  ]
+}

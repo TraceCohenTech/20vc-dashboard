@@ -1,0 +1,40 @@
+{
+  "approx_date": "2026-02",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "AI analyzes YouTube channel performance and auto-generates viral content strategy",
+      "who": "Sam",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Personal software: deliver massively customized experiences tuned to each user",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Vibe coding: describe rough intent and AI iteratively builds it with user feedback",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Business content strategy focusing on video essays over thumbnails and trends",
+      "who": "Sam",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "Software will shift from centralized products to personalized AI-curated experiences"
+    },
+    {
+      "who": "Shaan",
+      "text": "Mass creator supply plus algorithmic curation enables personalization across all software"
+    },
+    {
+      "who": "Shaan",
+      "text": "Newsfeeds were first pass at personalization; next is personalized software for everything"
+    }
+  ]
+}

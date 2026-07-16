@@ -1,0 +1,16 @@
+{
+  "approx_date": "2021-12",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Glitch N Deals: find e-commerce pricing errors and deals at scale", "who": "Story", "conviction": "throwaway"},
+    {"idea": "Nugget Comfort: modular pillow fort system for children", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Play Magnus: chess training platform with subscription model", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Chess.com: freemium chess platform with analysis tools", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Public domain review: track IP moving into public domain", "who": "Story", "conviction": "throwaway"},
+    {"idea": "Food Timeline: historical database of food invention dates", "who": "Story", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "Play Magnus will sustain 20M+ annual revenue from chess enthusiasts"},
+    {"who": "Shaan", "text": "Public domain expiration will create surge in Winnie the Pooh merchandise businesses"}
+  ]
+}

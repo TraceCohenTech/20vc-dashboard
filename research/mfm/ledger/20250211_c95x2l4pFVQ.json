@@ -1,0 +1,36 @@
+{
+  "approx_date": "2025-02",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Supersonic passenger jet aircraft company addressing speed and efficiency improvements over Concord",
+      "who": "Story",
+      "conviction": "already building"
+    },
+    {
+      "idea": "Collectible miniature toys sold in capsules with multiple SKUs and seasonal variants",
+      "who": "Story",
+      "conviction": "already building"
+    },
+    {
+      "idea": "Fast-growing affordable electric bikes for delivery workers at $1,000 price point",
+      "who": "Story",
+      "conviction": "already building"
+    },
+    {
+      "idea": "Robot-automated factory for autonomous house construction at scale",
+      "who": "Story",
+      "conviction": "already building"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Panel",
+      "text": "High agency founders operating with conviction and persistence will outperform over long-term"
+    },
+    {
+      "who": "Sam",
+      "text": "Electric bike market will continue scaling despite regulatory challenges and safety concerns"
+    }
+  ]
+}

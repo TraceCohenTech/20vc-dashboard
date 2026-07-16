@@ -1,0 +1,15 @@
+{
+  "approx_date": "2022-12",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Deets: reviews from friends and influencers, not strangers. Replaces Yelp with look-alike modeling.", "who": "Paul", "conviction": "already building/built"},
+    {"idea": "Middle.net: find meeting location between two people using GPS location data.", "who": "Paul", "conviction": "already building/built"},
+    {"idea": "Funcontact: QR code based contact sharing app, swap info at events easily.", "who": "Paul", "conviction": "already building/built"},
+    {"idea": "Bipolar Social Club: clothing brand for bipolar community to destigmatize mental illness.", "who": "Paul", "conviction": "says he might build it"},
+    {"idea": "Fix TSA and airport experience: make flying more secure and efficient.", "who": "Paul", "conviction": "throwaway"},
+    {"idea": "Twitter competitor focused on kindness without trolls or misinformation.", "who": "Paul", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Paul", "text": "Someone will create better Twitter alternative than Elon's version with focus on community values."}
+  ]
+}

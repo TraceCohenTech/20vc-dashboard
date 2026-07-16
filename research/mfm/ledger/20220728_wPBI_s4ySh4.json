@@ -1,0 +1,55 @@
+{
+  "approx_date": "2022-07",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Productized service to help businesses reach $10k monthly passive income",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Ghost: B2B marketplace connecting retailers with liquidators for excess inventory",
+      "who": "Story",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Neutral: membership clothing brand like Costco but for premium basics",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "CRM and automation service for personal injury attorneys",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Lead generation business for senior living facilities",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Email marketing and conversion optimization service for e-commerce",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Video setup course showing how to improve podcast and camera quality",
+      "who": "Shaan",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "Ghost inventory marketplace will become a multi-billion dollar B2B business"
+    },
+    {
+      "who": "Panel",
+      "text": "Membership fashion brand could scale as successfully as pure t-shirt brands"
+    },
+    {
+      "who": "Panel",
+      "text": "Excess retail inventory problem will force brands to use wholesale channels"
+    }
+  ]
+}

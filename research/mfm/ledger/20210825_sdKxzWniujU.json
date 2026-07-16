@@ -1,0 +1,20 @@
+{
+  "approx_date": "2021-08",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "UGC ad creation side hustle - girls creating product demo/testimonial videos for brands", "who": "Sam", "conviction": "serious"},
+    {"idea": "Social Savannah model - unbundled ad agency focusing on creative production only", "who": "Sam", "conviction": "says he might build it"},
+    {"idea": "Remote-operated heavy machinery for construction (cranes, forklifts, excavators)", "who": "Sam", "conviction": "serious"},
+    {"idea": "Phantom Auto/Shadow - software kit enabling third-party remote equipment operation", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Winner Winner - virtual claw machine arcade with remote play and prize shipping", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Human-in-the-loop AI - AI handles 80% of task, human intervention for 20%", "who": "Sam", "conviction": "serious"},
+    {"idea": "One remote operator managing 10+ construction sites daily via remote operation", "who": "Sam", "conviction": "serious"},
+    {"idea": "On it! - supplement and wellness product brand from Aubry Marcus", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Telegram - encrypted messaging app as privacy-focused lifestyle brand", "who": "Story", "conviction": "already building/built"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "Remote-operated machinery will replace on-site heavy equipment operators within decade"},
+    {"who": "Sam", "text": "One operator can manage 10+ construction sites daily using human-in-the-loop AI"},
+    {"who": "Sam", "text": "Anti-aging research will achieve human rejuvenation therapy within 10-20 years"}
+  ]
+}

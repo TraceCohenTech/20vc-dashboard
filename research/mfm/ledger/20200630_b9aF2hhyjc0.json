@@ -1,0 +1,35 @@
+{
+  "approx_date": "2020-06",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Ascend Fox: free email list platform for content creators to grow audiences.",
+      "who": "Noah",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Email templates using smart campaigns pulling social data to suggest content.",
+      "who": "Noah",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Referral engine built into email marketing for audience growth.",
+      "who": "Noah",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Noah",
+      "text": "Email is only channel for audience building you fully control, will grow."
+    },
+    {
+      "who": "Noah",
+      "text": "Active email audience size matters more than total list size for retention."
+    },
+    {
+      "who": "Shaan",
+      "text": "Musicians could build notification systems for tour dates via email to fans."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "approx_date": "2020-03",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Lead gen for apartments (Supper.com); $10 per qualified email.", "who": "Sam", "conviction": "serious"},
+    {"idea": "Lead gen for senior living facilities ($1000+ per qualified lead).", "who": "Sam", "conviction": "serious"},
+    {"idea": "Lead gen for truck driver recruitment (high CPM possible).", "who": "Sam", "conviction": "serious"},
+    {"idea": "Lead gen for local home services (landscaping, irrigation).", "who": "Sam", "conviction": "serious"},
+    {"idea": "Lead gen for jobs (Rigup model; $100+ per oil worker lead).", "who": "Sam", "conviction": "serious"},
+    {"idea": "Credit Karma model: credit reports then credit card affiliate fees.", "who": "Sam", "conviction": "already building/built"},
+    {"idea": "NerdWallet: financial comparison lead gen at scale.", "who": "Sam", "conviction": "already building/built"},
+    {"idea": "Penny Hoarder: money saving advice monetized via affiliate fees.", "who": "Sam", "conviction": "already building/built"},
+    {"idea": "Thumbtack: marketplace connecting service providers with customers.", "who": "Sam", "conviction": "already building/built"},
+    {"idea": "Manzil: Halal/Islamic mortgage financing via marketplace model.", "who": "Sam", "conviction": "says he might build it"},
+    {"idea": "Challenger bank layer on top of BBVA (Simple, Brex model).", "who": "Sam", "conviction": "serious"},
+    {"idea": "Robin Hood: invest in getting banking charter to compete.", "who": "Sam", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "Lead gen margins are 60-70% if done well; highly profitable."},
+    {"who": "Sam", "text": "Supper.com raised $40M at $400M valuation for lead gen model."},
+    {"who": "Sam", "text": "Fluent Media (lead gen) competed against Penny Hoarder via copy."},
+    {"who": "Sam", "text": "Islamic financing has massive TAM but needs VC education."},
+    {"who": "Sam", "text": "First banking charter granted after decade; competitive floodgates opening."}
+  ]
+}

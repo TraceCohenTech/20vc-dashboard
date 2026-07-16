@@ -1,0 +1,22 @@
+{
+  "approx_date": "2021-04",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Media company for tech/business — entertaining not informative", "who": "Sam", "conviction": "serious"},
+    {"idea": "Interactive coding course platform for developers teaching developers", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Internal company podcasting platform for employee/manager communication", "who": "Sam", "conviction": "serious"},
+    {"idea": "Email newsletters/Mailchimp-style platform for internal company communications", "who": "Sam", "conviction": "serious"},
+    {"idea": "Guided crime/history tours led by retired police officers and law enforcement", "who": "Sam", "conviction": "serious"},
+    {"idea": "Physical challenge/pain tolerance event series — manhood as a service", "who": "Sam", "conviction": "serious"},
+    {"idea": "TV franchise branded experiences/theme parks (Survivor, Challenge, etc.)", "who": "Sam", "conviction": "serious"},
+    {"idea": "Custom museum tours with engaging guides and modern branding", "who": "Story", "conviction": "serious"},
+    {"idea": "Celebrity/expert fantasy camps and tours (Coach K, influencer models)", "who": "Story", "conviction": "serious"},
+    {"idea": "Backyard chicken rental service with delivery and ongoing support", "who": "Shaan", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "Internal communication platforms will be massive opportunities; I want to invest in 20 of these companies"},
+    {"who": "Sam", "text": "If someone builds Bar stool for tech correctly, it will be a huge hit media company"},
+    {"who": "Shaan", "text": "Course platform valuations staying high because of recurring payments business model"},
+    {"who": "Sam", "text": "Physical experience tours scale across professions and locations nationwide"}
+  ]
+}

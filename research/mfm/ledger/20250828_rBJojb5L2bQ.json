@@ -1,0 +1,16 @@
+{
+  "approx_date": "2025-08",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Mobile emissions testing service: technicians drive to your home for smog checks", "who": "Story", "conviction": "serious"},
+    {"idea": "Alpha School: AI-powered personalized K-8 education with 2hr/day learning, 6x growth", "who": "Story", "conviction": "says he might build it"},
+    {"idea": "Timeback: AI tutoring app with biometric monitoring for perfect zone learning", "who": "Story", "conviction": "says he might build it"},
+    {"idea": "The Grind Academy: homeschool day-program mixing academics with athletic training", "who": "Story", "conviction": "says he might build it"},
+    {"idea": "Mentava: paid reading app for kids ages 3-5 that guarantees literacy", "who": "Story", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "AI-personalized education will outcompete traditional schools within 10 years"},
+    {"who": "Shaan", "text": "Current generation youth (5-18) facing radically different social pressures than parents"},
+    {"who": "Sam", "text": "Phone fasting and unplugged time will become luxury premium offerings"}
+  ]
+}

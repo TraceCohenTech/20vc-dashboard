@@ -1,0 +1,42 @@
+{
+  "approx_date": "2021-04",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "FutureFit: AI fitness coaching with accountability checks via watch and text",
+      "who": "Shaan",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Sleep coaching for babies: guide parents on nap schedules and sleep routines",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "My Body Tutor: nutrition accountability via photo uploads and weekly check-ins",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "WeFocus: SMS-based productivity coaching for goal tracking and daily accountability",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Vertical accountability coaches: writing, relationships, fitness, triathlon training",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Gratitude journaling with daily coaching and accountability messages",
+      "who": "Shaan",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "Accountability coaching will become a big category across multiple verticals beyond fitness"
+    }
+  ]
+}

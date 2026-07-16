@@ -1,0 +1,19 @@
+{
+  "approx_date": "2025-04",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Physical quarterly magazines for niche industries with professional name rankings and FOMO", "who": "Sam", "conviction": "serious"},
+    {"idea": "Media company focused on alternative investments (real estate, PE, VC) education", "who": "Sam", "conviction": "serious"},
+    {"idea": "Retail investor education platform (like Motley Fool) + media funnel + premium subscription", "who": "Sam", "conviction": "serious"},
+    {"idea": "Alternative news/journalism disruption (like Bari Weiss Free Press model)", "who": "Sam", "conviction": "serious"},
+    {"idea": "Sports leagues using content as moat (like Overtime competing with NCAA/NBA)", "who": "Austin", "conviction": "serious"},
+    {"idea": "Niche physical magazines (quarterly manila envelopes, $500/year premium journalism)", "who": "Sam", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Panel", "text": "All media channels (podcasts, YouTube, newsletters) now saturated; game is harder"},
+    {"who": "Sam", "text": "Alternative investments becoming bigger portfolio % but complex - media opportunity"},
+    {"who": "Panel", "text": "Retail investor education still $100M+ opportunity (Altucher makes $120M/year)"},
+    {"who": "Austin", "text": "Niche-focused content (not general audience) is path to success in saturated market"},
+    {"who": "Panel", "text": "Physical/print media resurging for luxury and niche audiences (Arena Mag proof)"}
+  ]
+}

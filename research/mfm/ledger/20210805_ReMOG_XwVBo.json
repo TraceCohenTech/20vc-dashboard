@@ -1,0 +1,21 @@
+{
+  "approx_date": "2021-08",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Deepfake/AI voice personalization for customer messages at scale", "who": "Sam", "conviction": "serious"},
+    {"idea": "Voice cloning platform (like airwriter.app) for deceased authors/celebrities", "who": "Bree", "conviction": "says he might build it"},
+    {"idea": "Podcast The Shake Up interviewing business leaders about pivotal decisions", "who": "Bree", "conviction": "already building/built"},
+    {"idea": "Solo capitalist individual VC fund with 2-3% management fees", "who": "Bree", "conviction": "already building/built"},
+    {"idea": "Pipe - non-dilutive capital for SaaS companies with recurring revenue", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Hoppin - virtual and hybrid conference/networking platform", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Primer - online education platform for kids learning specific skills", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Alumni network syndicates for group venture investing", "who": "Story", "conviction": "already building/built"}
+  ],
+  "predictions": [
+    {"who": "Bree", "text": "Climate change and crypto will be underfunded venture categories with significant opportunities"},
+    {"who": "Bree", "text": "Post-pandemic, more people building companies around things they genuinely care about"},
+    {"who": "Bree", "text": "Top 20 universities remain worth debt due to network and credential value"},
+    {"who": "Bree", "text": "Solo capitalist model will proliferate as more individuals start own funds"},
+    {"who": "Bree", "text": "Venture capital being disrupted by non-dilutive alternatives like Pipe"}
+  ]
+}

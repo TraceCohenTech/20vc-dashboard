@@ -1,0 +1,42 @@
+{
+  "approx_date": "2025-01",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Marketing agency specializing in one channel (Google/Facebook/TikTok ads) for local businesses",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Apprentice with real estate developer, then buy first property with investor backing",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Buy existing cash-flowing business using SBA loans and seller financing",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Retirement communities for different affinities (golf, flying, mahjong, Indian culture) instead of golf only",
+      "who": "Sheal",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Yelp-style review site for professional services (accountants, lawyers, financial advisors, agencies)",
+      "who": "Sheal",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Teeth cleaning spa service (20 min professional cleaning, not full dental work)",
+      "who": "Panel",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "AI and software skills school for adults (photography, video editing, etc.)",
+      "who": "Sheal",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": []
+}

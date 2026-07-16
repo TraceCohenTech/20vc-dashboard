@@ -1,0 +1,51 @@
+{
+  "approx_date": "2024-03",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Epic Gardening: YouTube gardening content (2M subs) evolved into e-commerce (seeds, plants) $30M+ annual revenue.",
+      "who": "Shaan",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Botanical Seeds acquisition: bought existing seed company with 4-5k retail store distribution.",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "YourHousePlant.com acquisition: bought for $1k, immediately profitable, indoor plant content + commerce.",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Kagi.com: ad-free subscription search engine ($5-10/month) with 30k paying members, $1.5M annual revenue.",
+      "who": "Shaan",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "New avocado variety via selective breeding: Kevin Espiritu's 3-year experimental mission to grow unique avocado.",
+      "who": "Story",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Venture-backed mango innovation: perfectly spherical, easy-to-eat mangoes optimized for texture and juiciness.",
+      "who": "Story",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Camp MFM-style active business conferences: business retreat model combining sports/activities with entrepreneurship.",
+      "who": "Panel",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Panel",
+      "text": "By 2026, Google search will see 25% traffic reduction due to AI-powered search alternatives."
+    },
+    {
+      "who": "Panel",
+      "text": "Creator-to-commerce model with negative CAC will dominate next generation of e-commerce brands."
+    }
+  ]
+}

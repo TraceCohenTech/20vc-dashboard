@@ -1,0 +1,22 @@
+{
+  "approx_date": "2023-09",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Research/database company for market intelligence, similar to CB Insights or PitchBook",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Book club event series combining literature discussions with expert talks and networking",
+      "who": "Sam",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "Research and database businesses could become really big; space is underinvested with old incumbents"
+    }
+  ]
+}

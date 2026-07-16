@@ -1,0 +1,36 @@
+{
+  "approx_date": "2022-10",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Zuru Tech - robotics factory building prefab houses via gaming engine design",
+      "who": "Shaan",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Dream Studio Course - $1500 course teaching Zoom/video setup for creators",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Anonymous Gumroad products (fitness, dating, money) generating $500K-$1M annually",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Breaking Points - political news analysis show on YouTube with paid subscription tier",
+      "who": "Story",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "Location independence will remain key economic advantage; people will optimize taxes and lifestyle accordingly"
+    },
+    {
+      "who": "Shaan",
+      "text": "Content creation quality improves through volume and swings not isolation; quantity enables quality"
+    }
+  ]
+}

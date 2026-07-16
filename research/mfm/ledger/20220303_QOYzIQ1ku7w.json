@@ -1,0 +1,40 @@
+{
+  "approx_date": "2022-03",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Crypto hedge funds (fund of funds): institutional access to crypto markets via managed exposure",
+      "who": "Guest",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Social tokens for musicians and creators: fans invest in artist upside, aligned incentives",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Music royalty NFTs: fractionalized ownership of song streams and earnings",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Community membership via NFTs: digital identity and club access for aligned believers",
+      "who": "Guest",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "Crypto market reaches $200 trillion in 10-15 years vs. current $2 trillion"
+    },
+    {
+      "who": "Guest",
+      "text": "Music and culture become investable asset classes through social tokens and NFTs"
+    },
+    {
+      "who": "Guest",
+      "text": "Institutions will adopt Ethereum and Web3 investments over pure Bitcoin holdings"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "approx_date": "2022-08",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Hideaway: secret camera roll app disguised as harmless app (Kindle, calculator) for privacy", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Virtual Santa video calls for kids via Santa's Club, $35-75 per 15-min call during holiday season", "who": "Sam", "conviction": "serious"},
+    {"idea": "Only Problems: OnlyFans model for therapy - watch real therapy sessions anonymously as entertainment/help", "who": "Sam", "conviction": "serious"},
+    {"idea": "Instagram Mahanas: Benihanas-style experiential dining focused on photo-worthy, content-optimized food", "who": "Sam", "conviction": "serious"},
+    {"idea": "Swag School: seminars teaching Indian men dating confidence and social interaction skills", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Private Photo Vault app (existing): camera roll alternative, $50/year, 86th ranked, 800K reviews", "who": "Story", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Ben", "text": "Only Problems could become huge viral entertainment disguised as mental health support"},
+    {"who": "Shaan", "text": "Santa's Club model scalable to Easter Bunny, Tooth Fairy, and other seasonal characters"},
+    {"who": "Sam", "text": "Instagram Mahanas could hit $30-50M+ revenue with Benihanas-style unit economics"},
+    {"who": "Panel", "text": "Photo vault category evergreen, sustained revenue potential from privacy-conscious users"}
+  ]
+}

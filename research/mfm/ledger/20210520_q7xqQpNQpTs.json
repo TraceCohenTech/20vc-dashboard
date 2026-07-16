@@ -1,0 +1,60 @@
+{
+  "approx_date": "2021-05",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Home video conferencing setup delivered and installed as a service",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Themed venue in a box (e.g., Disney Diner, Paddy's Pub) licensed IP",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Gaming bar or retro arcade bar with themed decor and experiences",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Clear ice and premium ice making as a niche hobby business",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "WeWork-style coworking in San Francisco using discounted real estate",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Cloud kitchens or convenience stores in San Francisco real estate",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Distributed education campuses (Harvard Business School satellites) in SF/LA",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "VC fund holding cheap SF real estate for portfolio companies",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "San Francisco real estate will eventually roar back to higher prices"
+    },
+    {
+      "who": "Shaan",
+      "text": "Long-term Airbnb stays (28+ days) will become normal for younger generations"
+    },
+    {
+      "who": "Shaan",
+      "text": "WeWork-style businesses will succeed when re-launched post-COVID"
+    }
+  ]
+}

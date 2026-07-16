@@ -1,0 +1,40 @@
+{
+  "approx_date": "2023-04",
+  "yt_title": "Scott Harrison, Charity: Water & philanthropic entrepreneurship",
+  "business_ideas": [
+    {
+      "idea": "Charity: Water: nonprofit model where 100% of donations go to water projects, overhead funded separately",
+      "who": "Scott",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Birthday donation campaign: get people to donate on their birthday instead of receiving gifts",
+      "who": "Scott",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Bitcoin Water Trust: accept Bitcoin donations held in cold storage until 2025+ for potential appreciation",
+      "who": "Scott",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "The Spring: monthly subscription community model ($30/month average) for recurring donations",
+      "who": "Scott",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Scott",
+      "text": "Charity: Water is in second inning; needs to reach 47x current impact to help all without clean water"
+    },
+    {
+      "who": "Scott",
+      "text": "90% of value creation in any mission-driven business happens in years 21-27 of operation (long-term thinking)"
+    },
+    {
+      "who": "Daniel Ek",
+      "text": "Subscription model for recurring donations is superior to annual fundraising restart cycle"
+    }
+  ]
+}

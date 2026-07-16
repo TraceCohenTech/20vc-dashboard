@@ -1,0 +1,20 @@
+{
+  "approx_date": "202312",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Reverse engineer successful businesses via Quiet Light brokerage and replicate.", "who": "Sam", "conviction": "serious"},
+    {"idea": "Niche membership community (HVAC automation, sales for chiropractors, etc).", "who": "Sam", "conviction": "serious"},
+    {"idea": "QSBS advisory firm for tech startups to protect $10M tax exclusions.", "who": "Sam", "conviction": "serious"},
+    {"idea": "Humanoid robot startup to replace jobs across industries.", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Purpose-built robots for specific jobs (pizza, roofing, powder coating).", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Buy and rebrand undervalued university with premium positioning.", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Sell NFT admissions licenses (PSL model) for recurring revenue.", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Defense contracting business like Andril (weapons tech).", "who": "Shaan", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "Purpose-built robots will dominate labor market like dishwashers did."},
+    {"who": "Shaan", "text": "Humanoids will replace 40% of jobs in 12 years according to Kai Fu Lee."},
+    {"who": "Shaan", "text": "University admissions NFT licenses will appreciate over time."},
+    {"who": "Sam", "text": "Buying accredited universities is viable business with 25-50M valuations."}
+  ]
+}

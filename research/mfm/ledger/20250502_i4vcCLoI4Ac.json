@@ -1,0 +1,42 @@
+{
+  "approx_date": "2025-05",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Vertical Agent-as-a-Service: pre-built AI agents bundled per industry (dental, auto repair, etc.)",
+      "who": "Jess",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Doge-as-a-Service: AI tracking idle employees, sold to consultants like McKinsey",
+      "who": "Jess",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Curated in-person events connecting entrepreneurs and investors for serendipity",
+      "who": "Jess",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Holy Health: bundle insurance access for chiropractors and physical therapists",
+      "who": "Jess",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Cargo ship hull coating to improve fuel efficiency a few knots faster",
+      "who": "Story",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Divorce financing: advance on alimony during proceedings",
+      "who": "Jess",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Jess",
+      "text": "Vertical Agent-as-a-Service will be acquired as roll-ups by consolidators like Constellation"
+    }
+  ]
+}

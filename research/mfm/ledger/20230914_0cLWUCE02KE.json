@@ -1,0 +1,30 @@
+{
+  "approx_date": "2023-09",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "E-commerce procurement marketplace for maritime industry ship repairs/parts",
+      "who": "Kevin",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Assisted fertility/IVF tech platform serving growing market demand",
+      "who": "Kevin",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Kevin",
+      "text": "MongoDB will be a $50 billion company in the next decade"
+    },
+    {
+      "who": "Kevin",
+      "text": "Psychedelics will be legalized and mainstream as mental health treatment"
+    },
+    {
+      "who": "Kevin",
+      "text": "Automation will accelerate due to rising labor costs and falling tech costs"
+    }
+  ]
+}

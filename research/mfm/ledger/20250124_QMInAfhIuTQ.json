@@ -1,0 +1,39 @@
+{
+  "approx_date": "2025-01",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "AI dressing room for e-commerce sites to visualize clothing on customers",
+      "who": "Story",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "AI tools for real estate brokers to enhance listings and attract more buyers",
+      "who": "Story",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Lindy bot for automating meeting prep, scheduling, social media management, and business operations",
+      "who": "Shaan",
+      "conviction": "already building"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Andrew",
+      "text": "Within 12 months AI co-workers will exist in Slack for messaging and task execution"
+    },
+    {
+      "who": "Shaan",
+      "text": "Within 24-36 months AI will produce 4K video people indistinguishable from humans on Zoom calls"
+    },
+    {
+      "who": "Andrew",
+      "text": "Pausing AI and rolling out existing tech would eliminate 20% of all current jobs immediately"
+    },
+    {
+      "who": "Shaan",
+      "text": "Software businesses will face increased competition making them less attractive long-term investments"
+    }
+  ]
+}

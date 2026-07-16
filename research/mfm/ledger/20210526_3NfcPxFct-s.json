@@ -1,0 +1,50 @@
+{
+  "approx_date": "2021-05",
+  "yt_title": "Marc Lore on E-commerce, Timberwolves, and Building Multi-billion Dollar Companies",
+  "business_ideas": [
+    {
+      "idea": "Conversational commerce: text/voice AI shopping with hyper-personalization",
+      "who": "Guest (Marc Lore)",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Virtual fitting technology using AI to predict how clothes fit without trying",
+      "who": "Guest (Marc Lore)",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Home health diagnostics dashboard tracking daily metrics and risks",
+      "who": "Guest (Marc Lore)",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Passenger drones (electric autonomous air taxis)",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Mobile kitchens bringing restaurant food to customers via trucks",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Sports gambling and player stock market trading",
+      "who": "Guest (Marc Lore)",
+      "conviction": "says he might build it"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Marc",
+      "text": "Conversational commerce will replace search as primary shopping method"
+    },
+    {
+      "who": "Marc",
+      "text": "Home health monitoring will become as common as brushing teeth"
+    },
+    {
+      "who": "Marc",
+      "text": "Major companies will consolidate around simple, boring business models"
+    }
+  ]
+}

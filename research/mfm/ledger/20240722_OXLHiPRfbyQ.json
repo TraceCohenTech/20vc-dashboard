@@ -1,0 +1,32 @@
+{
+  "approx_date": "2024-07",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Sketchy-style visual learning test prep for SAT/AP exams using animation.",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Satirical news site focused on millennial moms and their interests.",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Far-right political satire news site similar to Babylon Bee.",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Clean/natural tampon brand marketed as non-toxic alternative.",
+      "who": "Shaan",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "Tampons category will undergo same transformation as deodorant with clean alternatives gaining share."
+    }
+  ]
+}

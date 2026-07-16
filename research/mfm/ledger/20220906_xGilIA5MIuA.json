@@ -1,0 +1,50 @@
+{
+  "approx_date": "2022-09",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Production companies - vertically integrated studios making content for streaming",
+      "who": "Sam",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Mad Realities - interactive reality show with NFT holder voting mechanism",
+      "who": "Guest",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "AI image generation platform - Stable Diffusion for democratizing visual content",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Generative AI content creation engines - AI that creates instead of searches",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Copy AI - AI-powered copywriting assistance tool",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "AI customer support assistant using GPT-3 and fine-tuning",
+      "who": "Sam",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "AI-generated songs will chart in Billboard top 10 within 18 months"
+    },
+    {
+      "who": "Sam",
+      "text": "Generative AI will become bigger economic shift than search engines"
+    },
+    {
+      "who": "Sam",
+      "text": "Copy AI will grow from $2.5M to $40M+ ARR in single year"
+    }
+  ]
+}

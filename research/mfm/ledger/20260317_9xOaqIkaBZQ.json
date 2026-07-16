@@ -1,0 +1,30 @@
+{
+  "approx_date": "2026-03",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Email service competing with Gmail (HEY)",
+      "who": "Sam/Shaan/DHH",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Linux distribution for personal computing",
+      "who": "DHH",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "DHH",
+      "text": "AGI is imminent with significant intelligence explosion coming within next decade from AI agents"
+    },
+    {
+      "who": "DHH",
+      "text": "Agents are incredibly capable programmers; AI progress when AI programs the next leap"
+    },
+    {
+      "who": "Panel",
+      "text": "Shopify growing 30% YoY at massive scale demonstrates compounding determinism across 20+ years"
+    }
+  ]
+}

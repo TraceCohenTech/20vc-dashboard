@@ -1,0 +1,41 @@
+{
+  "approx_date": "2021-04",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Hacker News for crypto without price discussion; curated tech and development content",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Micro Acquire: curated SaaS marketplace for buying small profitable businesses",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Custom fitness coaching program bundling trainer with community and corporate partnerships",
+      "who": "Sam",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Alternative wellness gym: bundled membership for cryo, float tank, sauna, meditation",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Hustle Plus: AI-powered newsletter with personalized headline recommendations and summaries",
+      "who": "Story",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "Social news aggregators that work require lightning-in-a-bottle network effects and constant moderation"
+    },
+    {
+      "who": "Sam",
+      "text": "Time-bounded fitness challenges with daily commitments will drive higher completion rates than open-ended programs"
+    }
+  ]
+}

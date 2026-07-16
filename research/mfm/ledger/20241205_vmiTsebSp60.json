@@ -1,0 +1,30 @@
+{
+  "approx_date": "2024-12",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "MicroStrategy: Software company converted to Bitcoin holding company via convertible bonds",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Convertible bond arbitrage: Bond buyers unable to buy crypto directly use bonds to get Bitcoin exposure",
+      "who": "Story",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "MicroStrategy faces unraveling risk if Bitcoin crashes; forced liquidation could crash entire market"
+    },
+    {
+      "who": "Panel",
+      "text": "Every major crypto cycle produces outsized bets (FTX, 3AC, Celsius) that crash due to overextension"
+    },
+    {
+      "who": "Guest",
+      "text": "Apple stock call from 2012 ($2k/share) proved visionary; similar conviction on Bitcoin sustainability"
+    }
+  ]
+}

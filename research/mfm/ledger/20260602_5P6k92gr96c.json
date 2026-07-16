@@ -1,0 +1,21 @@
+{
+  "approx_date": "2026-06",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "AI dog collar that translates pet barks with 95% accuracy.", "who": "Shaan", "conviction": "throwaway"},
+    {"idea": "Memorial device to upload video/audio of deceased loved ones and chat with them.", "who": "Shaan", "conviction": "good crazy"},
+    {"idea": "At-home hyperbaric chamber for wellness and recovery.", "who": "Shaan", "conviction": "good crazy"},
+    {"idea": "VR training platform for HVAC and blue-collar trade skills via Meta Quest.", "who": "Shaan", "conviction": "says he might build it"},
+    {"idea": "Prediction market for biotech clinical trial outcomes to accelerate drug development.", "who": "Shaan", "conviction": "bad crazy"},
+    {"idea": "Bathhouse + steakhouse combination: steam, cold plunge, massages, and fine dining.", "who": "Shaan", "conviction": "good crazy"},
+    {"idea": "Physical newspaper with games and puzzles but no depressing news.", "who": "Shaan", "conviction": "good crazy"},
+    {"idea": "Flip phone forwarding service: turn smartphone to dumb mode with separate phone.", "who": "Sam", "conviction": "already building/testing"},
+    {"idea": "Bluetooth rotary phone: vintage-looking landline device for nostalgia and focus.", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Flow alarm clock: physical brick that forces you out of bed to stop alarm.", "who": "Story", "conviction": "already shipping"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "95% of people are addicted to their phones. Problem is massive."},
+    {"who": "Shaan", "text": "Dumb phones will become mainstream. Apple will sell billions if they build one."},
+    {"who": "Shaan", "text": "Return to the physical is a mega trend, not just niche."}
+  ]
+}

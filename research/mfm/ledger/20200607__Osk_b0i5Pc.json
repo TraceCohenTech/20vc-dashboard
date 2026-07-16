@@ -1,0 +1,35 @@
+{
+  "approx_date": "2020-06",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Self-driving wallets: AI auto-optimizes money to correct accounts instantly based on financial goals",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Daily or hourly payment streams instead of bi-weekly; get paid as you work continuously",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Credit card upsells for food delivery; dessert or drinks add-on across all restaurant orders",
+      "who": "Sam",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "Remote work will become permanent; 40 million American jobs may not return post-COVID"
+    },
+    {
+      "who": "Guest",
+      "text": "America's wallet infrastructure needs modernization; money movement and payments will be next disruption"
+    },
+    {
+      "who": "Guest",
+      "text": "Streaming payment model will eventually replace traditional bi-weekly payroll system"
+    }
+  ]
+}

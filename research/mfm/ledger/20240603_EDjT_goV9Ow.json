@@ -1,0 +1,60 @@
+{
+  "approx_date": "2024-06",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Fir Crown: magazine rollup at expensive hobby niches, monetize via commerce products and services",
+      "who": "Craig Fuller",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Flying community with airport and real estate - residential airpark development",
+      "who": "Craig Fuller",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "New York Times games subscription - bundle crossword, cooking, games into one subscription",
+      "who": "Story",
+      "conviction": "Story"
+    },
+    {
+      "idea": "YouTube Instant Games - play casual games in YouTube without download required",
+      "who": "Story",
+      "conviction": "Story"
+    },
+    {
+      "idea": "LinkedIn Games platform - multiplayer games leveraging LinkedIn's social graph",
+      "who": "Story",
+      "conviction": "Story"
+    },
+    {
+      "idea": "Third-party LinkedIn games ecosystem - build games on LinkedIn API for acquisition",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "AI-powered sports camera system - single camera tracks all action, streams and cuts highlights",
+      "who": "Story",
+      "conviction": "Story"
+    },
+    {
+      "idea": "MoneyWise podcast - high-net-worth personal finance show revealing detailed financials",
+      "who": "Sam",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "AI sports cameras will become standard on every field, like computers on desks - inevitable adoption"
+    },
+    {
+      "who": "Sam",
+      "text": "Multiple AI camera companies raising 100M+ are winning; youth sports recording becomes standard service"
+    },
+    {
+      "who": "Sam",
+      "text": "LinkedIn will likely acquire successful third-party games companies built on their platform"
+    }
+  ]
+}

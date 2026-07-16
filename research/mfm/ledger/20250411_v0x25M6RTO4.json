@@ -1,0 +1,35 @@
+{
+  "approx_date": "2025-04",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Tariff mitigation services for e-commerce manufacturers sourcing alternatives.",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Hampton Events multi-city expansion replicating Medieval Times model.",
+      "who": "Sam",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Delivery logistics optimization using on-ground 'drop zone' staffing.",
+      "who": "Sam",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "Tariffs will force manufacturing reshoring to Vietnam/India rather than returning to US."
+    },
+    {
+      "who": "Sam",
+      "text": "E-commerce margins will compress 25-30% from tariff costs, eliminating many small retailers."
+    },
+    {
+      "who": "Sam",
+      "text": "Medieval Times-style dinner theaters will remain niche but highly profitable format (20M+ per location)."
+    }
+  ]
+}

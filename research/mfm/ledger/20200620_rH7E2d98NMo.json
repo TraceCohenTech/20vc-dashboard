@@ -1,0 +1,14 @@
+{
+  "approx_date": "2020-06",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Cameo Kit: build celebrity video shoutout app on top of Snapchat minis", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Rent payment splitter app integrated into Snapcash for roommates", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Post-meal food gifting via delivery platforms as last-minute gift", "who": "Shaan", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "Snapchat minis and platform inflections are asymmetric bets worth taking time on"},
+    {"who": "Shaan", "text": "Being early to platform ecosystems (Snap Kit, Zoom apps) can yield outsized distribution"},
+    {"who": "Shaan", "text": "DTC brands need PE rollup model to survive by sharing customer acquisition costs"}
+  ]
+}

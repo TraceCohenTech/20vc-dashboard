@@ -1,0 +1,50 @@
+{
+  "approx_date": "2022-08",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "3D printed rockets for commercial space launches competing with SpaceX",
+      "who": "Story",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Merchandise drop brand with limited inventory drops causing customer frenzy",
+      "who": "Story",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Networking event with round tables of famous and interesting people",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Hospital software sold through high-velocity sales team model",
+      "who": "Story",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Mental health telemedicine app serving emerging healthcare demand wave",
+      "who": "Story",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Beer or seltzer brand with merch and content ecosystem",
+      "who": "Story",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Panel",
+      "text": "Relativity Space will capture significant share of growing $30 billion space market"
+    },
+    {
+      "who": "Panel",
+      "text": "High-velocity customer acquisition is critical for billion-dollar tech companies"
+    },
+    {
+      "who": "Panel",
+      "text": "Merchandise brands like Nelk Boys can sustain giving away millions monthly"
+    }
+  ]
+}

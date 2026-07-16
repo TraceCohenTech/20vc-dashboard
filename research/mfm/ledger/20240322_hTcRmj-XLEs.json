@@ -1,0 +1,55 @@
+{
+  "approx_date": "2024-03",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Reddit: user-driven social news platform, started 2005, sold 2006, public 2024, 75M daily active users.",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Delicious: bookmarking service with /popular feature that inspired Reddit's model.",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Product Hunt: curated marketplace for product launches, based on Hacker News Show section, sold for $20M.",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Pinterest: image bookmarking platform, early investor opportunity at $3M valuation.",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "StumbleUpon: content discovery via traffic referrals, led to multiple $100M+ investment returns.",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Uber: ride-sharing company, founded by Garrett Camp (StumbleUpon connection), $100M+ investor returns.",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Trends: Facebook group community for trend research, $3-5M annual recurring revenue via active seeding.",
+      "who": "Sam",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Panel",
+      "text": "Best ideas are discovered, not created; monitor traffic referrals and side features for early signals."
+    },
+    {
+      "who": "Panel",
+      "text": "Reddit's success proved anti-authority founder personality directly translates to product design and culture."
+    },
+    {
+      "who": "Panel",
+      "text": "Talent filters like obscure programming languages predict founder quality better than traditional metrics."
+    }
+  ]
+}

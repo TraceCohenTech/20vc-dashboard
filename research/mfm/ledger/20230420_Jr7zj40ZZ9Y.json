@@ -1,0 +1,3 @@
+{
+  "error": "Transcript file too large to fully parse (37382 tokens). Partial read incomplete. Recommend segmented read with offset parameters."
+}

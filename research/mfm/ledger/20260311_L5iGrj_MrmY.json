@@ -1,0 +1,35 @@
+{
+  "approx_date": "2026-03",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "AI home design tool plus factory-built prefab homes with 10x cost reduction using robots",
+      "who": "John",
+      "conviction": "serious"
+    },
+    {
+      "idea": "B2B semiconductor and AI infrastructure research publication with credit ratings model",
+      "who": "Jordy",
+      "conviction": "serious"
+    },
+    {
+      "idea": "SaaS acquisition strategy: buy undervalued companies at low multiples with strong fundamentals",
+      "who": "Sam",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "John",
+      "text": "Home manufacturing will be industrialized by 2030 with 10x cost reduction via AI and automation"
+    },
+    {
+      "who": "Jordy",
+      "text": "Semi Analysis will become the Moody's of AI infrastructure with 80+ billion valuation potential"
+    },
+    {
+      "who": "Sean",
+      "text": "Legal AI tools will generate 100x more litigation as lawyers become more productive"
+    }
+  ]
+}

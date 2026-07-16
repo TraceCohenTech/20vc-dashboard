@@ -1,0 +1,17 @@
+{
+  "approx_date": "2024-09",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Menopause-focused health apps and treatments (Bonafide, GenEva model)", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Premium assisted living facilities with Centenarian fitness focus", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Strava-like app for continuous glucose monitor data and community", "who": "Steph", "conviction": "serious"},
+    {"idea": "Personalized metabolic health platform using CGM as loss leader", "who": "Steph", "conviction": "serious"},
+    {"idea": "Longevity coaching apps integrating blood work, fitness and metabolic data", "who": "Steph", "conviction": "serious"},
+    {"idea": "Glucose tracking community and social features around Dexcom Stelo", "who": "Steph", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Steph", "text": "Nursing will be fastest growing occupation 2020-2030 with 275k new jobs"},
+    {"who": "Steph", "text": "CGM adoption will unlock major market for wellness apps and community platforms"},
+    {"who": "Steph", "text": "Within five years guessing on fitness and diet without data will be considered foolish"}
+  ]
+}

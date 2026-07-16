@@ -1,0 +1,36 @@
+{
+  "approx_date": "2025-02-13",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Complete a terminally ill elderly person's entire bucket list with family",
+      "who": "Guest",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Street sketching content where creators draw people ugly then reveal beautiful artwork",
+      "who": "Guest",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Feastables: ethical chocolate company eliminating child labor, paying farmers living income",
+      "who": "Guest",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Buy entire inventory of all stores in a city and donate everything to charity",
+      "who": "Guest",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "Feastables will become world's largest ethically-sourced chocolate company by scale and profitability."
+    },
+    {
+      "who": "Sam",
+      "text": "Short-form video content will increasingly replace traditional search engines for discovery."
+    }
+  ]
+}

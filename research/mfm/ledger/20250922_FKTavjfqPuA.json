@@ -1,0 +1,50 @@
+{
+  "approx_date": "2025-09",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Story: Porch pumpkins seasonal decoration service doing $1.5-2M revenue in 3 months",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Sport courts: 30x70ft multi-purpose court alternative to $150k pools",
+      "who": "Chris",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Backyard Funhouse: sport court→putting green→pool→fire pit→outdoor kitchen upsell chain",
+      "who": "Chris",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "In-ground trampoline installation: rent excavator, charge $5k for digging",
+      "who": "Chris",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "AI implementation services for small businesses unable to figure out AI adoption",
+      "who": "Chris",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Lazy Books: AI-enabled QuickBooks competitor for people who hate bookkeeping",
+      "who": "Chris",
+      "conviction": "says he might build it"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Chris",
+      "text": "Sport courts will become the next pools in suburban backyard status symbols"
+    },
+    {
+      "who": "Sean",
+      "text": "AI implementation agencies can scale to $100-300M revenue with right talent"
+    },
+    {
+      "who": "Daresh",
+      "text": "Dharmesh Shah will dominate .ai country domain registrations over next 20 years"
+    }
+  ]
+}

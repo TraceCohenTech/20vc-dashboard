@@ -1,0 +1,51 @@
+{
+  "approx_date": "2024-03",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Myers-Briggs Type Indicator: personality test charging $15-40 per test, $2000 practitioner certification, $20M+ annual revenue.",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Clifton StrengthsFinder 2.0: Gallup's personality assessment product, similar test-as-business model.",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Grit Score Test: Angela Duckworth's personality/mindset assessment based on passion and perseverance.",
+      "who": "Panel",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Cognition Labs Devon: AI software engineer that writes code from natural language, raised $21M.",
+      "who": "Guest",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Lunchclub: social platform for networking lunches between tech professionals, raised $30M at $100M valuation.",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "David Bar by RXBAR founder: premium protein bar ($299/month, 160 cal, 28g protein, sugar-free) post-$600M exit.",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "E-commerce speedrun companies: serial founder rebuilding successful e-commerce brands leveraging existing playbook.",
+      "who": "Panel",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Patrick Collison",
+      "text": "Cognition Labs' Devon is the first AI that matches or exceeds human programmer capability for real tasks."
+    },
+    {
+      "who": "Panel",
+      "text": "Talent filters like math Olympiads and programming competitions predict startup success better than traditional credentials."
+    }
+  ]
+}

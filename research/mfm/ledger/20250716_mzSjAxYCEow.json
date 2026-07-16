@@ -1,0 +1,17 @@
+{
+  "approx_date": "2025-07-16",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "AI-powered email client with vector embeddings and RAG for full email history Q&A", "who": "Dharmesh", "conviction": "already building/built"},
+    {"idea": "Management software for hiring, training, and reviewing AI agents as team members", "who": "Dharmesh", "conviction": "serious"},
+    {"idea": "Domain name automation tool: brainstorm, check availability, and price estimation", "who": "Dharmesh", "conviction": "already building/built"},
+    {"idea": "Custom AI-synthesized book writing service based on personal interests and knowledge", "who": "Dharmesh", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Dharmesh", "text": "Major AI companies will add vector database and RAG capabilities for user data access"},
+    {"who": "Dharmesh", "text": "Hybrid teams with humans and AI agents will become the norm in every organization"},
+    {"who": "Dharmesh", "text": "AI will amplify human creativity rather than reduce it by enabling ideas to be manifest"},
+    {"who": "Dharmesh", "text": "Founders who work on seemingly foolish projects and see around corners will win"},
+    {"who": "Dharmesh", "text": "Job dislocations from AI automation will occur and create interim pain"}
+  ]
+}

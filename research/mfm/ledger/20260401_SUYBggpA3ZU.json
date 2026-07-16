@@ -1,0 +1,69 @@
+{
+  "approx_date": "2026-04",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Reselling liquidation items from Costco/government auctions",
+      "who": "Chris",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "AI voice agents for small businesses (barber shops, medspas)",
+      "who": "Chris",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Snail mail subscription business (handwritten letters with art)",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Tree trimming and HVAC services",
+      "who": "Chris",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "RV rental business on Outdoorsy/RVshare platforms",
+      "who": "Chris",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Wall printer business for murals in commercial spaces",
+      "who": "Chris",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Tote rental service for moving",
+      "who": "Chris",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Food delivery to Amazon warehouse workers",
+      "who": "Chris",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Custom web apps via Replit for small/medium businesses",
+      "who": "Story",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Chris",
+      "text": "Snail mail subscription businesses exploding on TikTok; Hannah's Tiny Post grew zero to $60K MRR in 7 months"
+    },
+    {
+      "who": "Chris",
+      "text": "AI voice agents more important than chatbots for customer service; latency improvements enable adoption"
+    },
+    {
+      "who": "Chris",
+      "text": "Wall printers trending on Google Trends similar to pressure washing 5-10 years ago"
+    },
+    {
+      "who": "Chris",
+      "text": "Tote rentals spiking on Google Trends as moving service alternative"
+    }
+  ]
+}

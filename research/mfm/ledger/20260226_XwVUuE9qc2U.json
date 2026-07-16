@@ -1,0 +1,26 @@
+{
+  "approx_date": "2026-02",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "AI-powered open-source desktop agent that can control apps and run autonomous tasks",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "SOC 2 compliance automation for startups via Excel spreadsheet to SaaS",
+      "who": "Story",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "Jay Shetty will eventually be exposed as fabricating his monk backstory and credentials"
+    },
+    {
+      "who": "Shaan",
+      "text": "Self-help industry has higher percentage of fraud than most industries due to guru incentives"
+    }
+  ]
+}

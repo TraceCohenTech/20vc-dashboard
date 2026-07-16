@@ -1,0 +1,45 @@
+{
+  "approx_date": "2020-07",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Arbitrage ride-sharing credits by using referral system and minor rides as new users.",
+      "who": "Guest",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Income share agreement platform for minor league baseball players (pre-major league).",
+      "who": "Panel",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Back-office insurance company serving rental agents at point of lease.",
+      "who": "Panel",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Hidden back-office brokerage for real estate agents to keep their brand.",
+      "who": "Panel",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Data scraping service for Shopify store competitor analysis and sales tracking.",
+      "who": "Panel",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Panel",
+      "text": "Income share agreements will expand beyond education into sports, entertainment."
+    },
+    {
+      "who": "Panel",
+      "text": "Agents will abandon brokerages for hidden back-office models with lower fees."
+    },
+    {
+      "who": "Shaan",
+      "text": "Real estate has highest ratio of wealthy to genius entrepreneurs of any sector."
+    }
+  ]
+}

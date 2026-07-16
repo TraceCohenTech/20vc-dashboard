@@ -1,0 +1,13 @@
+{
+  "approx_date": "2024-05",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Hire a CEO to run your business while you scale or move to other ventures", "who": "Sam", "conviction": "serious"},
+    {"idea": "Operating group structure to manage portfolio of companies under single holding", "who": "Andrew", "conviction": "already building/built"},
+    {"idea": "High-quality gift boxes with personalized items for business relationships and merch", "who": "Andrew", "conviction": "already building/built"}
+  ],
+  "predictions": [
+    {"who": "Andrew", "text": "CEO tenure typically lasts 5-10 years before replacement needed for next growth phase"},
+    {"who": "Andrew", "text": "Business must have $300K+ annual profit and product-market fit to support CEO hire"}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "approx_date": "2022-11",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Blueprint: Data-driven biological age reversal through lifestyle optimization and measurement", "who": "Brian Johnson", "conviction": "already building/built"},
+    {"idea": "Kernel: Neuroimaging helmet for measuring brain activity and detecting cognitive decline", "who": "Brian Johnson", "conviction": "already building/built"},
+    {"idea": "Synthetic biology and genomics companies (Ginkgo Bioworks, etc.) for biological engineering", "who": "Brian Johnson", "conviction": "says he might build it"}
+  ],
+  "predictions": [
+    {"who": "Brian Johnson", "text": "Goal alignment within self, between people, and with AI is the core human challenge"},
+    {"who": "Brian Johnson", "text": "Biological engineering will become as important and widespread as software engineering"},
+    {"who": "Brian Johnson", "text": "Brain measurement will become standard of care like dental check-ups"}
+  ]
+}

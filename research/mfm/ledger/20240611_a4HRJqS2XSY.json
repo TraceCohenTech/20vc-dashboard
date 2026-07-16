@@ -1,0 +1,60 @@
+{
+  "approx_date": "2024-06",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "CB Insights data business - originally Chubby Brain, enterprise intelligence for investment decisions",
+      "who": "Anan",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Data cooperative pooled database - aggregate and clean data from multiple sources",
+      "who": "Anan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Premium CEO quality assessment database - interview executives to evaluate leadership",
+      "who": "Anan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Founder options platform - invest in rights to invest in founder's next company",
+      "who": "Anan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "School of Entrepreneurship - 6-12 grade boarding school focused on experiential learning",
+      "who": "Anan",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Slime museums - experiential venues targeting kids, low labor, high margins",
+      "who": "Story",
+      "conviction": "Story"
+    },
+    {
+      "idea": "D convenience stores - automated retail in multifamily complexes, property manager distribution",
+      "who": "Story",
+      "conviction": "Story"
+    },
+    {
+      "idea": "Amateur sports streaming service - live coverage of youth and recreational competitions",
+      "who": "Anan",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Anan",
+      "text": "School of Entrepreneurship can recruit formidable youth by targeting kids with real business success"
+    },
+    {
+      "who": "Anan",
+      "text": "Private school roll-ups becoming major trend as education innovation accelerates"
+    },
+    {
+      "who": "Anan",
+      "text": "Data businesses built on single-source access are vulnerable; collect data multiple ways"
+    }
+  ]
+}

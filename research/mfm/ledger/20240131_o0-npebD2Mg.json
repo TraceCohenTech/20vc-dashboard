@@ -1,0 +1,15 @@
+{
+  "approx_date": "2024-01",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Tamagachi for babies: Digital pet app replicating hourly baby care needs and bonding", "who": "Shaan", "conviction": "throwaway"},
+    {"idea": "Connex rebuild for adults: Relaunch STEM construction kits targeting adult builders", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Wordle Rubik's Cube: Daily puzzle game in Rubik's Cube form with 5-minute gameplay", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Candle pouring kits: DIY subscription for relaxing adult craft with usable end product", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Relaxation puddle: Sensory experience tank for full-body immersion and relaxation", "who": "Shaan", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "Adult toys and hobbies (AFOL) now represent 60% of toy industry growth at ~$2B annually"},
+    {"who": "Shaan", "text": "Simple stupid ideas described in few words often outperform intellectualized business theories"}
+  ]
+}

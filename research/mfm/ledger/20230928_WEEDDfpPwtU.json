@@ -1,0 +1,30 @@
+{
+  "approx_date": "2023-09",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Modernize hair transplant industry like Lasik did for eye surgery with better UX",
+      "who": "Jason",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Build better enterprise event ticketing platform like 10x improved Bizabo",
+      "who": "Jason",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Jason",
+      "text": "Hair transplant market grows from $5B to $30B by 2031, 20% annual growth rate"
+    },
+    {
+      "who": "Sam",
+      "text": "Blockworks will have multi-hundred million exit before Jason turns 33"
+    },
+    {
+      "who": "Jason",
+      "text": "Ethereum and Bitcoin will become more useful over the next 100 years"
+    }
+  ]
+}

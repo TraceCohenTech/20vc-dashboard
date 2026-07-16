@@ -1,0 +1,45 @@
+{
+  "approx_date": "2023-06",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Total Man lifestyle brand targeting masculine identity, selling products to audience seeking hard-man ethos",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Light Phone alternative smartphone with minimal features, no colors, appeals to digital minimalism trend",
+      "who": "Panel",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Private security startup (Banner Man model) - Uber for security guards, hourly pricing for on-demand protection",
+      "who": "Story",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Deep Sentinel - AI camera system with live human operators who intervene in real-time security threats",
+      "who": "Story",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Niche influencer-driven agencies building products for underserved communities (OnlyFans support businesses)",
+      "who": "Panel",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "Total Man lifestyle will become dominant trend; brands built around masculine identity will dominate next decade"
+    },
+    {
+      "who": "Sam",
+      "text": "Counterculture always swings opposite to mainstream status quo within 2-3 years after pendulum peaks"
+    },
+    {
+      "who": "Panel",
+      "text": "Light phone and privacy-focused tech adoption will accelerate as reaction to data-heavy surveillance platforms"
+    }
+  ]
+}

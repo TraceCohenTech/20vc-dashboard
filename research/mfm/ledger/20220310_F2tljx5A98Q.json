@@ -1,0 +1,65 @@
+{
+  "approx_date": "2022-03",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Indeed First Said: Twitter account tracking newly-created job titles and roles on job boards",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Nuuly model applied to other categories: rental/subscription for product categories with high returns",
+      "who": "Steph",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Real estate monetization guide: aggregate all ways to earn income from property (solar, tower, surf cam)",
+      "who": "Steph",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Competitive intelligence aggregator: track job postings, hires, roles at competitor companies",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Firefly/advertising networks: monetize dead space (rideshare vehicles) with targeted ads",
+      "who": "Story",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Recruitment via puzzles: MSCHF-style challenges to identify top talent for hiring",
+      "who": "Steph",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Rock Returns: reverse logistics and return processing as service for e-commerce brands",
+      "who": "Story",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Spring Loading: insider trading signal tracker for stock grant changes at companies",
+      "who": "Steph",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Penny Hoarder model: comprehensive guide to all available side hustles and gig work",
+      "who": "Story",
+      "conviction": "says he might build it"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "New job categories will continuously emerge as economy evolves and specializes"
+    },
+    {
+      "who": "Steph",
+      "text": "Rental and subscription models will expand beyond clothing to most consumer categories"
+    },
+    {
+      "who": "Sam",
+      "text": "Insider stock grant trends are predictive indicator of company strategic direction and success"
+    }
+  ]
+}

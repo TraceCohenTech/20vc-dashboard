@@ -1,0 +1,36 @@
+{
+  "approx_date": "2025-08",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Wentworth Protection: driveway security bollards to prevent vehicle theft in UK",
+      "who": "Flo",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Diamond Connect: contingency-based recruiting for marketing and ops roles",
+      "who": "Carson",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Elite Travel Hackers: credit card points optimization for luxury vacations",
+      "who": "Jordan",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Content creator monetization through affiliated training programs for college athletes",
+      "who": "Davi",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Alex Hormozi",
+      "text": "Demand-constrained businesses should maximize paid acquisition before product pivots"
+    },
+    {
+      "who": "Alex Hormozi",
+      "text": "Affiliate and partnership models de-risk content creator monetization versus direct products"
+    }
+  ]
+}

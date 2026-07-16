@@ -1,0 +1,16 @@
+{
+  "approx_date": "2026-07",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Jack's List: trust-based restaurant recommendation app competing with Yelp.", "who": "Shaan", "conviction": "serious"},
+    {"idea": "High-proximity office culture with in-person collaboration and serendipity.", "who": "Hassan", "conviction": "good crazy"},
+    {"idea": "City brands: intentional positioning of cities like sports teams or companies.", "who": "Shaan", "conviction": "good crazy"},
+    {"idea": "Trust as a service: creator-verified recommendations in age of deepfakes.", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Indian sauce brand positioned as marinade for everyday chicken, not ethnic food.", "who": "Story", "conviction": "already building/built"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "Trust will be the scarcest resource over next 10 years as AI makes everything fakeable."},
+    {"who": "Shaan", "text": "High-proximity teams outperform remote-only teams in creative work."},
+    {"who": "Gary Vee's team", "text": "Identifying social slack in rooms and fixing it creates multiplicative value."}
+  ]
+}

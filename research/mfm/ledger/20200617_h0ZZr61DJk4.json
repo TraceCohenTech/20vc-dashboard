@@ -1,0 +1,14 @@
+{
+  "approx_date": "2020-06",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Arc Publishing: productize internal publishing/newsletter platform for enterprises", "who": "Panel", "conviction": "already building/built"},
+    {"idea": "Internal Mailchimp variant for companies to send formatted announcements with tracking", "who": "Shaan", "conviction": "serious"},
+    {"idea": "All-hands Q&A software behind company firewall with chat and video", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Private equity rollup of DTC brands to share customer acquisition infrastructure", "who": "Nick", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Nick", "text": "Behavioral changes from COVID (fitness, wellness, at-home products) may reverse once outdoor activities resume"},
+    {"who": "Shaan", "text": "Influencer marketing ROI declining; celebrity endorsements becoming less effective at scale"}
+  ]
+}

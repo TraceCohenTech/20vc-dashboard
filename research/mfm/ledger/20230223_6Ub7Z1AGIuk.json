@@ -1,0 +1,55 @@
+{
+  "approx_date": "2023-02",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "LED vodka bottle company: branded alcohol bottles with programmable LED light displays",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "COVID safety equipment manufacturing: pivoted to N95 masks, respirators, testing kits",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Jupe: glamping/prefab living units, solar-powered tents deployable on owned land",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Marathon Ranch Airbnb: luxury vacation property rental with cattle, 20 acres",
+      "who": "Sam",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Smash My Trash: franchise compacting trash for commercial/residential waste reduction",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Bin Scrub: power-washing and cleaning trash cans for neighborhoods",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Parcast: true crime podcast network producing daily scripted stories, 100M+ downloads",
+      "who": "Story",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "Blue-collar side hustles like bin cleaning can generate $10k/month personal income"
+    },
+    {
+      "who": "Sam",
+      "text": "Parcast demonstrates content volume and consistency beats production quality for monetization"
+    },
+    {
+      "who": "Sam",
+      "text": "Jupe and modular housing will disrupt traditional real estate development"
+    }
+  ]
+}

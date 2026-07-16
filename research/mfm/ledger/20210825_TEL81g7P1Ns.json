@@ -1,0 +1,20 @@
+{
+  "approx_date": "2021-08",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Hotel negotiation service - email 20 hotels for bulk discounts on long stays", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "Friends with Benefits - token-gated Discord community using Collab Land", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Wealth X - ultra-high-net-worth individual database ($30M+) sold to investors", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Self-liquidating funnels - sell cheap related product to capture emails for upsell", "who": "Julian", "conviction": "serious"},
+    {"idea": "Chrome extension for stock/crypto ticker showing real-time prices on any webpage", "who": "Sam", "conviction": "serious"},
+    {"idea": "Twitter best tweets analyzer Chrome extension", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "Name hover card extension showing Twitter/Wiki/LinkedIn on any mention", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "Company ad spy Chrome extension to see all Facebook ads a company runs", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "Acorns-meets-Robinhood Chrome extension for fractional stock buying", "who": "Sam", "conviction": "serious"},
+    {"idea": "Passport - international shipping platform handling customs, tax, carriers", "who": "Sam", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Julian", "text": "Chrome extensions with high-quality data will be sticky acquisition channels for B2B"},
+    {"who": "Julian", "text": "Content quality matters more than frequency - inconsistent high-quality beats consistent mediocre"}
+  ]
+}

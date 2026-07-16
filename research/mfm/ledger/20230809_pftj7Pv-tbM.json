@@ -1,0 +1,36 @@
+{
+  "approx_date": "2023-08",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Laird Superfood - powdered superfoods, went public, $400M market cap",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "XPT - pool training system with breathing app, tiered subscription model",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Laird Apparel - clothing line with brand equity",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Farm project - agricultural venture (details sparse)",
+      "who": "Laird",
+      "conviction": "says he might build it"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Laird",
+      "text": "Health trends (whole-plant nutrition, cold water exposure) will accelerate mainstream adoption"
+    },
+    {
+      "who": "Laird",
+      "text": "Community-based fitness tribes outperform transactional gym memberships long-term"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "approx_date": "2021-07",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "IP licensing from movies/TV brands for restaurants (like Bubba Gump Shrimp)", "who": "Sam", "conviction": "serious"},
+    {"idea": "Dunder Mifflin Paper Company brand licensed from The Office", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "Duff Beer from The Simpsons as actual beer product", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "Wonka Bar chocolates and candies using Willy Wonka brand", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "Mad Men/Sterling Cooper ad agency brand for advertising firms", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "Nostalgia licensing company buying options on '90s brands and reselling to manufacturers", "who": "Sam", "conviction": "serious"},
+    {"idea": "Business-in-a-box model for snow cones, ice cream trucks, pest control", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "Multi-brand franchise model like 1-800-Got-Junk combining multiple services", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "Service provider dispatch with lead generation and local fulfillment", "who": "Sam", "conviction": "serious"},
+    {"idea": "Airbnb photography service for property listings", "who": "Shaan", "conviction": "serious"},
+    {"idea": "MicroAcquire marketplace for buying and selling startups (Zillow for M&A)", "who": "Andrew", "conviction": "already building/built"},
+    {"idea": "Micro SPAC model for startup capital raising from retail investors", "who": "Andrew", "conviction": "says he might build it"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "Rich people giving money to space exploration will pave way for future space value capture"},
+    {"who": "Andrew", "text": "Niche SaaS and e-commerce will replace traditional small businesses like restaurants and plumbing"},
+    {"who": "Andrew", "text": "Majority of non-unicorn startups (97.5%) will find home on MicroAcquire-like platforms"}
+  ]
+}

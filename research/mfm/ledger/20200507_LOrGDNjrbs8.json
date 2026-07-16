@@ -1,0 +1,15 @@
+{
+  "approx_date": "2020-05",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Group buying/splitting for expensive software subscriptions", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Shared lawyer service for small group of individuals", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Shopping checkout upsell features for acquisition", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Hair cutting consultation service via Zoom", "who": "Shaan", "conviction": "throwaway"},
+    {"idea": "E-commerce for Twitch streamer setup equipment", "who": "Sam", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "Stock market will continue significant decline"},
+    {"who": "Sam", "text": "Current rally is dead cat bounce not true recovery"}
+  ]
+}

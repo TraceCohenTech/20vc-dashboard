@@ -1,0 +1,43 @@
+{
+  "approx_date": "2025-06",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Replicate New Zealand roadside hole-in-one challenge at multiple locations globally",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "PatronView-style donor research platform aggregating cultural/philanthropic data",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Launch AI-first medical practice using AI co-pilots and assistants from day one",
+      "who": "Sam",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam/Elon",
+      "text": "Within couple years, not using AI at work will be equivalent to coming to work without computer"
+    },
+    {
+      "who": "Sam",
+      "text": "Not using AI diagnostics as radiologist will become considered medical malpractice"
+    },
+    {
+      "who": "Sam",
+      "text": "Self-driving adoption will take 5+ years, especially for rural and specialty-use vehicles"
+    },
+    {
+      "who": "Sam",
+      "text": "Data labeling businesses may become obsolete in 7-10 years as AI learns to self-label"
+    },
+    {
+      "who": "Sam",
+      "text": "Self-driving will reshape cities: parking lots become parks, eliminate truck driving jobs"
+    }
+  ]
+}

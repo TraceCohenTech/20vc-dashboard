@@ -1,0 +1,50 @@
+{
+  "approx_date": "2021-06",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Event space planning software with 3D drag-and-drop rendering",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Litigation finance company underwriting lawsuits for portion of settlement",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Circular commerce: resale platform embedded in brand websites",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Dynamic NFTs that upgrade based on real-world player achievements",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Vending machine business serving underserved demographics",
+      "who": "Panel",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Honesty market mini-fridge or convenience store in offices",
+      "who": "Panel",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Panel",
+      "text": "Celebrity NFTs with utility (merch, access, dividends) will succeed over pure art"
+    },
+    {
+      "who": "Shaan",
+      "text": "Airport businesses (captive audiences) remain highly profitable"
+    },
+    {
+      "who": "Panel",
+      "text": "Post-COVID demand will slingshot event, travel, and hospitality businesses"
+    }
+  ]
+}

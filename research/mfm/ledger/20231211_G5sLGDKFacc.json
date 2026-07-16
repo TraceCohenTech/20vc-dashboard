@@ -1,0 +1,14 @@
+{
+  "approx_date": "202312",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Monitor patent filings/expiries to find replicable business opportunities.", "who": "Steph", "conviction": "serious"},
+    {"idea": "Bluechew: telemedicine for erectile dysfunction using expired Viagra patent.", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Mini collectibles business (Mini Brands collectibles by Zuru).", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Public domain works commercialization (like Winnie the Pooh).", "who": "Panel", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Steph", "text": "Patent expiries will continue to create billion-dollar business opportunities."},
+    {"who": "Shaan", "text": "Bluechew is nearly as big as publicly-traded Hims despite lower visibility."}
+  ]
+}

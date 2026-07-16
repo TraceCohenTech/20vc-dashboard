@@ -1,0 +1,36 @@
+{
+  "approx_date": "2021-07",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Ghost.org: open-source Substack competitor with lower take-rate and transparent financials",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "IKEA hacking Instagram account plus courses, kits, and product guides for DIY furniture enthusiasts",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Professional networking platform built specifically for teachers, not generic LinkedIn",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Personal finance course teaching tax strategies used by wealthy people",
+      "who": "Sam",
+      "conviction": "says he might build it"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "Ghost will become multi-hundred million dollar company; it follows successful curve similar to ConvertKit"
+    },
+    {
+      "who": "Shaan",
+      "text": "Niche platforms beat generic ones; vertical LinkedIn for teachers, nurses will work better than regular LinkedIn"
+    }
+  ]
+}

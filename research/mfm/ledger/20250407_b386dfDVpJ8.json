@@ -1,0 +1,60 @@
+{
+  "approx_date": "2025-04",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Autonomous underwater robots for seagrass restoration and marine ecosystem monitoring.",
+      "who": "Guest",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Maritime defense drones for cable protection and subsurface monitoring in ocean.",
+      "who": "Guest",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Sustainable cultivated seafood production (sushi-grade salmon grown in lab).",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Data infrastructure and underwater cables for internet connectivity.",
+      "who": "Story",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Submarine treasure hunting with profit-sharing from recovered artifacts.",
+      "who": "Story",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Marine geoengineering via iron filing ocean seeding for carbon capture.",
+      "who": "Story",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Data centers submerged in ocean for cooling efficiency.",
+      "who": "Story",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Unmanned surface vehicles for defense and maritime operations.",
+      "who": "Story",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "China will increasingly use underwater cable cutters for geopolitical advantage, particularly in Pacific theaters."
+    },
+    {
+      "who": "Guest",
+      "text": "Ocean economy will see $3T+ annual spend shift toward tech-enabled solutions and automation."
+    },
+    {
+      "who": "Guest",
+      "text": "Billion-dollar companies will emerge from ocean robotics and maritime defense tech within decade."
+    }
+  ]
+}

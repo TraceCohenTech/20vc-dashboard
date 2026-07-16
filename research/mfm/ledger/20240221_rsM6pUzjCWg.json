@@ -1,0 +1,19 @@
+{
+  "approx_date": "2024-02",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Product + Services with offshore teams for high-TAM markets", "who": "Saad", "conviction": "serious"},
+    {"idea": "White-label WordPress development agency model (Seahawk Media)", "who": "Saad", "conviction": "already building/built"},
+    {"idea": "Bookkeeping and accounting services via offshore teams + reseller model", "who": "Saad", "conviction": "studying"},
+    {"idea": "Portfolio acquisition of QuickBooks/Xero ecosystem apps", "who": "Saad", "conviction": "says he might build it"},
+    {"idea": "Open source CRM to disrupt traditional CRM market", "who": "Saad", "conviction": "serious"},
+    {"idea": "Cal.com - open source Calendly competitor", "who": "Sam/Saad", "conviction": "already building/built"},
+    {"idea": "Costco-style software subscription bundle for developers", "who": "Sam", "conviction": "throwaway"},
+    {"idea": "OSS Capital-style investing in open source projects", "who": "Saad", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Saad", "text": "Open source will disrupt every established software market in next 10 years"},
+    {"who": "Saad", "text": "AppFlowy and cal.com will become unicorns disrupting Notion and Calendly"},
+    {"who": "Saad", "text": "QuickBooks ecosystem apps represent $10M+ acquisition opportunity if 5 apps doing $2-3M each combined"}
+  ]
+}

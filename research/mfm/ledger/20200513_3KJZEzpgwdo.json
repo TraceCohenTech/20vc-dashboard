@@ -1,0 +1,19 @@
+{
+  "approx_date": "2020-05",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Group buying model for Shopify checkout (Pinduo Duo for US)", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Vertical software for specific industries (golf, healthcare, transit)", "who": "Sam", "conviction": "serious"},
+    {"idea": "RV and camping rental marketplace", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Glamping and outdoor accommodation experiences", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Home beekeeping hobby/product business", "who": "Shaan", "conviction": "throwaway"},
+    {"idea": "Zoom video setup and lighting e-commerce", "who": "Sam", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "Churches will permanently shift to livestream model for services"},
+    {"who": "Shaan", "text": "Home fitness will capture permanent share from traditional gym industry"},
+    {"who": "Shaan", "text": "Outdoor recreation and RV industry will see sustained surge"},
+    {"who": "Shaan", "text": "Drive-through services will become standard across multiple categories"},
+    {"who": "Sam", "text": "Second-order effects of pandemic will create major business opportunities"}
+  ]
+}

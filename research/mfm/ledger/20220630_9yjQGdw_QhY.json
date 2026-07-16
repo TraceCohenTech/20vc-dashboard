@@ -1,0 +1,46 @@
+{
+  "approx_date": "2022-06",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Print neighborhood magazines with local franchise publishing model",
+      "who": "Story",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Doctor's office monthly magazine with pharmaceutical advertiser revenue",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Shopify merchant magazine targeting e-commerce store owners",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Email newsletter with dedicated in-house ad sales team",
+      "who": "Story",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Creator platform giving 85% ad revenue commission to newsletter writers",
+      "who": "Story",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Real estate investor renting everything instead of buying property",
+      "who": "Story",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "Wealthy people claiming to fly coach are lying about it"
+    },
+    {
+      "who": "Panel",
+      "text": "Stroll magazine business will double revenue approximately every four years"
+    }
+  ]
+}

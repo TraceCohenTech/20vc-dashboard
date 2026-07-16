@@ -1,0 +1,55 @@
+{
+  "approx_date": "2023-11",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Stock market for residential real estate - buy houses, sell liquid shares, rating system for operators",
+      "who": "Moyer",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Shopify for high-end e-commerce businesses (north of $100M+) with custom checkout",
+      "who": "Moyer",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Clone top 100 Shopify apps, charge flat $20-30/month instead of percentage of revenue",
+      "who": "Moyer",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Founders Card - $100/month membership with SaaS discounts worth $800+ per month",
+      "who": "Sam",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Home Options - buy options to be broker on future home sales",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Pipe for Real Estate - turn monthly rent into annual payment with 8% fee",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Steady Capital (Robinhood for Real Estate) - invest $500/month into diversified real estate",
+      "who": "Story",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Moyer",
+      "text": "San Francisco residential real estate is significantly underpriced opportunity"
+    },
+    {
+      "who": "Moyer",
+      "text": "Office real estate needs another 4-5 months before hitting bottom before buying"
+    },
+    {
+      "who": "Moyer",
+      "text": "National Association of Realtors will face $40B+ in total judgments from price fixing case"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "approx_date": "2025-06",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Acquire small-town newspapers, run as nonprofits, generate $500k+ EBITDA from local ads",
+      "who": "Guest (Matthew Prince/Cloudflare)",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Reality TV show format for selecting Democratic presidential candidates over 12 weeks",
+      "who": "Guest",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "AI-focused investment index (AI50/AI20) targeting companies benefiting from AI adoption",
+      "who": "Sam",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest (Billionaire friend)",
+      "text": "Most charismatic candidate wins elections; proven pattern since radio/TV scaled messaging"
+    },
+    {
+      "who": "Austin Rief",
+      "text": "Next presidents will emerge from podcasters and newsletter writers with built audiences"
+    },
+    {
+      "who": "Sam",
+      "text": "Stock picking underperforms passive index investing; data proves this thesis"
+    },
+    {
+      "who": "Sam",
+      "text": "AI tools will enable politicians to generate 100x more video content than opponents"
+    }
+  ]
+}

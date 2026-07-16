@@ -1,0 +1,44 @@
+{
+  "approx_date": "2026-03",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "AI transformation consulting for non-tech small/medium businesses",
+      "who": "Sam/Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Alpha School high school: make $1M by graduation or tuition free",
+      "who": "Nat/Cameron",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "AI tools for medspas (virtual try-on, confidence builder)",
+      "who": "Panel",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Service businesses with AI leverage (replacing consultants with AI)",
+      "who": "Panel",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Dario Amodei",
+      "text": "Anthropic doing $6B revenue in single month; 10x annual growth trajectory toward $72B+ annually"
+    },
+    {
+      "who": "Karpathy",
+      "text": "Cashiers, customer service, high school teachers at high risk from AI; most jobs will reshape not replace"
+    },
+    {
+      "who": "Panel",
+      "text": "Service businesses will have 75% gross margins via AI productivity vs prior 40-50%"
+    },
+    {
+      "who": "Panel",
+      "text": "PE firms shifting budget from SaaS to service companies, valuing them like software companies"
+    }
+  ]
+}

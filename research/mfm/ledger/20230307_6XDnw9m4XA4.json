@@ -1,0 +1,40 @@
+{
+  "approx_date": "2023-03",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Guts: direct-to-consumer gut health beverage/supplement for digestion and weight loss",
+      "who": "Shaan",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Electronify: fintech platform for electronic trading of corporate bonds between institutions",
+      "who": "Guest",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Palisades Group: asset management firm managing $2-5B discretionary capital for institutional clients",
+      "who": "Guest",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Life Biosciences: longevity/health tech venture capital fund raising capital for biotech",
+      "who": "Guest",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Ken",
+      "text": "Endurance athletes over 50 can maintain elite performance through disciplined training and recovery"
+    },
+    {
+      "who": "Ken",
+      "text": "Betting on yourself full-time provides quality of life benefits exceeding six-figure employment income"
+    },
+    {
+      "who": "Shaan",
+      "text": "Gut health D2C brands can capture niche via App Store optimization without paid marketing"
+    }
+  ]
+}

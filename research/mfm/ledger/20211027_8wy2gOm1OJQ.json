@@ -1,0 +1,40 @@
+{
+  "approx_date": "2021-10",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "The Last Mile: nonprofit teaching incarcerated people to code, job placement at tech companies",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Prospero/charter cities: Peter Thiel's private charter city in Honduras for legal experimentation",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Mini Circle: gene therapy company using CRISPR, relocated to Prospero to avoid FDA restrictions",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Praxis: charter city project recruiting founders and early adopters to build new city",
+      "who": "Sam",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "Charter cities will become mainstream in next 10 years as alternative to traditional governance"
+    },
+    {
+      "who": "Sam",
+      "text": "Charter cities and biohacker projects risky but interesting for testing radical ideas"
+    },
+    {
+      "who": "Shaan",
+      "text": "Last Mile program graduating 1000+ people with zero recidivism vs 65% national average is proof of model"
+    }
+  ]
+}

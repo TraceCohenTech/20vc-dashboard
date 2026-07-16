@@ -1,0 +1,65 @@
+{
+  "approx_date": "2020-06",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "VPN built into WiFi router as default security feature, simplifying setup.",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Data visualization platform for grocery store purchases from Safeway/Kroger.",
+      "who": "Panel",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Marketplace matching schools needing solar with companies seeking tax credits.",
+      "who": "Shaan",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Replace highway median grass with artificial turf to reduce water usage.",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Fort Knox for baseball cards: centralized vault storage with fractional trading.",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Group buying SaaS platform for software discounts (AppSumo-like for all products).",
+      "who": "Aubrey",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Align: income share agreement infrastructure for education programs.",
+      "who": "Panel",
+      "conviction": "serious"
+    },
+    {
+      "idea": "AgentFire: Wix for real estate agents to build sites and business.",
+      "who": "Panel",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Productize service businesses into SaaS products for niche markets.",
+      "who": "Panel",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "Privacy pendulum swinging: more consumers will care about data privacy over time."
+    },
+    {
+      "who": "Shaan",
+      "text": "WiFi router with built-in VPN will become expected feature, high margin business."
+    },
+    {
+      "who": "Panel",
+      "text": "Solar-as-a-service model will expand to churches and other tax-seeking organizations."
+    }
+  ]
+}

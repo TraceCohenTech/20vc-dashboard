@@ -1,0 +1,27 @@
+{
+  "approx_date": "2023-05",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Traveling combine for youth sports testing local kids' athletic performance.",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Luxury pickle brand scaling through viral branding.",
+      "who": "Guest",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Jesse Itzler's pickle company Hoya Yaya pickles with modern branding.",
+      "who": "Story",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "Jesse Itzler will succeed at pickle company because pickle market lacks differentiation."
+    }
+  ]
+}

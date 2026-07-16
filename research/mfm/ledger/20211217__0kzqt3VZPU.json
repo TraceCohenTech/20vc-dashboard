@@ -1,0 +1,19 @@
+{
+  "approx_date": "2021-12",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "BuiltWith: website tech detection and lead generation platform", "who": "Story", "conviction": "throwaway"},
+    {"idea": "Card: one-page website builder for creators and portfolios", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Ugmonk: designer productivity tools and desk accessories", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Next-episode.net: TV show tracking community platform", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Bannerbear: API for auto-generating branded images", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Healthiest food affiliate blog targeting food-related keywords", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Dental content creator channel (Dental Digest model)", "who": "Story", "conviction": "throwaway"},
+    {"idea": "Companies of one: solo-founder niche software businesses", "who": "Panel", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Shaan", "text": "Healthcare-specific professional resource site can hit multi-million revenue"},
+    {"who": "Shaan", "text": "Solo-founder software businesses can sustain 1-10M ARR with no venture funding"},
+    {"who": "Steph", "text": "Healthiest food SEO content can rank faster than competitors in health space"}
+  ]
+}

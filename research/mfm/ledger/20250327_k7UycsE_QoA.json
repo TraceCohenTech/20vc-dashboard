@@ -1,0 +1,18 @@
+{
+  "approx_date": "2025-03",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Low earth orbit imaging satellites (cheaper via SpaceX, $100K not $1M)", "who": "Imad", "conviction": "serious"},
+    {"idea": "Autonomous drones/vehicles/defense tech (multi-form factor, thousands vs planes)", "who": "Imad", "conviction": "serious"},
+    {"idea": "AI tutoring for specific tests (SAT, MCAT, bar exam) - one-on-one personalization", "who": "Imad", "conviction": "serious"},
+    {"idea": "Digital twin CEO (AI system absorbing all company knowledge and Slack history)", "who": "Imad", "conviction": "serious"},
+    {"idea": "Billboard in space viewable via telescope (fun idea, not primary)", "who": "Imad", "conviction": "throwaway"},
+    {"idea": "Nuclear power plant on moon to mine water and produce rocket fuel", "who": "Imad", "conviction": "throwaway"}
+  ],
+  "predictions": [
+    {"who": "Imad", "text": "Space tech becoming accessible/cheap; satellites now $100K not $1M with SpaceX"},
+    {"who": "Imad", "text": "Defense/autonomous tech massively under-competed compared to AI startups"},
+    {"who": "Imad", "text": "One-on-one AI tutoring for specific tests will disrupt multi-decade prep companies"},
+    {"who": "Imad", "text": "AI will eventually compete in regulated spaces (legal, medical) as adoption grows"}
+  ]
+}

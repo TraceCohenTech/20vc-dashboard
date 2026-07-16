@@ -1,0 +1,26 @@
+{
+  "approx_date": "2025-05",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Boom: commercial supersonic jet company (1,300 mph vs 500 mph)",
+      "who": "Guest",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Dynamic pricing for roads: smart traffic lights and congestion pricing system",
+      "who": "Blake",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Blake",
+      "text": "Boom will have first airliner rolling off line in 2027, fly in 2028, passengers 2029"
+    },
+    {
+      "who": "Blake",
+      "text": "First startup to successfully build a commercial jet engine (skeptics claim only big companies can)"
+    }
+  ]
+}

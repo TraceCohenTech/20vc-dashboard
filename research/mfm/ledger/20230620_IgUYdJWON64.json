@@ -1,0 +1,30 @@
+{
+  "approx_date": "2023-06",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "B2B trade show business - niche industry events (automotive testing, aircraft interiors, health care)",
+      "who": "Sam",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Thinking Time - Slack app for asynchronous decision-making using Delphi method with anonymity",
+      "who": "Story",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Panel",
+      "text": "B2B trade shows consistently sell for 10-15x profit, triple Ecom valuations, outlast most businesses"
+    },
+    {
+      "who": "Panel",
+      "text": "Great orators and charismatic speakers can persuade people toward false beliefs more than logic arguments"
+    },
+    {
+      "who": "Panel",
+      "text": "Tallest/fittest people at events attract disproportionate attention regardless of actual business accomplishments"
+    }
+  ]
+}

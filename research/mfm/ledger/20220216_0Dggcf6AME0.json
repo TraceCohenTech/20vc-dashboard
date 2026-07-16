@@ -1,0 +1,41 @@
+{
+  "approx_date": "2022-02",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Stonks.com: Twitch-style live streaming for angel investing and startup fundraising rounds",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Stonks-style platform for real estate investing: live video auctions of properties",
+      "who": "Sam",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Stonks-style talent marketplace: live bidding wars for hiring top engineers and designers",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Anywhere School: traveling classroom with consistent teacher and cohort, rotates cities",
+      "who": "Guest",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Cal.com: open-source alternative to Calendly with self-hosting and customization",
+      "who": "Guest",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "Recovered Bitfinex Bitcoin will go to $200 trillion crypto market cap within 10-15 years"
+    },
+    {
+      "who": "Guest",
+      "text": "Open-source software will capture separate market segment from closed-source winners"
+    }
+  ]
+}

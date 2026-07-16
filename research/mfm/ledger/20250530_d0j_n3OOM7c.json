@@ -1,0 +1,37 @@
+{
+  "approx_date": "2025-05",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "LLM SEO optimization agency helping companies improve visibility in AI search results",
+      "who": "Greg",
+      "conviction": "serious"
+    },
+    {
+      "idea": "AI-powered form builder using natural language to generate forms dynamically",
+      "who": "Greg",
+      "conviction": "serious"
+    },
+    {
+      "idea": "AI-powered SEO tool competitor to Hrefs specifically optimized for LLM search visibility",
+      "who": "Greg",
+      "conviction": "serious"
+    },
+    {
+      "idea": "Medical AI scribe service packaged from Lindy workflow selling for $299 per month",
+      "who": "Greg",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "AI feedback hotline using Claude voice to collect and analyze business feedback",
+      "who": "Greg",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Greg",
+      "text": "Thousands of million-dollar businesses will be built by packaging AI workflows as products"
+    }
+  ]
+}

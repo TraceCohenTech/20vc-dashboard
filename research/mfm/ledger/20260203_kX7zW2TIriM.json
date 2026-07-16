@@ -1,0 +1,50 @@
+{
+  "approx_date": "2026-02",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Hoop Group: basketball + entrepreneurship networking event combining sports and business",
+      "who": "Shaan",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Solve food delivery by making it significantly better than existing terrible options",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Publish custom commemorative magazine like Slam Magazine after major event",
+      "who": "Shaan",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Build podcast model where you lose money but gain long-term brand and reach",
+      "who": "Shaan",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Coaching high school basketball team for community impact despite financial loss",
+      "who": "Shaan",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Create premium experiences for ultra-wealthy by tapping into childlike emotion and joy",
+      "who": "Shaan",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "Bigger ideas attract better talent and become easier to execute than smaller ones"
+    },
+    {
+      "who": "Shaan",
+      "text": "Win-win projects outperform financially-motivated ones in long-term value creation"
+    },
+    {
+      "who": "Sam",
+      "text": "Brand strength defined by extending into adjacent categories users can imagine"
+    }
+  ]
+}

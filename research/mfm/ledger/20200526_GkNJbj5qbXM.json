@@ -1,0 +1,26 @@
+{
+  "approx_date": "2020-05",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Platform to monetize content from non-top-creators; allow regular people to earn from viral videos",
+      "who": "Guest",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Derivative product based on a board game; create new media around existing IP",
+      "who": "Guest",
+      "conviction": "throwaway"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Guest",
+      "text": "Content creators will increasingly need multiple revenue streams beyond advertising to succeed"
+    },
+    {
+      "who": "Guest",
+      "text": "COVID-19 accelerated digital content consumption and will permanently change media consumption habits"
+    }
+  ]
+}

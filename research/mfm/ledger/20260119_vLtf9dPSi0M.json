@@ -1,0 +1,36 @@
+{
+  "approx_date": "2026-01",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Isomorphic Labs - Google spinout to cure all disease using AI and protein folding",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "AlphaFold wrapper application for pharmaceutical companies to speed drug discovery",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Wet labs for protein synthesis testing to support computational biology discoveries",
+      "who": "Shaan",
+      "conviction": "throwaway"
+    },
+    {
+      "idea": "Computational biology startups - general opportunity for high-potential entrepreneurs",
+      "who": "Shaan",
+      "conviction": "serious"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Dennis Hassabis",
+      "text": "AGI (Artificial General Intelligence) will be the last invention humans need to make"
+    },
+    {
+      "who": "Shaan",
+      "text": "Computational biology will be the most valuable field for high-potential entrepreneurs in next decade"
+    }
+  ]
+}

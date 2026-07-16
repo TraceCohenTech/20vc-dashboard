@@ -1,0 +1,31 @@
+{
+  "approx_date": "2022-08",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "MFM Camp - exclusive 20-25 person retreat for entrepreneurs to network and play",
+      "who": "Shaan",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Larger MFM retreat version - 200-500 person annual conference",
+      "who": "Shaan",
+      "conviction": "says he might build it"
+    },
+    {
+      "idea": "Mad Realities - interactive reality TV show where NFT holders vote on plot outcomes",
+      "who": "Guest",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Shaan",
+      "text": "MFM Camp format will become annual event series across multiple tiers of exclusivity"
+    },
+    {
+      "who": "Shaan",
+      "text": "Larger retreat will attract 200-500 entrepreneurs and shift industry event landscape"
+    }
+  ]
+}

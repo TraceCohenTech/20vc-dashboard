@@ -1,0 +1,17 @@
+{
+  "approx_date": "2023-01",
+  "yt_title": null,
+  "business_ideas": [
+    {"idea": "Trend forecasting B2B platform for enterprise customers predicting demand", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Survey platform for consumer insights and data collection via rewards", "who": "Shaan", "conviction": "serious"},
+    {"idea": "Pickleball equipment Amazon FBA store sold for 8-10M", "who": "Sam", "conviction": "already building/built"},
+    {"idea": "Pickleball newsletter The Dink generating 3-4M valuation", "who": "Sam", "conviction": "already building/built"},
+    {"idea": "Pickleball venues combining food, drink and play experiences", "who": "Story", "conviction": "already building/built"},
+    {"idea": "Virtual Gaming Worlds online poker using sweepstakes legal arbitrage", "who": "Shaan", "conviction": "already building/built"},
+    {"idea": "Curated auction marketplace for high-ticket items like golf equipment", "who": "Shaan", "conviction": "serious"}
+  ],
+  "predictions": [
+    {"who": "Sam", "text": "Pickleball will explode to 50M+ players as celebrities buy teams and invest heavily"},
+    {"who": "Shaan", "text": "Virtual Gaming Worlds business model defensible via regulatory and patent moat"}
+  ]
+}

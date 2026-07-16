@@ -1,0 +1,30 @@
+{
+  "approx_date": "2024-09-13",
+  "yt_title": null,
+  "business_ideas": [
+    {
+      "idea": "Mercury: neo-bank for startups offering better rates and FDIC insurance than traditional banks",
+      "who": "Story",
+      "conviction": "already building/built"
+    },
+    {
+      "idea": "Cursor: AI-powered IDE for coding that simplifies development for engineers and non-coders alike",
+      "who": "Story",
+      "conviction": "already building/built"
+    }
+  ],
+  "predictions": [
+    {
+      "who": "Sam",
+      "text": "Winners in every category take lion's share of rewards; winners need strong brand moat and regulatory moat"
+    },
+    {
+      "who": "Sam",
+      "text": "Neo-banks can grow with startups and retain customers rather than losing them as they scale"
+    },
+    {
+      "who": "Sam",
+      "text": "AI-assisted coding tools will become standard infrastructure; productivity multipliers still improving"
+    }
+  ]
+}
