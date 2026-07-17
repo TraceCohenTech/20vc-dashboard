@@ -1,0 +1,12 @@
+[
+  {"idx": 160, "status": "not-found", "company": null, "evidence": "Generic subscription-box-of-local-artisan-goods idea; no single company traceable to this specific pitch, though the model (e.g. NoCoBox, Explore Local) exists broadly.", "confidence": "low"},
+  {"idx": 161, "status": "built-by-others", "company": "Pepper (Pepper Pantry/Pepper Groceries)", "evidence": "Pepper, a B2B restaurant-supplier platform, pivoted in April 2020 to Pepper Pantry, selling restaurant supply-chain groceries direct to consumers, matching the pitch almost exactly.", "confidence": "medium"},
+  {"idx": 162, "status": "existed-already", "company": "FlexiSpot / Autonomous / other budget standing desk brands", "evidence": "Affordable portable standing desks (e.g. FlexiSpot, Autonomous) were already widely sold well before the March 2020 pitch.", "confidence": "medium"},
+  {"idx": 168, "status": "existed-already", "company": "Credit Karma", "evidence": "Credit Karma (credit reports + card affiliate revenue) was founded in 2007, long before Sam cited it as a model in 2020.", "confidence": "high"},
+  {"idx": 169, "status": "existed-already", "company": "NerdWallet", "evidence": "NerdWallet, a financial comparison/lead-gen site, was founded in 2009.", "confidence": "high"},
+  {"idx": 170, "status": "existed-already", "company": "The Penny Hoarder", "evidence": "The Penny Hoarder, monetized via affiliate money-saving content, was founded in 2010.", "confidence": "high"},
+  {"idx": 171, "status": "existed-already", "company": "Thumbtack", "evidence": "Thumbtack, the services marketplace, was founded in 2008.", "confidence": "high"},
+  {"idx": 172, "status": "existed-already", "company": "Manzil", "evidence": "Manzil, the Toronto halal-mortgage fintech, was founded by Mohamad Sawwaf in 2017, cited by Sam as an existing example.", "confidence": "high"},
+  {"idx": 182, "status": "existed-already", "company": "Papa Inc.", "evidence": "Papa, the 'grandkids on-demand' senior-companionship company, launched nationally in January 2018 (YC-backed).", "confidence": "high"},
+  {"idx": 183, "status": "existed-already", "company": "Honor", "evidence": "Honor, the on-demand home caretaker platform, was founded in 2014.", "confidence": "high"}
+]

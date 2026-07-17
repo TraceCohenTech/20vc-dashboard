@@ -1,0 +1,12 @@
+[
+  {"idx": 22, "status": "existed-already", "company": "Product Hunt Games", "evidence": "Product Hunt launched its Games vertical in June 2015, years before this July 2019 podcast discussion.", "confidence": "high"},
+  {"idx": 23, "status": "existed-already", "company": "Product Hunt Books", "evidence": "Product Hunt launched a dedicated Books vertical in July 2015 (Forbes/Fortune coverage), well before the 2019 pitch.", "confidence": "high"},
+  {"idx": 24, "status": "existed-already", "company": "Product Hunt Podcasts", "evidence": "Product Hunt launched a Podcasts discovery vertical in 2015 per Fast Company, predating this 2019 episode.", "confidence": "high"},
+  {"idx": 25, "status": "existed-already", "company": "Weekend Fund", "evidence": "Weekend Fund, founded in 2017 by Ryan Hoover and Vedika Jain writing early-stage checks, already existed by the 2019 podcast date.", "confidence": "high"},
+  {"idx": 26, "status": "not-found", "company": null, "evidence": "No evidence this childhood anecdote (crushing itchy seed pods for 25 cents) ever became a real business.", "confidence": "medium"},
+  {"idx": 27, "status": "existed-already", "company": "Elance/Upwork", "evidence": "Elance and Upwork (merged 2015) already existed as freelance marketplaces for design/Flash/3D work well before 2019.", "confidence": "high"},
+  {"idx": 28, "status": "not-found", "company": null, "evidence": "No specific company found matching a 'mobile app store with video previews' pitch from this episode; app stores like Apple's already show preview videos but no distinct startup was traced to this idea.", "confidence": "low"},
+  {"idx": 29, "status": "existed-already", "company": "Vungle", "evidence": "Vungle, a video ad network for mobile games replacing banner ads, was founded in 2011 and was already an established player by 2019.", "confidence": "medium"},
+  {"idx": 30, "status": "existed-already", "company": "Shyp", "evidence": "Shyp, the on-demand shipping startup, operated 2013-2018 and had already shut down (TechCrunch, March 2018) before this July 2019 episode discussed it.", "confidence": "high"},
+  {"idx": 31, "status": "not-found", "company": null, "evidence": "This is general career advice ('become a power user on emerging platforms'), not a specific business/product that could be tracked as built.", "confidence": "high"}
+]

@@ -1,0 +1,12 @@
+[
+  {"idx": 204, "status": "existed-already", "company": "Vimcal", "evidence": "Vimcal ('Superhuman for calendar') was already operating by 2019, before this April 2020 pitch.", "confidence": "medium"},
+  {"idx": 205, "status": "built-by-others", "company": "Pitch / Gamma", "evidence": "Pitch (2020) and Gamma (2020) launched as slick PowerPoint competitors shortly after this pitch, though not by MFM hosts.", "confidence": "medium"},
+  {"idx": 206, "status": "built-by-others", "company": "Equals", "evidence": "Equals launched as a modern spreadsheet-analytics tool for querying/charting live data, founded around 2020-2021.", "confidence": "low"},
+  {"idx": 207, "status": "existed-already", "company": "Art Money", "evidence": "Art Money already offered interest-free installment plans for fine art purchases since 2016, before this April 2020 pitch.", "confidence": "medium"},
+  {"idx": 208, "status": "existed-already", "company": "Karat Financial", "evidence": "Karat Financial, a bank/credit line for creators/influencers, was founded in 2019, before this April 2020 pitch.", "confidence": "medium"},
+  {"idx": 209, "status": "built-by-others", "company": "Cofertility", "evidence": "Cofertility, offering concierge-level egg freezing support, was founded in 2020 around the time of this pitch.", "confidence": "medium"},
+  {"idx": 210, "status": "not-found", "company": null, "evidence": "No specific startup found matching an on-demand scooter delivery service for campus consumer goods.", "confidence": "low"},
+  {"idx": 211, "status": "existed-already", "company": "Buildertrend / Procore", "evidence": "Established construction project-management/cost-control platforms like Buildertrend (2006) and Procore (2002) already existed at pitch time.", "confidence": "medium"},
+  {"idx": 212, "status": "existed-already", "company": "Motive (KeepTruckin) / Samsara", "evidence": "Fleet-management platforms for small trucking businesses such as KeepTruckin (2013) and Samsara (2015) already existed before this pitch.", "confidence": "medium"},
+  {"idx": 214, "status": "existed-already", "company": "B-Stock", "evidence": "B-Stock, a B2B bid-based marketplace for used/returned phones and electronics, was founded in 2011, well before this pitch.", "confidence": "medium"}
+]

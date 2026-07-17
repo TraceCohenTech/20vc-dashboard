@@ -1,0 +1,12 @@
+[
+  {"idx": 184, "status": "existed-already", "company": "Relationship Hero", "evidence": "Relationship Hero, online dating/relationship coaching, was founded in 2017 (YC S17) by Liron Shapira and Lior Gotesman.", "confidence": "high"},
+  {"idx": 185, "status": "existed-already", "company": "Opendoor", "evidence": "Opendoor, the data-driven iBuyer/house-flipping platform, was founded in 2014.", "confidence": "high"},
+  {"idx": 186, "status": "existed-already", "company": "Made Renovation", "evidence": "Made Renovation, turnkey bathroom renovation packages, launched in July 2019, before the March 2020 pitch.", "confidence": "high"},
+  {"idx": 187, "status": "existed-already", "company": "Lucy (Lucy Goods)", "evidence": "Lucy, the tobacco-free nicotine gum subscription brand, was founded in 2016 and launched its gum product in 2019.", "confidence": "high"},
+  {"idx": 198, "status": "existed-already", "company": "Thrive Market", "evidence": "Thrive Market, an organic-products membership with wholesale-style discounts, was founded in 2014.", "confidence": "high"},
+  {"idx": 199, "status": "existed-already", "company": "Thrive Market (Thrive Gives)", "evidence": "Thrive Market's 'Thrive Gives' program sponsors a free membership for a low-income family for every paid membership sold, a program running since the company's 2014 founding.", "confidence": "high"},
+  {"idx": 200, "status": "built-by-host", "company": "Trends.co", "evidence": "Sam Parr (via The Hustle) launched Trends.co in 2020, a paid newsletter/subscription of curated business ideas and founder insights, matching the pitched 'Trends book' concept; later sold to HubSpot in 2021 and sunset in 2024.", "confidence": "high"},
+  {"idx": 201, "status": "existed-already", "company": "Byju's / Unacademy", "evidence": "Large video-based test-prep ed-tech platforms targeting Indian students (Byju's founded 2011, Unacademy 2015) already existed well before the April 2020 pitch.", "confidence": "medium"},
+  {"idx": 202, "status": "built-by-others", "company": "AccountsReceivable.ai / Monk / Invoice Butler (category)", "evidence": "AI-powered accounts-receivable collection tools integrating with QuickBooks and automating email dunning have since been built by multiple companies, though not directly traceable to this specific pitch.", "confidence": "low"},
+  {"idx": 203, "status": "not-found", "company": null, "evidence": "Generic idea about fixing retention in online test-prep education; no specific company traceable to this pitch.", "confidence": "low"}
+]

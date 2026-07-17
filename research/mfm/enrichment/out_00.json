@@ -1,0 +1,72 @@
+[
+  {
+    "idx": 42,
+    "status": "not-found",
+    "company": null,
+    "evidence": "No evidence Sam/Shaan or anyone else built a unified hospitality/clubs/hotels/events/membership software platform tied to this pitch. Real club-management software companies exist (Clubspot founded 2017, Boulevard, etc.) but none traceable to this specific MFM segment or its hosts.",
+    "confidence": "medium"
+  },
+  {
+    "idx": 43,
+    "status": "existed-already",
+    "company": "Native Deodorant",
+    "evidence": "Native was founded in 2015 by Moiz Ali and acquired by Procter & Gamble for ~$100M in November 2017, well before the August 2019 pitch date — this was a discussion of an already-real, already-acquired brand.",
+    "confidence": "high"
+  },
+  {
+    "idx": 51,
+    "status": "not-found",
+    "company": null,
+    "evidence": "No evidence Shaan/Sam launched a dedicated crypto venture fund following this Sept 2019 pitch. Shaan's later ventures (Milk Road, a crypto newsletter co-founded 2021/sold 2022; All-Access-Fund, a general startup rolling fund launched Sept 2020) are adjacent but not a crypto-focused early-stage investment fund as described.",
+    "confidence": "medium"
+  },
+  {
+    "idx": 78,
+    "status": "existed-already",
+    "company": "BarkBox",
+    "evidence": "BarkBox was founded in December 2011 by Carly Strife, Matt Meeker, and Henrik Werdelin, long predating the November 2019 pitch date (BarkBox/Bark later went public via SPAC in 2020).",
+    "confidence": "high"
+  },
+  {
+    "idx": 94,
+    "status": "existed-already",
+    "company": "Rev.com",
+    "evidence": "Rev was founded around 2010 by former oDesk employees as a freelance transcription/captioning marketplace, with ~50,000 active freelancers by 2019 — well established before the January 2020 pitch.",
+    "confidence": "high"
+  },
+  {
+    "idx": 95,
+    "status": "not-found",
+    "company": null,
+    "evidence": "Could not identify the specific failed online math tutoring venture referenced in this Jan 2020 episode via web search; no matching startup or founder account surfaced tying a shut-down math tutoring product to an MFM guest.",
+    "confidence": "low"
+  },
+  {
+    "idx": 97,
+    "status": "existed-already",
+    "company": "Webflow",
+    "evidence": "Webflow was founded in 2012-2013 by Vlad Magdalin, Sergie Magdalin, and Bryant Chou, launched via Y Combinator Summer 2013, and had already raised a $72M Series A by August 2019 — well before the January 2020 pitch.",
+    "confidence": "high"
+  },
+  {
+    "idx": 100,
+    "status": "existed-already",
+    "company": "Everlywell",
+    "evidence": "Everlywell was founded in 2014-2015 by Julia Cheek, launched out of beta in 2015, and had appeared on Shark Tank in 2017 — an established at-home lab testing company well before the February 2020 pitch.",
+    "confidence": "high"
+  },
+  {
+    "idx": 114,
+    "status": "existed-already",
+    "company": "Lucid Drone Technologies (Lucid Bots)",
+    "evidence": "Lucid Drone Technologies was founded in 2018 and went through Y Combinator's Summer 2019 batch (autonomous window-washing/cleaning drones), predating the February 2020 pitch; it has since raised a $20M round and rebranded to Lucid Bots.",
+    "confidence": "high"
+  },
+  {
+    "idx": 123,
+    "status": "not-found",
+    "company": null,
+    "evidence": "No dedicated 'Clout Kitchens' cloud-kitchen-for-food-influencers company was built matching this Feb 2020 pitch. A same-named 'Clout Kitchen' is an unrelated 2024 Manila-based AI gaming-companion startup (Backseat AI), not a cloud kitchen business — coincidental name overlap only.",
+    "confidence": "medium"
+  }
+]

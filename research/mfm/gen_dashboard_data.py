@@ -113,6 +113,13 @@ def ts(name, typ, data):
 ts("gen_summary", "SUMMARY", summary)
 ts("gen_yearly", "YEARLY", yearly)
 ts("gen_ideas", "IDEAS", ideas)
+# falsifiability grades
+try:
+    _gr = json.load(open("/tmp/mfm_predgrade/merged.json"))
+    for k, v in _gr.items():
+        ki = int(k)
+        if 0 <= ki < len(preds): preds[ki]["grade"] = v
+except Exception as e: print("grades skipped:", e)
 ts("gen_predictions", "PREDICTIONS", preds)
 ts("gen_quotes", "QUOTES", quotes[:120])
 ts("gen_debates", "DEBATES", debates[:40])
@@ -137,6 +144,13 @@ def categorize(text):
         if _re.search(pat, t): return name
     return "Other"
 for i in ideas: i["cat"] = categorize(i["idea"])
+# LLM-classified overrides for the Other bucket
+try:
+    _ov = json.load(open("/tmp/mfm_classify/merged.json"))
+    for k, v in _ov.items():
+        ki = int(k)
+        if 0 <= ki < len(ideas) and ideas[ki]["cat"] == "Other": ideas[ki]["cat"] = v
+except Exception as e: print("cat override skipped:", e)
 cat_counts = collections.Counter(i["cat"] for i in ideas)
 cat_by_year = {}
 for i in ideas:
@@ -164,6 +178,7 @@ for y in sorted({s[:4] for s in A}):
     dis = sum(1 for d in eps if d.get("disagreements") and len(str(d.get("disagreements"))) > 80)
     DISAGREE.append({"year": y, "pct": round(100*dis/n) if n else 0})
 
+ts("gen_ideas", "IDEAS", ideas)  # re-emit with cat field
 ts("gen_categories", "CATEGORIES", CATEGORIES)
 ts("gen_cat_trend", "CAT_TREND", CAT_TREND)
 ts("gen_hoststats", "HOSTSTATS", HOSTSTATS)

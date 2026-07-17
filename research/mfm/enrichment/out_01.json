@@ -1,0 +1,72 @@
+[
+  {
+    "idx": 125,
+    "status": "existed-already",
+    "company": "Arsenic (ArsenicTV)",
+    "evidence": "Arsenic was an existing venture-backed media company (since ~2015-2016) described in press as 'a Playboy competitor for the Snapchat generation,' known for crowd-sourced Snapchat 'takeovers' where models take over the account for a day. It had over a million Instagram followers and Playboy reportedly offered to buy it. Shaan was referencing this already-real company, not proposing a new one.",
+    "confidence": "high"
+  },
+  {
+    "idx": 126,
+    "status": "existed-already",
+    "company": "OnlyFans",
+    "evidence": "OnlyFans, a subscription content platform later dominated by adult content, was founded in November 2016 by Tim Stokely -- well before the Feb 2020 episode. The 'Patreon for adult content' framing describes an already-real, already-well-known company at the time of the pitch.",
+    "confidence": "high"
+  },
+  {
+    "idx": 128,
+    "status": "existed-already",
+    "company": "Lucy (lucy.co)",
+    "evidence": "Lucy Goods, Inc. was founded around 2016 by John Coogan, Samy Hamdouche, and David Renteln (Soylent alumni) and launched its nicotine gum product in 2019, raising a $10M Series A around that time -- all predating the Feb 2020 mention. No evidence found tying Sam Parker directly to Lucy as founder/investor; it appears Sam was citing an existing company as an example rather than something he/Shaan built.",
+    "confidence": "medium"
+  },
+  {
+    "idx": 139,
+    "status": "existed-already",
+    "company": "Tophatter",
+    "evidence": "Tophatter, the 90-second declining/rising 'auction flash sale' app, was founded in 2011 by Ashvin Kumar and Chris Estreich, well-established (reportedly ~$100M revenue run-rate by 2017) long before this 2020 episode. Shaan was discussing a real, already-existing company.",
+    "confidence": "high"
+  },
+  {
+    "idx": 140,
+    "status": "existed-already",
+    "company": "Bring a Trailer",
+    "evidence": "Bring a Trailer began in 2007 as a car blog and became a full auction marketplace by 2014, long predating the Feb 2020 episode; it's a well-known, already-real classic/collector car auction platform (BaT). Shaan referenced it as an existing model, not a new pitch.",
+    "confidence": "high"
+  },
+  {
+    "idx": 147,
+    "status": "existed-already",
+    "company": "DoNotPay",
+    "evidence": "DoNotPay was founded in 2015 by Joshua Browder, originally to contest parking tickets via a chatbot, and by 2019 had added a 'Free Trial Card' feature to auto-cancel free trials -- both features predate the Feb 2020 episode. This is a reference to an existing, already well-known company.",
+    "confidence": "high"
+  },
+  {
+    "idx": 153,
+    "status": "existed-already",
+    "company": "Everlywell",
+    "evidence": "Everlywell was founded in 2015 by Julia Cheek, appeared on Shark Tank in 2017, raised a $50M round in 2019, and by the Feb 2020 episode already offered 30+ at-home lab tests -- a well-established, already-real company being cited as the example.",
+    "confidence": "high"
+  },
+  {
+    "idx": 154,
+    "status": "existed-already",
+    "company": "myLAB Box",
+    "evidence": "At-home STI/STD testing with telemedicine follow-up already existed via companies like myLAB Box, founded circa 2013-2014 by Lora Ivanova in Los Angeles, marketed as the first nationwide at-home STD testing platform with free telemedicine consults for positive results -- well predating the Feb 2020 episode. The guest was likely discussing this or similar existing services rather than proposing a wholly new company.",
+    "confidence": "medium"
+  },
+  {
+    "idx": 155,
+    "status": "existed-already",
+    "company": "Everlywell",
+    "evidence": "Everlywell (founded 2015) already sold an at-home finger-prick food sensitivity test (IgG reactivity to 96/204 foods) well before Feb 2020, making this a reference to an already-real product/company rather than a new idea.",
+    "confidence": "high"
+  },
+  {
+    "idx": 159,
+    "status": "not-found",
+    "company": null,
+    "evidence": "The concept of combining a brewery/coffee shop with a kids' play space is a real but highly fragmented small-business trend (many independent local venues such as play cafes and breweries with playgrounds), not a single scaled company traceable to this MFM pitch. No evidence Sam/Shaan or their orbit built a venture around this, and no single named company emerged from it as a direct result of the episode.",
+    "confidence": "medium"
+  }
+]

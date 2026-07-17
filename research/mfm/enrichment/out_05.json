@@ -1,0 +1,12 @@
+[
+  {"idx": 215, "status": "not-found", "company": null, "evidence": "No specific startup found matching a dedicated reusable-copy management/collaboration tool pitched here; only generic marketing content tools exist.", "confidence": "low"},
+  {"idx": 216, "status": "existed-already", "company": "Full Harvest", "evidence": "Full Harvest, a B2B marketplace selling imperfect/'ugly' produce to food-service buyers, was founded in 2016, before this April 2020 pitch.", "confidence": "medium"},
+  {"idx": 217, "status": "existed-already", "company": "UPshow", "evidence": "UPshow, which lets restaurants/bars promote menu items and specials on in-venue TVs, was founded in 2014, before this pitch.", "confidence": "low"},
+  {"idx": 218, "status": "not-found", "company": null, "evidence": "No evidence of an operator-led startup studio specifically testing/funding 20-30 ideas/year built by the hosts or others matching this description.", "confidence": "low"},
+  {"idx": 219, "status": "existed-already", "company": "Hims / Ro (Roman)", "evidence": "Hims and Ro, telemedicine platforms for men's health with custom treatments and pharmacy delivery, both launched in 2017, before this pitch.", "confidence": "high"},
+  {"idx": 220, "status": "existed-already", "company": "Common / Ollie / WeLive", "evidence": "Co-living companies Common (2015), Ollie (2012), and WeWork's WeLive (2016) all predate this April 2020 pitch.", "confidence": "high"},
+  {"idx": 221, "status": "existed-already", "company": "Holberton School / Lambda School", "evidence": "Remote coding schools recruiting engineers for Silicon Valley, like Holberton (2015) and Lambda School (2017), already existed before this pitch.", "confidence": "medium"},
+  {"idx": 222, "status": "not-found", "company": null, "evidence": "No specific startup found matching a construction supply-demand platform dedicated to disaster recovery/rebuilding.", "confidence": "low"},
+  {"idx": 257, "status": "built-by-others", "company": "Stellar Pizza", "evidence": "Stellar Pizza, founded in 2021 by ex-SpaceX engineers to build automated robotic pizza kitchens for nationwide distribution, launched after this May 2020 pitch (predecessor Zume, founded 2015, already existed at pitch time but wound down in 2020).", "confidence": "medium"},
+  {"idx": 258, "status": "existed-already", "company": "Eterneva / Engrave Ink", "evidence": "Eterneva (turning ashes into diamonds, founded 2017) and Engrave Ink (cremation tattoo ink, since 2015) already existed before this May 2020 pitch.", "confidence": "high"}
+]
