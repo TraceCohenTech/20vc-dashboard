@@ -6,7 +6,7 @@ const DESCRIPTION =
   "A data-driven read on 1,481 episodes of The Twenty Minute VC (2015–2026): 180 transcripts fully read, 936 guest insights, 171 roundtable predictions, and how Harry Stebbings' interviewing style evolved from receiving answers to contesting guests.";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://www.valueaddvc.com"),
+  metadataBase: new URL("https://valueaddvc.com"),
   title: TITLE,
   description: DESCRIPTION,
   keywords: [
@@ -42,7 +42,7 @@ const JSON_LD = {
   "@type": "Article",
   headline: TITLE,
   description: DESCRIPTION,
-  image: "https://www.valueaddvc.com/20vc/og.jpg",
+  image: "https://valueaddvc.com/20vc/og.jpg",
   author: { "@type": "Person", name: "Trace Cohen", url: "https://x.com/Trace_Cohen" },
   publisher: { "@type": "Person", name: "Trace Cohen" },
   about: {
